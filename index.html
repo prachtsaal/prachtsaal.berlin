@@ -22,31 +22,105 @@
 
   -->
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+    html {
+      color: rgb(31, 31, 31);
+      font-size: clamp(1rem, 4vw, 2rem);
+      /*background: rgb(227, 227, 227);*/
+      background: white;
+      font-family: 'Open Sans', sans-serif;
+      /*margin: clamp(2re, 5vw, 10vw); */
+    }
+
+    @media only screen and (min-width: 1300px) {
+      body {
+        max-width: 61.8vw;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: 400;
+      font-size: 3rem;
+      font-family: 'Josefin Sans', sans-serif;
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    p, ul {
+      font-weight: normal;
+      line-height: 1.68rem;
+    }
+
+    li {
+      margin-left: 1.68rem;
+    }
+
     .video {
       aspect-ratio: 16 / 9;
       width: 100%;
+    }
+
+    section {
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
     }
   </style>
 </head>
 
 <body>
   <header>
-    <h1>Prachtsaal</h1>
+    <h1>Prachtsaal Art Cooperative</h1>
+    <section id="real">
+      <iframe class="video" src="https://www.youtube-nocookie.com/embed/mwsOSaVNXks?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section>
   </header>
-  <section id="real">
-    <iframe class="video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <section id="preamble">
+    <p>
+      Prachtsaal stands as a nexus of arts, culture, and education, deeply woven into the
+      social fabric of Berlin's Neukölln district.
+      Since its inception in 1913, it has welcomed dancers, actors, musicians, and artists
+      from diverse mediums, as well as audiences in search of a unique cultural experience,
+      newfound knowledge, skills, and beauty.
+    </p>
+    <p>
+      The Prachtsaal Art Cooperative is a non-profit organization co-founded by artists
+      working within the space and the current building owners. The cooperative is driven
+      by a mission to uphold and further the cultural legacy of Prachtsaal.
+      To this end, our objectives include:
+    </p>
+    <ul>
+      <li>Ensuring its non-profit status.</li>
+      <li>Achieving economic sustainability for Prachtsaal.</li>
+      <li>Providing affordable ateliers for artists.</li>
+      <li>Upholding a democratic governance process.</li>
+      <li>Offering a multimedia-enabled venue suitable for a wide range of audiovisual performances.</li>
+      <li>Featuring a dedicated gallery/exhibition space for continuous artwork displays.</li>
+      <li>Establishing an educational zone for workshops.</li>
+      <li>Curating inclusive events for all Berliners.</li>
+      <li>Promoting international artist collaborations on-site.</li>
+      <li>Supplying shared facilities that enable artists to explore various mediums.</li>
+      <li>Undertaking required renovations and reconstructions.</li>
+      <li>Seeking professional support to fulfill all the aforementioned goals.</li>
+    </ul>
+  </section>
+  <section id="concert">
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/MpDpfBIY1_M?si=GHrhyFpyb3KHBeoW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </section>
   <section id="events">
-    <h2>Past events / productions</h2>
-    <ul>
-      <li><a href="#">X Artist</a></li>
-      <li><a href="#">404 2022</a></li>
-      <li><a href="#">OPENRNDR meetup 2022/2023</a></li>                  
-      <li><a href="#">Live Coding sessions 2022</a></li>            
-      <li><a href="#">48 Hours Neukölln 2021</a></li>
-      <li><a href="#">Collective Shaping</a></li>
-      <li><a href="#">Tape Over</a></li>      
-    </ul>
+<!--    <ul>-->
+<!--      <li><a href="#">X Artist</a></li>-->
+<!--      <li><a href="#">404 2022</a></li>-->
+<!--      <li><a href="#">OPENRNDR meetup 2022/2023</a></li>                  -->
+<!--      <li><a href="#">Live Coding sessions 2022</a></li>            -->
+<!--      <li><a href="#">48 Hours Neukölln 2021</a></li>-->
+<!--      <li><a href="#">Tape Over</a></li>-->
+<!--    </ul>-->
   </section>
 </body>
 </html>
