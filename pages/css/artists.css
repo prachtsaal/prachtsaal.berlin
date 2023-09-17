@@ -1,0 +1,236 @@
+.artists-1,
+.artists-1 * {
+  box-sizing: border-box;
+}
+.artists-1 {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 72px;
+}
+.the-space {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 723px;
+  top: 72px;
+}
+.events {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 72px;
+}
+.artists {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1142px;
+  top: 72px;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1275px;
+  top: 72px;
+}
+.prachtsaal-logo-1 {
+  width: 109px;
+  height: 31px;
+  position: absolute;
+  left: 118px;
+  top: 64px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.mask-group {
+  width: 296px;
+  height: 312px;
+  position: static;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 271px;
+  top: 371px;
+}
+.photo-1598897516650-e-4-dc-73-d-8-e-417-1 {
+  width: 404px;
+  height: 505px;
+  position: absolute;
+  left: 217px;
+  top: 264px;
+}
+.chlo-mari {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 273px;
+  top: 698px;
+  width: 294px;
+  height: 27px;
+}
+.kazik-pogoda {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 574px;
+  top: 698px;
+  width: 294px;
+  height: 27px;
+}
+.adam-paquette {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 875px;
+  top: 698px;
+  width: 294px;
+  height: 27px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 572px;
+  top: 371px;
+}
+.chrome-or-yfq-oev-4-c-1 {
+  width: 652.86px;
+  height: 487px;
+  position: absolute;
+  left: 399px;
+  top: 371px;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 873px;
+  top: 371px;
+}
+.stock-photo-221880789-1 {
+  width: 404.46px;
+  height: 506px;
+  position: absolute;
+  left: 819px;
+  top: 371px;
+}
+.mask-group2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-52 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 271px;
+  top: 745px;
+}
+.istockphoto-1316525455-612-x-612-1 {
+  width: 408px;
+  height: 612px;
+  position: absolute;
+  left: 227px;
+  top: 745px;
+}
+.chlo-mari2 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 273px;
+  top: 1072px;
+  width: 294px;
+  height: 27px;
+}
+.kazik-pogoda2 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 574px;
+  top: 1072px;
+  width: 294px;
+  height: 27px;
+}
+.adam-paquette2 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 875px;
+  top: 1072px;
+  width: 294px;
+  height: 27px;
+}
+.rectangle-62 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 572px;
+  top: 745px;
+}
+.chrome-gb-7-a-5-w-ff-l-1-1 {
+  width: 354px;
+  height: 354px;
+  position: absolute;
+  left: 544px;
+  top: 732px;
+}
+.rectangle-72 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 312px;
+  position: absolute;
+  left: 873px;
+  top: 745px;
+}
+.pexels-konstantin-mishchenko-2010812-1 {
+  width: 341px;
+  height: 512px;
+  position: absolute;
+  left: 873px;
+  top: 745px;
+}
+.the-artists {
+  color: #161616;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 167px);
+  top: calc(50% - 312px);
+  width: 334px;
+  height: 66px;
+}

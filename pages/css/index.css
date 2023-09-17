@@ -1,0 +1,202 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 2988px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #161616;
+  width: 1440px;
+  height: 154px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - -1362px);
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 72px;
+}
+.space {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 738px;
+  top: 72px;
+}
+.events {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 72px;
+}
+.artists {
+  color: #000000;
+  text-align: left;
+  font: 700 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1142px;
+  top: 72px;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1275px;
+  top: 72px;
+}
+.prachtsaal-logo-1 {
+  width: 109px;
+  height: 31px;
+  position: absolute;
+  left: 118px;
+  top: 64px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 873px;
+  position: absolute;
+  left: 0px;
+  top: 151px;
+}
+.vlc-ad-d-gq-ow-al-8-1 {
+  width: 2560px;
+  height: 1410.07px;
+  position: absolute;
+  left: -592px;
+  top: 151px;
+}
+.the-inspiration-hub-community-based {
+  color: #ffffff;
+  text-align: left;
+  font: 700 60px "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 602px);
+  top: 503px;
+  width: 570px;
+}
+.rectangle-1 {
+  background: #161616;
+  width: 1440px;
+  height: 579px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - -55px);
+}
+.the-space {
+  color: #fbfbfb;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 145px);
+  top: calc(50% - -177px);
+  width: 290px;
+  height: 66px;
+}
+.the-history {
+  color: #161616;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - -765px);
+  width: 321px;
+  height: 66px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua {
+  color: #ffffff;
+  text-align: justified;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 299px);
+  top: 1782px;
+  width: 598px;
+  height: 169px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua2 {
+  color: #161616;
+  text-align: justified;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 322px);
+  top: 2398px;
+  width: 297px;
+  height: 326px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua3 {
+  color: #161616;
+  text-align: justified;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -28px);
+  top: 2398px;
+  width: 297px;
+  height: 326px;
+}
+.copyright-2023-prachtsaal-studio-all-rights-reserved {
+  color: #a8a8a8;
+  text-align: center;
+  font: 400 10px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 129px);
+  top: 2947px;
+  width: 257px;
+  height: 13px;
+}
+.prachtsaal-studio-is-an-independent-collective-based-in-berlin {
+  color: #161616;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 369px);
+  top: 1175px;
+  width: 737px;
+  height: 223px;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.terms-and-conditions {
+  color: #a8a8a8;
+  text-align: center;
+  font: 400 10px "Roboto", sans-serif;
+  position: absolute;
+  left: 617px;
+  top: 2903px;
+  width: 105px;
+  height: 16px;
+}
+.cookie-policy {
+  color: #a8a8a8;
+  text-align: center;
+  font: 400 10px "Roboto", sans-serif;
+  position: absolute;
+  left: 718px;
+  top: 2903px;
+  width: 105px;
+  height: 16px;
+}
