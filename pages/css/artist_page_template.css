@@ -1,0 +1,144 @@
+.artists-1-1,
+.artists-1-1 * {
+  box-sizing: border-box;
+}
+.artists-1-1 {
+  background: #fbfbfb;
+  padding: 64px 118px 64px 118px;
+  width: 1440px;
+  height: 931px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 72px;
+}
+.the-space {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 723px;
+  top: 72px;
+}
+.events {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 72px;
+}
+.artists {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1142px;
+  top: 72px;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1275px;
+  top: 72px;
+}
+.prachtsaal-logo-1 {
+  width: 109px;
+  height: 31px;
+  position: absolute;
+  left: 118px;
+  top: 64px;
+}
+.back-to-other-artists {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 158px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  width: 597px;
+  height: 712px;
+  position: absolute;
+  left: 120px;
+  top: 219px;
+}
+.photo-1598897516650-e-4-dc-73-d-8-e-417-2 {
+  width: 597px;
+  height: 611px;
+  position: absolute;
+  left: 120px;
+  top: 319px;
+}
+.chlo-mari {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  position: absolute;
+  left: 70px;
+  top: 213px;
+  width: 399px;
+  height: 65px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.view-portfolio {
+  color: #161616;
+  text-align: justified;
+  font: 700 14px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -390px);
+  top: calc(50% - -364.5px);
+  width: 115.05px;
+  height: 19.25px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 109px;
+  height: 0px;
+  position: absolute;
+  left: 1110.03px;
+  top: 851.12px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum {
+  color: #000000;
+  text-align: justified;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -105px);
+  top: calc(50% - 146.5px);
+  width: 397px;
+  height: 490px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 107px;
+  height: 0px;
+  position: absolute;
+  left: 120px;
+  top: 174px;
+}

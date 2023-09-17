@@ -1,0 +1,312 @@
+.events,
+.events * {
+  box-sizing: border-box;
+}
+.events {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 72px;
+}
+.the-space {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 723px;
+  top: 72px;
+}
+.events2 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 72px;
+}
+.artists {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1142px;
+  top: 72px;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1275px;
+  top: 72px;
+}
+.prachtsaal-logo-1 {
+  width: 109px;
+  height: 31px;
+  position: absolute;
+  left: 118px;
+  top: 64px;
+}
+.upcoming-events {
+  color: #161616;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 237px);
+  top: calc(50% - 312px);
+  width: 490px;
+  height: 66px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 563px);
+  top: calc(50% - -230px);
+  width: 342px;
+  height: 124px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 172px);
+  top: calc(50% - -230px);
+  width: 342px;
+  height: 124px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum2 {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -221px);
+  top: calc(50% - -230px);
+  width: 342px;
+  height: 124px;
+}
+.hoffest {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 141px;
+  top: 677px;
+  width: 100px;
+  height: 27px;
+}
+.prachtsaal-studio-collective {
+  color: #0d0d0d;
+  text-align: left;
+  font: 300 15px "Outfit", sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 711px;
+  width: 342px;
+  height: 27px;
+}
+._06-05-2023 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 388px;
+  top: 371px;
+  width: 111px;
+  height: 27px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 342px;
+  height: 0px;
+  position: absolute;
+  left: 157px;
+  top: 707px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.generative-music-show {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 532px;
+  top: 677px;
+  width: 247px;
+  height: 27px;
+}
+.xemantic {
+  color: #0d0d0d;
+  text-align: left;
+  font: 300 15px "Outfit", sans-serif;
+  position: absolute;
+  left: 548px;
+  top: 711px;
+  width: 342px;
+  height: 27px;
+}
+._21-05-2023 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 779px;
+  top: 371px;
+  width: 111px;
+  height: 27px;
+}
+.line-32 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 342px;
+  height: 0px;
+  position: absolute;
+  left: 548px;
+  top: 707px;
+}
+.cello-concert-dance-performance {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 921px;
+  top: 677px;
+  width: 362px;
+  height: 27px;
+}
+.dan-new-york-aethereal-elf {
+  color: #0d0d0d;
+  text-align: left;
+  font: 300 15px "Outfit", sans-serif;
+  position: absolute;
+  left: 941px;
+  top: 711px;
+  width: 342px;
+  height: 27px;
+}
+._31-12-2023 {
+  color: #0d0d0d;
+  text-align: center;
+  font: 700 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 1172px;
+  top: 371px;
+  width: 111px;
+  height: 27px;
+}
+.line-33 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 342px;
+  height: 0px;
+  position: absolute;
+  left: 941px;
+  top: 707px;
+}
+.polygon-1 {
+  position: absolute;
+  left: 120px;
+  top: 535px;
+  transform: translate(0px, -10.26px);
+  overflow: visible;
+}
+.polygon-2 {
+  position: absolute;
+  left: 1320px;
+  top: 524px;
+  transform: translate(-8.25px, 0.74px);
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.past-events {
+  color: #161616;
+  text-align: justified;
+  font: 700 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 47px);
+  top: calc(50% - -385px);
+}
+.line-4 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 90px;
+  height: 0px;
+  position: absolute;
+  left: 675px;
+  top: 921px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  width: 342px;
+  height: 259px;
+  position: absolute;
+  left: 157px;
+  top: 402px;
+}
+.chrome-fhn-dr-xpza-0-1 {
+  width: 505.71px;
+  height: 263px;
+  position: absolute;
+  left: 131px;
+  top: 398px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 342px;
+  height: 259px;
+  position: absolute;
+  left: calc(50% - 171px);
+  top: 402px;
+}
+.chrome-miw-fdikb-hj-1 {
+  width: 950px;
+  height: 496px;
+  position: absolute;
+  left: 466px;
+  top: 229px;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  width: 342px;
+  height: 259px;
+  position: absolute;
+  left: 941px;
+  top: 402px;
+}
+.chrome-6-gpi-a-7-z-i-0-p-1 {
+  width: 767px;
+  height: 431px;
+  position: absolute;
+  left: 873px;
+  top: 325px;
+}

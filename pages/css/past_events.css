@@ -1,0 +1,240 @@
+
+
+
+.events-portfolio,
+.events-portfolio * {
+  box-sizing: border-box;
+}
+.events-portfolio {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 72px;
+}
+.the-space {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 723px;
+  top: 72px;
+}
+.events {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 72px;
+}
+.artists {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1142px;
+  top: 72px;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1275px;
+  top: 72px;
+}
+.prachtsaal-logo-1 {
+  width: 109px;
+  height: 31px;
+  position: absolute;
+  left: 118px;
+  top: 64px;
+}
+.events-portfolio2 {
+  color: #161616;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 237px);
+  top: calc(50% - 298px);
+  width: 490px;
+  height: 66px;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 395px;
+  top: 754px;
+  overflow: hidden;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 395px;
+  top: 1245px;
+  overflow: hidden;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: calc(50% - -260px);
+  width: 552px;
+  height: 64px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum2 {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: calc(50% - -751px);
+  width: 552px;
+  height: 64px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum3 {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -38px);
+  top: calc(50% - -260px);
+  width: 552px;
+  height: 64px;
+}
+.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum4 {
+  color: #000000;
+  text-align: justified;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -38px);
+  top: calc(50% - -751px);
+  width: 552px;
+  height: 64px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 551px;
+  height: 358px;
+  position: absolute;
+  left: 758px;
+  top: 398px;
+}
+.chrome-zh-4-ku-1-zz-ni-1 {
+  width: 742.18px;
+  height: 450px;
+  position: absolute;
+  left: 661.92px;
+  top: 354px;
+}
+.rectangle-112 {
+  background: #d9d9d9;
+  width: 562px;
+  height: 358px;
+  position: absolute;
+  left: 758px;
+  top: 889px;
+}
+.chrome-miw-fdikb-hj-1 {
+  width: 950px;
+  height: 496px;
+  position: absolute;
+  left: 645px;
+  top: 889px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  width: 562px;
+  height: 358px;
+  position: absolute;
+  left: 120px;
+  top: 398px;
+}
+.chrome-u-mcfph-p-1-o-j-1 {
+  width: 720px;
+  height: 375px;
+  position: absolute;
+  left: 131px;
+  top: 389px;
+}
+.rectangle-102 {
+  background: #d9d9d9;
+  width: 562px;
+  height: 358px;
+  position: absolute;
+  left: 120px;
+  top: 889px;
+}
+.chrome-fhn-dr-xpza-0-1 {
+  width: 648px;
+  height: 337px;
+  position: absolute;
+  left: 50px;
+  top: 804px;
+}
+.hoffest {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - -155px);
+  width: 490px;
+  height: 66px;
+}
+.hoffest2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - -646px);
+  width: 490px;
+  height: 66px;
+}
+.spring-meetup {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - -38px);
+  top: calc(50% - -155px);
+  width: 446px;
+  height: 60px;
+}
+.spring-meetup2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Outfit", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - -38px);
+  top: calc(50% - -646px);
+  width: 446px;
+  height: 60px;
+}
