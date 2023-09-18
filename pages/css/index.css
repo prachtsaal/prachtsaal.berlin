@@ -9,13 +9,32 @@ body {
     font-size: 16px;
 }
 nav {
-    background: #222;
+    background: white;
     padding: 0 15px;
 }
-a {
-    color: white;
-    text-decoration: none;
+
+#nav a{
+     color: black;
+     text-decoration:none;
 }
+
+.tile {
+    padding: 30px 30px 60px 60px;
+}
+
+.footer ul {
+  list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer li {
+  display: inline-block;
+  margin-right: 10px; /* add spacing between items */
+}
+
 .menu,
 .submenu {
     list-style-type: none;
