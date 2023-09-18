@@ -1,202 +1,174 @@
-.home,
-.home * {
-  box-sizing: border-box;
+/* Basic styling */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
-.home {
-  background: #fbfbfb;
-  width: 1440px;
-  height: 2988px;
-  position: relative;
-  overflow: hidden;
+body {
+    font-family: sans-serif;
+    font-size: 16px;
 }
-.rectangle-2 {
-  background: #161616;
-  width: 1440px;
-  height: 154px;
-  position: absolute;
-  left: calc(50% - 720px);
-  top: calc(50% - -1362px);
+nav {
+    background: #222;
+    padding: 0 15px;
 }
-.history {
-  color: #000000;
-  text-align: left;
-  font: 400 12px "Roboto", sans-serif;
-  position: absolute;
-  left: 873px;
-  top: 72px;
+a {
+    color: white;
+    text-decoration: none;
 }
-.space {
-  color: #000000;
-  text-align: left;
-  font: 400 12px "Roboto", sans-serif;
-  position: absolute;
-  left: 738px;
-  top: 72px;
+.menu,
+.submenu {
+    list-style-type: none;
 }
-.events {
-  color: #000000;
-  text-align: left;
-  font: 400 12px "Roboto", sans-serif;
-  position: absolute;
-  left: 1008px;
-  top: 72px;
+.logo {
+    font-size: 20px;
+    padding: 7.5px 10px 7.5px 0;
 }
-.artists {
-  color: #000000;
-  text-align: left;
-  font: 700 12px "Roboto", sans-serif;
-  position: absolute;
-  left: 1142px;
-  top: 72px;
+.item {
+    padding: 10px;
 }
-.contacts {
-  color: #000000;
-  text-align: left;
-  font: 400 12px "Roboto", sans-serif;
-  position: absolute;
-  left: 1275px;
-  top: 72px;
+.item.button {
+    padding: 9px 5px;
 }
-.prachtsaal-logo-1 {
-  width: 109px;
-  height: 31px;
-  position: absolute;
-  left: 118px;
-  top: 64px;
+.item:not(.button) a:hover,
+.item a:hover::after {
+    color: #ccc;
 }
-.mask-group {
-  position: absolute;
-  inset: 0;
+
+/* Mobile menu */
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
-.rectangle-9 {
-  background: #d9d9d9;
-  width: 1440px;
-  height: 873px;
-  position: absolute;
-  left: 0px;
-  top: 151px;
+.menu li a {
+    display: block;
+    padding: 15px 5px;
 }
-.vlc-ad-d-gq-ow-al-8-1 {
-  width: 2560px;
-  height: 1410.07px;
-  position: absolute;
-  left: -592px;
-  top: 151px;
+.menu li.subitem a {
+    padding: 15px;
 }
-.the-inspiration-hub-community-based {
-  color: #ffffff;
-  text-align: left;
-  font: 700 60px "Outfit", sans-serif;
-  position: absolute;
-  left: calc(50% - 602px);
-  top: 503px;
-  width: 570px;
+.toggle {
+    order: 1;
+    font-size: 20px;
 }
-.rectangle-1 {
-  background: #161616;
-  width: 1440px;
-  height: 579px;
-  position: absolute;
-  left: calc(50% - 720px);
-  top: calc(50% - -55px);
+.item.button {
+    order: 2;
 }
-.the-space {
-  color: #fbfbfb;
-  text-align: center;
-  font: 700 60px "Outfit", sans-serif;
-  text-transform: lowercase;
-  position: absolute;
-  left: calc(50% - 145px);
-  top: calc(50% - -177px);
-  width: 290px;
-  height: 66px;
+.item {
+    order: 3;
+    width: 100%;
+    text-align: center;
+    display: none;
 }
-.the-history {
-  color: #161616;
-  text-align: center;
-  font: 700 60px "Outfit", sans-serif;
-  text-transform: lowercase;
-  position: absolute;
-  left: calc(50% - 159px);
-  top: calc(50% - -765px);
-  width: 321px;
-  height: 66px;
+.active .item {
+    display: block;
 }
-.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua {
-  color: #ffffff;
-  text-align: justified;
-  font: 400 18px "Roboto", sans-serif;
-  position: absolute;
-  left: calc(50% - 299px);
-  top: 1782px;
-  width: 598px;
-  height: 169px;
+.button.secondary { /* divider between buttons and menu links */
+    border-bottom: 1px #444 solid;
 }
-.group-5 {
-  position: absolute;
-  inset: 0;
+
+/* Submenu up from mobile screens */
+.submenu {
+    display: none;
 }
-.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua2 {
-  color: #161616;
-  text-align: justified;
-  font: 400 18px "Roboto", sans-serif;
-  position: absolute;
-  left: calc(50% - 322px);
-  top: 2398px;
-  width: 297px;
-  height: 326px;
+.submenu-active .submenu {
+   display: block;
 }
-.lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-stet-clita-kasd-gubergren-no-sea-takimata-sanctus-est-lorem-ipsum-dolor-sit-amet-lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua3 {
-  color: #161616;
-  text-align: justified;
-  font: 400 18px "Roboto", sans-serif;
-  position: absolute;
-  left: calc(50% - -28px);
-  top: 2398px;
-  width: 297px;
-  height: 326px;
+.has-submenu i {
+    font-size: 12px;
 }
-.copyright-2023-prachtsaal-studio-all-rights-reserved {
-  color: #a8a8a8;
-  text-align: center;
-  font: 400 10px "Roboto", sans-serif;
-  position: absolute;
-  left: calc(50% - 129px);
-  top: 2947px;
-  width: 257px;
-  height: 13px;
+.has-submenu > a::after {
+    font-family: "Font Awesome 5 Free";
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 900;
+    content: "\f078";
+    color: white;
+    padding-left: 5px;
 }
-.prachtsaal-studio-is-an-independent-collective-based-in-berlin {
-  color: #161616;
-  text-align: center;
-  font: 700 60px "Outfit", sans-serif;
-  position: absolute;
-  left: calc(50% - 369px);
-  top: 1175px;
-  width: 737px;
-  height: 223px;
+.subitem a {
+    padding: 10px 15px;
 }
-.group-8 {
-  position: absolute;
-  inset: 0;
+.submenu-active {
+    background-color: #111;
+    border-radius: 3px;
 }
-.terms-and-conditions {
-  color: #a8a8a8;
-  text-align: center;
-  font: 400 10px "Roboto", sans-serif;
-  position: absolute;
-  left: 617px;
-  top: 2903px;
-  width: 105px;
-  height: 16px;
+
+/* Tablet menu */
+@media all and (min-width: 700px) {
+    .menu {
+        justify-content: center;
+    }
+    .logo {
+        flex: 1;
+    }
+    .item.button {
+        width: auto;
+        order: 1;
+        display: block;
+    }
+    .toggle {
+        flex: 1;
+        text-align: right;
+        order: 2;
+    }
+    /* Button up from tablet screen */
+    .menu li.button a {
+        padding: 10px 15px;
+        margin: 5px 0;
+    }
+    .button a {
+        background: #0080ff;
+        border: 1px royalblue solid;
+    }
+    .button.secondary {
+        border: 0;
+    }
+    .button.secondary a {
+        background: transparent;
+        border: 1px #0080ff solid;
+    }
+    .button a:hover {
+        text-decoration: none;
+    }
+    .button:not(.secondary) a:hover {
+        background: royalblue;
+        border-color: darkblue;
+    }
 }
-.cookie-policy {
-  color: #a8a8a8;
-  text-align: center;
-  font: 400 10px "Roboto", sans-serif;
-  position: absolute;
-  left: 718px;
-  top: 2903px;
-  width: 105px;
-  height: 16px;
+
+/* Desktop menu */
+@media all and (min-width: 960px) {
+    .menu {
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        background: none;
+    }
+    .logo {
+        order: 0;
+    }
+    .item {
+        order: 1;
+        position: relative;
+        display: block;
+        width: auto;
+    }
+    .button {
+        order: 2;
+    }
+    .submenu-active .submenu {
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 68px;
+        background: #111;
+    }
+    .toggle {
+        display: none;
+    }
+    .submenu-active {
+        border-radius: 0;
+    }
 }
