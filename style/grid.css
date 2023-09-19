@@ -1,0 +1,38 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr;
+  margin: 0;
+  padding: 0;
+
+  @media only screen and (min-width: 720px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media only screen and (min-width: 1160px) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+}
+
+.grid article:hover {
+  opacity: .9;
+}
+
+.grid article a {
+  position: relative;
+}
+
+.grid article img {
+  /*object-fit: cover;*/
+}
+
+.grid h3 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1rem;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: italic;
+  padding-top: 0rem;
+  padding-bottom: .5rem;
+}
