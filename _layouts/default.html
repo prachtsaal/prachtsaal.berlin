@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/style/common.css">
+  {% if page.add-style %}
+  <link rel="stylesheet" href="/style/{{ page.add-style }}">
+  {% endif %}
+  {% if page.add-js %}
+  <script src="/js/{{ page.add-js }}"></script>
+  {% endif %}
+</head>
+<body>
+{% include navigation.html %}
+{{ content }}
+<footer>
+  Copyright &copy; 2023 Prachtsaal, <a href="/impressum.html">Impressum</a>
+</footer>
+</body>
+</html>
