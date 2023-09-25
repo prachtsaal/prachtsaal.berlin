@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;1,400&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 html {
   color: rgb(31, 31, 31);
   font-size: clamp(1rem, 4vw, 2rem);
   background: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 @media only screen and (min-width: 1300px) {
@@ -19,7 +19,7 @@ html {
 
 nav {
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-weight: 300;
 }
 
@@ -33,20 +33,18 @@ footer {
 
 header h1 {
   text-align: center;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 3rem;
-  font-family: 'Josefin Sans', sans-serif;
-  font-style: italic;
+  font-family: 'Outfit', sans-serif;
   padding-top: 1rem;
   padding-bottom: 0rem;
 }
 
 header h2 {
   text-align: center;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 2rem;
-  font-family: 'Josefin Sans', sans-serif;
-  font-style: italic;
+  font-family: 'Outfit', sans-serif;
   padding-top: 0rem;
   padding-bottom: 1rem;
 }
