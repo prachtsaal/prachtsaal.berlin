@@ -1,5 +1,6 @@
 (function () {
 
+  const subscriptionApp = "https://script.google.com/macros/s/AKfycbzGYt8fjlC6NojmpuUn_2Ljh8xQuaTGCSTrr-TaUDVfF7h-Fmpm79Ms534iBtnUUbZNWg/exec"
   const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;  // Simple email validation regex
 
   function validateEmail(email) {
@@ -16,26 +17,27 @@
     };
 
     const handleSubmit = async () => {
-      submitInput.disabled = true
-      // TODO in the future it should be some form of spinner
+      submitInput.disabled = true;
+      const email = emailInput.value;
       messageDiv.innerText = "Subscribing ...";
       try {
-        let response = await fetch("https://example.com/api/newsletter", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            email: emailInput.value,
-          }),
-        });
+        const response = await fetch(
+          subscriptionApp + "?email=" + email,
+          {
+            redirect: "follow",
+            mode: "cors",
+            headers: {
+              "Content-Type": "text/plain;charset=utf-8",
+            }
+          }
+        );
         if (response.ok) {
-          messageDiv.innerText = "Check out your confirmation email";
+          messageDiv.innerText = "Confirm your subscription by clicking the link sent to your email.";
         } else {
-          messageDiv.innerText = "Newsletter cannot be subscribed";
+          messageDiv.innerText = "Subscription error, try again or contact system administrator.";
         }
       } catch (error) {
-        messageDiv.innerText = "Newsletter cannot be subscribed";
+        messageDiv.innerText = "Newsletter cannot be subscribed: " + error;
       }
       submitInput.disabled = false;
     };
