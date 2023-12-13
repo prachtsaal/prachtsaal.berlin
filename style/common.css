@@ -56,6 +56,7 @@ p, ul {
 
 li {
   margin-left: 1.68rem;
+  line-height: 1.68rem;
 }
 
 .video {
@@ -77,4 +78,9 @@ figcaption {
   text-align: center;
   font-style: italic;
   font-size: 1rem;
+}
+
+.shout {
+  font-size: 2rem;
+  text-align: center;
 }
