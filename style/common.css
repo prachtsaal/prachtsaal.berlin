@@ -18,9 +18,9 @@ html {
 }
 
 nav {
-  text-align: center;
   font-family: 'Outfit', sans-serif;
   font-weight: 300;
+  font-size: 0.7rem;
 }
 
 nav ul li {
