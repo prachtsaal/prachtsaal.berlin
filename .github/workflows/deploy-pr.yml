@@ -33,4 +33,4 @@ jobs:
       - name: Install surge
         run: npm install -g surge
       - name: Deploy
-        run: surge _site/ ${{ vars.SURGE_PREFIX }}-${{ GITHUB_HEAD_REF }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }} 
+        run: surge _site/ ${{ vars.SURGE_PREFIX }}-${{ github.head_ref }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }} 

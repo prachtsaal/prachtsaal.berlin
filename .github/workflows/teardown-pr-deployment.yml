@@ -18,4 +18,4 @@ jobs:
       - name: Install surge
         run: npm install -g surge
       - name: Teardown
-        run: surge teardown ${{ vars.SURGE_PREFIX }}-${{ GITHUB_HEAD_REF }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
+        run: surge teardown ${{ vars.SURGE_PREFIX }}-${{ github.head_ref }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
