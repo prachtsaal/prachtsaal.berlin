@@ -5,6 +5,7 @@ on:
       - opened
       - edited
       - synchronize
+      - reopened
 jobs:
   release:
     name: Deploy website
