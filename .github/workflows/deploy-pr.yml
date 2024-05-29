@@ -1,0 +1,29 @@
+name: Deploy PR CI
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - synchronize
+jobs:
+  release:
+    name: Deploy website
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.5'
+          bundler-cache: true
+      - name: Build static site
+        run: bundle exec jekyll build
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install surge
+        run: npm install -g surge
+      - name: Deploy
+        run: surge _site/ ${{ vars.SURGE_PREFIX }}-${{ GITHUB_HEAD_REF }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }} 
