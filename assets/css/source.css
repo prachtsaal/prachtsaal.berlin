@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+h1 {
+    @apply text-6xl font-prachtsaal font-bold text-center;
+}
+
+h2 {
+    @apply text-2xl mb-8;
+}

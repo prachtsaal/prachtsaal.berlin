@@ -2,9 +2,8 @@
   "scripts": {
     "build-css": "tailwindcss build -i assets/css/source.css -o assets/css/styles.css"
   },
-  "dependencies": {},
   "devDependencies": {
-    "tailwindcss": "^3.4.3",
-    "surge": "^0.23.1"
+    "surge": "^0.23.1",
+    "tailwindcss": "^3.4.3"
   }
 }

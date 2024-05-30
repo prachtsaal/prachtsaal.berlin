@@ -1,10 +1,23 @@
-<nav>
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/events/">Events</a></li>
-    <li><a href="/people/">People</a></li>
-    <li><a href="/communities/">Communities</a></li>
-    <li><a href="/cooperative/">Cooperative</a></li>
-    <li><a href="/history/">History</a></li>
-  </ul>
-</nav>
+<nav class="flex m-6 justify-between items-start">
+  <div>
+    <a href="/">
+      <img src="/assets/img/prachtsaal-logo.png" width="100px">
+    </a>
+  </div>
+  
+  <div>
+    <div class="flex justify-end cursor-pointer sm:hidden" id="burger">
+      <svg class="w-6 h-6" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+    </div>  
+    <!-- <div class="hidden block sm:flex sm:flex-row sm:space-x-12" id="menu"> -->
+    <div class="hidden sm:flex" id="menu">
+      <ul class="sm:flex sm:flex-row sm:space-x-8">
+        <li><a href="/events/">events</a></li>
+        <li><a href="/communities/">communities</a></li>
+        <li><a href="/cooperative/">cooperative</a></li>
+        <li><a href="/history/">history</a></li>
+      </ul>
+      
+    </div>  
+  </div>
+</nav>  
