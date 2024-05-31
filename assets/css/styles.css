@@ -849,6 +849,18 @@ h2{
     display: none;
   }
 
+  .sm\:w-full{
+    width: 100%;
+  }
+
+  .sm\:w-screen{
+    width: 100vw;
+  }
+
+  .sm\:max-w-6xl{
+    max-width: 72rem;
+  }
+
   .sm\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -869,6 +881,14 @@ h2{
 }
 
 @media (min-width: 768px){
+  .md\:w-\[650px\]{
+    width: 650px;
+  }
+
+  .md\:max-w-6xl{
+    max-width: 72rem;
+  }
+
   .md\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -881,6 +901,10 @@ h2{
 
   .lg\:w-64{
     width: 16rem;
+  }
+
+  .lg\:w-\[650px\]{
+    width: 650px;
   }
 
   .lg\:max-w-6xl{

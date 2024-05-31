@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Prachtsaal
+title: about us.
 description: about Prachtsaal Studio Cooperative
 ---
 ## Prachtsaal is a cooperative
