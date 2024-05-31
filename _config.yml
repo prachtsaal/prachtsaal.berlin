@@ -21,12 +21,7 @@ collections:
       - schoolofma.md
       - vetra.md
 
-# Build settings
-markdown: kramdown
 # plugins:
 #   - jekyll-sitemap
 #   - jekyll-seo-tag 
 #   - jekyll-feed
-kramdown:
-  input: GFM
-  hard_wrap: true

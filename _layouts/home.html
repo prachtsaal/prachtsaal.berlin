@@ -1,18 +1,42 @@
 ---
 layout: default
 ---
-<div class="flex justify-center">
-    <div class="flex-col mx-12 lg:max-w-6xl justify-between">
+<header class="bg-[url('/assets/img/home/404_crop.jpeg')] h-96 bg-center bg-cover">
+  <div class="py-24 px-4 text-white sm:px-24">
+    <h1 class="text-left">{{ page.title }}</h1>
+    <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
+  </div>
+</header>
 
-        <div>
-            {% include navigation.html %}
+<div class="flex flex-row justify-center">
 
-            {{ content }}
-        </div>
+  <div class="m-8 md:w-[650px] text-lg">
+    {{ content | markdownify }}
 
-        {% include footer.html %}
+    <div class="m-8 flex flex-row justify-around gap-4">
 
+      <iframe width="300" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+      <iframe width="300" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
     </div>
+    
+  </div>
+
 </div>
-<script src="/js/menu.js"></script>
- 
+
+<!-- TODO add news/events, open calls are news -->
+<!-- <h1>recent events</h1>
+<div class="flex flex-row">
+  {% for post in site.posts limit:2 %}
+  <div>
+    <img src="{{ post.thumb }}">
+  
+  </div>
+  {% endfor %}
+</div> -->
+
+
+<div class="bg-black text-white p-16">
+{% include contact.html %}
+</div>

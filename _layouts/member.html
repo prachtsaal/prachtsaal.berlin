@@ -15,7 +15,7 @@ layout: default
         {% endif %}
         <div>
             <div>
-                {{ content }}
+                {{ content | markdownify }}
 
                 {% if page.website %}
                 <br>

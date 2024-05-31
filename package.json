@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build-css": "tailwindcss build -i assets/css/source.css -o assets/css/styles.css"
+    "build-css": "tailwindcss build -i assets/css/source.css -o assets/css/styles.css --watch"
   },
   "devDependencies": {
     "surge": "^0.23.1",
