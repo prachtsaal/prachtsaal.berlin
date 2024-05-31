@@ -12,3 +12,11 @@ h1 {
 h2 {
     @apply text-2xl mb-8;
 }
+
+.nav-x {
+    @apply mx-16;
+}
+
+.nav-y {
+    @apply my-6
+}

@@ -1,0 +1,56 @@
+---
+layout: default
+title: the people.
+description: members and associated organizations
+---
+<header class="m-28">
+    <h1>{{ page.title }}</h1>
+</header>
+
+<div class="flex justify-center mb-28">
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8">
+        {% for member in site.people %}
+        <div class="w-full max-w-64 lg:w-64">
+            <!-- {% if member.content %}
+            <a href="{{ member.url }}">
+            {% elsif member.website %}
+            <a href="{{ member.website }}">
+            {% endif %}
+                {% if member.thumb %}
+                <img class="w-64" src="{{ member.thumb }}">
+                {% endif %} -->
+                <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
+                <span class="font-prachtsaal">{{ member.description }}</span>
+            {% if member.content or member.website %}
+            </a>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<h1 class="mb-28">
+    the communities.
+</h1>
+
+<div class="flex justify-center mb-28">
+    <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8">
+        {% for org in site.communities %}
+        <div class="w-full max-w-32 lg:w-32">
+            <a href="{{ org.website }}">
+                {% if org.thumb %}
+                <img class="size-32 object-contain" src="{{ org.thumb }}">
+                {%else %}
+                <div class="size-32 flex items-center text-center">
+                    <div class="font-prachtsaal">{{ org.name }}</div>
+                </div>
+                {% endif %}
+
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+        

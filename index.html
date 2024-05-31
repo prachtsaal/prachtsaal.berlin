@@ -1,25 +1,24 @@
 ---
-layout: home
+layout: default
 title: Prachtsaal Studio
 subtitle: Neukölln's non-profit art cooperative
 description: a non-profit art cooperative from Neukölln/Berlin
-add-style: subscription.css
-add-js: newsletter.js
 ---
-<header>
-  <h1 class="m-28">{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
-  <iframe class="video" src="https://www.youtube-nocookie.com/embed/mwsOSaVNXks?controls=0" title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+<header class="flex flex-col min-h-screen text-gray-400 bg-center bg-cover bg-blend-overlay" style="background-image:/assets/img/home/404_crop.jpeg;">
+  <div class="flex-1">
+    <h1 class="text-left mx-4">{{ page.title }}</h1>
+    <h2 class="text-left mx-4">{{ page.subtitle }}</h2>  
+  </div>
 </header>
-{% include newsletter.html %}
+
+
 <section id="call">
   <p class="shout">
     <a href="calls/2024-03-20-new-tenant-artist/">Open call to all artists!</a>
   </p>
 </section>
+
+
 <section id="preamble">
   <p>
     Prachtsaal (magnificent hall) stands as a nexus of arts, culture, and education, historically deeply woven into the
@@ -63,3 +62,7 @@ add-js: newsletter.js
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
 </section>
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/mwsOSaVNXks?controls=0" title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>

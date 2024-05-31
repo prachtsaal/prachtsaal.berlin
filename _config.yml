@@ -4,6 +4,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   Neukölln's non-profit art cooperative.
 url: "https://prachtsaal.berlin" # the base hostname & protocol for your site, e.g. http://example.com
 
+collections:
+  people:
+    sort_by: full_name
+    # output: true  # uncomment if want member pages
+  communities:
+    order:
+      - tapeover.md
+      - xemantic.md
+      - artiststop.md
+      - ccb.md
+      - openrndr.md
+      - processing.md
+      - toplap.md
+      - livecodera.md
+      - schoolofma.md
+      - vetra.md
+
 # Build settings
 markdown: kramdown
 # plugins:
