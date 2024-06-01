@@ -37,7 +37,7 @@ description: members and associated organizations
 
 <div class="flex justify-center mb-28">
     <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8">
-        {% for org in site.communities %}
+        {% for org in site.data.communities %}
         <div class="w-full max-w-32 lg:w-32">
             <a href="{{ org.website }}">
                 {% if org.thumb %}
