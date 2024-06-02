@@ -8,18 +8,19 @@ layout: default
   </div>
 </header>
 
-<div class="flex flex-row justify-center">
+<div class="flex flex-col items-center">
 
   <div class="m-8 md:w-[650px] text-lg">
     {{ content | markdownify }}
+  </div>
 
-    <div class="m-8 flex flex-row justify-around gap-4">
+  <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
 
-      <iframe width="300" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
-      <iframe width="300" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      
-    </div>
+  </div>
     
   </div>
 
