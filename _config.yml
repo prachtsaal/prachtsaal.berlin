@@ -8,18 +8,8 @@ collections:
   people:
     sort_by: full_name
     # output: true  # uncomment if want member pages
-  communities:
-    order:
-      - tapeover.md
-      - xemantic.md
-      - artiststop.md
-      - ccb.md
-      - openrndr.md
-      - processing.md
-      - toplap.md
-      - livecodera.md
-      - schoolofma.md
-      - vetra.md
+
+future: true
 
 # plugins:
 #   - jekyll-sitemap

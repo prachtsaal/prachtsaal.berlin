@@ -1,0 +1,57 @@
+---
+layout: default
+title: upcoming events.
+description: a list of our events
+portfolio_title: events portfolio.
+---
+<header class="m-28">
+    <h1>{{ page.title }}</h1>
+</header>
+
+{% assign upcoming_events = site.posts | where: "category", "upcoming-events" %}
+{% assign portfolio_events = site.posts | where: "category", "portfolio" %}
+
+
+<div class="flex justify-center mb-28">
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8">
+        {% for event in site.posts %}
+        <div class="w-full max-w-64 lg:w-64">
+            <a href="{{ event.url }}" class="flex flex-col">
+                <div class="font-bold font-prachtsaal">{{ event.date | date: "%d.%m.%Y" }}</div>
+                {% if event.main_image %}
+                <img class="w-64" src="{{ event.main_image }}">
+                {% endif %}
+                <div class="font-prachtsaal font-bold text-lg">{{ event.title }}</div>
+                <hr class="border-1 border-black">
+                <div class="font-prachtsaal">{{ event.subtitle }}</div>
+                <div class="mt-4">{{ event.excerpt }}</div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="m-8 bg-black text-white">
+    <header class="p-14">
+        <h1>{{ page.portfolio_title }}</h1>
+    </header>
+    
+    <div class="flex justify-center mb-28">
+
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8">
+            {% for event in site.posts %}
+            <div class="w-full max-w-64 lg:w-64">
+                <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
+                <a href="{{ event.url }}">
+                    {% if event.main_image %}
+                    <img class="w-64" src="{{ event.main_image }}">
+                    {% endif %}
+                    <span class="font-prachtsaal font-bold text-lg">{{ event.title }}</span><br />
+                    <span class="font-prachtsaal">{{ event.subtitle }}</span>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

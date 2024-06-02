@@ -20,3 +20,7 @@ h2 {
 .nav-y {
     @apply my-6
 }
+
+ul {
+    @apply list-disc list-inside
+}
