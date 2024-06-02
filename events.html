@@ -39,7 +39,7 @@ portfolio_title: events portfolio.
     
     <div class="flex justify-center mb-28">
 
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-1 mx-8">
             {% for event in site.posts %}
             <div class="w-full max-w-64 lg:w-64">
                 <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
@@ -47,8 +47,8 @@ portfolio_title: events portfolio.
                     {% if event.main_image %}
                     <img class="w-64" src="{{ event.main_image }}">
                     {% endif %}
-                    <span class="font-prachtsaal font-bold text-lg">{{ event.title }}</span><br />
-                    <span class="font-prachtsaal">{{ event.subtitle }}</span>
+                    <div class="font-prachtsaal font-bold text-lg">{{ event.title }}</div>
+                    <div class="font-prachtsaal">{{ event.subtitle }}</div>
                 </a>
             </div>
             {% endfor %}
