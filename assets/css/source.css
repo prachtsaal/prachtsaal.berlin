@@ -14,7 +14,7 @@ h2 {
 }
 
 .nav-x {
-    @apply mx-16;
+    @apply mx-8 sm:mx-16;
 }
 
 .nav-y {
