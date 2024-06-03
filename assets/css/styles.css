@@ -959,10 +959,83 @@ ul{
   list-style-type: disc;
 }
 
+@media (min-width: 280px){
+  .min-\[280px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 320px){
+  .min-\[320px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .min-\[320px\]\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (min-width: 340px){
+  .min-\[340px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 380px){
+  .min-\[380px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 400px){
+  .min-\[400px\]\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (min-width: 420px){
+  .min-\[420px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 460px){
+  .min-\[460px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 480px){
+  .min-\[480px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 520px){
+  .min-\[520px\]\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
 @media (min-width: 640px){
   .sm\:mx-28{
     margin-left: 7rem;
     margin-right: 7rem;
+  }
+
+  .sm\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
 
   .sm\:flex{
@@ -1003,6 +1076,11 @@ ul{
   .sm\:px-4{
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  .sm\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .sm\:text-3xl{
