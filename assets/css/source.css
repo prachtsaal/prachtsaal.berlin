@@ -4,6 +4,13 @@
 @tailwind components;
 @tailwind utilities;
 
+a {
+  text-decoration: underline;
+}
+
+div.links-without-underline a {
+  text-decoration: none;
+}
 
 h1 {
     @apply text-6xl font-prachtsaal font-bold text-center;
