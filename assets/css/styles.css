@@ -855,10 +855,6 @@ video {
   text-align: center;
 }
 
-.text-justify{
-  text-align: justify;
-}
-
 .text-end{
   text-align: end;
 }
@@ -898,6 +894,14 @@ video {
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+a {
+  text-decoration: underline;
+}
+
+div.links-without-underline a {
+  text-decoration: none;
 }
 
 h1{
@@ -1016,6 +1020,10 @@ figcaption {
 @media (min-width: 768px){
   .md\:w-\[650px\]{
     width: 650px;
+  }
+
+  .md\:w-\[760px\]{
+    width: 760px;
   }
 
   .md\:columns-2{

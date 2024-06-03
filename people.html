@@ -9,7 +9,7 @@ description: members and associated organizations
 
 <div class="flex justify-center mb-28">
 
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
         {% for member in site.people %}
         <div class="w-full max-w-64 lg:w-64">
             <!-- {% if member.content %}
@@ -23,7 +23,7 @@ description: members and associated organizations
                 <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
                 <span class="font-prachtsaal">{{ member.description }}</span>
             {% if member.content or member.website %}
-            </a>
+            <!-- </a> -->
             {% endif %}
         </div>
         {% endfor %}
@@ -36,7 +36,7 @@ description: members and associated organizations
 </h1>
 
 <div class="flex justify-center mb-28">
-    <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8">
+    <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8 links-without-underline">
         {% for org in site.data.communities %}
         <div class="w-full max-w-32 lg:w-32">
             <a href="{{ org.website }}" target="_blank">

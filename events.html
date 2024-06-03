@@ -16,7 +16,7 @@ portfolio_title: events portfolio.
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8">
         {% for event in site.posts %}
-        <div class="w-full max-w-64 lg:w-64">
+        <div class="w-full max-w-64 lg:w-64 links-without-underline">
             <a href="{{ event.url }}" class="flex flex-col">
                 <div class="font-bold font-prachtsaal">{{ event.date | date: "%d.%m.%Y" }}</div>
                 {% if event.main_image %}
@@ -41,7 +41,7 @@ portfolio_title: events portfolio.
 
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8 mb-14">
             {% for event in site.posts %}
-            <div class="w-full max-w-64 lg:w-64">
+            <div class="w-full max-w-64 lg:w-64 links-without-underline">
                 <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
                 <a href="{{ event.url }}">
                     {% if event.main_image %}
