@@ -611,8 +611,16 @@ video {
   margin-bottom: 7rem;
 }
 
+.mb-14{
+  margin-bottom: 3.5rem;
+}
+
 .mb-16{
   margin-bottom: 4rem;
+}
+
+.mb-2{
+  margin-bottom: 0.5rem;
 }
 
 .mb-28{
@@ -641,18 +649,6 @@ video {
 
 .mt-8{
   margin-top: 2rem;
-}
-
-.mb-8{
-  margin-bottom: 2rem;
-}
-
-.mb-14{
-  margin-bottom: 3.5rem;
-}
-
-.mb-2{
-  margin-bottom: 0.5rem;
 }
 
 .block{
@@ -832,16 +828,8 @@ video {
      object-fit: cover;
 }
 
-.p-14{
-  padding: 3.5rem;
-}
-
 .p-16{
   padding: 4rem;
-}
-
-.p-8{
-  padding: 2rem;
 }
 
 .px-4{
@@ -849,24 +837,14 @@ video {
   padding-right: 1rem;
 }
 
-.py-24{
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-}
-
 .py-14{
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
 }
 
-.px-2{
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
-.px-8{
-  padding-left: 2rem;
-  padding-right: 2rem;
+.py-24{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 
 .text-left{
@@ -959,34 +937,8 @@ ul{
   list-style-type: disc;
 }
 
-@media (min-width: 280px){
-  .min-\[280px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 320px){
-  .min-\[320px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-
-  .min-\[320px\]\:px-8{
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-}
-
 @media (min-width: 340px){
   .min-\[340px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 380px){
-  .min-\[380px\]\:mx-8{
     margin-left: 2rem;
     margin-right: 2rem;
   }
@@ -999,29 +951,8 @@ ul{
   }
 }
 
-@media (min-width: 420px){
-  .min-\[420px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-}
-
 @media (min-width: 460px){
   .min-\[460px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 480px){
-  .min-\[480px\]\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 520px){
-  .min-\[520px\]\:mx-8{
     margin-left: 2rem;
     margin-right: 2rem;
   }
@@ -1031,11 +962,6 @@ ul{
   .sm\:mx-28{
     margin-left: 7rem;
     margin-right: 7rem;
-  }
-
-  .sm\:mx-8{
-    margin-left: 2rem;
-    margin-right: 2rem;
   }
 
   .sm\:flex{
@@ -1058,10 +984,6 @@ ul{
     flex-direction: row;
   }
 
-  .sm\:gap-1{
-    gap: 0.25rem;
-  }
-
   .sm\:space-x-12 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
     margin-right: calc(3rem * var(--tw-space-x-reverse));
@@ -1071,16 +993,6 @@ ul{
   .sm\:px-24{
     padding-left: 6rem;
     padding-right: 6rem;
-  }
-
-  .sm\:px-4{
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  .sm\:px-8{
-    padding-left: 2rem;
-    padding-right: 2rem;
   }
 
   .sm\:text-3xl{

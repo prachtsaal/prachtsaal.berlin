@@ -39,7 +39,7 @@ description: members and associated organizations
     <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8">
         {% for org in site.data.communities %}
         <div class="w-full max-w-32 lg:w-32">
-            <a href="{{ org.website }}">
+            <a href="{{ org.website }}" target="_blank">
                 {% if org.thumb %}
                 <img class="size-32 object-contain" src="{{ org.thumb }}">
                 {%else %}
