@@ -24,3 +24,16 @@ h2 {
 ul {
     @apply list-disc list-inside
 }
+
+figure {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 3px;
+    color: #444;
+}
+
