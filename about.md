@@ -14,15 +14,15 @@ and growth. We welcome all who come in an attitude of openness, tolerance and cu
 cooperative (gemeinnützige Genossenschaft).
 
 ## What are we aiming at?
-  <ol>
+  <ul>
     <li>showcasing visual arts, music, and performances that embody creative expression across all mediums, while intersecting with the realms of humanities, society, science, and technology,</li>
     <li>providing affordable ateliers for artists,</li>
     <li>curating inclusive events for the benefit of the local community and a wider audience,</li>
     <li>educating all generations in art techniques and culture,</li>
     <li>promoting international artist collaborations on-site.</li>
-  </ol>
+  </ul>
 ## How are we achieving these aims?
-  <ol>
+  <ul>
     <li>by supplying shared facilities to enable the exploration of various mediums,</li>
     <li>fostering a safe environment of diversity and inclusivity,</li>
     <li>facilitating physical access to the area by making it unchallenging to explore and use,</li>
@@ -31,7 +31,7 @@ cooperative (gemeinnützige Genossenschaft).
     <li>undertaking required renovations and reconstructions,</li>
     <li>achieving economic sustainability of the space,</li>
     <li>ensuring non-profit status of Prachtsaal.</li>
-  </ol>
+  </ul>
 
 
 ## Prachtsaal is a cooperative
