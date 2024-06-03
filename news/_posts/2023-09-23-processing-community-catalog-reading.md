@@ -2,7 +2,7 @@
 layout: event
 title: Processing Community Catalog Reading
 subtitle: Hosted by Creative Code Berlin &mdash; with special guest Casey Reas
-description: Reading hosted by Creative Code Berlin - with special guest Casey Reas
+description: We were thrilled to have Casey Reas as our special guest for a special reading of the 20th Anniversary Processing Community Catalog, a celebration of the art+tech community.
 main_image: /assets/img/events/processing-catalog/an-introduction-by-casey-reas.jpeg
 images: 
   - file: /assets/img/events/processing-catalog/casey-reas-and-olivia-jack.jpeg
@@ -19,11 +19,7 @@ tags: talk portfolio
 It was an exciting in-person event at Prachtsaal Studio. We were thrilled
 to have [Casey Reas](https://reas.com/) as our special guest for a special reading of the
 [20th Anniversary Processing Community Catalog](https://processingfoundation.org/advocacy/community-catalog),
-a celebration of the art+tech community. 
-
-<!--more-->
-
-This nearly 1000-page book celebrates the achievements and creativity of
+a celebration of the art+tech community. This nearly 1000-page book celebrates the achievements and creativity of
 the [Processing](https://processing.org/) community,
 featuring open-call submissions from those who've explored the potential of Processing,
 p5.js, and beyond.
