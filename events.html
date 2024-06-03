@@ -4,7 +4,7 @@ title: upcoming events.
 description: a list of our events
 portfolio_title: events portfolio.
 ---
-<header class="mx-4 sm:mx-28 my-28">
+<header class="mx-8 my-28">
     <h1>{{ page.title }}</h1>
 </header>
 
@@ -14,7 +14,7 @@ portfolio_title: events portfolio.
 
 <div class="flex justify-center mb-28">
 
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-1 mx-8">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8">
         {% for event in site.posts %}
         <div class="w-full max-w-64 lg:w-64">
             <a href="{{ event.url }}" class="flex flex-col">
@@ -39,7 +39,7 @@ portfolio_title: events portfolio.
     
     <div class="flex justify-center mb-28">
 
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-1 mx-8">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8 mb-14">
             {% for event in site.posts %}
             <div class="w-full max-w-64 lg:w-64">
                 <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
