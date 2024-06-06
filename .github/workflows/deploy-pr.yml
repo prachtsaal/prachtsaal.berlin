@@ -1,6 +1,6 @@
 name: Deploy PR CI
 on:
-  pull_request:
+  pull_request
 jobs:
   release:
     name: Deploy website
