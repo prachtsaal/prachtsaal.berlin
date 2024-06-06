@@ -1,16 +1,6 @@
 name: Deploy PR CI
 on:
-  issue_comment:
-    types: [created]
-  push:
-    branches-ignore:
-      - main
   pull_request:
-    types:
-      - opened
-      - edited
-      - synchronize
-      - reopened
 jobs:
   release:
     name: Deploy website
