@@ -1,7 +1,7 @@
 ---
 layout: member
-full_name: 
-description: 
+full_name: Chloé Mari Bellangé 
+description: painter
 thumb: /assets/img/members/no_image.png
 portrait: /assets/img/members/no_image.png
 portfolio_image_locations:
@@ -9,8 +9,4 @@ portfolio_image_locations:
   - /assets/img/members/no_image.png
 website: 
 socials: 
-  - 
 ---
-You are beautiful.
-
-You are not alone.

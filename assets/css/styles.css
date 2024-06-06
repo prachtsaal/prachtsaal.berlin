@@ -726,6 +726,10 @@ video {
   max-width: 16rem;
 }
 
+.max-w-\[760px\]{
+  max-width: 760px;
+}
+
 .cursor-pointer{
   cursor: pointer;
 }
@@ -1071,6 +1075,21 @@ figcaption {
 
   .lg\:flex-row{
     flex-direction: row;
+  }
+}
+
+@media (min-width: 1280px){
+  .xl\:m-16{
+    margin: 4rem;
+  }
+
+  .xl\:mx-16{
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .xl\:max-w-\[1520px\]{
+    max-width: 1520px;
   }
 }
 

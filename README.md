@@ -80,9 +80,9 @@ Prachtsaal (magnificent hall) stands as a nexus of arts,    (6)
 If you want to change anything related to spacing and design, you'll need to change the html and/or the css.
 
 ### people page
-The people page is automatically built from text files in the `_people` directory and `_data/communities.yml` file.
+The people page, which is found at `people.html`, is automatically built from text files in the `_members` directory and `_data/communities.yml` file.
 
-Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the page, which is `./people.html`. It defines text, and where relevant files are.
+Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the people page, and each member's page. It defines text, and where relevant files are.
 
 ```
 ---                           (1)
@@ -92,9 +92,9 @@ description: ...              (4)
 thumb: ...                    (5)
 portrait: ...                 (6)
 portfolio_image_locations:
-- ...                         (7)
-- ...                         (7)
-website: ...                  (8)
+  - /assets/img/members/...   (7)
+  - /assets/img/members/...   (7)
+website: https://...          (8)
 socials:                      
   - https://...               (9)
   - https://...               (9)
@@ -108,10 +108,10 @@ This is the text of your personal page. (10)
 - (4) shown in list view, text the describes the page for search engines
 - (5) location of image in list view
 - (6) location of portrait in personal page
-- (7) file location of portfolio image 1 shown in personal page
-- (8) website url, including https://
-- (9) list your links to your socials
-- (10) the text paragraphs you want shown on your personal page
+- (7) file location of portfolio image shown in personal page
+- (8) website url
+- (9) list the links to your socials
+- (10) the text you want shown on your personal page
 
 ## [WIP] Development
 

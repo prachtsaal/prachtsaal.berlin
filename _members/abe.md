@@ -2,11 +2,11 @@
 layout: member
 full_name: Abe Pazos Solatie
 description: generative / computational artist
-thumb: /assets/img/people/abe/thumb.jpg
-portrait: /assets/img/people/abe/thumb.jpg
+thumb: /assets/img/members/no_image.png
+portrait: /assets/img/members/no_image.png
 portfolio_image_locations:
-  - /assets/img/people/abe/triangles_glow.jpg
-  - /assets/img/people/abe/art_poster.jpg
+  - /assets/img/members/abe/triangles_glow.jpg
+  - /assets/img/members/abe/art_poster.jpg
 website: https://www.hamoid.com
 socials: 
   mastodon: hamoid
