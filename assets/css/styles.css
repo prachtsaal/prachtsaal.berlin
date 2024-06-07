@@ -564,6 +564,10 @@ video {
   position: fixed;
 }
 
+.relative{
+  position: relative;
+}
+
 .m-16{
   margin: 4rem;
 }
@@ -702,6 +706,10 @@ video {
   height: 24rem;
 }
 
+.max-h-64{
+  max-height: 16rem;
+}
+
 .w-3\/4{
   width: 75%;
 }
@@ -724,10 +732,6 @@ video {
 
 .max-w-64{
   max-width: 16rem;
-}
-
-.max-w-\[760px\]{
-  max-width: 760px;
 }
 
 .cursor-pointer{
@@ -1079,15 +1083,6 @@ figcaption {
 }
 
 @media (min-width: 1280px){
-  .xl\:m-16{
-    margin: 4rem;
-  }
-
-  .xl\:mx-16{
-    margin-left: 4rem;
-    margin-right: 4rem;
-  }
-
   .xl\:max-w-\[1520px\]{
     max-width: 1520px;
   }

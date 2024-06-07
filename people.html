@@ -19,7 +19,7 @@ description: members and associated organizations
             <a href="{{ member.website }}">
             {% endif %}
                 {% if member.thumb %}
-                <img class="w-64" src="{{ member.thumb }}">
+                <img class="w-64 object-cover" src="{{ member.thumb }}">
                 {% endif %}
                 <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
                 <span class="font-prachtsaal">{{ member.description }}</span>

@@ -37,7 +37,7 @@ layout: default
                 <br>
                 <div class="grid grid-flow-row lg:grid-col-3 gap-2">
                     {% for image in page.portfolio_image_locations %}
-                    <img src="{{ image }}" class="size-64 object-contain">
+                    <img src="{{ image }}" class="max-w-64 max-h-64 object-contain">
                     {% endfor %}
                 </div>
                 {% endif %}
