@@ -2,11 +2,13 @@
 layout: member
 full_name: Abe Pazos Solatie
 description: generative / computational artist
-thumb: /assets/img/members/no_image.png
+thumb: /assets/img/members/abe/thumb-abe.jpg
 portrait: /assets/img/members/no_image.png
 portfolio_image_locations:
-  - /assets/img/members/abe/triangles_glow.jpg
-  - /assets/img/members/abe/art_poster.jpg
+  - /assets/img/members/abe/aBe-ALifeCycle.jpg
+  - /assets/img/members/abe/aBe-dave-screenshot-1.jpg
+  - /assets/img/members/abe/aBe-ratkaisu-multiplica-render3.jpg
+  - /assets/img/members/abe/aBe-tracing-the-line-closeup.jpg
 website: https://www.hamoid.com
 socials: 
   - https://genart.social/@hamoid
