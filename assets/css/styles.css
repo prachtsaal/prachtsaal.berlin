@@ -693,11 +693,6 @@ video {
   height: 1.5rem;
 }
 
-.size-64{
-  width: 16rem;
-  height: 16rem;
-}
-
 .h-6{
   height: 1.5rem;
 }
@@ -967,6 +962,18 @@ figcaption {
   text-align: center;
   margin-top: 3px;
   color: #444;
+}
+
+div.member img {
+  filter: grayscale();
+}
+
+div.member a {
+  cursor: pointer;
+}
+
+div.member img:hover {
+  filter: none;
 }
 
 @media (min-width: 340px){

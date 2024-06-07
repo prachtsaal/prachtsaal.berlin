@@ -5,8 +5,9 @@ description: animator, visual and generative artist
 thumb: /assets/img/members/no_image.png
 portrait: /assets/img/members/no_image.png
 portfolio_image_locations:
-  - /assets/img/members/no_image.png
-  - /assets/img/members/no_image.png
+  - /assets/img/members/grit/hero_06_th2.jpg
+  - /assets/img/members/grit/s175_03.jpg
+  - /assets/img/members/grit/toe_perf_01.jpg
 website: https://gritschuster.de/
 socials:
   - https://www.instagram.com/gritkitvisuals

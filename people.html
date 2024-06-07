@@ -12,7 +12,7 @@ description: members and associated organizations
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
         {% for member in site.members %}
-        <div class="w-full max-w-64 lg:w-64">
+        <div class="w-full max-w-64 lg:w-64 member">
             {% if member.content %}
             <a href="{{ member.url }}">
             {% elsif member.website %}

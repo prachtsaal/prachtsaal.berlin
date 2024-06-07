@@ -45,3 +45,15 @@ figcaption {
     color: #444;
 }
 
+div.member img {
+    filter: grayscale();
+}
+
+div.member a {
+  cursor: pointer;
+}
+
+div.member img:hover {
+    filter: none;
+}
+
