@@ -172,8 +172,8 @@ The way tailwind works is that it only builds and includes the css that you are 
 The way the website has been developed is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual news pages, individual member pages, the about page, and the home page. 
 
 Specifically:
-- events are in the `/events/_posts` folder. The means that events are Jekyll posts (which have a special function in Jekyll) with the category of `events`. You'll see that these event pages use the `_layouts/event.html` layout. More about Jekyll posts: https://jekyllrb.com/docs/posts/
-- news items are in the `/news/_posts` folder. This means that news are Jekyll posts, with the category of `news`. The intention is to put any announcements, such as open calls and event reports, in `news`.
+- events are in the `/events/_posts` folder. The means that events are Jekyll posts (which have a special function in Jekyll) with the category of `events`. Event pages use the `_layouts/event.html` layout. More about Jekyll posts: https://jekyllrb.com/docs/posts/
+- news items are in the `/news/_posts` folder. This means that news are Jekyll posts, with the category of `news`. The intention is to put any announcements, such as open calls and event reports, in `news`. News pages use the `_layouts/news.html` layout.
 - member pages are in the `_members` folder. `members` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_members` folder can be accessed via `site.members`. Each member has their own markdown file, which uses the `_layouts/member.html` layout.
 - the about page is an example of a generic text only page, which uses the `_layouts/page.html` layout.
 - the home page is a custom page, but because there is a little bit of text in it, it is a layout, that can be called by the `index.md` file. That way, the text for the home page, and the titles, can be changed relatively easily.
