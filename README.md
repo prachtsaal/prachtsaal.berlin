@@ -146,41 +146,65 @@ You'd like to develop the design elements and code for the website? Thank you!
 
 This website is built using Jekyll and tailwindcss. Jekyll uses Liquid to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formating.
 
-To develop for this website, you'll need to install ruby, the language used by Jekyll, and node.js and `npm` (used to install tailwind).
+To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind.
 
-Some helpful references:
+### To serve the website locally
 
-- https://jekyllrb.com/docs/installation/ubuntu/
-- https://tailwindcss.com/docs/installation
-- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
+#### Short story
+While you are developing, in one terminal instance, run
+```
+npm run build-css
+```
+which watches for any changes, and rebuilds `styles.css`.
 
-The way tailwind works is that it only builds and includes the css that you are using in your website. Therefore, as you build a website, you'll need to rebuild the css with tailwind, to ensure that the css classes defined in tailwind are included. Tailwind will take what's in `/assets/css/source.css` and rebuild it to `/assets/css/styles.css`. This `styles.css` is what is included into the html. If you want to customize your own css and classes, add them to source.css to ensure it's included in styles.css.
+In another terminal, run
+```
+bundle exec jekyll serve
+```
+which serves the website at http://localhost:4000/
+Any changes will be automatically deployed, though you will need to reload your website to see the changes.
 
-The way the website has been developed, is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual news pages, individual member pages, the about page, and the home page. 
+#### Long story
+The way tailwind works is that it only builds and includes the css that you are using in your website. Therefore, as you build a website, you'll need to rebuild the css with tailwind, to ensure that the css classes defined in tailwind are included. Tailwind will take what's in `/assets/css/source.css` and rebuild it to `/assets/css/styles.css`. This `styles.css` is what is included into the html. If you want to customize your own css and classes, add them to `source.css` to ensure it's included in `styles.css`. The command to build to `styles.css` is documented in `package.json` as an `npm` script `buid-css`. This command will watch for changes and update `styles.css` on the fly.
+
+### Design considerations
+
+The way the website has been developed is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual news pages, individual member pages, the about page, and the home page. 
 
 Specifically:
-- events are in the `/events/_posts` folder. The means that events are Jekyll posts, which have a special function in Jekyll, with the category of `events`. You'll see that these events use the `_layouts/event.html` layout. More about Jekyll posts: https://jekyllrb.com/docs/posts/
-- news items are in the `/news/_posts` folder. This means that news are Jekyll posts, with the category of `news`. The intention is to put any announcements, such as open calls, in `news`.
-- member pages are in the `_people` folder. `people` is a collection in Jekyll, defined in the `_config.yml` file. Each member has their own markdown file, which uses the `_layouts/member.html` layout.
+- events are in the `/events/_posts` folder. The means that events are Jekyll posts (which have a special function in Jekyll) with the category of `events`. You'll see that these event pages use the `_layouts/event.html` layout. More about Jekyll posts: https://jekyllrb.com/docs/posts/
+- news items are in the `/news/_posts` folder. This means that news are Jekyll posts, with the category of `news`. The intention is to put any announcements, such as open calls and event reports, in `news`.
+- member pages are in the `_members` folder. `members` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_members` folder can be accessed via `site.members`. Each member has their own markdown file, which uses the `_layouts/member.html` layout.
 - the about page is an example of a generic text only page, which uses the `_layouts/page.html` layout.
 - the home page is a custom page, but because there is a little bit of text in it, it is a layout, that can be called by the `index.md` file. That way, the text for the home page, and the titles, can be changed relatively easily.
 
-What's not in markdown are the events and people pages, which compile information in other files, and layouts, which are html templates that markdown files will use, named in the front matter with the key `layout'. These html files are mostly Liquid templating language, html, and tailwind css classes.
+What's not in markdown are the events and people pages, which compile information in other files, and layouts, which are html templates that markdown files will use, named in the front matter with the key `layout`. These html files are mostly Liquid templating language, html, and tailwind css classes. 
+
+The events page has two sections, an upcoming events section, and an events portfolio. The upcoming events section is filtered by the `events` category (no `news` items will be considered), by date at build time (only future dates are considered), and then at load time, javascript (`/assets/js/future_events.js`) will further remove events that are in the past. The events portfolio section filters all posts (including the `news` category) on the tag `portfolio`. If a future event has been labeled with the tag `portfolio`, it will be shown in the events porfolio section.
 
 All the pages use the layout `default.html` - this layout includes the navigation bar and footer, and required js and css. The html for the navigation bar is at `_includes/navigation.html`, and the html for the footer is at `_includes/footer.html`.
 
 When you create a pull request, there are github actions that will deploy the built site to surge.sh. The url for the website is `prachtsaal-berlin-<branch name>.surge.sh`.
 
-### To serve the website locally
-Install jekyll:
 
-```shell
+### Installation
+
+You'll want to install ruby and node.js, if you haven't already. If you need to install either of these, here are some helpful references:
+
+- https://jekyllrb.com/docs/installation/ubuntu/
+- https://github.com/rubygems/rubygems?tab=readme-ov-file: you can install ruby with [rbenv](https://github.com/rbenv/rbenv)
+- https://tailwindcss.com/docs/installation
+- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
+
+#### Setting up Jekyll
+Once ruby is installed, install jekyll and bundler gems with
+
+```
 gem install jekyll bundler
 ```
 
-To run the server, run in this:
-```shell
-jekyll serve
-```
+If you are setting up your environment, you can set up the ruby environment with
 
-Open: http://localhost:4000/
+```
+bundle install
+```

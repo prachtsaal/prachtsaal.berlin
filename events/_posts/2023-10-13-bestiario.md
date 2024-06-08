@@ -7,7 +7,7 @@ description: The first solo exhibition of Suedo in Berlin. An exploration of his
 quote: bestiario carries itself the premise that we are the beasts that have come to devour everything, even ourselves
 quote_author: Stephan Van Kuyk
 quote_author_role: Curator
-tags: exhibition
+tags: exhibition portfolio 
 ---
 The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements.
 

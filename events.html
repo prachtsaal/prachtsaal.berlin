@@ -8,15 +8,19 @@ portfolio_title: events portfolio.
     <h1>{{ page.title }}</h1>
 </header>
 
-{% assign upcoming_events = site.posts | where: "category", "upcoming-events" %}
-{% assign portfolio_events = site.posts | where: "category", "portfolio" %}
-
+{% assign all_events = site.posts | where: "categories", "events" %}
+{% assign portfolio_events = site.posts | where: "tags", "portfolio" %}
+{% capture now_seconds %}{{'now' | date: '%s'}}{% endcapture %}
 
 <div class="flex justify-center mb-28">
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8">
-        {% for event in site.posts %}
-        <div class="w-full max-w-64 lg:w-64 links-without-underline">
+    {% for event in all_events %}
+        {% capture event_seconds %}{{event.date | date: '%s'}}{% endcapture %}
+        {% capture event_date %}{{event.date | date: '%Y-%m-%d'}}{% endcapture %}
+        {% if event_seconds >= now_seconds %}
+        
+        <div future-date="{{ event_date }}" class="w-full max-w-64 lg:w-64 links-without-underline">
             <a href="{{ event.url }}" class="flex flex-col">
                 <div class="font-bold font-prachtsaal">{{ event.date | date: "%d.%m.%Y" }}</div>
                 {% if event.main_image %}
@@ -28,7 +32,8 @@ portfolio_title: events portfolio.
                 <div class="mt-2">{{ event.description }}</div>
             </a>
         </div>
-        {% endfor %}
+        {% endif %}
+    {% endfor %}
     </div>
 </div>
 
@@ -40,7 +45,7 @@ portfolio_title: events portfolio.
     <div class="flex justify-center mb-28">
 
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8 mb-14">
-            {% for event in site.posts %}
+            {% for event in portfolio_events %}
             <div class="w-full max-w-64 lg:w-64 links-without-underline">
                 <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
                 <a href="{{ event.url }}">

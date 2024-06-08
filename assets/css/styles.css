@@ -556,6 +556,10 @@ video {
   --tw-contain-style:  ;
 }
 
+.visible{
+  visibility: visible;
+}
+
 .static{
   position: static;
 }

@@ -2,7 +2,7 @@
 layout: event
 title: Processing Community Catalog Reading
 subtitle: Hosted by Creative Code Berlin &mdash; with special guest Casey Reas
-description: We were thrilled to have Casey Reas as our special guest for a special reading of the 20th Anniversary Processing Community Catalog, a celebration of the art+tech community.
+description: A warm evening with Casey Reas and the Processing community in Berlin.
 main_image: /assets/img/events/processing-catalog/an-introduction-by-casey-reas.jpeg
 images: 
   - file: /assets/img/events/processing-catalog/casey-reas-and-olivia-jack.jpeg
@@ -13,7 +13,6 @@ images:
     label: Rachel Uwa
   - file: /assets/img/events/processing-catalog/processing-community-catalog.jpeg
     label: Processing Community Catalog
-
 tags: talk portfolio
 ---
 It was an exciting in-person event at Prachtsaal Studio. We were thrilled
