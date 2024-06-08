@@ -911,6 +911,10 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+html {
+  font-size: clamp(1rem, 1vw, 1.2rem);
+}
+
 a {
   text-decoration: underline;
 }

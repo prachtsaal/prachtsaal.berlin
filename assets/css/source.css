@@ -5,6 +5,10 @@
 @tailwind utilities;
 
 
+html {
+    font-size: clamp(1rem, 1vw, 1.2rem);
+}
+
 a {
   text-decoration: underline;
 }
