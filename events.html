@@ -14,15 +14,15 @@ portfolio_title: events portfolio.
 
 <div class="flex justify-center mb-28">
 
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mx-8">
     {% for event in all_events %}
         {% capture event_seconds %}{{event.date | date: '%s'}}{% endcapture %}
         {% capture event_date %}{{event.date | date: '%Y-%m-%d'}}{% endcapture %}
         {% if event_seconds >= now_seconds %}
         
         <div future-date="{{ event_date }}" class="w-full max-w-64 lg:w-64 links-without-underline">
+            <div class="font-prachtsaal text-right text-sm">{{ event.date | date: "%d.%m.%Y" }}</div>
             <a href="{{ event.url }}" class="flex flex-col">
-                <div class="font-bold font-prachtsaal">{{ event.date | date: "%d.%m.%Y" }}</div>
                 {% if event.main_image %}
                 <img class="w-64" src="{{ event.main_image }}">
                 {% endif %}
@@ -44,10 +44,10 @@ portfolio_title: events portfolio.
     
     <div class="flex justify-center mb-28">
 
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-8 mb-14">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mx-8 mb-14">
             {% for event in portfolio_events %}
             <div class="w-full max-w-64 lg:w-64 links-without-underline">
-                <span class="font-bold">{{ event.date | date: "%d.%m.%y" }}</span><br>
+                <div class="font-prachtsaal text-right text-sm">{{ event.date | date: "%d.%m.%Y" }}</div>
                 <a href="{{ event.url }}">
                     {% if event.main_image %}
                     <img class="w-64" src="{{ event.main_image }}">
