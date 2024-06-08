@@ -82,6 +82,7 @@ If you want to change anything related to spacing and design, you'll need to cha
 ### people page
 The people page, which is found at `people.html`, is automatically built from text files in the `_members` directory and `_data/communities.yml` file.
 
+#### member pages
 Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the people page, and each member's page. It defines text, and where relevant files are.
 
 ```
@@ -112,6 +113,32 @@ This is the text of your personal page. (10)
 - (8) website url
 - (9) list the links to your socials
 - (10) the text you want shown on your personal page
+
+
+#### communities section
+
+The information for the communities section is stored as a data file in `_data/communities.yml`. It is in YAML format. Please see the desired format below.
+
+```
+- name: Tape Over                               (1)
+  thumb: /assets/img/communities/tapeover.jpeg  (2)
+  website: https://tapeover.berlin/             (3)
+  visible: true                                 (4)
+
+- name: Xemantic
+  thumb: /assets/img/communities/xemantic.png
+  website: https://xemantic.com/
+  visible: true
+
+...
+```
+- (1) The name of the organization. The dash indicates a new organization. 
+- (2) The logo, if available
+- (3) The website to link to.
+- (4) If the organization should be shown in the communities section
+
+If you want to change anything related to spacing and design, you'll need to change the html and/or the css.
+
 
 ## [WIP] Development
 

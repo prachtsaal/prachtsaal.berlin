@@ -38,7 +38,8 @@ description: members and associated organizations
 
 <div class="flex justify-center mb-28">
     <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8 links-without-underline">
-        {% for org in site.data.communities %}
+    {% for org in site.data.communities %}
+        {% if org.visible %}
         <div class="w-full max-w-32 lg:w-32">
             <a href="{{ org.website }}" target="_blank">
                 {% if org.thumb %}
@@ -51,7 +52,8 @@ description: members and associated organizations
 
             </a>
         </div>
-        {% endfor %}
+        {% endif %}
+    {% endfor %}
     </div>
 </div>
         
