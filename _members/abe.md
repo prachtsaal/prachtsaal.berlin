@@ -1,7 +1,7 @@
 ---
 layout: member
 full_name: Abe Pazos Solatie
-description: generative / computational artist
+description: computational artist
 thumb: /assets/img/members/abe/thumb-abe.jpg
 portrait: /assets/img/members/abe/portrait-abe.webp
 portfolio_image_locations:
