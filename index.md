@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Prachtsaal Studio
 subtitle: Neukölln's non-profit art cooperative
 description: a non-profit art cooperative from Neukölln/Berlin
 ---
