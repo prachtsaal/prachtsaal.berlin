@@ -3,7 +3,7 @@ layout: event
 title: The Neon Gods They Made
 subtitle: 48 Hours Neukölln
 main_image: /assets/img/events/2024-48hoursNK-group-shot.png
-description: "Come by Prachtsaal for a taster of the work our members are making: paintings, photographs, plus generative art."
+description: 
 ---
 The Neon Gods They Made, is a fragment of
 lyrics from the song “The Sound of Silence” sung
