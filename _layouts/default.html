@@ -15,6 +15,9 @@
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% endif %}
+  {% if page.add-js %}
+  <script src="/assets/js/{{ page.add-js }}"></script>
+  {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
@@ -35,7 +38,6 @@
   </div>
 
   <script src="/assets/js/menu.js"></script>
-  <script src="/assets/js/future_events.js"></script>
 </body>
 
 </html>

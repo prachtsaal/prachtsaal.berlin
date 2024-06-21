@@ -1,5 +1,6 @@
 ---
 layout: default
+add-js: newsletter.js
 ---
 <header class="bg-[url('/assets/img/home/404_crop.jpeg')] h-96 bg-center bg-cover">
   <div class="py-24 px-4 text-white sm:px-24">
@@ -13,6 +14,8 @@ layout: default
   <div class="m-8 md:w-[760px] text-lg">
     {{ content | markdownify }}
   </div>
+
+  {% include newsletter.html %}
 
   <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
 
