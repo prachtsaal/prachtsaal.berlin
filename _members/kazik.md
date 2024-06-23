@@ -1,7 +1,7 @@
 ---
 layout: member
 full_name: Kazik Pagoda
-description: generative artist
+description: computational artist
 thumb: /assets/img/members/no_image.png
 portrait: /assets/img/members/no_image.png
 portfolio_image_locations:
