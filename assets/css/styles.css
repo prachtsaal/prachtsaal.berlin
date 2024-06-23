@@ -1119,12 +1119,21 @@ figcaption {
   color: #444;
 }
 
+div.member {
+  margin-bottom: 1em;
+}
+
 div.member img {
   filter: grayscale();
 }
 
 div.member a {
   cursor: pointer;
+}
+
+div.member .member-text {
+  margin: 0.5em;
+  display: block;
 }
 
 div.member img:hover {
