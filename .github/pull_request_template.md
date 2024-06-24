@@ -2,4 +2,4 @@
 
 
 ---
-branch will be deployed to prachtsaal-berlin-(branch name).surge.sh
+branch will be deployed to https://prachtsaal-berlin-(branch name).surge.sh
