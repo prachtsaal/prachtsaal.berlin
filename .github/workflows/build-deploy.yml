@@ -1,7 +1,7 @@
 name: Build and Deploy
 on:
   push:
-    branches: actions-workflow
+    branches: [$default-branch]
   workflow_dispatch:
 
 permissions:
