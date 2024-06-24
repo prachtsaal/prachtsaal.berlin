@@ -1,16 +1,6 @@
 name: Deploy PR CI
 on:
-  issue_comment:
-    types: [created]
-  push:
-    branches-ignore:
-      - main
-  pull_request:
-    types:
-      - opened
-      - edited
-      - synchronize
-      - reopened
+  pull_request
 jobs:
   release:
     name: Deploy website
@@ -27,7 +17,7 @@ jobs:
       - name: Build static site
         run: bundle exec jekyll build
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 18
       - name: Install surge

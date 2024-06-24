@@ -1,0 +1,58 @@
+---
+layout: default
+add-js: newsletter.js
+---
+<header class="bg-[url('/assets/img/home/404_crop.jpeg')] h-96 bg-center bg-cover">
+  <div class="py-24 px-4 text-white sm:px-24">
+    <h1 class="text-left">{{ page.title }}</h1>
+    <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
+  </div>
+</header>
+
+<div class="flex flex-col items-center">
+
+  <div class="m-8 md:w-[760px] text-lg">
+    {{ content | markdownify }}
+  </div>
+
+
+  <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
+
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+  </div>
+
+</div>
+
+<!-- TODO add news/events, open calls are news -->
+<!-- <h1>recent events</h1>
+<div class="flex flex-row">
+  {% for post in site.posts limit:2 %}
+  <div>
+    <img src="{{ post.thumb }}">
+  
+  </div>
+  {% endfor %}
+</div> -->
+
+
+<div class="bg-black text-white p-16">
+  <h1 class="mb-4"><a name="contact"></a>contact us</h1>
+  <div class="flex flex-row justify-center">
+    <div class="flex flex-row justify-end mx-8 md:w-[650px]">
+        <div>
+          Prachtsaal Studio <br>
+          Jonasstraße 22 <br>
+          12053 Berlin<br>
+          <br>  
+          <a href="https://instagram.com/prachtsaal_" target="_blank">
+            <img src="/assets/img/Instagram_Glyph_white_logo.svg.png" class="size-6">
+          </a>
+      </div>
+  
+    </div> <!-- fixed width -->
+  </div> <!-- flex justify-center -->
+  
+</div>

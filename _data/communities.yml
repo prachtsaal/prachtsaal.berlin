@@ -1,0 +1,49 @@
+- name: Tape Over
+  thumb: /assets/img/communities/tapeover.jpeg
+  website: https://tapeover.berlin/
+  visible: true
+
+- name: Xemantic
+  thumb: /assets/img/communities/xemantic.png
+  website: https://xemantic.com/
+  visible: true
+
+- name: Artist Stop Being Poor
+  thumb:
+  website: https://artiststopbeingpoor.club/
+  visible: true
+
+- name: Creative Code Berlin
+  thumb: /assets/img/communities/ccb.jpeg
+  website: https://creativecode.berlin/
+  visible: true
+
+- name: OPEN RNDR
+  thumb: /assets/img/communities/openrndr.png
+  website: https://openrndr.org/
+  visible: true
+
+- name: Processing Foundation
+  thumb: /assets/img/communities/processingfoundation.jpeg
+  website: https://processingfoundation.org/
+  visible: true
+
+- name: Toplap Berlin
+  thumb: /assets/img/communities/toplapberlin.png
+  website: https://toplap.berlin/
+  visible: true
+
+- name: LIVECODERA
+  thumb:
+  website: https://livecodera.glitch.me/
+  visible: true
+
+- name: School of Machines, Making, and Make Believe
+  thumb: /assets/img/communities/schoolofma.jpeg
+  website: https://www.schoolofma.org/
+  visible: true
+
+- name: Vetro Editions
+  thumb: /assets/img/communities/vetro.png
+  website: https://vetroeditions.com/
+  visible: true

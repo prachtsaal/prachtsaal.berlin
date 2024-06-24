@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="flex justify-center">
+    <div class="flex-col mx-12 lg:max-w-6xl items-center">
+
+        <header class="flex flex-col mt-28 mb-16 mx-28 text-center font-prachtsaal">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="text-sm my-2">{{ page.subtitle }}<br>{{ page.date | date: "%d %B %Y" }}</h2>
+            {% endif %}
+            <div>
+                {% if page.quote %}
+                <div class="mt-16 text-2xl sm:text-3xl font-bold text-gray-400">"{{ page.quote }}"</div>
+                {% endif %}
+                {% if page.quote_author %}
+                <div class="mt-4 text-end font-bold">{{ page.quote_author }}</div>
+                    {% if page.quote_author_role %}
+                    <div class="text-end">{{ page.quote_author_role }}</div>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </header>
+
+        <div class="flex flex-col items-center">
+            {% if page.main_image %}
+            <img src="{{ page.main_image }}">
+            {% endif %}
+
+
+            <div class="my-16 md:w-[760px]">
+                {{ content | markdownify }}
+            </div>
+
+            {% if page.link%}
+                <div class="text-center bg-purple-300 border-2 border-gray-200">
+                    <a href="{{ page.link }}" class="font-bold m-2">{{ page.link_text }}</a>
+                </div>
+            {% endif %}
+
+            {% if page.images%}
+            <div class="grid grid-flow-row sm:grid-cols-2 lg:grid-cols-3 justify-center gap-2">
+                {% for image in page.images %}
+                    {% include figure.html src=image.file title=image.label%}
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+
+    </div>
+</div>

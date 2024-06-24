@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    font-size: clamp(1rem, 1vw, 1.2rem);
+}
+
+a {
+  text-decoration: underline;
+}
+
+div.links-without-underline a {
+  text-decoration: none;
+}
+
+h1 {
+    @apply text-6xl font-prachtsaal font-bold text-center;
+}
+
+h2 {
+    @apply text-2xl my-8;
+}
+
+.nav-x {
+    @apply mx-8 sm:mx-16;
+}
+
+.nav-y {
+    @apply my-6
+}
+
+ul {
+    @apply list-disc list-inside
+}
+
+figure {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 3px;
+    color: #444;
+}
+
+div.member {
+  margin-bottom: 1em;
+}
+
+div.member img {
+    filter: grayscale();
+}
+
+div.member a {
+  cursor: pointer;
+}
+
+div.member .member-text {
+  margin: 0.5em;
+  display: block;
+}
+
+div.member img:hover {
+    filter: none;
+}
+

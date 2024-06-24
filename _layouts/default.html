@@ -1,25 +1,43 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="font-sans">
+
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <link href="/assets/css/styles.css" rel="stylesheet">
+  <title>
+    {% assign prefix = "Prachtsaal Studio" %}
+    {% if page.title == prefix %}
+      {{ prefix }}
+    {% else %}
+      {{ prefix }}: {{ page.title }}
+    {% endif %}
+  </title>
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% endif %}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/style/common.css">
-  {% if page.add-style %}
-  <link rel="stylesheet" href="/style/{{ page.add-style }}">
-  {% endif %}
   {% if page.add-js %}
-  <script src="/js/{{ page.add-js }}"></script>
+  <script src="/assets/js/{{ page.add-js }}"></script>
   {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
 <body>
-{% include navigation.html %}
-{{ content }}
-<footer>
-  Copyright &copy; 2024 Prachtsaal, <a href="/impressum.html">Impressum</a>
-</footer>
+
+  <div class="flex flex-col w-full">
+    <div>
+      {% include navigation.html %}
+    </div>
+
+    <div>
+    {{ content }}
+    </div>
+
+    <div class="bg-black text-gray-400 mt-16">
+      {% include footer.html %}
+    </div>
+  </div>
+
+  <script src="/assets/js/menu.js"></script>
 </body>
+
 </html>
