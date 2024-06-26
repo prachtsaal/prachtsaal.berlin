@@ -4,6 +4,7 @@ title:
 subtitle: 
 main_image: 
 description: 
+start_date:
 quote: 
 quote_author: 
 quote_author_role: 

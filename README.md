@@ -26,6 +26,7 @@ title:                        (3)
 subtitle:                     (4)
 main_image:                   (5)
 description:                  (6)
+start_date:                   (17)
 quote:                        (7)
 quote_author:                 (8)
 quote_author_role:            (9)
@@ -56,6 +57,7 @@ Add your content here.        (16)
 - (14) the text of the button, that clicks to the link
 - (15) tags are used for labeling if an event will be shown in the portfolio, with text `portfolio`. if it should not be shown in the portfolio, don't put a tag
 - (16) text content for the vent
+- (17) if the event has a range of dates, please put the start date here, in the format YYYY-MM-DD, and use the end date for the event date in the file (this allows the javascript that automatically removes past dates from the list of future dates to remove it only when the end date has past)
 
 ### home page
 

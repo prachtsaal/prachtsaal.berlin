@@ -2,9 +2,16 @@
 layout: event
 title: The Neon Gods They Made
 subtitle: 48 Hours Neukölln
-main_image: /assets/img/events/2024-48hoursNK-group-shot.png
+main_image: /assets/img/events/neon-gods/neon-gods-thumb.jpg
 description: 
+start_date: 2024-06-28
+images: 
+  - file: /assets/img/events/neon-gods/neon-gods-full.jpg
+    label: 
+  - file: /assets/img/events/neon-gods/2024-48hoursNK-group-shot.png
+    label: 
 ---
+
 The Neon Gods They Made, is a fragment of
 lyrics from the song “The Sound of Silence” sung
 by Simon & Garfunkel. Silence in the metropolis
@@ -23,6 +30,7 @@ living conditions. In contrast, breaking the
 silence is a common theme of contemporary
 liberty movements that ask us to not stay indifferent
 to the silencing of marginalized voices.
+
 During 48h Neukölln 2024 we would like to
 present an exhibition “The Neon Gods They
 Made”, created in curated effort of all our
@@ -35,6 +43,7 @@ the most significant phenomena of our lives
 cannot be expressed in words, therefore we will
 try to express something important in imagery
 and movement, but in silence.
+
 Our foyer is acting as an art gallery presenting
 paintings, our garden will host installations, our
 newly established immersive multimedia venue
@@ -45,3 +54,8 @@ illustrations, installations, performance, code and
 generative art we want to create an immersive
 space that thematises the apprehension of
 silence. 
+
+## Opening hours:
+Friday, 28.06, 19.00-22.00<br>
+Saturday, 29.06, 12.00-22.00<br>
+Sunday, 30.06, 12.00-19.00
