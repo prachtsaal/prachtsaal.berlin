@@ -19,10 +19,17 @@ add-js: future_events.js
     {% for event in all_events %}
         {% capture event_seconds %}{{event.date | date: '%s'}}{% endcapture %}
         {% capture event_date %}{{event.date | date: '%Y-%m-%d'}}{% endcapture %}
+
+        {% if event.start_date %}
+        {% capture date_string %}{{event.start_date | date: "%d.%m.%Y"}} - {{event.date | date: "%d.%m.%Y"}}{% endcapture %}
+        {% else %}
+        {% capture date_string %} {{event.date | date: "%d.%m.%Y"}}{% endcapture %}
+        {% endif %}
+
         {% if event_seconds >= now_seconds %}
         
         <div future-date="{{ event_date }}" class="w-full max-w-64 lg:w-64 links-without-underline">
-            <div class="font-prachtsaal text-right text-sm">{{ event.date | date: "%d.%m.%Y" }}</div>
+            <div class="font-prachtsaal text-right text-sm">{{ date_string }}</div>
             <a href="{{ event.url }}" class="flex flex-col">
                 {% if event.main_image %}
                 <img class="w-64" src="{{ event.main_image }}">
