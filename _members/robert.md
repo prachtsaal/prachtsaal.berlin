@@ -5,10 +5,10 @@ description: tape artist / installation artist
 thumb: /assets/img/members/robert/thumb-robert.jpg
 portrait: /assets/img/members/robert/Rob_Portrait_IBUG.jpg
 portfolio_image_locations:
-  - /assets/img/members/robert/wave_Trouville_bw.jpg
-  - /assets/img/members/robert/meinestadt_blueprint_detail_ankle.jpg
+  - /assets/img/members/robert/wave_Trouville_bw.webp
+  - /assets/img/members/robert/meinestadt_blueprint_detail_ankle.webp
   - /assets/img/members/robert/art_elizabeth_back.jpg
-  - /assets/img/members/robert/Neuland_Mehr Theater_head_hand_total.JPG
+  - /assets/img/members/robert/Neuland_Mehr Theater_head_hand_total.webp
 website: https://tapeover.berlin
 socials: 
   - https://www.behance.net/TAPEOVER
