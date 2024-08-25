@@ -150,17 +150,26 @@ This website is built using Jekyll and tailwindcss. Jekyll uses Liquid to proces
 
 To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind.
 
+### To install the required `npm` dependencies
+
+```bash
+npm install
+```
+
 ### To serve the website locally
 
 #### Short story
 While you are developing, in one terminal instance, run
-```
+
+```bash
 npm run build-css
 ```
+
 which watches for any changes, and rebuilds `styles.css`.
 
 In another terminal, run
-```
+
+```bash
 bundle exec jekyll serve
 ```
 which serves the website at http://localhost:4000/
@@ -201,12 +210,12 @@ You'll want to install ruby and node.js, if you haven't already. If you need to 
 #### Setting up Jekyll
 Once ruby is installed, install jekyll and bundler gems with
 
-```
+```bash
 gem install jekyll bundler
 ```
 
 If you are setting up your environment, you can set up the ruby environment with
 
-```
+```bash
 bundle install
 ```
