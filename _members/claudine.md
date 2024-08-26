@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Claudine Chen
 description: multidisciplinary artist
 thumb: /assets/img/members/claudine/me_lemon.jpg

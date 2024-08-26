@@ -1,5 +1,6 @@
 ---
 layout: member
+current: false
 full_name: Valerio Sangiacomo
 description: painter / graphic designer
 thumb: /assets/img/members/no_image.png
@@ -10,3 +11,4 @@ portfolio_image_locations:
 website: 
 socials: 
 ---
+

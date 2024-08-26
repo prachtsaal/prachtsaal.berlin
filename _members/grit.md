@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Grit Schuster
 description: animator, visual and generative artist
 thumb: /assets/img/members/grit/gritkit_overview.jpg

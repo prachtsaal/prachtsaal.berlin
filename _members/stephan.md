@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Stephan van Kuyk
 description: visual artist
 thumb: /assets/img/members/stephan/thumb-stephan.jpg

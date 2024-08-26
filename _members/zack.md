@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Zack Helwa
 description: multidisciplinary artist
 thumb: /assets/img/members/zack/thumb-zack.png
