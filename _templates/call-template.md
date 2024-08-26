@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: call
 title: 
 subtitle: 
 main_image: 
@@ -9,8 +9,6 @@ images:
     label: 
   - file: 
     label: 
-link: 
-link_text: 
 tags: 
 ---
 Add your content here.

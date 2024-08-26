@@ -25,6 +25,10 @@ h2 {
     @apply text-2xl my-8;
 }
 
+h3 {
+    @apply text-xl my-4;
+}
+
 .nav-x {
     @apply mx-8 sm:mx-16;
 }
@@ -37,8 +41,12 @@ ul {
     @apply list-disc list-inside
 }
 
+img {
+    display: block;
+}
+
 figure {
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     margin-top: 10px;
     font-style: italic;
 }

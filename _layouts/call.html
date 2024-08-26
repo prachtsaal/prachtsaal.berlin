@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<div class="flex justify-center">
+    <div class="flex-col mx-12 lg:max-w-6xl items-center">
+
+        <header class="flex flex-col mt-28 mb-16 mx-28 text-center font-prachtsaal">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="text-sm my-2">{{ page.subtitle }}<br>{{ page.date | date: "%d %B %Y" }}</h2>
+            {% endif %}
+        </header>
+
+        <div class="flex flex-col items-center">
+
+            <div class="md:w-[760px]">
+                {% if page.main_image %}
+                <img src="{{ page.main_image }}">
+                {% endif %}
+            </div>
+
+            <div class="my-16 md:w-[760px]">
+                {{ content | markdownify }}
+            </div>
+
+            {% if page.images%}
+            <div class="grid grid-flow-row md:grid-cols-2 lg:grid-cols-3 justify-center gap-2">
+                {% for image in page.images %}
+                    {% include figure.html src=image.file title=image.label%}
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            <div class="my-16 md:w-[760px]">
+                You’re super welcome to drop by and check the spaces in person while also meeting us.
+                <br><br>
+                
+                Additionally, there’s a nice luminous foyer that we’re currently using for our exhibitions, a kitchen, a
+                Kellar, a garden (80 m<sup>2</sup>), a wood workshop, and our venue (50 m<sup>2</sup>), which is suitable for
+                events (such as workshops, concerts, art exhibitions, etc.).
+                <br><br>
+
+                On this note, it’s important to add that most of the current tenants are in the process of forming a non-profit
+                cooperative (Genossenschaft): if you’re interested in collaborating with us and shape the vision of Prachtsaal as an
+                artistic nexus of culture and education, we’ll be more than happy to share further information with you and
+                consider your application as one of the members.
+
+            </div>
+
+            <div class="grid grid-row md:grid-cols-2 justify-center gap-2">
+                {% include figure.html src="/assets/img/news/foyer.jpeg" title="The entry of Prachtsaal" %}
+                {% include figure.html src="/assets/img/news/garden.jpeg" title="Our garden" %}
+              </div>
+
+            <div class="my-16 md:w-[760px]">
+                <h2>Applying</h2>
+                If you are interested, please send your application to:
+                <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;">&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;</a>
+                including your portfolio, and an artist CV. If you don't have a CV, no worries, please send us any links to your online presence, and a list of relevant performances, exhibitions, residencies, or education.
+                The space is only to be used as an art atelier, so we just would like to see that you do have an art practice of some kind.
+                
+                <h3>Next steps</h3>
+                <ul>
+                <li>You visit the studio.
+                <li>Because the studio is an art cooperative, the cooperative members will vote on new members. We will let you know
+                    after the vote, which will take at least a week to give members time to vote.
+                </ul>
+    
+            </div>
+        </div>
+    </div>
+</div>
