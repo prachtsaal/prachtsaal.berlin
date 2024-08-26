@@ -30,10 +30,6 @@ layout: default
                       <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="{{ image.file }}" alt="image description">
                       <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">{{ image.label }}</figcaption>
                     </figure>
-
-
-
-
                 {% endfor %}
             </div>
             {% endif %}
@@ -55,8 +51,15 @@ layout: default
             </div>
 
             <div class="grid grid-row md:grid-cols-2 justify-center gap-2">
-                {% include figure.html src="/assets/img/news/foyer.jpeg" title="The entry of Prachtsaal" %}
-                {% include figure.html src="/assets/img/news/garden.jpeg" title="Our garden" %}
+                    <figure class="max-w-lg">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="/assets/img/news/foyer.webp" alt="">
+                      <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">The entry of Prachtsaal</figcaption>
+                    </figure>
+
+                    <figure class="max-w-lg">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="/assets/img/news/garden.webp" alt="">
+                      <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Our garden</figcaption>
+                    </figure>
               </div>
 
             <div class="my-16 md:w-[760px]">
