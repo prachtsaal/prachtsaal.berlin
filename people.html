@@ -2,6 +2,7 @@
 layout: default
 title: the people.
 orgs-title: the communities.
+alumni-title: alumni.
 description: members and associated organizations
 ---
 <header class="mx-8 my-28">
@@ -9,13 +10,13 @@ description: members and associated organizations
 </header>
 
 <div class="flex justify-center mb-28">
-
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
         {% for member in site.members %}
+        {% if member.current != false %}
         <div class="w-full max-w-64 lg:w-64 member">
             {% assign content = member.content | strip_newlines %}
 
-            {% if content != "" %}
+            {% if content != ""  %}
             <a href="{{ member.url }}">
             {% endif %}
 
@@ -32,10 +33,43 @@ description: members and associated organizations
             </a>
             {% endif %}
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 </div>
 
+<h1 class="min-[460px]:mx-8 mb-28">
+    {{ page.alumni-title }}
+</h1>
+
+<div class="flex justify-center mb-28">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
+        {% for member in site.members %}
+        {% if member.current == false %}
+        <div class="w-full max-w-64 lg:w-64 member">
+            {% assign content = member.content | strip_newlines %}
+
+            {% if content != ""  %}
+            <a href="{{ member.url }}">
+            {% endif %}
+
+                {% if member.thumb %}
+                <img class="w-64 object-cover" src="{{ member.thumb }}">
+                {% endif %}
+
+                <span class="member-text">
+                  <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
+                  <span class="font-prachtsaal">{{ member.description }}</span>
+                </span>
+
+            {% if content != "" %}
+            </a>
+            {% endif %}
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
 
 <h1 class="min-[460px]:mx-8 mb-28">
     {{ page.orgs-title }}
@@ -54,7 +88,6 @@ description: members and associated organizations
                     <div class="font-prachtsaal">{{ org.name }}</div>
                 </div>
                 {% endif %}
-
             </a>
         </div>
         {% endif %}
