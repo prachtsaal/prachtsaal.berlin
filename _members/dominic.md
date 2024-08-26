@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Dominic Hillerkuss
 description: interdisciplinary artist
 thumb: /assets/img/members/dominic/dominic-thumb.jpg

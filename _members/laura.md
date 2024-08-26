@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Polanska Laura
 description: multidisciplinary artist / photographer
 thumb: /assets/img/members/laura/thumb-laura.jpg

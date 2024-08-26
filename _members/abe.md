@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Abe Pazos Solatie
 description: computational artist
 thumb: /assets/img/members/abe/thumb-abe.jpg

@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Robert König aka RØB // TAPE OVER
 description: tape artist / installation artist
 thumb: /assets/img/members/robert/thumb-robert.jpg

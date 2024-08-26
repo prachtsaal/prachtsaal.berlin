@@ -1,4 +1,5 @@
 # prachtsaal.berlin
+
 The website of Prachtsaal Studios.
 It is developed using Jekyll and tailwindcss. 
 
@@ -146,7 +147,7 @@ If you want to change anything related to spacing and design, you'll need to cha
 
 You'd like to develop the design elements and code for the website? Thank you! 
 
-This website is built using Jekyll and tailwindcss. Jekyll uses Liquid to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formating.
+This website is built using Jekyll and tailwindcss. [Jekyll](https://jekyllrb.com/) uses [Liquid](https://shopify.github.io/liquid/) to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formating.
 
 To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind.
 
