@@ -15,50 +15,29 @@ add-js: newsletter.js
     {{ content | markdownify }}
   </div>
 
-  <h1>news</h1>
 
-<div class="flex justify-center mb-28">
+  <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
 
-  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mx-8">
-    {% assign all_news = site.posts | where: "categories", "news" %}
-    {% for news in all_news %}
-      {% capture news_seconds %}{{news.date | date: '%s'}}{% endcapture %}
-      {% capture news_date %}{{news.date | date: '%Y-%m-%d'}}{% endcapture %}
-
-      {% capture date_string %} {{news.date | date: "%d.%m.%Y"}}{% endcapture %}
-
-      {% if news_seconds >= now_seconds %}
-      
-      <div class="w-full max-w-64 lg:w-64 links-without-underline">
-          <div class="font-prachtsaal text-right text-sm">{{ date_string }}</div>
-          <a href="{{ news.url }}" class="flex flex-col">
-              {% if news.main_image %}
-              <img class="w-64" src="{{ news.main_image }}">
-              {% endif %}
-              <div class="font-prachtsaal font-bold text-lg">{{ news.title }}</div>
-              <hr class="border-1 border-black">
-              <div class="font-prachtsaal">{{ news.subtitle }}</div>
-              <div class="mt-2">{{ news.description }}</div>
-          </a>
-      </div>
-      {% endif %}
-  {% endfor %}
-  </div>
-</div>
-
-</div>
-
-<!-- videos -->
-<div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
-
-  <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-  <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
+    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+  </div>
+
 </div>
 
+<!-- TODO add news/events, open calls are news -->
+<!-- <h1>recent events</h1>
+<div class="flex flex-row">
+  {% for post in site.posts limit:2 %}
+  <div>
+    <img src="{{ post.thumb }}">
+  
+  </div>
+  {% endfor %}
+</div> -->
 
-<!-- contact -->
+
 <div class="bg-black text-white p-16">
   <h1 class="mb-4"><a name="contact"></a>contact us</h1>
   <div class="flex flex-row justify-center">
