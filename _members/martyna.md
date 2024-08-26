@@ -1,5 +1,6 @@
 ---
 layout: member
+current: true
 full_name: Martyna Lebryk
 description: painter
 thumb: /assets/img/members/martyna/thumb-martyna.jpg
