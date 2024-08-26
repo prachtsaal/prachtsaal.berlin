@@ -26,7 +26,14 @@ layout: default
             {% if page.images%}
             <div class="grid grid-flow-row md:grid-cols-2 lg:grid-cols-3 justify-center gap-2">
                 {% for image in page.images %}
-                    {% include figure.html src=image.file title=image.label%}
+                    <figure class="max-w-lg">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="{{ image.file }}" alt="image description">
+                      <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">{{ image.label }}</figcaption>
+                    </figure>
+
+
+
+
                 {% endfor %}
             </div>
             {% endif %}
@@ -70,3 +77,5 @@ layout: default
         </div>
     </div>
 </div>
+
+{% include lightbox.html %}
