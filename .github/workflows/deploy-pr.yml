@@ -1,26 +1,36 @@
 name: Deploy PR CI
 on:
   pull_request
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  release:
-    name: Deploy website
+  deploy-preview:
+    name: Deploy website PR review
+    concurrency: preview-${{ github.ref }}
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '[skip ci]') && (contains(github.event.comment.body, 'Deploy') || contains(github.event.comment.body, 'deploy') || github.event_name == 'push' || github.event_name == 'pull_request')"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1.5'
           bundler-cache: true
+
       - name: Build static site
         run: bundle exec jekyll build
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
         with:
-          node-version: 18
-      - name: Install surge
-        run: npm install -g surge
-      - name: Deploy
-        run: surge _site/ ${{ vars.SURGE_PREFIX }}-${{ github.head_ref }}.${{ vars.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }} 
+          source-dir: _site
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview

@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - 39-pr-preview-with-github-pages
   workflow_dispatch:  # allows manual trigger
 
 permissions:
