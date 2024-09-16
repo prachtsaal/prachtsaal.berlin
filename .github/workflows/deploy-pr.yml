@@ -28,7 +28,7 @@ jobs:
           bundler-cache: true
 
       - name: Build static site
-        run: bundle exec jekyll build --baseurl $BASEURL 
+        run: bundle exec jekyll build --baseurl "${{ env.BASEURL }} 
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
