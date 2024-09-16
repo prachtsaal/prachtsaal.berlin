@@ -10,6 +10,7 @@ images:
     label: 
   - file: /assets/img/events/neon-gods/2024-48hoursNK-group-shot.png
     label: 
+tags: exhibition portfolio
 ---
 
 The Neon Gods They Made, is a fragment of
