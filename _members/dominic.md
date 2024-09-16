@@ -9,7 +9,7 @@ portfolio_image_locations:
   - /assets/img/members/dominic/dominic-photo1.jpg
   - /assets/img/members/dominic/dominic-photo2.jpg
   - /assets/img/members/dominic/dominic-photo3.jpg
-website: www.hi-ks.net
+website: https://www.hi-ks.net
 socials:
   - https://www.instagram.com/dominic.hllkss
   - https://www.facebook.com/HikssArts/
