@@ -18,6 +18,8 @@ The events page, found in file `events.html`, is coded up and built from other c
 
 The events shown as upcoming can be found in the `events` folder. We use Jekyll's support of `posts` for events and news. This means that the file needs to have the date in the filename in the form `yyyy-mm-dd-title.md`, and Jekyll will also automatically parse this information from the file name for you, and offer it as a `date` parameter. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
 
+If the event will occur over a range of dates, please set the date in the filename as the final day - this allows the event to show in the upcoming events section until the final day. You can set the start date in the front matter, as seen below.
+
 An preconfigured template of a markdown file can be found in `_templates/event-template.md`. 
 
 ```
@@ -85,6 +87,8 @@ If you want to change anything related to spacing and design, you'll need to cha
 ### people page
 The people page, which is found at `people.html`, is automatically built from text files in the `_members` directory and `_data/communities.yml` file.
 
+If a member hasn't submitted member page text or images, you can force that a link not be created to a member page from the people page. This is done by making sure there is nothing past the front matter, meaning, if the last line in the member markdown file is the second `---`.
+
 #### member pages
 Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the people page, and each member's page. It defines text, and where relevant files are.
 
@@ -147,9 +151,9 @@ If you want to change anything related to spacing and design, you'll need to cha
 
 You'd like to develop the design elements and code for the website? Thank you! 
 
-This website is built using Jekyll and tailwindcss. [Jekyll](https://jekyllrb.com/) uses [Liquid](https://shopify.github.io/liquid/) to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formating.
+This website is built using Jekyll and tailwindcss. [Jekyll](https://jekyllrb.com/) uses [Liquid](https://shopify.github.io/liquid/) to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formatting.
 
-To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind.
+To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind. There is an installation guide below.
 
 ### To install the required `npm` dependencies
 
@@ -201,12 +205,13 @@ When you create a pull request, there are github actions that will deploy the bu
 
 ### Installation
 
-You'll want to install ruby and node.js, if you haven't already. If you need to install either of these, here are some helpful references:
+You'll want to install ruby, node.js, and tailwindcss if you haven't already. If you need to install any of these, here are some helpful references:
 
-- https://jekyllrb.com/docs/installation/ubuntu/
 - https://github.com/rubygems/rubygems?tab=readme-ov-file: you can install ruby with [rbenv](https://github.com/rbenv/rbenv)
-- https://tailwindcss.com/docs/installation
+- https://jekyllrb.com/docs/installation/ubuntu/
 - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
+- https://tailwindcss.com/docs/installation
+- https://tailwindcss.com/docs/editor-setup
 
 #### Setting up Jekyll
 Once ruby is installed, install jekyll and bundler gems with
