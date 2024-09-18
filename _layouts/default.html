@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <link href="/assets/css/styles.css" rel="stylesheet">
+  <link href={{ "/assets/css/styles.css" | relative_url }} rel="stylesheet">
   <title>
     {% assign prefix = "Prachtsaal Studio" %}
     {% if page.title == prefix %}
@@ -16,7 +16,7 @@
   <meta name="description" content="{{ page.description }}">
   {% endif %}
   {% if page.add-js %}
-  <script src="/assets/js/{{ page.add-js }}"></script>
+  <script src={{ "/assets/js/" | append: page.add-js | relative_url }}></script>
   {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <script src="/assets/js/menu.js"></script>
+  <script src={{ "/assets/js/menu.js" | relative_url }}></script>
 </body>
 
 </html>

@@ -3,6 +3,7 @@ email: info@prachtsaal.berlin
 description: >- # this means to ignore newlines until "baseurl:"
   Neukölln's non-profit art cooperative.
 url: "https://prachtsaal.berlin" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test"
 
 collections:
   members:

@@ -13,7 +13,7 @@ layout: default
 
         <div class="flex flex-col items-center">
             {% if page.main_image %}
-            <img src="{{ page.main_image }}">
+            <img src="{{ page.main_image | relative_url }}">
             {% endif %}
 
 
