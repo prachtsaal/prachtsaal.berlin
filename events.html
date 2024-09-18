@@ -30,9 +30,9 @@ add-js: future_events.js
         
         <div future-date="{{ event_date }}" class="w-full max-w-64 lg:w-64 links-without-underline">
             <div class="font-prachtsaal text-right text-sm">{{ date_string }}</div>
-            <a href="{{ event.url }}" class="flex flex-col">
+            <a href="{{ event.url | relative_url }}" class="flex flex-col">
                 {% if event.main_image %}
-                <img class="w-64" src="{{ event.main_image }}">
+                <img class="w-64" src="{{ event.main_image | relative_url }}">
                 {% endif %}
                 <div class="font-prachtsaal font-bold text-lg">{{ event.title }}</div>
                 <hr class="border-1 border-black">
@@ -56,9 +56,9 @@ add-js: future_events.js
             {% for event in portfolio_events %}
             <div class="w-full max-w-64 lg:w-64 links-without-underline">
                 <div class="font-prachtsaal text-right text-sm">{{ event.date | date: "%d.%m.%Y" }}</div>
-                <a href="{{ event.url }}">
+                <a href="{{ event.url | relative_url }}">
                     {% if event.main_image %}
-                    <img class="w-64" src="{{ event.main_image }}">
+                    <img class="w-64" src="{{ event.main_image | relative_url }}">
                     {% endif %}
                     <div class="font-prachtsaal font-bold text-lg">{{ event.title }}</div>
                     <div class="font-prachtsaal">{{ event.subtitle }}</div>
