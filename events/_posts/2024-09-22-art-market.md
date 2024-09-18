@@ -21,6 +21,6 @@ Sunday, 22.09, 14.00-20.00<br>
 <br>
 
 <video width="720" height="1280" controls>
-  <source src="/assets/video/the-art-market-3-reel-1-low.mp4" type="video/mp4">
+  <source src={{ "/assets/video/the-art-market-3-reel-1-low.mp4" | relative_url }} type="video/mp4">
   Your browser does not support the video tag.
 </video>

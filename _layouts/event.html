@@ -30,7 +30,7 @@ layout: default
 
         <div class="flex flex-col items-center">
             {% if page.main_image %}
-            <img src="{{ page.main_image }}">
+            <img src="{{ page.main_image | relative_url }}">
             {% endif %}
 
 
@@ -40,7 +40,7 @@ layout: default
 
             {% if page.link%}
                 <div class="text-center bg-purple-300 border-2 border-gray-200">
-                    <a href="{{ page.link }}" class="font-bold m-2">{{ page.link_text }}</a>
+                    <a href="{{ page.link | relative_url }}" class="font-bold m-2">{{ page.link_text }}</a>
                 </div>
             {% endif %}
 
