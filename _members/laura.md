@@ -9,9 +9,7 @@ portfolio_image_locations:
   - /assets/img/members/laura/portfolio-laura-1.jpg
   - /assets/img/members/laura/portfolio-laura-2.jpg
   - /assets/img/members/laura/portfolio-laura-3.jpg
-website: 
-socials: 
-website: https://www.polanskalaura.com
+website: https://cargocollective.com/polanska
 socials: 
   - https://www.instagram.com/polanskalaura/
 ---
