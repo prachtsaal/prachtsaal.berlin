@@ -3,7 +3,7 @@ layout: default
 add-js: newsletter.js
 ---
 {% assign bg_image =  "/assets/img/home/404_crop.jpeg" | relative_url %}
-<header class="bg-[url({{ bg_image }})] h-96 bg-center bg-cover">
+<header class="bg-[url('{{ bg_image }}')] h-96 bg-center bg-cover">
   <div class="py-24 px-4 text-white sm:px-24">
     <h1 class="text-left">{{ page.title }}</h1>
     <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
