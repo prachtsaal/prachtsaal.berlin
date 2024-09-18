@@ -20,14 +20,14 @@ layout: default
                     {% if page.website %}
                     <br>
                     <span class="font-bold">website:</span> 
-                    <a href="{{ page.website }}">{{ page.website }}</a>
+                    <a href="{{ page.website | relative_url }}">{{ page.website }}</a>
                     {% endif %}
                     {% if page.socials %}
                     <br>
                     <span class="font-bold">socials:</span><br>
                     <ul>
                         {% for link in page.socials %}
-                        <li><a href="{{ link }}">{{ link }}</a></li>
+                        <li><a href="{{ link | relative_url }}">{{ link }}</a></li>
                         {% endfor %}    
                     </ul>
                     {% endif %}
