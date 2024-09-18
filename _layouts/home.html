@@ -2,8 +2,8 @@
 layout: default
 add-js: newsletter.js
 ---
-{% assign bg_image =  "/assets/img/home/404_crop.jpeg" | relative_url %}
-<header class="bg-[url('{{ bg_image }}')] h-96 bg-center bg-cover">
+{% assign bg_image = "assets/img/home/404_crop.jpeg" | relative_url %}
+<header class="h-96 bg-center bg-cover" style="background-image: url({{ bg_image }});">
   <div class="py-24 px-4 text-white sm:px-24">
     <h1 class="text-left">{{ page.title }}</h1>
     <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
@@ -15,7 +15,6 @@ add-js: newsletter.js
   <div class="m-8 md:w-[760px] text-lg">
     {{ content | markdownify }}
   </div>
-
 
   <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
 
