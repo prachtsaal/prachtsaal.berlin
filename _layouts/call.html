@@ -15,7 +15,7 @@ layout: default
 
             <div class="md:w-[760px]">
                 {% if page.main_image %}
-                <img src="{{ page.main_image }}">
+                <img src="{{ page.main_image | relative_url }}">
                 {% endif %}
             </div>
 
@@ -27,7 +27,7 @@ layout: default
             <div class="grid grid-flow-row md:grid-cols-2 justify-center gap-2">
                 {% for image in page.images %}
                     <figure class="max-w-lg">
-                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="{{ image.file }}" alt="image description">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="{{ image.file | relative_url }}" alt="image description">
                       <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">{{ image.label }}</figcaption>
                     </figure>
                 {% endfor %}
@@ -52,12 +52,12 @@ layout: default
 
             <div class="grid grid-row md:grid-cols-2 justify-center gap-2">
                     <figure class="max-w-lg">
-                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="/assets/img/news/foyer.webp" alt="">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src={{ "/assets/img/news/foyer.webp" | relative_url }} alt="">
                       <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">The entry of Prachtsaal</figcaption>
                     </figure>
 
                     <figure class="max-w-lg">
-                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src="/assets/img/news/garden.webp" alt="">
+                      <img class="h-auto max-w-full rounded-lg caesar-lightbox cursor-pointer" src={{ "/assets/img/news/garden.webp" | relative_url }} alt="">
                       <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Our garden</figcaption>
                     </figure>
               </div>

@@ -960,10 +960,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/assets\/img\/home\/404_crop\.jpeg\'\)\]{
-  background-image: url('/assets/img/home/404_crop.jpeg');
-}
-
 .bg-cover{
   background-size: cover;
 }

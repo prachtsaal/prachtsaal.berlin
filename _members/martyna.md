@@ -10,7 +10,7 @@ portfolio_image_locations:
   - /assets/img/members/martyna/bad-influence.png
   - /assets/img/members/martyna/gloop.png
   - /assets/img/members/martyna/curly-legs.png
-website: www.martynalebryk.com
+website: https://www.martynalebryk.com
 socials: 
   - https://www.instagram.com/martynalebryk
 ---

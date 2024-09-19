@@ -13,7 +13,7 @@ socials:
   - https://www.instagram.com/xemantic.berlin/
   - https://www.youtube.com/channel/UCLWGRPqrPBS7CDuaPxODmRQ
   - https://vimeo.com/kazikpogoda
-  - https://medium.com/@kazikpogoda
+  - https://kazikpogoda.medium.com/
 ---
 
 My name is Kazik Pogoda and xemantic is a label I have been using as an umbrella for my projects. The Xemantic collective was born out of numerous collaborations with people sharing the same values. We usually meet and collaborate in Berlin, at Prachtsaal Studio, a beautiful space in the middle of Neukölln district.

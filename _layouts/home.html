@@ -2,7 +2,8 @@
 layout: default
 add-js: newsletter.js
 ---
-<header class="bg-[url('/assets/img/home/404_crop.jpeg')] h-96 bg-center bg-cover">
+{% assign bg_image = "assets/img/home/404_crop.jpeg" | relative_url %}
+<header class="h-96 bg-center bg-cover" style="background-image: url({{ bg_image }});">
   <div class="py-24 px-4 text-white sm:px-24">
     <h1 class="text-left">{{ page.title }}</h1>
     <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
@@ -14,7 +15,6 @@ add-js: newsletter.js
   <div class="m-8 md:w-[760px] text-lg">
     {{ content | markdownify }}
   </div>
-
 
   <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
 
@@ -48,11 +48,11 @@ add-js: newsletter.js
           12053 Berlin<br>
           <br>  
           <a href="https://instagram.com/prachtsaal" target="_blank">
-            <img src="/assets/img/Instagram_Glyph_white_logo.svg.webp" alt="Instagram logo" class="size-6 inline"> Instagram
+            <img src={{ "/assets/img/Instagram_Glyph_white_logo.svg.webp" | relative_url }} alt="Instagram logo" class="size-6 inline"> Instagram
           </a>
           <br>
           <a href="https://buttondown.com/prachtsaal.berlin" target="_blank">
-            <img src="/assets/img/buttondown-logo.webp" alt="Buttondown logo" class="size-6 inline"> Newsletter
+            <img src={{ "/assets/img/buttondown-logo.webp" | relative_url }} alt="Buttondown logo" class="size-6 inline"> Newsletter
           </a>
     </div>
   
