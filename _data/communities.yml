@@ -1,10 +1,10 @@
 - name: Tape Over
-  thumb: /assets/img/communities/tapeover.jpeg
+  thumb: /assets/img/communities/tapeover.webp
   website: https://tapeover.berlin/
   visible: true
 
 - name: Xemantic
-  thumb: /assets/img/communities/xemantic.png
+  thumb: /assets/img/communities/xemantic.webp
   website: https://xemantic.com/
   visible: true
 
@@ -14,22 +14,22 @@
   visible: true
 
 - name: Creative Code Berlin
-  thumb: /assets/img/communities/ccb.jpeg
+  thumb: /assets/img/communities/ccb.webp
   website: https://creativecode.berlin/
   visible: true
 
-- name: OPEN RNDR
-  thumb: /assets/img/communities/openrndr.png
+- name: OPENRNDR
+  thumb: /assets/img/communities/openrndr.webp
   website: https://openrndr.org/
   visible: true
 
 - name: Processing Foundation
-  thumb: /assets/img/communities/processingfoundation.jpeg
+  thumb: /assets/img/communities/processingfoundation.webp
   website: https://processingfoundation.org/
   visible: true
 
 - name: Toplap Berlin
-  thumb: /assets/img/communities/toplapberlin.png
+  thumb: /assets/img/communities/toplapberlin.webp
   website: https://toplap.berlin/
   visible: true
 
@@ -39,11 +39,11 @@
   visible: true
 
 - name: School of Machines, Making, and Make Believe
-  thumb: /assets/img/communities/schoolofma.jpeg
+  thumb: /assets/img/communities/schoolofma.webp
   website: https://www.schoolofma.org/
   visible: true
 
 - name: Vetro Editions
-  thumb: /assets/img/communities/vetro.png
+  thumb: /assets/img/communities/vetro.webp
   website: https://vetroeditions.com/
   visible: true

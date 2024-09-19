@@ -6,9 +6,9 @@ main_image: /assets/img/events/2024-art-market/The-Art-Market-3-posters-04-crop.
 description: 
 start_date: 2024-09-20
 images: 
-  - file: /assets/img/events/2024-art-market/20231202_173014_Original-scaled.jpeg
-  - file: /assets/img/events/2024-art-market/20231202_175128_Original-768x1024.jpeg
-  - file: /assets/img/events/2024-art-market/20231202_175141_Original-768x1024.jpeg
+  - file: /assets/img/events/2024-art-market/20231202_173014_Original-scaled.webp
+  - file: /assets/img/events/2024-art-market/20231202_175128_Original-768x1024.webp
+  - file: /assets/img/events/2024-art-market/20231202_175141_Original-768x1024.webp
 ---
 
 
