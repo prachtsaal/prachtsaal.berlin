@@ -200,7 +200,12 @@ The events page has two sections, an upcoming events section, and an events port
 
 All the pages use the layout `default.html` - this layout includes the navigation bar and footer, and required js and css. The html for the navigation bar is at `_includes/navigation.html`, and the html for the footer is at `_includes/footer.html`.
 
-When you create a pull request, there are github actions that will deploy the built site to surge.sh. The url for the website is `prachtsaal-berlin-<branch name>.surge.sh`.
+When you create a pull request, a GitHub action called [PR Preview Action](https://github.com/rossjrw/pr-preview-action) 
+will run automatically, creating a preview website to verify
+everything looks good before the team decides to accept the pull request. The URL of that temporary
+website will be visible in a auto-generated comment under the pull request.
+It will look like `https://prachtsaal.github.io/prachtsaal.berlin/pr-preview/pr-NN/`,
+where NN is the pull request number.
 
 
 ### Installation
