@@ -8,7 +8,7 @@ start_date: 2024-06-28
 images: 
   - file: /assets/img/events/neon-gods/neon-gods-full.jpg
     label: 
-  - file: /assets/img/events/neon-gods/2024-48hoursNK-group-shot.png
+  - file: /assets/img/events/neon-gods/2024-48hoursNK-group-shot.webp
     label: 
 tags: exhibition portfolio
 ---

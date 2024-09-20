@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Stephan van Kuyk
 description: visual artist
-thumb: /assets/img/members/stephan/thumb-stephan.jpg
-portrait: /assets/img/members/stephan/portrait-stephan.jpg
+thumb: /assets/img/members/stephan/thumb-stephan.webp
+portrait: /assets/img/members/stephan/portrait-stephan.webp
 portfolio_image_locations:
   - /assets/img/members/stephan/guitar.webp
   - /assets/img/members/stephan/20220109_125615-scaled.webp
-  - /assets/img/members/stephan/svk_apollo_2022_main.jpg
+  - /assets/img/members/stephan/svk_apollo_2022_main.webp
 website: https://whothefuckismr.vankuyk.art/ 
 socials:
   - https://www.instagram.com/stephan_vankuyk

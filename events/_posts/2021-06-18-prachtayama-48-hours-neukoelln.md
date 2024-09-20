@@ -2,10 +2,10 @@
 layout: event
 title: Prachtayama
 subtitle: 48 Hours Neukölln
-main_image: /assets/img/events/prachtayama/PRACHTSAAL STUDIO_PRACHTAYAMA.jpg
+main_image: /assets/img/events/prachtayama/PRACHTSAAL STUDIO_PRACHTAYAMA.webp
 description: An group exhibition inspired by Pranayama
 images: 
-  - file: /assets/img/events/prachtayama/PRACHTSAAL STUDIO_LOATION.jpg
+  - file: /assets/img/events/prachtayama/PRACHTSAAL STUDIO_LOATION.webp
     label: Prachtsaal Studio
 tags: exhibition portfolio
 ---

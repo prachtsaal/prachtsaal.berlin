@@ -6,9 +6,9 @@ description: interdisciplinary artist
 thumb: /assets/img/members/dominic/dominic-thumb.jpg
 portrait: /assets/img/members/dominic/dominic-portrait.jpg
 portfolio_image_locations:
-  - /assets/img/members/dominic/dominic-photo1.jpg
-  - /assets/img/members/dominic/dominic-photo2.jpg
-  - /assets/img/members/dominic/dominic-photo3.jpg
+  - /assets/img/members/dominic/dominic-photo1.webp
+  - /assets/img/members/dominic/dominic-photo2.webp
+  - /assets/img/members/dominic/dominic-photo3.webp
 website: https://www.hi-ks.net
 socials:
   - https://www.instagram.com/dominic.hllkss

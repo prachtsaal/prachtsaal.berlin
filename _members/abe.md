@@ -3,7 +3,7 @@ layout: member
 current: true
 full_name: Abe Pazos Solatie
 description: computational artist
-thumb: /assets/img/members/abe/thumb-abe.jpg
+thumb: /assets/img/members/abe/thumb-abe.webp
 portrait: /assets/img/members/abe/portrait-abe.webp
 portfolio_image_locations:
   - /assets/img/members/abe/aBe-ALifeCycle.webp

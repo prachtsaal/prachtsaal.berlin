@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Robert König aka RØB // TAPE OVER
 description: tape artist / installation artist
-thumb: /assets/img/members/robert/thumb-robert.jpg
-portrait: /assets/img/members/robert/Rob_Portrait_IBUG.jpg
+thumb: /assets/img/members/robert/thumb-robert.webp
+portrait: /assets/img/members/robert/Rob_Portrait_IBUG.webp
 portfolio_image_locations:
   - /assets/img/members/robert/wave_Trouville_bw.webp
   - /assets/img/members/robert/meinestadt_blueprint_detail_ankle.webp
-  - /assets/img/members/robert/art_elizabeth_back.jpg
+  - /assets/img/members/robert/art_elizabeth_back.webp
   - /assets/img/members/robert/Neuland_Mehr Theater_head_hand_total.webp
 website: https://tapeover.berlin
 socials: 

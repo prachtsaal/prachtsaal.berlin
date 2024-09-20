@@ -3,13 +3,13 @@ layout: event
 title: Processing Community Catalog Reading
 subtitle: Hosted by Creative Code Berlin &mdash; with special guest Casey Reas
 description: A warm evening with Casey Reas and the Processing community in Berlin.
-main_image: /assets/img/events/processing-catalog/an-introduction-by-casey-reas.jpeg
+main_image: /assets/img/events/processing-catalog/an-introduction-by-casey-reas.webp
 images: 
-  - file: /assets/img/events/processing-catalog/casey-reas-and-olivia-jack.jpeg
+  - file: /assets/img/events/processing-catalog/casey-reas-and-olivia-jack.webp
     label: Casey Reas and Olivia Jack
-  - file: /assets/img/events/processing-catalog/so-kanno-and-omii-chen.jpeg
+  - file: /assets/img/events/processing-catalog/so-kanno-and-omii-chen.webp
     label: So Kanno and Omii Chen
-  - file: /assets/img/events/processing-catalog/rachel-uwa.jpeg
+  - file: /assets/img/events/processing-catalog/rachel-uwa.webp
     label: Rachel Uwa
   - file: /assets/img/events/processing-catalog/processing-community-catalog.jpeg
     label: Processing Community Catalog

@@ -3,14 +3,14 @@ layout: member
 current: true
 full_name: Grit Schuster
 description: animator, visual and generative artist
-thumb: /assets/img/members/grit/gritkit_overview.jpg
-portrait: /assets/img/members/grit/gritkit_subpage.jpg
+thumb: /assets/img/members/grit/gritkit_overview.webp
+portrait: /assets/img/members/grit/gritkit_subpage.webp
 portfolio_image_locations:
-  - /assets/img/members/grit/gritkit_portfolio_01.jpg
-  - /assets/img/members/grit/gritkit_portfolio_02.jpg
-  - /assets/img/members/grit/gritkit_portfolio_03.jpg
-  - /assets/img/members/grit/gritkit_portfolio_04.jpg
-  - /assets/img/members/grit/gritkit_portfolio_05.jpg
+  - /assets/img/members/grit/gritkit_portfolio_01.webp
+  - /assets/img/members/grit/gritkit_portfolio_02.webp
+  - /assets/img/members/grit/gritkit_portfolio_03.webp
+  - /assets/img/members/grit/gritkit_portfolio_04.webp
+  - /assets/img/members/grit/gritkit_portfolio_05.webp
 website: https://gritschuster.de/
 socials:
   - https://www.instagram.com/gritkitvisuals
