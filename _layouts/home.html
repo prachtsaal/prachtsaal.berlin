@@ -27,15 +27,16 @@ add-js: newsletter.js
 </div>
 
 <!-- TODO add news/events, open calls are news -->
-<!-- <h1>recent events</h1>
-<div class="flex flex-row">
-  {% for post in site.posts limit:2 %}
-  <div>
-    <img src="{{ post.thumb }}">
-  
+{% assign all_news = site.posts | where: "categories", "news" %}
+<h1>news</h1>
+<div class="flex flex-col">
+  {% for news_item in all_news limit:2 %}
+  <div class="flex flex-col m-8">
+    <h2>{{ news_item.title }}</h2>
+    <p>{{ news_item.description }}</p>
   </div>
   {% endfor %}
-</div> -->
+</div>
 
 
 <div class="bg-black text-white p-16">
