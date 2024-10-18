@@ -29,12 +29,16 @@ add-js: newsletter.js
 <!-- TODO add news/events, open calls are news -->
 {% assign all_news = site.posts | where: "categories", "news" %}
 <h1>news</h1>
-<div class="flex flex-col">
+<div class="flex flex-col items-center links-without-underline">
   {% for news_item in all_news limit:2 %}
-  <div class="flex flex-col m-8">
+  <a href="{{ news_item.url }}">
+  <div class="m-8 md:w-[760px] text-lg border-r-8 border-white hover:border-lime-500 transition-colors duration-300">
     <h2>{{ news_item.title }}</h2>
+    <p class="text-sm text-slate-400">{{ news_item.date | date: "%b %d, %Y" }}</p>
     <p>{{ news_item.description }}</p>
+    <p class="underline">Read more...</p>
   </div>
+  </a>
   {% endfor %}
 </div>
 
