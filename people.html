@@ -53,7 +53,8 @@ description: members and associated organizations
             <a href="{{ member.url | relative_url }}">
             {% endif %}
 
-                {% if member.thumb %}
+                {% if member.thumb contains "no_image.svg" %}
+                {% else%}
                 <img class="w-64 object-cover" src="{{ member.thumb | relative_url }}">
                 {% endif %}
 

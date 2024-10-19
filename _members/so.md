@@ -1,8 +1,8 @@
 ---
 layout: member
-current: true
-full_name: Marta Muschietti
-description: illustrator / graphic designer
+current: false
+full_name: So Kanno
+description: roboticist
 thumb: /assets/img/members/no_image.svg
 portrait: /assets/img/members/no_image.svg
 portfolio_image_locations:

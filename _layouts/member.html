@@ -18,22 +18,35 @@ layout: default
                     {{ content | markdownify }}
 
                     {% if page.website %}
-                    <br>
-                    <span class="font-bold">website:</span> 
-                    <a href="{{ page.website | relative_url }}">{{ page.website }}</a>
+                    {% if page.website.first %}
+                      <br><span class="font-bold">websites:</span> 
+                      <ul>
+                      {% for www in page.website %}
+                        <li><a href="{{ www | relative_url }}">{{ www }}</a></li>
+                      {% endfor %}
+                      </ul>
+                    {% else %}
+                      <br><span class="font-bold">website:</span> 
+                      <a href="{{ page.website | relative_url }}">{{ page.website }}</a>
                     {% endif %}
+                    {% endif %}
+
                     {% if page.socials %}
-                    <br>
-                    <span class="font-bold">socials:</span><br>
+                    {% if page.socials.first %}
+                    <br><span class="font-bold">socials:</span><br>
                     <ul>
                         {% for link in page.socials %}
                         <li><a href="{{ link | relative_url }}">{{ link }}</a></li>
                         {% endfor %}    
                     </ul>
+                    {% else %}
+                      <br><span class="font-bold">social:</span> 
+                      <a href="{{ page.socials | relative_url }}">{{ page.socials }}</a>
+                    {% endif %}
                     {% endif %}
                 </div>
-                {% if page.portfolio_image_locations %}
 
+                {% if page.portfolio_image_locations %}
                 <br>
                 <div class="grid grid-flow-row lg:grid-col-3 gap-2">
                     {% for image in page.portfolio_image_locations %}

@@ -1,8 +1,8 @@
 ---
 layout: member
 current: true
-full_name: Marta Muschietti
-description: illustrator / graphic designer
+full_name: Eva Maria Resch 
+description: writer, painter
 thumb: /assets/img/members/no_image.svg
 portrait: /assets/img/members/no_image.svg
 portfolio_image_locations:
@@ -11,3 +11,4 @@ portfolio_image_locations:
 website: 
 socials: 
 ---
+
