@@ -90,6 +90,7 @@ The people page, which is found at `people.html`, is automatically built from te
 If a member hasn't submitted member page text or images, you can force that a link not be created to a member page from the people page. This is done by making sure there is nothing past the front matter, meaning, if the last line in the member markdown file is the second `---`.
 
 #### member pages
+
 Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the people page, and each member's page. It defines text, and where relevant files are.
 
 ```
@@ -110,6 +111,7 @@ socials:
 
 This is the text of your personal page. (10)
 ```
+
 - (1) delineates the front matter, is required
 - (2) required configuration for the framework (Jekyll)
 - (3) shown in list view, and personal page
@@ -117,9 +119,10 @@ This is the text of your personal page. (10)
 - (5) location of image in list view
 - (6) location of portrait in personal page
 - (7) file location of portfolio image shown in personal page
-- (8) website url
-- (9) list the links to your socials
+- (8) website url. If more than one, use a list like in socials.
+- (9) list the links to your socials.
 - (10) the text you want shown on your personal page
+
 
 
 #### communities section
