@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Dominic Hillerkuss
 description: interdisciplinary artist
-thumb: /assets/img/members/dominic/dominic-thumb.jpg
-portrait: /assets/img/members/dominic/dominic-portrait.jpg
+thumb: /assets/img/members/dominic-hillerkuss/dominic-thumb.jpg
+portrait: /assets/img/members/dominic-hillerkuss/dominic-portrait.jpg
 portfolio_image_locations:
-  - /assets/img/members/dominic/dominic-photo1.webp
-  - /assets/img/members/dominic/dominic-photo2.webp
-  - /assets/img/members/dominic/dominic-photo3.webp
+  - /assets/img/members/dominic-hillerkuss/dominic-photo1.webp
+  - /assets/img/members/dominic-hillerkuss/dominic-photo2.webp
+  - /assets/img/members/dominic-hillerkuss/dominic-photo3.webp
 website: https://www.hi-ks.net
 socials:
   - https://www.instagram.com/dominic.hllkss

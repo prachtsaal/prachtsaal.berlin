@@ -3,13 +3,13 @@ layout: member
 current: true
 full_name: Abe Pazos Solatie
 description: computational artist
-thumb: /assets/img/members/abe/aBe-thumb.webp
-portrait: /assets/img/members/abe/aBe-portrait.webp
+thumb: /assets/img/members/abe-pazos-solatie/aBe-thumb.webp
+portrait: /assets/img/members/abe-pazos-solatie/aBe-portrait.webp
 portfolio_image_locations:
-  - /assets/img/members/abe/aBe-ALifeCycle.webp
-  - /assets/img/members/abe/aBe-dave-screenshot-1.webp
-  - /assets/img/members/abe/aBe-ratkaisu-multiplica-render3.webp
-  - /assets/img/members/abe/aBe-tracing-the-line-closeup.webp
+  - /assets/img/members/abe-pazos-solatie/aBe-ALifeCycle.webp
+  - /assets/img/members/abe-pazos-solatie/aBe-dave-screenshot-1.webp
+  - /assets/img/members/abe-pazos-solatie/aBe-ratkaisu-multiplica-render3.webp
+  - /assets/img/members/abe-pazos-solatie/aBe-tracing-the-line-closeup.webp
 website: https://www.hamoid.com
 socials: https://genart.social/@hamoid
 ---

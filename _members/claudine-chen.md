@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Claudine Chen
 description: multidisciplinary artist
-thumb: /assets/img/members/claudine/me_lemon.webp
-portrait: /assets/img/members/claudine/portrait-claudine.webp
+thumb: /assets/img/members/claudine-chen/me_lemon.webp
+portrait: /assets/img/members/claudine-chen/portrait-claudine.webp
 portfolio_image_locations:
-  - /assets/img/members/claudine/kaleidoscope_nisyros.webp
-  - /assets/img/members/claudine/package-weaving.webp
-  - /assets/img/members/claudine/timeinplace.webp
+  - /assets/img/members/claudine-chen/kaleidoscope_nisyros.webp
+  - /assets/img/members/claudine-chen/package-weaving.webp
+  - /assets/img/members/claudine-chen/timeinplace.webp
 website: https://mingness.github.io
 socials:
   - https://www.instagram.com/mingness

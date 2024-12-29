@@ -3,14 +3,14 @@ layout: member
 current: true
 full_name: Roberta Maddalena (Bireau) 
 description: painter / filmmaker
-thumb: /assets/img/members/roberta/Roberta-thumb.webp
-portrait: /assets/img/members/roberta/Roberta-portrait.webp
+thumb: /assets/img/members/roberta-maddalena-bireau/Roberta-thumb.webp
+portrait: /assets/img/members/roberta-maddalena-bireau/Roberta-portrait.webp
 portfolio_image_locations:
-  - /assets/img/members/roberta/Roberta_01.webp
-  - /assets/img/members/roberta/Roberta_02.webp
-  - /assets/img/members/roberta/Roberta_03.webp
-  - /assets/img/members/roberta/Roberta_04.webp
-  - /assets/img/members/roberta/Roberta_05.webp
+  - /assets/img/members/roberta-maddalena-bireau/Roberta_01.webp
+  - /assets/img/members/roberta-maddalena-bireau/Roberta_02.webp
+  - /assets/img/members/roberta-maddalena-bireau/Roberta_03.webp
+  - /assets/img/members/roberta-maddalena-bireau/Roberta_04.webp
+  - /assets/img/members/roberta-maddalena-bireau/Roberta_05.webp
 website:
   - https://www.robertamaddalena.com
   - https://www.bireau.com
