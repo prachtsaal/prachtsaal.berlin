@@ -3,11 +3,11 @@ layout: member
 current: true
 full_name: Kazik Pogoda
 description: computational artist
-thumb: /assets/img/members/kazik/thumb-kazik.webp
-portrait: /assets/img/members/kazik/kazik-pogoda-at-coart-timisoara.webp
+thumb: /assets/img/members/kazik-pagoda/thumb-kazik.webp
+portrait: /assets/img/members/kazik-pagoda/kazik-pogoda-at-coart-timisoara.webp
 portfolio_image_locations:
-  - /assets/img/members/kazik/negentropy-miniature.jpg
-  - /assets/img/members/kazik/angels-in-america-miniature.jpg
+  - /assets/img/members/kazik-pagoda/negentropy-miniature.jpg
+  - /assets/img/members/kazik-pagoda/angels-in-america-miniature.jpg
 website: https://xemantic.com/ 
 socials: 
   - https://www.instagram.com/xemantic.berlin/

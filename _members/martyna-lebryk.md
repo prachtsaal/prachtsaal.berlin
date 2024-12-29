@@ -3,13 +3,13 @@ layout: member
 current: true
 full_name: Martyna Lebryk
 description: painter
-thumb: /assets/img/members/martyna/thumb-martyna.webp
-portrait: /assets/img/members/martyna/Martyna-Lebryk-colour.webp
+thumb: /assets/img/members/martyna-lebryk/thumb-martyna.webp
+portrait: /assets/img/members/martyna-lebryk/Martyna-Lebryk-colour.webp
 portfolio_image_locations:
-  - /assets/img/members/martyna/crocodile-tears.webp
-  - /assets/img/members/martyna/bad-influence.webp
-  - /assets/img/members/martyna/gloop.webp
-  - /assets/img/members/martyna/curly-legs.webp
+  - /assets/img/members/martyna-lebryk/crocodile-tears.webp
+  - /assets/img/members/martyna-lebryk/bad-influence.webp
+  - /assets/img/members/martyna-lebryk/gloop.webp
+  - /assets/img/members/martyna-lebryk/curly-legs.webp
 website: https://www.martynalebryk.com
 socials: 
   - https://www.instagram.com/martynalebryk

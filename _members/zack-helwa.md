@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Zack Helwa
 description: multidisciplinary artist
-thumb: /assets/img/members/zack/thumb-zack.webp
-portrait: /assets/img/members/zack/zack_portrait.webp
+thumb: /assets/img/members/zack-helwa/thumb-zack.webp
+portrait: /assets/img/members/zack-helwa/zack_portrait.webp
 portfolio_image_locations:
-  - /assets/img/members/zack/zack_portfolio_01.webp
-  - /assets/img/members/zack/zack_portfolio_02.webp
-  - /assets/img/members/zack/zack_portfolio_03.webp
+  - /assets/img/members/zack-helwa/zack_portfolio_01.webp
+  - /assets/img/members/zack-helwa/zack_portfolio_02.webp
+  - /assets/img/members/zack-helwa/zack_portfolio_03.webp
 website: 
 socials: 
 ---
