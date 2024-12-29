@@ -7,6 +7,15 @@ Jekyll allows you to edit markdown files, which are then compiled and integrated
 
 tailwindcss is a css framework which allows you to define css using user friendly classes in your html.
 
+## Decap Demo with Members profiles
+
+to run locally, run
+```
+npx decap-server
+bundle exec jekyll serve
+```
+then navigate to the route `/admin`. It will show the decap dashboard without the need to login.
+
 
 ## Content Revision
 
