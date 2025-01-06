@@ -1,7 +1,7 @@
 ---
 layout: member
 current: true
-full_name: Kazik Pagoda
+full_name: Kazik Pogoda
 description: computational artist
 thumb: /assets/img/members/kazik/thumb-kazik.webp
 portrait: /assets/img/members/kazik/kazik-pogoda-at-coart-timisoara.webp
