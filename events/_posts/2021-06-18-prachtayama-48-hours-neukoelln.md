@@ -51,5 +51,5 @@ painting & sculpture
 Luca Bendandi / 
 VETRO EDITIONS, publishing, graphic design & sculpture
 
-Kazik Pagoda / 
+Kazik Pogoda / 
 XEMANTIC, generative art
