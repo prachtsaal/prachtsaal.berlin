@@ -9,8 +9,9 @@ portfolio_image_locations:
   - /assets/img/members/zack-helwa/zack_portfolio_01.webp
   - /assets/img/members/zack-helwa/zack_portfolio_02.webp
   - /assets/img/members/zack-helwa/zack_portfolio_03.webp
-website: 
-socials: 
+website: https://zackhelwa.com/
+socials:
+  - https://www.instagram.com/zhelwa/
 ---
 After studying BFA Photography at the New York School of Visual Arts, Zack
 Helwa relocated to Berlin, Germany, where he currently resides and works. He

@@ -13,19 +13,77 @@ collections:
     identifier_field: full_name
     folder: "_members" # The path to the folder where the documents are stored
     media_folder: '../{{media_folder}}/members/{{slug}}/'
+    public_folder: '/assets/img/members/{{slug}}/'
     create: true # Allow users to create new documents in this collection
     slug: "{{ slug }}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "member" }
-      - { label: "Current Member", name: "current", widget: "boolean", default: true }
-      - { label: "Full Name", name: "full_name", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Thumbnail Image", name: "thumb", widget: "image", required: false }
-      - { label: "Portrait", name: "portrait", widget: "image", required: false }
-      - { label: "Portfolio Images", name: "portfolio_image_locations", widget: "list" }
-      - { label: "Website", name: "website", widget: "string", required: false }
-      - { label: "Social links", name: "socials", widget: "list" }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { 
+        label: "Layout", 
+        name: "layout", 
+        widget: "hidden", 
+        default: "member" 
+      }
+      - { 
+        label: "Current Member", 
+        name: "current", 
+        widget: "boolean", 
+        default: true 
+      }
+      - { 
+        label: "Full Name", 
+        name: "full_name", 
+        widget: "string" 
+      }
+      - { 
+        label: "Description", 
+        name: "description", 
+        widget: "string", 
+        hint: "Visual artist? Sound artist?" 
+      }
+      - { 
+        label: "Thumbnail Image", 
+        name: "thumb", 
+        widget: "image", 
+        required: false, 
+        hint: "Square image, 400x400, webp format, shown in the People list" 
+      }
+      - { 
+        label: "Portrait", 
+        name: "portrait", 
+        widget: "image", 
+        required: false,
+        hint: "Portrait displayed in the artist's page. Max 1920x1920, webp format."
+      }
+      - { 
+        label: "Portfolio Images", 
+        name: "portfolio_image_locations", 
+        widget: "list", 
+        field: {
+          label: Portfolio Image, 
+          name: image, 
+          widget: image,
+        },
+        hint: "Artwork examples. Max 1920x1920, webp format."
+      }
+      - { 
+        label: "Website", 
+        name: "website", 
+        widget: "string", 
+        required: false,
+        hint: "If provided, starts with https://"
+      }
+      - { 
+        label: "Social links", 
+        name: "socials", 
+        widget: "list",
+        field: { label: "URL", name: "url", widget: "string" }
+      }
+      - { 
+        label: "Body", 
+        name: "body", 
+        widget: "markdown", 
+        required: false 
+      }
 
   # - name: "events" # Used in routes, e.g., /admin/collections/blog
   #   label: "Events" # Used in the UI
