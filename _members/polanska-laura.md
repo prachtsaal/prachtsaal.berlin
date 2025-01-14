@@ -3,12 +3,12 @@ layout: member
 current: true
 full_name: Polanska Laura
 description: multidisciplinary artist / photographer
-thumb: /assets/img/members/laura/thumb-laura.jpg
-portrait: /assets/img/members/laura/portrait-laura.jpg
+thumb: /assets/img/members/polanska-laura/thumb-laura.jpg
+portrait: /assets/img/members/polanska-laura/portrait-laura.jpg
 portfolio_image_locations:
-  - /assets/img/members/laura/portfolio-laura-1.jpg
-  - /assets/img/members/laura/portfolio-laura-2.jpg
-  - /assets/img/members/laura/portfolio-laura-3.jpg
+  - /assets/img/members/polanska-laura/portfolio-laura-1.jpg
+  - /assets/img/members/polanska-laura/portfolio-laura-2.jpg
+  - /assets/img/members/polanska-laura/portfolio-laura-3.jpg
 website: https://cargocollective.com/polanska
 socials: 
   - https://www.instagram.com/polanskalaura/
