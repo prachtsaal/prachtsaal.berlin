@@ -8,6 +8,28 @@ backend:
 media_folder: "assets/img" 
 
 collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "/index.md"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - label: "About page"
+        name: "about"
+        file: "/about.md"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - label: "Impressum"
+        name: "impressum"
+        file: "/impressum.md"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
   - name: "members" # Used in routes, e.g., /admin/collections/members
     label: "Members" # Used in the UI
     identifier_field: full_name
