@@ -9,32 +9,29 @@ Welcome to Prachtsaal, a vibrant and dynamic creative nexus, built on two interc
 
 Join us at Prachtsaal, where creativity knows no bounds and every day is an invitation to explore, learn, and grow together!
 
-
 ## Our mission
+
 At Prachtsaal, we are committed to:
 
-- Showcasing visual arts, music, and performances that embody creative expression across all mediums, intersecting with the realms of humanities, society, science, and technology.
-- Providing affordable ateliers for artists.
-- Curating inclusive events for the benefit of both the local community and a wider audience.
-- Educating all generations in art techniques and culture.
-- Promoting international artist collaborations on-site.
+* Showcasing visual arts, music, and performances that embody creative expression across all mediums, intersecting with the realms of humanities, society, science, and technology.
+* Providing affordable ateliers for artists.
+* Curating inclusive events for the benefit of both the local community and a wider audience.
+* Educating all generations in art techniques and culture.
+* Promoting international artist collaborations on-site.
 
 ## How are we achieving our goals
 
 To realize our mission, we:
 
-- Offer shared facilities that encourage the exploration of various artistic mediums.
-- Cultivate a safe, diverse, and inclusive environment.
-- Ensure our space is easily accessible to everyone.
-- Uphold a democratic management process.
-- Seek professional support to drive our mission forward.
-- Undertake necessary renovations and reconstructions.
-- Strive for the economic sustainability of our space.
-- Maintain our non-profit status.
-
-
+* Offer shared facilities that encourage the exploration of various artistic mediums.
+* Cultivate a safe, diverse, and inclusive environment.
+* Ensure our space is easily accessible to everyone.
+* Uphold a democratic management process.
+* Seek professional support to drive our mission forward.
+* Undertake necessary renovations and reconstructions.
+* Strive for the economic sustainability of our space.
+* Maintain our non-profit status.
 
 ## Prachtsaal: A Cooperative in the Making
 
-We are embarking on an exciting journey to become a registered non-profit cooperative (gemeinnützige Genossenschaft). This new chapter will unlock fresh realms of community engagement and transform our space into a dynamic hub of creativity. Beyond our ateliers and daily art practices, we will host regular concerts and performances, curate a gallery with ever-evolving exhibitions, and offer a lively space for workshops and education. Join us as we reimagine the future of art and community together!
-
+We are embarking on an exciting journey to become a registered non-profit cooperative (gemeinnützige Genossenschaft). This new chapter will unlock fresh realms of community engagement and transform our space into a dynamic hub of creativity. Beyond our ateliers and daily art practices, we will host regular concerts and performances, curate a gallery with ever-evolving exhibitions, and offer a lively space for workshops and education. Join us as we re-imagine the future of art and community together!
