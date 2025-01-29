@@ -4,6 +4,9 @@ title: Processing Community Catalog Reading
 subtitle: Hosted by Creative Code Berlin - with special guest Casey Reas
 main_image: /assets/img/events/processing-catalog/eventbrite-casey-reas.jpeg
 description: We are thrilled to have Casey Reas as our special guest for a special reading of the 20th Anniversary Processing Community Catalog. 
+post_date: 2023-09-01
+start_date: 2023-09-23
+end_date: 2023-09-23
 link: https://www.eventbrite.com/e/processing-community-catalog-reading-hosted-by-creative-code-berlin-with-special-guest-casey-reas-tickets-715281284577
 link_text: Register
 tags: talk announcement
