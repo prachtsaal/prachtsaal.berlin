@@ -47,7 +47,7 @@ layout: default
             {% if page.images%}
             <div class="grid grid-flow-row sm:grid-cols-2 lg:grid-cols-3 justify-center gap-2">
                 {% for image in page.images %}
-                    {% include figure.html src=image.file title=image.label%}
+                    {% include figure.html src=image.file title=image.caption%}
                 {% endfor %}
             </div>
             {% endif %}
