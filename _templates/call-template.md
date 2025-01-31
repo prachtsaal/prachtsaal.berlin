@@ -6,9 +6,9 @@ main_image:
 description: 
 images: 
   - file: 
-    label: 
+    caption: 
   - file: 
-    label: 
+    caption: 
 tags: 
 ---
 Add your content here.
