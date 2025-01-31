@@ -9,7 +9,7 @@ add-js: future_events.js
     <h1>{{ page.title }}</h1>
 </header>
 
-{% assign portfolio_events = site.events | where: "tags", "portfolio" %}
+{% assign portfolio_events = site.documents | where: "tags", "portfolio" %}
 {% capture now_seconds %}{{'now' | date: '%s'}}{% endcapture %}
 
 <div class="flex justify-center mb-28">
