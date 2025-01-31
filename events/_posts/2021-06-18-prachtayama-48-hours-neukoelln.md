@@ -6,7 +6,7 @@ main_image: /assets/img/events/2021-06-18-prachtayama/PRACHTSAAL STUDIO_PRACHTAY
 description: An group exhibition inspired by Pranayama
 images: 
   - file: /assets/img/events/2021-06-18-prachtayama/PRACHTSAAL STUDIO_LOATION.webp
-    label: Prachtsaal Studio
+    caption: Prachtsaal Studio
 tags: exhibition portfolio
 ---
 An group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.

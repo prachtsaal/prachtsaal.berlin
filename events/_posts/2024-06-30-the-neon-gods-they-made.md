@@ -7,9 +7,7 @@ description:
 start_date: 2024-06-28
 images: 
   - file: /assets/img/events/2024-06-30-the-neon-gods-they-made/neon-gods-full.jpg
-    label: 
   - file: /assets/img/events/2024-06-30-the-neon-gods-they-made/2024-48hoursNK-group-shot.webp
-    label: 
 tags: exhibition portfolio
 ---
 
