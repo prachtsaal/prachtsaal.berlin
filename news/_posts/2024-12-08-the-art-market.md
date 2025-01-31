@@ -2,13 +2,13 @@
 layout: event
 title: The Art Market
 subtitle: by Artist Stop Being Poor
-main_image: /assets/img/events/2024-art-market/The-Art-Market-4-poster.webp
+main_image: /assets/img/events/2024-12-08-the-art-market/The-Art-Market-4-poster.webp
 description: Visit us between Friday and Sunday during for a unique opportunity to meet artists and buy unique presents for friends and family.
 start_date: 2024-12-06
 images: 
-  - file: /assets/img/events/2024-art-market/20231202_173014_Original-scaled.webp
-  - file: /assets/img/events/2024-art-market/20231202_175128_Original-768x1024.webp
-  - file: /assets/img/events/2024-art-market/20231202_175141_Original-768x1024.webp
+  - file: /assets/img/events/2024-12-08-the-art-market/20231202_173014_Original-scaled.webp
+  - file: /assets/img/events/2024-12-08-the-art-market/20231202_175128_Original-768x1024.webp
+  - file: /assets/img/events/2024-12-08-the-art-market/20231202_175141_Original-768x1024.webp
 ---
 
 
