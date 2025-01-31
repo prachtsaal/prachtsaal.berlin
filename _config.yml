@@ -11,6 +11,9 @@ collections:
   events:
     sort_by: start_date
     output: true
+  news:
+    sort_by: publish_date
+    output: true
 
 future: true
 
