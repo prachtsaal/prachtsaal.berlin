@@ -7,7 +7,13 @@ url: "https://prachtsaal.berlin" # the base hostname & protocol for your site, e
 collections:
   members:
     sort_by: full_name
-    output: true  # uncomment if want member pages
+    output: true
+  events:
+    sort_by: start_date
+    output: true
+  news:
+    sort_by: publish_date
+    output: true
 
 future: true
 
