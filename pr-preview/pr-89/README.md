@@ -23,11 +23,9 @@ You'd like to maintain the content of the website? Thank you!
 
 ### events page
 
-The events page, found in file `events.html`, is coded up and built from other content, like the contents of the `events` and `news` folders. If you want to change the content shown, you'll want to change the content in these two folders.
+The events page, found in file `events.html`, is coded up and built from other content, like the contents of the `_events` and `_news` folders. If you want to change the content shown, you'll want to change the content in these two folders.
 
-The events shown as upcoming can be found in the `events` folder. We use Jekyll's support of `posts` for events and news. This means that the file needs to have the date in the filename in the form `yyyy-mm-dd-title.md`, and Jekyll will also automatically parse this information from the file name for you, and offer it as a `date` parameter. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
-
-If the event will occur over a range of dates, please set the date in the filename as the final day - this allows the event to show in the upcoming events section until the final day. You can set the start date in the front matter, as seen below.
+The events shown as upcoming can be found in the `_events` folder. We use Jekyll's support of `collections` for events and news. To ensure the file name is unique, the filename should be in the form `yyyy-mm-dd-title.md`. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
 
 An preconfigured template of a markdown file can be found in `_templates/event-template.md`. 
 
@@ -39,6 +37,7 @@ subtitle:                     (4)
 main_image:                   (5)
 description:                  (6)
 start_date:                   (17)
+end_date:                     (18)
 quote:                        (7)
 quote_author:                 (8)
 quote_author_role:            (9)
@@ -69,7 +68,8 @@ Add your content here.        (16)
 - (14) the text of the button, that clicks to the link
 - (15) tags are used for labeling if an event will be shown in the portfolio, with text `portfolio`. if it should not be shown in the portfolio, don't put a tag
 - (16) text content for the vent
-- (17) if the event has a range of dates, please put the start date here, in the format YYYY-MM-DD, and use the end date for the event date in the file (this allows the javascript that automatically removes past dates from the list of future dates to remove it only when the end date has past)
+- (17) the start date of the event, in the format YYYY-MM-DD.
+- (18) the end date date of the event, in the format YYYY-MM-DD. If the event is only one day, use the same date for both start and end date.
 
 ### home page
 
