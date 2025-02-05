@@ -143,6 +143,11 @@ collections:
         name: "main_image"
         widget: "image"
         required: false
+
+      - label: "Featured caption"
+        name: "featured_caption"
+        widget: string
+        required: false
       
       - label: "Images"
         name: "images" 
