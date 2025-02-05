@@ -28,7 +28,8 @@ add-js: newsletter.js
 
 <h1>news</h1>
 <div class="flex flex-col items-center links-without-underline">
-  {% for news_item in site.news limit:2 %}
+  {% assign items = site.news | sort: 'publish_date' | reverse %}
+  {% for news_item in items limit:2 %}
   <a href="{{ news_item.url | relative_url }}">
   <div class="m-8 md:w-[760px] text-lg border-r-8 border-white hover:border-lime-500 transition-colors duration-300">
     <h2>{{ news_item.title }}</h2>
