@@ -27,30 +27,27 @@ The events page, found in file `events.html`, is coded up and built from other c
 
 The events shown as upcoming can be found in the `_events` folder. We use Jekyll's support of `collections` for events and news. To ensure the file name is unique, the filename should be in the form `yyyy-mm-dd-title.md`. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
 
-An preconfigured template of a markdown file can be found in `_templates/event-template.md`. 
+An preconfigured template of a markdown file can be found in `_templates/entry-template.md`. 
 
 ```
 ---                           (1)
-layout: event                 (2)
+layout: entry                 (2)
 title:                        (3)
 subtitle:                     (4)
 main_image:                   (5)
 description:                  (6)
-start_date:                   (17)
-end_date:                     (18)
-quote:                        (7)
-quote_author:                 (8)
-quote_author_role:            (9)
-images:                       (10)
-  - file:                     (11)
-    caption:                  (12)
+date:                         (14)
+end_date:                     (15)
+images:                       (7)
+  - file:                     (8)
+    caption:                  (9)
   - file: 
     caption: 
-link:                         (13)
-link_text:                    (14)
-tags: portfolio               (15)
+link:                         (10)
+link_text:                    (11)
+tags: portfolio               (12)
 ---                           (1)
-Add your content here.        (16)
+Add your content here.        (13)
 ```
 - (1) delineates the front matter, is required
 - (2) required configuration for the framework (Jekyll)
@@ -58,18 +55,15 @@ Add your content here.        (16)
 - (4) shown in list view, and as subtitle of event page
 - (5) location of the main image, shown in list view, and on event page
 - (6) description of event shown in list view, text the describes the page for search engines
-- (7) event pages supports a quote as header
-- (8) you can attribute the quote to an author
-- (9) the quote author can also have a further descriptor
-- (10) all images you wish to show at the bottom of the page should be listed here
-- (11) the location of the image file. It's important that there are two spaces at the beginning of the line
-- (12) the text of the image caption
-- (13) a link for ticket sales, or registration, which will show as a button
-- (14) the text of the button, that clicks to the link
-- (15) tags are used for labeling if an event will be shown in the portfolio, with text `portfolio`. if it should not be shown in the portfolio, don't put a tag
-- (16) text content for the vent
-- (17) the start date of the event, in the format YYYY-MM-DD.
-- (18) the end date date of the event, in the format YYYY-MM-DD. If the event is only one day, use the same date for both start and end date.
+- (7) all images you wish to show at the bottom of the page should be listed here
+- (8) the location of the image file. It's important that there are two spaces at the beginning of the line
+- (9) the text of the image caption
+- (10) a link for ticket sales, or registration, which will show as a button
+- (11) the text of the button, that clicks to the link
+- (12) tags are used for labeling if an event will be shown in the portfolio, with text `portfolio`. if it should not be shown in the portfolio, don't put a tag
+- (13) text content for the vent
+- (14) the (start) date of the event, in the format YYYY-MM-DD.
+- (15) the end date date of the event, in the format YYYY-MM-DD. If the event is only one day, can omit, or use the same date for both date and end date.
 
 ### home page
 

@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: entry
 title: Tape Art Sessions for Kids
 subtitle: Artist-run workshops
 description: "Let's create with tape! In this 3-hour workshop designed for kids
@@ -8,12 +8,13 @@ description: "Let's create with tape! In this 3-hour workshop designed for kids
   bold,  unique designs using vibrant adhesive tapes. In this workshop, one
   of  our seasoned tape artists will guide young creators through the basics  of
   tape art. "
-start_date: 2025-02-16
+date: 2025-02-16
 end_date: 2025-03-16
 main_image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_1.jpg
 images:
   - image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
     caption: Close up of various coloured tapes
+tags: news
 ---
 Let's create with tape! In this 3-hour workshop designed for kids aged 
 6–13 (accompanied by a guardian), kids will explore the exciting 

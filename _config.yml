@@ -9,10 +9,10 @@ collections:
     sort_by: full_name
     output: true
   events:
-    sort_by: start_date
+    sort_by: date
     output: true
   news:
-    sort_by: publish_date
+    sort_by: date
     output: true
 
 future: true
