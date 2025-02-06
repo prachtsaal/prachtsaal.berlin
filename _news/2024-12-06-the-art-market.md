@@ -9,9 +9,9 @@ start_date: 2024-12-06
 end_date: 2024-12-08
 event_title: The Art Market
 images: 
-  - file: /assets/img/events/2024-12-06-the-art-market/20231202_173014_Original-scaled.webp
-  - file: /assets/img/events/2024-12-06-the-art-market/20231202_175128_Original-768x1024.webp
-  - file: /assets/img/events/2024-12-06-the-art-market/20231202_175141_Original-768x1024.webp
+  - image: /assets/img/events/2024-12-06-the-art-market/20231202_173014_Original-scaled.webp
+  - image: /assets/img/events/2024-12-06-the-art-market/20231202_175128_Original-768x1024.webp
+  - image: /assets/img/events/2024-12-06-the-art-market/20231202_175141_Original-768x1024.webp
 ---
 
 

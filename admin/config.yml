@@ -30,6 +30,143 @@ collections:
         fields: 
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+
+  - name: "events" # Used in routes, e.g., /admin/collections/events
+    label: "Events" # Used in the UI
+    identifier_field: title
+    folder: "_events" # The path to the folder where the documents are stored
+    media_folder: '../{{media_folder}}/events/{{start_date}}-{{slug}}/'
+    public_folder: '/assets/img/events/{{start_date}}-{{slug}}/'
+    create: true # Allow users to create new documents in this collection
+    slug: "{{start_date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - label: "Layout" 
+        name: "layout"
+        hidden: true
+        default: "event" 
+      
+      - label: "Title"
+        name: "title"
+        widget: "string" 
+      
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+        required: false
+      
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+      
+      - label: "Start Date"
+        name: "start_date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+      - label: "End Date"
+        name: "end_date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+
+      - label: "Featured Image"
+        name: "main_image"
+        widget: "image"
+        required: false
+      
+      - label: "Images"
+        name: "images" 
+        widget: "list"
+        required: false
+        fields: 
+          - {label: Image, name: image, widget: image}
+          - {label: Caption, name: caption, widget: string}
+    
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        required: false
+        multiple: true
+        options: ["portfolio"]
+        
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: false 
+
+  - name: "news" # Used in routes, e.g., /admin/collections/news
+    label: "News" # Used in the UI
+    identifier_field: title
+    folder: "_news" # The path to the folder where the documents are stored
+    media_folder: '../{{media_folder}}/events/{{start_date}}-{{event_title}}/'
+    public_folder: '/assets/img/events/{{start_date}}-{{event_title}}/'
+    create: true # Allow users to create new documents in this collection
+    slug: "{{publish_date}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - label: "Layout" 
+        name: "layout"
+        hidden: true
+        default: "event" 
+      
+      - label: "Title"
+        name: "title"
+        widget: "string" 
+      
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+        required: false
+      
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+      
+      - label: "Publish Date"
+        name: "publish_date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+        default: "{{now}}"
+
+      - label: "Event Title"
+        name: "event_title"
+        widget: "string" 
+      - label: "Event Start Date"
+        name: "start_date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+      - label: "Event End Date"
+        name: "end_date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+
+      - label: "Featured Image"
+        name: "main_image"
+        widget: "image"
+        required: false
+
+      - label: "Featured caption"
+        name: "featured_caption"
+        widget: string
+        required: false
+      
+      - label: "Images"
+        name: "images" 
+        widget: "list"
+        required: false
+        fields: 
+          - {label: Image, name: image, widget: image}
+          - {label: Caption, name: caption, widget: string}
+    
+      - label: "Tags"
+        name: "tags"
+        widget: "hidden"
+        default: "news"
+        
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: false 
+
   - name: "members" # Used in routes, e.g., /admin/collections/members
     label: "Members" # Used in the UI
     identifier_field: full_name
@@ -106,39 +243,3 @@ collections:
         widget: "markdown", 
         required: false 
       }
-
-  # - name: "events" # Used in routes, e.g., /admin/collections/blog
-  #   label: "Events" # Used in the UI
-  #   folder: "events/_posts" # The path to the folder where the documents are stored
-  #   create: true # Allow users to create new documents in this collection
-  #   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  #   fields: # The fields for each document, usually in front matter
-  #     - { label: "Layout", name: "layout", widget: "hidden", default: "event" }
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Subtitle", name: "subtitle", widget: "string" }
-  #     - { label: "Main Image", name: "main_image", widget: "image" }
-  #     - { label: "Description", name: "description", widget: "string" }
-  #     - { label: "Start Date", name: "start_date", widget: "string" }
-  #     - { label: "Quote", name: "quote", widget: "string" }
-  #     - { label: "Quote Author", name: "quote_author", widget: "string" }
-  #     - { label: "Quote Author Role", name: "quote_author_role", widget: "string" }
-  #     - { label: "Images", name: "images", widget: "object" }
-  #       - { label: "File", name: "images", widget: "object" }
-  #       - { label: "Caption", name: "images", widget: "object" }
-  #     - { label: "Link", name: "link", widget: "string" }
-  #     - { label: "Link Text", name: "link_text", widget: "string" }
-  #     - { label: "Tags", name: "tags", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-
-  # - name: "news" # Used in routes, e.g., /admin/collections/blog
-  #   label: "News" # Used in the UI
-  #   folder: "news/_posts" # The path to the folder where the documents are stored
-  #   create: true # Allow users to create new documents in this collection
-  #   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  #   fields: # The fields for each document, usually in front matter
-  #     - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Publish Date", name: "date", widget: "datetime" }
-  #     - { label: "Featured Image", name: "thumbnail", widget: "image" }
-  #     - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
-  #     - { label: "Body", name: "body", widget: "markdown" }

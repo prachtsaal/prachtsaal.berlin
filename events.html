@@ -10,7 +10,8 @@ add-js: future_events.js
 </header>
 
 {% assign portfolio_events = site.documents | where: "tags", "portfolio" %}
-{% capture now_seconds %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture yesterday_seconds %}{{ site.time | date: '%s' | minus: 86400 }}{% endcapture %}
+<!-- use yesterday seconds, since todays time is greater than time 0, and we want an event with today's date with time 0 to appear -->
 
 <div class="flex justify-center mb-28">
 
@@ -25,7 +26,7 @@ add-js: future_events.js
         {% capture date_string %}{{event.start_date | date: "%d.%m.%Y"}} - {{event.end_date | date: "%d.%m.%Y"}}{% endcapture %}
         {% endif %}
         
-        {% if event_seconds >= now_seconds %}
+        {% if event_seconds >= yesterday_seconds %}
         
         <div future-date="{{ event_date }}" class="w-full max-w-64 lg:w-64 links-without-underline">
             <div class="font-prachtsaal text-right text-sm">{{ date_string }}</div>

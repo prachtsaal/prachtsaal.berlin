@@ -7,14 +7,16 @@ start_date: 2023-09-23
 end_date: 2023-09-23
 event_title: Processing Community Catalog Reading
 main_image: /assets/img/events/2023-09-23-processing-community-catalog-reading/an-introduction-by-casey-reas.webp
-images: 
-  - file: /assets/img/events/2023-09-23-processing-community-catalog-reading/casey-reas-and-olivia-jack.webp
+featured_caption: Casey Reas talking to the audience. A large Processing
+  Community Catalog projected behind him.
+images:
+  - image: /assets/img/events/2023-09-23-processing-community-catalog-reading/casey-reas-and-olivia-jack.webp
     caption: Casey Reas and Olivia Jack
-  - file: /assets/img/events/2023-09-23-processing-community-catalog-reading/so-kanno-and-omii-chen.webp
+  - image: /assets/img/events/2023-09-23-processing-community-catalog-reading/so-kanno-and-omii-chen.webp
     caption: So Kanno and Omii Chen
-  - file: /assets/img/events/2023-09-23-processing-community-catalog-reading/rachel-uwa.webp
+  - image: /assets/img/events/2023-09-23-processing-community-catalog-reading/rachel-uwa.webp
     caption: Rachel Uwa
-  - file: /assets/img/events/2023-09-23-processing-community-catalog-reading/processing-community-catalog.jpeg
+  - image: /assets/img/events/2023-09-23-processing-community-catalog-reading/processing-community-catalog.jpeg
     caption: Processing Community Catalog
 publish_date: 2023-09-23
 tags: portfolio
