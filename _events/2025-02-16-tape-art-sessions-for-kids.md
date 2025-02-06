@@ -28,6 +28,16 @@ vibrant tapes to bring their own unique designs to life. From clean
 geometric lines to playful curves and bold patterns, we encourage 
 following the imagination and experimenting.
 
+Tape Art Sessions are artist-led, artist-run workshops. We bring
+the joy, novelty, and versatility of tape art to the hands of the people!
+Right here in Neukölln, you can learn how to create your very own tape art
+piece.  Tape art is an accessible art form – you can do it without any
+previous experience. We provide all the materials you’ll need at our monthly
+workshops for kids and adults!  Berlin is home to many of today’s preeminent
+tape artists. These workshops pay homage to that history and encourage folks
+of all backgrounds to give it a try! Let’s keep the artistic spirit of this
+city alive. 
+
 ## Dates
 
 Sunday February 16th at 10:00

@@ -11,7 +11,7 @@ collections:
   events:
     sort_by: date
     output: true
-  news:
+  announcements:
     sort_by: date
     output: true
 

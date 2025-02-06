@@ -28,7 +28,7 @@ add-js: newsletter.js
 
 <h1>news</h1>
 <div class="flex flex-col items-center links-without-underline">
-  {% assign items = site.news | where: "tags", "news"  %}
+  {% assign items = site.documents | where: "tags", "news"  %}
   {% for news_item in items reversed %}
 <a href="{{ news_item.url | relative_url }}">
   <div class="m-8 md:w-[760px] text-lg border-r-8 border-white hover:border-lime-500 transition-colors duration-300">

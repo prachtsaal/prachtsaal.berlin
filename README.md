@@ -23,9 +23,9 @@ You'd like to maintain the content of the website? Thank you!
 
 ### events page
 
-The events page, found in file `events.html`, is coded up and built from other content, like the contents of the `_events` and `_news` folders. If you want to change the content shown, you'll want to change the content in these two folders.
+The events page, found in file `events.html`, is coded up and built from other content, like the contents of the `_events` and `_announcements` folders. If you want to change the content shown, you'll want to change the content in these two folders.
 
-The events shown as upcoming can be found in the `_events` folder. We use Jekyll's support of `collections` for events and news. To ensure the file name is unique, the filename should be in the form `yyyy-mm-dd-title.md`. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
+The events shown as upcoming can be found in the `_events` folder. We use Jekyll's support of `collections` for events and announcements. To ensure the file name is unique, the filename should be in the form `yyyy-mm-dd-title.md`. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
 
 An preconfigured template of a markdown file can be found in `_templates/entry-template.md`. 
 
@@ -191,18 +191,18 @@ The way tailwind works is that it only builds and includes the css that you are 
 
 ### Design considerations
 
-The way the website has been developed is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual news pages, individual member pages, the about page, and the home page. 
+The way the website has been developed is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual announcements pages, individual member pages, the about page, and the home page. 
 
 Specifically:
-- events are in the `/events/_posts` folder. The means that events are Jekyll posts (which have a special function in Jekyll) with the category of `events`. Event pages use the `_layouts/event.html` layout. More about Jekyll posts: https://jekyllrb.com/docs/posts/
-- news items are in the `/news/_posts` folder. This means that news are Jekyll posts, with the category of `news`. The intention is to put any announcements, such as open calls and event reports, in `news`. News pages use the `_layouts/news.html` layout.
+- events are in the `_events` folder. `events` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_events` folder can be accessed via `site.events`. Each event has its own markdown file, which uses the `_layouts/entry.html` layout.
+- announcements items are in the `_announcements` folder. `announcements` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_announcements` folder can be accessed via `site.announcements`. Each announcement has its own markdown file, which uses the `_layouts/entry.html` layout.
 - member pages are in the `_members` folder. `members` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_members` folder can be accessed via `site.members`. Each member has their own markdown file, which uses the `_layouts/member.html` layout.
 - the about page is an example of a generic text only page, which uses the `_layouts/page.html` layout.
 - the home page is a custom page, but because there is a little bit of text in it, it is a layout, that can be called by the `index.md` file. That way, the text for the home page, and the titles, can be changed relatively easily.
 
 What's not in markdown are the events and people pages, which compile information in other files, and layouts, which are html templates that markdown files will use, named in the front matter with the key `layout`. These html files are mostly Liquid templating language, html, and tailwind css classes. 
 
-The events page has two sections, an upcoming events section, and an events portfolio. The upcoming events section is filtered by the `events` category (no `news` items will be considered), by date at build time (only future dates are considered), and then at load time, javascript (`/assets/js/future_events.js`) will further remove events that are in the past. The events portfolio section filters all posts (including the `news` category) on the tag `portfolio`. If a future event has been labeled with the tag `portfolio`, it will be shown in the events porfolio section.
+The events page has two sections, an upcoming events section, and an events portfolio. by date at build time (only future dates are considered), and then at load time, javascript (`/assets/js/future_events.js`) will further remove events that are in the past. The events portfolio section filters all posts (including the `announcements` category) on the tag `portfolio`. If a future event has been labeled with the tag `portfolio`, it will be shown in the events porfolio section.
 
 All the pages use the layout `default.html` - this layout includes the navigation bar and footer, and required js and css. The html for the navigation bar is at `_includes/navigation.html`, and the html for the footer is at `_includes/footer.html`.
 

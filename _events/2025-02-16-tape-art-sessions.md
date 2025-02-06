@@ -2,7 +2,7 @@
 layout: entry
 title: Tape Art Sessions
 subtitle: Artist-run workshops
-description: Discover  tape art in this 4-hour, hands-on workshop! One of our
+description: Discover tape art in this 4-hour, hands-on workshop! One of our
   seasoned tape  artists will share with you the secrets of this bold and
   fascinating  medium.
 date: 2025-02-16
@@ -15,8 +15,7 @@ images:
     caption: Proud participants displaying their tape art creations
 tags: news
 ---
-Discover
- tape art in this 4-hour, hands-on workshop! One of our seasoned tape 
+Discover tape art in this 4-hour, hands-on workshop! One of our seasoned tape 
 artists will share with you the secrets of this bold and fascinating 
 medium.
 
@@ -43,6 +42,16 @@ an A3 board containing your tape artwork. If you’re ready to create more
 Whether you’re an experienced artist or just looking for a fresh way to 
 express yourself, this workshop will show you how you can use tape to 
 shape something extraordinary.
+
+Tape Art Sessions are artist-led, artist-run workshops. We bring
+the joy, novelty, and versatility of tape art to the hands of the people!
+Right here in Neukölln, you can learn how to create your very own tape art
+piece.  Tape art is an accessible art form – you can do it without any
+previous experience. We provide all the materials you’ll need at our monthly
+workshops for kids and adults!  Berlin is home to many of today’s preeminent
+tape artists. These workshops pay homage to that history and encourage folks
+of all backgrounds to give it a try! Let’s keep the artistic spirit of this
+city alive. 
 
 ## Dates
 
