@@ -9,9 +9,9 @@ date: 2025-02-16
 end_date: 2025-03-16
 main_image: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_1.jpg
 images:
-  - image: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_2.jpg
+  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_2.jpg
     caption: Close up of various coloured tapes
-  - image: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_3.jpg
+  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_3.jpg
     caption: Proud participants displaying their tape art creations
 tags: news
 ---

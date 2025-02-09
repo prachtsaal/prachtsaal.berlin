@@ -12,7 +12,7 @@ date: 2025-02-16
 end_date: 2025-03-16
 main_image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_1.jpg
 images:
-  - image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
+  - file: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
     caption: Close up of various coloured tapes
 tags: news
 ---
