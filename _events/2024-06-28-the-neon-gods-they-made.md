@@ -1,10 +1,10 @@
 ---
-layout: event
+layout: entry
 title: The Neon Gods They Made
 subtitle: 48 Hours Neukölln
 main_image: /assets/img/events/2024-06-28-the-neon-gods-they-made/neon-gods-thumb.jpg
 description: 
-start_date: 2024-06-28
+date: 2024-06-28
 end_date: 2024-06-30
 images: 
   - file: /assets/img/events/2024-06-28-the-neon-gods-they-made/neon-gods-full.jpg

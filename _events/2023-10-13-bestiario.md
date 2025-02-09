@@ -1,14 +1,10 @@
 ---
-layout: event
+layout: entry
 title: bestiario
 subtitle: A solo exhibition by Seudo
 main_image: /assets/img/events/2023-10-13-bestiario/bestiario.webp
 description: The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements.
-start_date: 2023-10-13
-end_date: 2023-10-13
-quote: bestiario carries itself the premise that we are the beasts that have come to devour everything, even ourselves
-quote_author: Stephan Van Kuyk
-quote_author_role: Curator
+date: 2023-10-13
 tags: exhibition portfolio 
 ---
 The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements.

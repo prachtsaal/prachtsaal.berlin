@@ -1,10 +1,10 @@
 ---
-layout: event
+layout: entry
 title: The Art Market
 subtitle: by Artist Stop Being Poor
 main_image: /assets/img/events/2024-09-20-the-art-market/The-Art-Market-3-posters-04-crop.webp
 description: 
-start_date: 2024-09-20
+date: 2024-09-20
 end_date: 2024-09-22
 images: 
   - file: /assets/img/events/2024-09-20-the-art-market/20231202_173014_Original-scaled.webp

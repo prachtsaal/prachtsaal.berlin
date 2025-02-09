@@ -1,9 +1,11 @@
 ---
-layout: news
+layout: entry
 title: 
 subtitle: 
 main_image: 
 description: 
+date:
+end_date:
 images: 
   - file: 
     caption: 
