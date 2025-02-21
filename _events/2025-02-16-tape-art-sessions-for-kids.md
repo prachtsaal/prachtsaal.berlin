@@ -48,4 +48,4 @@ Sunday March 16th at 10:00
 
 ## Participate
 
-👉 [Details and registration here](<>) 👈
+👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-for-kids-tickets-1214695038559) 👈

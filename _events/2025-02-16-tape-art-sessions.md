@@ -63,4 +63,5 @@ Sunday March 16th at 14:00
 
 ## Participate
 
-👉 [Details and registration here](<>) 👈
+
+👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-tickets-1214703002379) 👈
