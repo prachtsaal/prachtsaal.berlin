@@ -7,11 +7,11 @@ description: Discover tape art in this 4-hour, hands-on workshop! One of our
   fascinating  medium.
 date: 2025-04-13
 end_date: 2025-07-13
-main_image: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_1.jpg
+main_image: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_1.jpg
 images:
-  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_2.jpg
+  - file: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_2.jpg
     caption: Close up of various coloured tapes
-  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_3.jpg
+  - file: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_3.jpg
     caption: Proud participants displaying their tape art creations
 tags: news
 ---
