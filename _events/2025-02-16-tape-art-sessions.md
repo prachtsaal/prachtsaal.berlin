@@ -13,7 +13,7 @@ images:
     caption: Close up of various coloured tapes
   - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_3.jpg
     caption: Proud participants displaying their tape art creations
-tags: news
+tags: 
 ---
 Discover tape art in this 4-hour, hands-on workshop! One of our seasoned tape 
 artists will share with you the secrets of this bold and fascinating 
