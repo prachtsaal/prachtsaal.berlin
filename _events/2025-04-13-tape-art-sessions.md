@@ -5,15 +5,15 @@ subtitle: Artist-run workshops
 description: Discover tape art in this 4-hour, hands-on workshop! One of our
   seasoned tape  artists will share with you the secrets of this bold and
   fascinating  medium.
-date: 2025-02-16
-end_date: 2025-03-16
-main_image: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_1.jpg
+date: 2025-04-13
+end_date: 2025-07-13
+main_image: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_1.jpg
 images:
-  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_2.jpg
+  - file: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_2.jpg
     caption: Close up of various coloured tapes
-  - file: /assets/img/events/2025-02-16-tape-art-sessions/tape_art_sessions_3.jpg
+  - file: /assets/img/events/2025-04-13-tape-art-sessions/tape_art_sessions_3.jpg
     caption: Proud participants displaying their tape art creations
-tags: 
+tags: news
 ---
 Discover tape art in this 4-hour, hands-on workshop! One of our seasoned tape 
 artists will share with you the secrets of this bold and fascinating 
@@ -55,13 +55,15 @@ city alive.
 
 ## Dates
 
-Sunday February 16th at 14:00
+Sunday April 13th at 14:00
 
-Saturday March 15th at 14:00
+Sunday May 18th at 14:00
 
-Sunday March 16th at 14:00
+Sunday June 15th at 14:00
+
+Sunday July 13th at 14:00
 
 ## Participate
 
 
-👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-tickets-1214703002379) 👈
+👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-session-create-your-own-artwork-monthly-workshop-tickets-1296006222499) 👈

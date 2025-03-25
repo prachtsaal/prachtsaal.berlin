@@ -8,13 +8,13 @@ description: "Let's create with tape! In this 3-hour workshop designed for kids
   bold,  unique designs using vibrant adhesive tapes. In this workshop, one
   of  our seasoned tape artists will guide young creators through the basics  of
   tape art. "
-date: 2025-02-16
-end_date: 2025-03-16
-main_image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_1.jpg
+date: 2025-04-13
+end_date: 2025-07-13
+main_image: /assets/img/events/2025-04-13-tape-art-sessions-for-kids/tape_art_sessions_for_kids_1.jpg
 images:
-  - file: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
+  - file: /assets/img/events/2025-04-13-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
     caption: Close up of various coloured tapes
-tags: 
+tags: news
 ---
 Let's create with tape! In this 3-hour workshop designed for kids aged 
 6–13 (accompanied by a guardian), kids will explore the exciting 
@@ -40,12 +40,14 @@ city alive.
 
 ## Dates
 
-Sunday February 16th at 10:00
+Sunday April 13th at 10:00
 
-Saturday March 15th at 10:00
+Sunday May 18th at 10:00
 
-Sunday March 16th at 10:00
+Sunday June 15th at 10:00
+
+Sunday July 13th at 10:00
 
 ## Participate
 
-👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-for-kids-tickets-1214695038559) 👈
+👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-for-kids-create-your-own-artwork-monthly-workshop-tickets-1295977737299) 👈
