@@ -55,13 +55,13 @@ city alive.
 
 ## Dates
 
-Sunday April 13th at 10:00
+Sunday April 13th at 14:00
 
-Sunday May 18th at 10:00
+Sunday May 18th at 14:00
 
-Sunday June 15th at 10:00
+Sunday June 15th at 14:00
 
-Sunday July 13th at 10:00
+Sunday July 13th at 14:00
 
 ## Participate
 
