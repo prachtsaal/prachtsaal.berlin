@@ -1,10 +1,18 @@
 ---
 layout: default
 ---
-{% if page.end_date and page.date != page.end_date %}
-{% capture date_string %}{{page.date | date: "%d.%m.%Y"}} - {{page.end_date | date: "%d.%m.%Y"}}{% endcapture %}
+{% capture date %} {{page.date | date: "%d.%m.%Y"}}{% endcapture %}
+{% if page.end_date %}
+{% capture end_date %} {{page.end_date | date: "%d.%m.%Y"}}{% endcapture %}
 {% else %}
-{% capture date_string %} {{page.date | date: "%d.%m.%Y"}}{% endcapture %}
+{% assign end_date = 0 %}
+{% endif %}
+
+
+{% if end_date and date != end_date %}
+{% capture date_string %}{{ date }} - {{ end_date }}{% endcapture %}
+{% else %}
+{% capture date_string %} {{ date }}{% endcapture %}
 {% endif %}
 
 <div class="flex justify-center">
