@@ -5,7 +5,7 @@ layout: default
 {% if page.end_date %}
 {% capture end_date %} {{page.end_date | date: "%d.%m.%Y"}}{% endcapture %}
 {% else %}
-{% assign end_date = 0 %}
+{% assign end_date = nil %}
 {% endif %}
 
 
