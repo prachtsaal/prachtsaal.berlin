@@ -16,13 +16,21 @@ add-js: future_events.js
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mx-8">
     {% for event in site.events %}
-        {% capture event_seconds %}{{event.end_date | date: '%s'}}{% endcapture %}
-        {% capture event_date %}{{event.end_date | date: '%Y-%m-%d'}}{% endcapture %}
-
-        {% if event.end_date and event.date != event.end_date %}
-        {% capture date_string %}{{event.date | date: "%d.%m.%Y"}} - {{event.end_date | date: "%d.%m.%Y"}}{% endcapture %}
+        {% capture date %} {{event.date | date: "%d.%m.%Y"}}{% endcapture %}
+        {% if event.end_date %}
+            {% capture end_date %} {{event.end_date | date: "%d.%m.%Y"}}{% endcapture %}
         {% else %}
-        {% capture date_string %} {{event.date | date: "%d.%m.%Y"}}{% endcapture %}
+            {% assign end_date = 0 %}
+        {% endif %}
+
+        {% if end_date and end_date != date %}
+            {% capture event_seconds %}{{event.end_date | date: '%s'}}{% endcapture %}
+            {% capture event_date %}{{event.end_date | date: '%Y-%m-%d'}}{% endcapture %}
+            {% capture date_string %}{{ date }} - {{ end_date }}{% endcapture %}
+        {% else %}
+            {% capture event_seconds %}{{event.date | date: '%s'}}{% endcapture %}
+            {% capture event_date %}{{event.date | date: '%Y-%m-%d'}}{% endcapture %}
+            {% capture date_string %} {{ date }}{% endcapture %}
         {% endif %}
             
         {% if event_seconds >= now_seconds %}
