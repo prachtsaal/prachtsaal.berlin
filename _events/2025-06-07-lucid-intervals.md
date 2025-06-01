@@ -50,8 +50,8 @@ Gabriel Jeanjean
 Saturday, 07.06., 20.00
 
 ## Participating Artists:
-[Matthias Badczong](https://www.klariac.com/)
-[Peter Breitenbach](https://peterbreitenbach.de/)
-[Grit Kit](https://gritschuster.de/)
-[Barbara Morgenstern](https://www.barbaramorgenstern.de/)
+[Matthias Badczong](https://www.klariac.com/)<br>
+[Peter Breitenbach](https://peterbreitenbach.de/)<br>
+[Grit Kit](https://gritschuster.de/)<br>
+[Barbara Morgenstern](https://www.barbaramorgenstern.de/)<br>
 [Gabriel Jeanjean](https://www.gabrieljeanjean.com/)
