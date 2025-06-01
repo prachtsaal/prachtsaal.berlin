@@ -3,7 +3,8 @@ layout: entry
 title: Lucid Intervals
 subtitle: Audiovisual performances and art installation
 main_image: /assets/img/events/2025-06-07-lucid-intervals/LucidIntervalsBanner.jpg
-description: 
+description: "On Saturday, June 7th, we are opening our venue to invite you to a synthesis of sound and light.
+  We will present an audiovisual performance, a musical improv set with live visuals, and an interactive art installation."
 date: 2025-06-07
 end_date: 2025-06-07
 images: 
@@ -46,4 +47,11 @@ Interactive art installation by:<br>
 Gabriel Jeanjean
 
 ## Doors:
-Saturday, 07.06, 20.00
+Saturday, 07.06., 20.00
+
+## Participating Artists:
+[Matthias Badczong](https://www.klariac.com/)
+[Peter Breitenbach](https://peterbreitenbach.de/)
+[Grit Kit](https://gritschuster.de/)
+[Barbara Morgenstern](https://www.barbaramorgenstern.de/)
+[Gabriel Jeanjean](https://www.gabrieljeanjean.com/)
