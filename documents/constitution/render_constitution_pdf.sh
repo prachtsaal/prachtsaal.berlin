@@ -47,13 +47,13 @@ pandoc constitution_temp.md \
     --output=prachtsaal-constitution.pdf \
     --variable=papersize:a4 \
     --variable=geometry:margin=2.5cm \
-    --include-in-header=<(cat << 'HEADER_EOF'
+    --include-in-header=<(cat << HEADER_EOF
 \usepackage{fancyhdr}
 \usepackage{lastpage}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{$title$}
-\fancyhead[R]{$date$}
+\fancyhead[L]{$title}
+\fancyhead[R]{$date}
 \fancyfoot[C]{Page \thepage\ of \pageref{LastPage}}
 HEADER_EOF
 )
