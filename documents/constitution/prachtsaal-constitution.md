@@ -375,7 +375,7 @@ Where:
 
 (2) Extraordinary General Assembly meetings may be convened as required, in particular if the Examination Association (Prüfungsverband) deems it necessary to convene them to discuss the results of the audit or to discuss the situation of the Cooperative.
 
-(3) The General Assembly shall be convened by notifying all Members in text form, stating the items on the agenda. As a rule, the convocation shall be issued by the Board of Directors or the Authorized Representative (Bevollmächtigter) (§ 21). There must be a period of at least 2 weeks between the date of the General Assembly and the date of receipt of the notice. Items for resolution in the General Assembly must be announced at least one week before the General Assembly.
+(3) The General Assembly shall be convened by notifying all Members in text form, stating the items on the agenda. As a rule, the convocation shall be issued by the Board of Directors or the Authorized Representative (Bevollmächtigter) (§ 21). There must be a period of at least 2 weeks between the date of the General Assembly and the date of receipt of the notice. Items for resolution in the General Assembly must be announced at least one week before the General Assembly.
 
 (4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 2 applies accordingly.
 
@@ -420,7 +420,7 @@ Where:
    5. the adoption of the annual financial statements and the use of the net profit for the year or the coverage of a net loss for the year;
    6. the appointment and dismissal of members of the Board of Directors;
    7. the discharge of the Board of Directors;
-   8. the election of the Authorized Representative(s) (Bevollmächtigter) pursuant to § 21;
+   8. the election of the Authorized Representative(s) (Bevollmächtigter) pursuant to § 21;
    9. the conduct of legal proceedings against members of the Board of Directors who are in office or have left office;
    10. the withdrawal from and entry into Cooperative associations;
    11. the merger, demerger or change of legal form of the Cooperative as well as its liquidation;
@@ -467,7 +467,7 @@ Where:
 
 (1) As long as the Cooperative does not have more than 20 members, it shall refrain from forming a Supervisory Board. In this case, the General Assembly shall exercise the rights and duties of the Supervisory Board, unless otherwise provided by law.
 
-(2) The General Assembly shall elect an Authorized Representative (Bevollmächtigter) from among its members for a period of one year. The office ends with the election/re-election of a new Authorized Representative . The Authorized Representative shall be notified to the Examination Association (Prüfungsverband).
+(2) The General Assembly shall elect an Authorized Representative (Bevollmächtigter) from among its members for a period of one year. The office ends with the election/re-election of a new Authorized Representative . The Authorized Representative shall be notified to the Examination Association (Prüfungsverband).
 
 (3) The Authorized Representative (Bevollmächtigter) shall represent the Cooperative towards the members of the Board of Directors (§ 39 paragraph 1 sentence 2 GenG) and shall perform the tasks according to § 51 paragraph 3 sentence 2 (representation of the Cooperative in case of contestation of resolutions of the General Assembly), § 57 paragraph 6 (audit procedure) and § 58 paragraph 3 sentence 1 (audit report) of the Cooperative Societies Act (Genossenschaftsgesetz). The Authorized Representative (Bevollmächtigter) is bound by the instructions of the General Assembly.
 
