@@ -18,24 +18,28 @@ fi
 
 echo "Converting to PDF..."
 
-# Extract title from first # heading and date from front matter
+# Extract title from first # heading, date, and language from front matter
 title=$(grep -m 1 '^# ' prachtsaal-constitution.md | sed 's/^# //')
 date=$(grep -m 1 '^date:' prachtsaal-constitution.md | sed 's/^date: *//' | tr -d '"')
+lang=$(grep -m 1 '^lang:' prachtsaal-constitution.md | sed 's/^lang: *//' | tr -d '"')
+
+# Default to English if no language specified
+if [ -z "$lang" ]; then
+    lang="en"
+fi
 
 cat > constitution_temp.md << EOF
 ---
 title: "$title"
 date: "$date"
+lang: "$lang"
 ---
 
 EOF
 
-# Add content: remove first # title, convert ## to #, add TOC
+# Add content: remove ALL first-level headings (# ), add TOC
 sed '
-    /^# /{
-        1d
-    }
-    s/^## /# /g
+    /^# /d
     s/<!-- table_of_contents -->/\\tableofcontents\n\\newpage/g
 ' prachtsaal-constitution.md >> constitution_temp.md
 
@@ -45,6 +49,7 @@ pandoc constitution_temp.md \
     --from=markdown+smart \
     --to=pdf \
     --output=prachtsaal-constitution.pdf \
+    --shift-heading-level-by=-1 \
     --variable=papersize:a4 \
     --variable=geometry:margin=2.5cm \
     --include-in-header=<(cat << HEADER_EOF
