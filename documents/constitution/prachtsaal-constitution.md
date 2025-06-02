@@ -1,5 +1,6 @@
 ---
 date: "June 12, 2025"
+lang: "en"
 ---
 # Prachtsaal eG Constitution
 
@@ -232,7 +233,7 @@ Where:
 
 ## II. Membership
 
-### §4. Acquisition of membership
+### § 4. Acquisition of membership
 
 (1) Membership can be acquired by:
    1. natural people,
