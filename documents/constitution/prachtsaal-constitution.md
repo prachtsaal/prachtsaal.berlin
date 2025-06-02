@@ -33,11 +33,11 @@ Facing the public, we want to achieve these aims by:
 
 Internally, we want to achieve these aims by:
 
-  * upholding a democratic governance process,
-  * seeking professional support to fulfill our mission,
-  * undertaking required renovations and reconstructions,
-  * achieving economic sustainability of the space,
-  * ensuring non-profit status of Prachtsaal.
+   * upholding a democratic governance process,
+   * seeking professional support to fulfill our mission,
+   * undertaking required renovations and reconstructions,
+   * achieving economic sustainability of the space,
+   * ensuring non-profit status of Prachtsaal.
 
 <!-- table_of_contents -->
 
