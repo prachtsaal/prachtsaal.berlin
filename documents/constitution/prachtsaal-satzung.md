@@ -79,99 +79,101 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (4) Der Teil des Jahresbudgets der Genossenschaft, der durch die Miete von Kunstateliers eingenommen wird, muss folgende laufenden Kosten vollständig abdecken, einschließlich:
 
-  1. Anmietung der Prachtsaalräumlichkeiten innerhalb des von der GbR Jonasstraße 22 verwalteten Grundstücks einschließlich angrenzender Gartenfläche;
-  2. Anmietung von Nebenflächen und Lagerräumen innerhalb dieser Immobilie;
-  3. Betriebskosten (z. B. Wasser, Strom, Heizung usw.);
-  4. Internet und andere notwendige Medien;
-  5. Sachversicherung;
-  6. von der Versicherung geforderte Sicherheitsmaßnahmen;
-  7. Finanzielle Kosten (z. B. Bankkonto);
-  8. Büromaterialien;
-  9. Software- und Servicelizenzen;
-  10. Reinigung;
-  11. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, einschließlich der fristgerechten Zahlungen und Einhaltung der Pachtverträge, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken.
-  12. zusätzlich 10% der Summe der vorgenannten Kosten für unvorhergesehene Aufwendungen (z. B.: Deckung leerstehender Ateliers, Rechtskosten, notwendige Sofortreparaturen).
+  a. Anmietung der Prachtsaalräumlichkeiten innerhalb des von der GbR Jonasstraße 22 verwalteten Grundstücks einschließlich angrenzender Gartenfläche;
+  b. Anmietung von Nebenflächen und Lagerräumen innerhalb dieser Immobilie;
+  c. Betriebskosten (z. B. Wasser, Strom, Heizung usw.);
+  d. Internet und andere notwendige Medien;
+  e. Sachversicherung;
+  f. von der Versicherung geforderte Sicherheitsmaßnahmen;
+  g. Finanzielle Kosten (z. B. Bankkonto);
+  h. Büromaterialien;
+  i. Software- und Servicelizenzen;
+  j. Reinigung;
+  k. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, einschließlich der fristgerechten Zahlungen und Einhaltung der Pachtverträge, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken.
+  l. zusätzlich 10% der Summe der vorgenannten Kosten für unvorhergesehene Aufwendungen (z. B.: Deckung leerstehender Ateliers, Rechtskosten, notwendige Sofortreparaturen).
 
 (5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern durch andere Einnahmequellen, wie in Abschnitt 10 beschrieben, beschafft werden können. Zu diesen ständigen Kosten zählen:
 
-  1. Kosten der Pflichtprüfung nach § 4 GenG („Prüfung und Prüfungsverbände“),
-  2. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des Personals bei Veranstaltungen im Prachtsaal (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
-  3. die Kosten der Mietkaution.
+  a. Kosten der Pflichtprüfung nach § 4 GenG („Prüfung und Prüfungsverbände“),
+  b. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des Personals bei Veranstaltungen im Prachtsaal (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
+  c. die Kosten der Mietkaution.
 
 (6) Die folgenden Vereinbarungen zwischen Dritten und der Genossenschaft werden in gesonderten Verträgen geregelt:
 
-  1. Der Mietvertrag mit der GbR Jonasstraße 22 über die Anmietung der gesamten Prachtsaalfläche sowie vereinbarter weiterer Flächen des verwalteten Objektes;
-  2. Mietverträge mit den in den Räumen tätigen Künstlern;
-  3. Verträge mit Mitgliedern, die der Genossenschaft ein Darlehen nach § 21b GenG gewähren;
-  4. Verträge mit Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren;
-  5. Versicherungsverträge mit Versicherungsträgern;
-  6. Verträge mit dem Stromanbieter;
-  7. Verträge mit den Müllentsorgungsbetrieben;
-  8. Verträge mit dem Reinigungsdienstleister;
-  9. Sonstige Verträge mit Medien- und Diensteanbietern, die zur Erfüllung der in dieser Satzung genannten gesetzlichen Zwecke erforderlich sind.
+  a. Der Mietvertrag mit der GbR Jonasstraße 22 über die Anmietung der gesamten Prachtsaalfläche sowie vereinbarter weiterer Flächen des verwalteten Objektes;
+  b. Mietverträge mit den in den Räumen tätigen Künstlern;
+  c. Verträge mit Mitgliedern, die der Genossenschaft ein Darlehen nach § 21b GenG gewähren;
+  d. Verträge mit Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren;
+  e. Versicherungsverträge mit Versicherungsträgern;
+  f. Verträge mit dem Stromanbieter;
+  g. Verträge mit den Müllentsorgungsbetrieben;
+  h. Verträge mit dem Reinigungsdienstleister;
+  i. Sonstige Verträge mit Medien- und Diensteanbietern, die zur Erfüllung der in dieser Satzung genannten gesetzlichen Zwecke erforderlich sind.
 
 (7) Um eine gerechte Aufteilung der Mietlasten auf die Künstler zu gewährleisten, werden die Atelierräume des Prachtsaals in mietbare Ateliereinheiten mit einem in Punkten festgelegten Wert aufgeteilt, die sich auf Folgendes beziehen:
 
-  1. die Flächeneinheit in Quadratmetern,
-  2. die Menge an Tageslicht,
-  3. Belüftungsmöglichkeiten,
-  4. Höhe der Einheit,
-  5. Privatsphäre,
-  6. zu erwartende Belästigung durch öffentlich zugängliche Bereiche des Prachtsaals,
-  7. reduzierte Heizung,
-  8. Lage im Keller,
-  9. andere wichtige Faktoren, die nach Abwägung festgelegt wurden.
+  a. die Flächeneinheit in Quadratmetern,
+  b. die Menge an Tageslicht,
+  c. Belüftungsmöglichkeiten,
+  d. Höhe der Einheit,
+  e. Privatsphäre,
+  f. zu erwartende Belästigung durch öffentlich zugängliche Bereiche des Prachtsaals,
+  g. reduzierte Heizung,
+  h. Lage im Keller,
+  i. andere wichtige Faktoren, die nach Abwägung festgelegt wurden.
 
 (8) Die Summe der Einnahmen aus allen vermieteten Ateliereinheiten entspricht der Summe aller in Absatz 4 aufgeführten Kosten, geteilt durch 12 Monate. Die monatliche Miete, die in jedem individuellen Mietvertrag zwischen der Genossenschaft und einem Künstlermieter festgelegt ist, muss nach folgender Formel berechnet werden:
 
-$$r = \frac{a \times c}{s \times 12}$$
+$$r = \frac{a}{s} \times \frac{c}{12}$$
 
 Wobei:
 
-  * $r$ = monatliche Miete für die Ateliereinheit  
-  * $a$ = Wertpunkte zugewiesen an die Ateliereinheit gemäß Absatz 7  
-  * $s$ = Summe aller Wertpunkte aller Ateliereinheiten  
-  * $c$ = Summe der in Absatz 4 aufgeführten Mietkosten
+   - $r$ = monatliche Miete für die Ateliereinheit  
+   - $a$ = Wertpunkte zugewiesen an die Ateliereinheit gemäß Absatz 7  
+   - $s$ = Summe aller Wertpunkte aller Ateliereinheiten  
+   - $c$ = Summe der in Absatz 4 aufgeführten Mietkosten
 
 Der berechnete $r$-Wert sollte auf den nächsten Cent-Betrag aufgerundet werden.
 
-Beispiel:  
-  * 20 / 180 \* 50400 € / 12 \= 466,67 €  
-  * a \= 20 (Wertpunkte der Ateliereinheit)  
-  * s \= 180 (Wertpunkte aller Ateliereinheiten)  
-  * c \= 50400 € (Summe der jährlichen Mietkosten laut Absatz 4\)  
-  * r \= 466,67 € (monatliche Miete für die Ateliereinheit)
+**Beispiel:**
+
+$$r = \frac{20}{180} \times \frac{50400€}{12} = 0,1111 \times 4200€ = 466,67€$$
+
+   - $a = 20$ (Wertpunkte der Ateliereinheit)  
+   - $s = 180$ (Wertpunkte aller Ateliereinheiten)  
+   - $c = 50400€$  (Summe der jährlichen Mietkosten laut Absatz 4\)  
+   - $r = 466,67€$  (monatliche Miete für die Ateliereinheit)
 
 (9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Neugestaltung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1\. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
 
 (10) Zusätzliche Einnahmen der Genossenschaft können erzielt werden durch:
 
-  1. Spendenaktionen mit Schwerpunkt auf bestimmten Projekten, die von der Genossenschaft realisiert werden sollen;
-  2. Kartenverkauf für die Veranstaltungen im Prachtsaal;
-  3. Provisionen aus Ticketverkäufen für Workshops und Bildungsveranstaltungen im Prachtsaal;
-  4. Verkauf von Getränken und Speisen während dieser Veranstaltungen in Übereinstimmung mit Regeln und Richtlinien für Gastronomiedienstleistungen in Deutschland;
-  5. Provisionen aus den im Rahmen der Ausstellung im Prachtsaal verkauften Kunstwerken (werden durch Beschlüsse der Genossenschaft und schriftliche Vereinbarungen mit den Künstlern geregelt);
-  6. Vermietung der öffentlichen Räume des Prachtsaals an Dritte für die mit dem satzungsmäßigen Zweck der Genossenschaft in Einklang stehenden Zwecke;
-  7. finanzielle Spenden;
-  8. Sachspenden (müssen einzeln geprüft und angenommen werden, um eine Haftung zu vermeiden);
-  9. Verkauf von Waren und Dienstleistungen, die in direktem Zusammenhang mit dem Zweck der Genossenschaft stehen, einschließlich Online-Bildung.
+  a. Spendenaktionen mit Schwerpunkt auf bestimmten Projekten, die von der Genossenschaft realisiert werden sollen;
+  b. Kartenverkauf für die Veranstaltungen im Prachtsaal;
+  c. Provisionen aus Ticketverkäufen für Workshops und Bildungsveranstaltungen im Prachtsaal;
+  d. Verkauf von Getränken und Speisen während dieser Veranstaltungen in Übereinstimmung mit Regeln und Richtlinien für Gastronomiedienstleistungen in Deutschland;
+  e. Provisionen aus den im Rahmen der Ausstellung im Prachtsaal verkauften Kunstwerken (werden durch Beschlüsse der Genossenschaft und schriftliche Vereinbarungen mit den Künstlern geregelt);
+  f. Vermietung der öffentlichen Räume des Prachtsaals an Dritte für die mit dem satzungsmäßigen Zweck der Genossenschaft in Einklang stehenden Zwecke;
+  g. finanzielle Spenden;
+  h. Sachspenden (müssen einzeln geprüft und angenommen werden, um eine Haftung zu vermeiden);
+  i. Verkauf von Waren und Dienstleistungen, die in direktem Zusammenhang mit dem Zweck der Genossenschaft stehen, einschließlich Online-Bildung.
 
 (11) Zusätzliche Einnahmen dürfen nur für Zwecke ausgegeben werden, die mit dem satzungsmäßigen Zweck der Genossenschaft in Einklang stehen und in dieser Satzung beschrieben sind, einschließlich:
 
-  1. Zahlungen für Künstler, die bei Veranstaltungen im Prachtsaal auftreten;
-  2. Zahlungen für Techniker und Mitarbeiter, die diese Veranstaltungen unterstützen;
-  3. Zahlungen für Kuratoren und Organisatoren dieser Veranstaltungen;
-  4. Zahlungen an andere Fachkräfte, die im Auftrag der Genossenschaft erforderliche Arbeiten ausführen (z. B. Anwälte, Bauarbeiter, Architekten);
-  5. Kosten im Zusammenhang mit der Organisation von Kunstresidenzen im Prachtsaal;
-  6. wohltätige Beiträge an die Gemeinschaft in den Bereichen Kunst und Bildung;
-  7. Produktionskosten;
-  8. Marketingkosten;
-  9. Lizenzen;
-  10. Zahlungen zur Tilgung von Krediten und Leasingverträgen;
-  11. Kauf eines im Prachtsaal ausgestellten Kunstwerkes zur Bildung der Prachtsaal-Kunstsammlung (ausgenommen die Kunstwerke der Mitglieder der Genossenschaft);
-  12. Pläne, Materialien, Arbeiten und alle anderen Mittel, die für die Durchführung von Umbauten und Bauten erforderlich sind;
-  13. Spezialausstattung, die für Veranstaltungen benötigt wird;
-  14. Künstlerbedarf und Baumaterialien, die für pädagogische Workshops und Kooperationen zwischen den Mitgliedern der Genossenschaft benötigt werden.
+  a. Zahlungen für Künstler, die bei Veranstaltungen im Prachtsaal auftreten;
+  b. Zahlungen für Techniker und Mitarbeiter, die diese Veranstaltungen unterstützen;
+  c. Zahlungen für Kuratoren und Organisatoren dieser Veranstaltungen;
+  d. Zahlungen an andere Fachkräfte, die im Auftrag der Genossenschaft erforderliche Arbeiten ausführen (z. B. Anwälte, Bauarbeiter, Architekten);
+  e. Kosten im Zusammenhang mit der Organisation von Kunstresidenzen im Prachtsaal;
+  f. wohltätige Beiträge an die Gemeinschaft in den Bereichen Kunst und Bildung;
+  g. Produktionskosten;
+  h. Marketingkosten;
+  i. Lizenzen;
+  j. Zahlungen zur Tilgung von Krediten und Leasingverträgen;
+  k. Kauf eines im Prachtsaal ausgestellten Kunstwerkes zur Bildung der Prachtsaal-Kunstsammlung (ausgenommen die Kunstwerke der Mitglieder der Genossenschaft);
+  l. Pläne, Materialien, Arbeiten und alle anderen Mittel, die für die Durchführung von Umbauten und Bauten erforderlich sind;
+  m. Spezialausstattung, die für Veranstaltungen benötigt wird;
+  n. Künstlerbedarf und Baumaterialien, die für pädagogische Workshops und Kooperationen zwischen den Mitgliedern der Genossenschaft benötigt werden.
 
 (12) Die in Absatz 10a genannten Projekte und die damit verbundenen Spendenaktionen können sowohl von den Mitgliedern der Genossenschaft als auch von externen Kuratoren und Spendensammlern in Abstimmung mit der Genossenschaft betreut werden. Der Umfang dieser Projekte soll verschiedene Themen abdecken, die mit dem satzungsmäßigen Zweck der Genossenschaft in Zusammenhang stehen. Die folgende Liste umfasst beispielhaft einige Themen ohne Priorisierung oder Einschränkung:
 
@@ -230,17 +232,17 @@ Beispiel:
 
 (1) Die Mitgliedschaft kann erworben werden von:
 
-  1. natürlichen Personen,
-  2. Personengesellschaften,
-  3. juristischen Personen des privaten oder öffentlichen Rechts.
+  a. natürlichen Personen,
+  b. Personengesellschaften,
+  c. juristischen Personen des privaten oder öffentlichen Rechts.
 
 (2) Eine natürliche Person, die eine Mitgliedschaft in der Genossenschaft beantragt, sollte bereits eine wichtige Verbindung zum Prachtsaal und zur Gemeinschaft haben, wie:
 
-  1. ein Mieterkünstler,
-  2. ein Kurator, der sich mit der Organisation von Veranstaltungen im Prachtsaal beschäftigt,
-  3. eine Person, die Gelder für die Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beschafft,
-  4. ein wesentlicher Unterstützer des satzungsmäßigen Zwecks der Genossenschaft,
-  5. jede andere Person, die durch einen Beschluss der Generalversammlung eingeladen wird.
+  a. ein Mieterkünstler,
+  b. ein Kurator, der sich mit der Organisation von Veranstaltungen im Prachtsaal beschäftigt,
+  c. eine Person, die Gelder für die Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beschafft,
+  d. ein wesentlicher Unterstützer des satzungsmäßigen Zwecks der Genossenschaft,
+  e. jede andere Person, die durch einen Beschluss der Generalversammlung eingeladen wird.
 
 (3) Eine Mitgliedschaft einer Personengesellschaft oder einer juristischen Person ist nur solchen Organisationen möglich, die wesentlich zur Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beitragen können (z. B. Verein zur Erlangung von Mietzuschüssen für Ateliers).
 
@@ -254,10 +256,10 @@ Beispiel:
 
 (1) Die Mitgliedschaft endet durch
 
-  1. Austritt,
-  2. Tod eines Mitglieds,
-  3. Auflösung einer juristischen Person oder Personengesellschaft,
-  4. Ausschluss.
+  a. Austritt,
+  b. Tod eines Mitglieds,
+  c. Auflösung einer juristischen Person oder Personengesellschaft,
+  d. Ausschluss.
 
 (2) Das Mitglied hat das Recht, durch schriftliche Kündigung aus der Genossenschaft auszutreten. Der Austritt wird unmittelbar nach Erhalt der Kündigung wirksam.
 
@@ -281,12 +283,12 @@ Beispiel:
 
 (1) Ein Mitglied kann aus der Genossenschaft ausgeschlossen werden,
 
-  1. wenn das Mitglied seinen gesetzlichen oder sonstigen Verpflichtungen gegenüber der Genossenschaft trotz schriftlicher Aufforderung unter Androhung eines Ausschlusses nicht nachkommt;
-  2. wenn das Mitglied unrichtige Jahresabschlüsse oder Vermögensübersichten vorlegt oder sonst unrichtige oder unvollständige Angaben zu seinen rechtlichen und/oder wirtschaftlichen Verhältnissen macht;
-  3. wenn das Mitglied die Genossenschaft schädigt oder geschädigt hat, indem es seinen Verpflichtungen gegenüber der Genossenschaft nicht nachkommt;
-  4. wenn das Mitglied länger als 3 Monate unerreichbar ist;
-  5. wenn die Voraussetzungen für die Aufnahme in die Genossenschaft nicht vorlagen oder nicht mehr bestehen;
-  6. wenn das Verhalten des Mitglieds mit den Interessen der Genossenschaft nicht vereinbar ist.
+  a. wenn das Mitglied seinen gesetzlichen oder sonstigen Verpflichtungen gegenüber der Genossenschaft trotz schriftlicher Aufforderung unter Androhung eines Ausschlusses nicht nachkommt;
+  b. wenn das Mitglied unrichtige Jahresabschlüsse oder Vermögensübersichten vorlegt oder sonst unrichtige oder unvollständige Angaben zu seinen rechtlichen und/oder wirtschaftlichen Verhältnissen macht;
+  c. wenn das Mitglied die Genossenschaft schädigt oder geschädigt hat, indem es seinen Verpflichtungen gegenüber der Genossenschaft nicht nachkommt;
+  d. wenn das Mitglied länger als 3 Monate unerreichbar ist;
+  e. wenn die Voraussetzungen für die Aufnahme in die Genossenschaft nicht vorlagen oder nicht mehr bestehen;
+  f. wenn das Verhalten des Mitglieds mit den Interessen der Genossenschaft nicht vereinbar ist.
 
 (2) Der Ausschluss erfolgt durch Beschluss der Generalversammlung. Dem auszuschließenden Mitglied ist – außer im Fall des § 9 Abs. 1 d. dieser Satzung– vorher Gelegenheit zur Stellungnahme zu geben. Der Ausschluss ist dem ausgeschlossenen Mitglied unverzüglich unter Angabe der Gründe in der gesetzlich vorgeschriebenen Form (§ 68 GenG) und per E-Mail mitzuteilen. Ab dem Zeitpunkt der Absendung der Mitteilung in der gesetzlichen Form (§ 68 GenG) kann das Mitglied nicht mehr an der Generalversammlung teilnehmen, Einrichtungen der Genossenschaft nutzen oder Mitglied des Vorstandes sein oder die Genossenschaft in sonstiger Weise vertreten.
 
@@ -298,16 +300,16 @@ Beispiel:
 
 (2) Jedes Mitglied ist aufgrund der Mitgliedschaft insbesondere dazu berechtigt:
 
-  1. die Einrichtungen der Genossenschaft gemäß den hierfür getroffenen Bestimmungen zu nutzen;
-  2. einen Atelierraum im Prachtsaal, je nach Verfügbarkeit und auf der Grundlage gesonderter Vereinbarungen zwischen der Genossenschaft und dem Mitglied, anzumieten;
-  3. an der Generalversammlung und ihren Beratungen, Abstimmungen und Wahlen teilzunehmen und Vorschlägen für die Tagesordnung der Generalversammlung zu unterbreiten;
-  4. die Einberufung einer außerordentlichen Generalversammlung oder die Bekanntgabe von Beschlussgegenständen in einer bereits einberufenen Generalversammlung zu verlangen;
-  5. Informationen über die Angelegenheiten der Genossenschaft einzuholen;
-  6. seinen Austritt aus der Genossenschaft zu erklären;
-  7. die Protokolle über die Beschlüsse des Vorstands einzusehen und eine Abschrift der Jahresabrechnung und des Jahresberichts zu verlangen;
-  8. das Protokoll der Generalversammlung einzusehen;
-  9. die Mitgliederliste einzusehen;
-  10. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
+  a. die Einrichtungen der Genossenschaft gemäß den hierfür getroffenen Bestimmungen zu nutzen;
+  b. einen Atelierraum im Prachtsaal, je nach Verfügbarkeit und auf der Grundlage gesonderter Vereinbarungen zwischen der Genossenschaft und dem Mitglied, anzumieten;
+  c. an der Generalversammlung und ihren Beratungen, Abstimmungen und Wahlen teilzunehmen und Vorschlägen für die Tagesordnung der Generalversammlung zu unterbreiten;
+  d. die Einberufung einer außerordentlichen Generalversammlung oder die Bekanntgabe von Beschlussgegenständen in einer bereits einberufenen Generalversammlung zu verlangen;
+  e. Informationen über die Angelegenheiten der Genossenschaft einzuholen;
+  f. seinen Austritt aus der Genossenschaft zu erklären;
+  g. die Protokolle über die Beschlüsse des Vorstands einzusehen und eine Abschrift der Jahresabrechnung und des Jahresberichts zu verlangen;
+  h. das Protokoll der Generalversammlung einzusehen;
+  i. die Mitgliederliste einzusehen;
+  j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 ### § 11 Pflichten der Mitglieder
 
@@ -359,8 +361,8 @@ Beispiel:
 
 (1) Die Leitungsorgane der Genossenschaft sind:
 
-  1. die Generalversammlung,
-  2. der Vorstand
+  a. die Generalversammlung,
+  b. der Vorstand
 
 (2) Die Organe der Genossenschaft sind verpflichtet, die Kosten des Geschäftsbetriebes nach den Grundsätzen einer ordnungsgemäßen Wirtschaftsführung auszurichten und in angemessenem Rahmen zu halten.
 
@@ -410,28 +412,28 @@ Beispiel:
 
 (1) Die Generalversammlung ist das höchste Exekutivorgan der Genossenschaft. Sie entscheidet neben den in § 48 GenG oder dieser Satzung genannten weiteren Angelegenheiten insbesondere über
 
-  1. die Umsetzung neuer Projekte;
-  2. die Bildung eines Mietbudgetausschusses aus Mitgliedern zur Vorbereitung eines Mietbudgetvorschlags für das nächste Geschäftsjahr, die spätestens am 15\. August jedes Geschäftsjahres erfolgen muss;
-  3. die Genehmigung des Mietbudgets für das folgende Jahr, die spätestens am 1\. September jedes Geschäftsjahres erfolgen muss.
-  4. die Änderungen der Satzung;
-  5. die Feststellung des Jahresabschlusses und die Verwendung des Jahresgewinns bzw. die Deckung des Jahresfehlbetrags;
-  6. die Ernennung und Abberufung von Mitgliedern des Vorstandes;
-  7. die Entlassung des Vorstandes;
-  8. die Wahl des/der Bevollmächtigten gemäß § 21;
-  9. die Führung von Gerichtsverfahren gegen im Amt befindliche und aus dem Amt ausgeschiedene Mitglieder des Vorstands;
-  10. den Austritt aus und den Beitritt in die Genossenschaft;
-  11. die Verschmelzung, die Spaltung oder die Änderung der Rechtsform der Genossenschaft sowie ihre Liquidation;
-  12. die Aufnahme, Veräußerung und Aufgabe eines bedeutenden Geschäftsfeldes;
-  13. den Erwerb und die Veräußerung von Unternehmen und Unternehmensbeteiligungen, die Eröffnung oder Schließung von Zweigniederlassungen;
-  14. die Anforderungen für Transaktionen mit Nichtmitgliedern;
-  15. die Befugnis des Vorstands zur Abgabe rechtserheblicher Erklärungen und zum Abschluss von Verträgen in bestimmten Geschäftsbereichen;
-  16. die Abgabe von rechtserheblichen Erklärungen und Verträgen, sofern der Vorstand hierzu nicht befugt ist;
-  17. die Grundprinzipien für den Inhalt von Arbeitsverträgen;
-  18. die Aufnahme und Ausschluss von Mitgliedern;
-  19. die Zustimmung zur Beendigung von Arbeitsverträgen;
-  20. die aufgrund des Berichts über die gesetzlichen Abschlussprüfungen zu treffenden Maßnahmen;
-  21. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands und
-  22. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
+  a. die Umsetzung neuer Projekte;
+  b. die Bildung eines Mietbudgetausschusses aus Mitgliedern zur Vorbereitung eines Mietbudgetvorschlags für das nächste Geschäftsjahr, die spätestens am 15\. August jedes Geschäftsjahres erfolgen muss;
+  c. die Genehmigung des Mietbudgets für das folgende Jahr, die spätestens am 1\. September jedes Geschäftsjahres erfolgen muss.
+  d. die Änderungen der Satzung;
+  e. die Feststellung des Jahresabschlusses und die Verwendung des Jahresgewinns bzw. die Deckung des Jahresfehlbetrags;
+  f. die Ernennung und Abberufung von Mitgliedern des Vorstandes;
+  g. die Entlassung des Vorstandes;
+  h. die Wahl des/der Bevollmächtigten gemäß § 21;
+  i. die Führung von Gerichtsverfahren gegen im Amt befindliche und aus dem Amt ausgeschiedene Mitglieder des Vorstands;
+  j. den Austritt aus und den Beitritt in die Genossenschaft;
+  k. die Verschmelzung, die Spaltung oder die Änderung der Rechtsform der Genossenschaft sowie ihre Liquidation;
+  l. die Aufnahme, Veräußerung und Aufgabe eines bedeutenden Geschäftsfeldes;
+  m. den Erwerb und die Veräußerung von Unternehmen und Unternehmensbeteiligungen, die Eröffnung oder Schließung von Zweigniederlassungen;
+  n. die Anforderungen für Transaktionen mit Nichtmitgliedern;
+  o. die Befugnis des Vorstands zur Abgabe rechtserheblicher Erklärungen und zum Abschluss von Verträgen in bestimmten Geschäftsbereichen;
+  p. die Abgabe von rechtserheblichen Erklärungen und Verträgen, sofern der Vorstand hierzu nicht befugt ist;
+  q. die Grundprinzipien für den Inhalt von Arbeitsverträgen;
+  r. die Aufnahme und Ausschluss von Mitgliedern;
+  s. die Zustimmung zur Beendigung von Arbeitsverträgen;
+  t. die aufgrund des Berichts über die gesetzlichen Abschlussprüfungen zu treffenden Maßnahmen;
+  u. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands und
+  v. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
 
 (2) Die Generalversammlung kann zur Erfüllung ihrer gesetzlichen und satzungsmäßigen Aufgaben aus dem Kreis ihrer Mitglieder beratende Ausschüsse bilden und sich auf Kosten der Genossenschaft der Hilfe von Sachverständigen, insbesondere des zuständigen Prüfungsverbandes, bedienen.
 
@@ -451,12 +453,12 @@ Beispiel:
 
 1) Der Vorstand ist insbesondere verpflichtet:
 
-  1. zur Führung der Mitgliederliste gemäß § 30 GenG;
-  2. der Generalversammlung Informationen über neue Mitgliedsanträge vorzulegen;
-  3. dafür zu sorgen, dass das Rechnungswesen und die Betriebsorganisation die Erfüllung der Aufgaben der Genossenschaft gewährleisten;
-  4. in von der Generalversammlung genehmigten Fällen oder Tätigkeitsbereichen rechtserhebliche Erklärungen abzugeben und Verträge abzuschließen;
-  5. die Jahresabschlüsse und den Jahresbericht gemäß den gesetzlichen Anforderungen vorzubereiten, zusammen mit dem Vorschlag zur Verwendung des Bilanzgewinns oder zur Deckung des Bilanzverlusts, spätestens bis zum 1\. April, und die Vorstellung dieser Dokumente in die Tagesordnung der ordentlichen Generalversammlung aufzunehmen;
-  6. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträge der Generalversammlung bekannt zu geben.
+  a. zur Führung der Mitgliederliste gemäß § 30 GenG;
+  b. der Generalversammlung Informationen über neue Mitgliedsanträge vorzulegen;
+  c. dafür zu sorgen, dass das Rechnungswesen und die Betriebsorganisation die Erfüllung der Aufgaben der Genossenschaft gewährleisten;
+  d. in von der Generalversammlung genehmigten Fällen oder Tätigkeitsbereichen rechtserhebliche Erklärungen abzugeben und Verträge abzuschließen;
+  e. die Jahresabschlüsse und den Jahresbericht gemäß den gesetzlichen Anforderungen vorzubereiten, zusammen mit dem Vorschlag zur Verwendung des Bilanzgewinns oder zur Deckung des Bilanzverlusts, spätestens bis zum 1\. April, und die Vorstellung dieser Dokumente in die Tagesordnung der ordentlichen Generalversammlung aufzunehmen;
+  f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträge der Generalversammlung bekannt zu geben.
 
 ## Bevollmächtigter
 
@@ -488,9 +490,9 @@ Beispiel:
 
 (1) Die Genossenschaft wird aufgelöst,
 
-  1. durch Beschluss der Generalversammlung,
-  2. durch die Eröffnung eines Insolvenzverfahrens,
-  3. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei beträgt.
+  a. durch Beschluss der Generalversammlung,
+  b. durch die Eröffnung eines Insolvenzverfahrens,
+  c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei beträgt.
 
 (2) Für die Liquidation gelten die Vorschriften des Genossenschaftsgesetzes (GenG).
 

@@ -79,113 +79,113 @@ Internally, we want to achieve these aims by:
 
 (4) The part of the yearly budget of the Cooperative which is acquired through rental of art ateliers must completely cover all the constant costs including:
 
-  1. rental of the Prachtsaal space within property managed by GbR Jonasstraße 22, including adjacent garden area;
-  2. rental of additional spaces and storage spaces within this property;
-  3. operating costs (Betriebskosten) (e.g. water, electricity, heating, etc.);
-  4. internet and other necessary media;
-  5. property insurance;
-  6. security measures required by the insurance;
-  7. financial costs (e.g. bank account);
-  8. office supplies;
-  9. software and service licenses;
-  10. cleaning;
-  11. duties towards companies or entities that provide leases to the Cooperative, ensuring timely payments and adherence to lease agreements, depending on the decision of General Assembly to cover these costs from the atelier rental budget;
-  12. additional 10% of the sum of aforementioned costs for contingencies (e.g. covering for vacant ateliers, legal costs, necessary immediate repairs).
+  a. rental of the Prachtsaal space within property managed by GbR Jonasstraße 22, including adjacent garden area;
+  b. rental of additional spaces and storage spaces within this property;
+  c. operating costs (Betriebskosten) (e.g. water, electricity, heating, etc.);
+  d. internet and other necessary media;
+  e. property insurance;
+  f. security measures required by the insurance;
+  g. financial costs (e.g. bank account);
+  h. office supplies;
+  i. software and service licenses;
+  j. cleaning;
+  k. duties towards companies or entities that provide leases to the Cooperative, ensuring timely payments and adherence to lease agreements, depending on the decision of General Assembly to cover these costs from the atelier rental budget;
+  l. additional 10% of the sum of aforementioned costs for contingencies (e.g. covering for vacant ateliers, legal costs, necessary immediate repairs).
 
 (5) The yearly budget of the Cooperative must also account for additional constant costs which should not be covered by rental of art ateliers, but acquired through other sources of income described in paragraph 10. These constant costs include:
 
-  1. legal costs associated with mandatory audit pursuant to § 4 GenG (“Prüfung und Prüfungsverbände”),
-  2. all the necessary insurances covering accidents involving performers, audience and staff running events at Prachtsaal (to be covered from ticket sales for the events),
-  3. the costs of rental deposit.
+  a. legal costs associated with mandatory audit pursuant to § 4 GenG (“Prüfung und Prüfungsverbände”),
+  b. all the necessary insurances covering accidents involving performers, audience and staff running events at Prachtsaal (to be covered from ticket sales for the events),
+  c. the costs of rental deposit.
 
 (6) The following agreements between 3rd parties and the Cooperative shall be covered by separate contracts:
 
-  1. The rental contract with GbR Jonasstraße 22 to rent the whole Prachtsaal space and agreed additional spaces of the managed property;
-  2. Rental contracts with artists residing in the space;
-  3. Contracts with Members who provide a loan to the Cooperative pursuant to § 21b GenG;
-  4. Contracts with companies or entities that provide leases to the Cooperative;
-  5. Insurance contracts with insurance providers;
-  6. Contracts with the electricity provider;
-  7. Contracts with the garbage disposal facilities;
-  8. Contracts with the cleaning service provider;
-  9. Other contracts with media and service providers necessary for fulfilling statutory purposes stated in this Constitution.
+  a. The rental contract with GbR Jonasstraße 22 to rent the whole Prachtsaal space and agreed additional spaces of the managed property;
+  b. Rental contracts with artists residing in the space;
+  c. Contracts with Members who provide a loan to the Cooperative pursuant to § 21b GenG;
+  d. Contracts with companies or entities that provide leases to the Cooperative;
+  e. Insurance contracts with insurance providers;
+  f. Contracts with the electricity provider;
+  g. Contracts with the garbage disposal facilities;
+  h. Contracts with the cleaning service provider;
+  i. Other contracts with media and service providers necessary for fulfilling statutory purposes stated in this Constitution.
 
 (7) In order to provide fair division of the rental burden carried by tenant artists the Prachtsaal atelier space shall be partitioned into rentable atelier units of value established in points, which relate to:
 
-  1. the unit area in square meters,
-  2. the amount of daylight,
-  3. the amount of airflow,
-  4. additional height of the unit,
-  5. privacy,
-  6. expected disturbance from publicly accessible spaces of Prachtsaal,
-  7. reduced heating,
-  8. location in the basement,
-  9. other important factors established after deliberation.
+  a. the unit area in square meters,
+  b. the amount of daylight,
+  c. the amount of airflow,
+  d. additional height of the unit,
+  e. privacy,
+  f. expected disturbance from publicly accessible spaces of Prachtsaal,
+  g. reduced heating,
+  h. location in the basement,
+  i. other important factors established after deliberation.
 
 (8) The sum of incomes from all rented atelier units equals to the sum of all costs listed in paragraph 4, when divided by 12 months. The monthly rental cost specified in each individual rental contract between the Cooperative and a tenant artist must be calculated according to the formula:
 
-$$r = \frac{a \times c}{s \times 12}$$
+$$r = \frac{a}{s} \times \frac{c}{12}$$
 
 Where:
 
-  * $r$ = monthly rental cost of the atelier unit
-  * $a$ = value points assigned to the atelier unit according to paragraph 7
-  * $s$ = sum of all the value points of all atelier units
-  * $c$ = sum of rental costs listed in paragraph 4
+  - $r$ = monthly rental cost of the atelier unit
+  - $a$ = value points assigned to the atelier unit according to paragraph 7
+  - $s$ = sum of all the value points of all atelier units
+  - $c$ = sum of rental costs listed in paragraph 4
 
 The calculated $r$ value should be rounded up to the closest value of Euro cents.
 
 **Example:**
 
-$$r = \frac{20 \times €50400}{180 \times 12} = \frac{€1,008,000}{2,160} = €466.67$$
+$$r = \frac{20}{180} \times \frac{€50400}{12} = 0.1111 \times €4200 = €466.67$$
 
 Where:
 
-  * $a = 20$ (value points of the atelier unit)
-  * $s = 180$ (value points of all atelier units)
-  * $c = €50,400$ (the sum of yearly rental costs listed in paragraph 4)
-  * $r = €466.67$ (the monthly rental cost of the atelier unit)
+  - $a = 20$ (value points of the atelier unit)
+  - $s = 180$ (value points of all atelier units)
+  - $c = €50,400$ (the sum of yearly rental costs listed in paragraph 4)
+  - $r = €466.67$ (the monthly rental cost of the atelier unit)
 
 (9) All costs listed in paragraph 4, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
 
 (10) Additional income of the Cooperative can be acquired through:
 
-  1. fundraising campaigns focused on particular projects to be realized by the Cooperative;
-  2. ticket sales for the events happening at Prachtsaal;
-  3. commissions from ticket sales for workshops and educational events happening at Prachtsaal;
-  4. sales of beverages and food during these events in compliance with rules and guidelines for hospitality services in Germany;
-  5. commissions from the artwork sold while being exhibited at Prachtsaal (to be regulated by resolutions of the Cooperative and written agreements with the artists);
-  6. rental of the public spaces of Prachtsaal to 3rd parties for the purposes aligned with the Cooperative’s statutory purpose;
-  7. financial donations;
-  8. donations in kind (to be individually inspected and accepted, to prevent from receiving a liability);
-  9. sales of goods and services directly related to the purpose of the Cooperative, including online education.
+  a. fundraising campaigns focused on particular projects to be realized by the Cooperative;
+  b. ticket sales for the events happening at Prachtsaal;
+  c. commissions from ticket sales for workshops and educational events happening at Prachtsaal;
+  d. sales of beverages and food during these events in compliance with rules and guidelines for hospitality services in Germany;
+  e. commissions from the artwork sold while being exhibited at Prachtsaal (to be regulated by resolutions of the Cooperative and written agreements with the artists);
+  f. rental of the public spaces of Prachtsaal to 3rd parties for the purposes aligned with the Cooperative’s statutory purpose;
+  g. financial donations;
+  h. donations in kind (to be individually inspected and accepted, to prevent from receiving a liability);
+  j. sales of goods and services directly related to the purpose of the Cooperative, including online education.
 
 (11) Additional income shall be spent only on purposes aligned with the Cooperative’s statutory purpose, and described in this Constitution, including:
 
-  1. payments for artists performing during events happening at Prachtsaal;
-  2. payments for technicians and staff supporting these events;
-  3. payments for curators and organizers of these events;
-  4. payments for other professionals performing required work on behalf of the Cooperative (e.g. lawyers, builders, architects);
-  5. costs related to organization of art residencies at Prachtsaal;
-  6. charitable contributions to the community in the areas of art and education;
-  7. production costs;
-  8. marketing costs;
-  9. licenses;
-  10. payments for paying off loans and leases;
-  11. purchase of an artwork exhibited at Prachtsaal, to form the Prachtsaal Art Collection (excluding the artwork of the Members of the Cooperative);
-  12. plans, materials, work and all the other means required to conduct renovations and constructions;
-  13. specialized equipment needed for events;
-  14. art supplies and building materials required by educational workshops and collaborations between the Members of the Cooperative.
+  a. payments for artists performing during events happening at Prachtsaal;
+  b. payments for technicians and staff supporting these events;
+  c. payments for curators and organizers of these events;
+  d. payments for other professionals performing required work on behalf of the Cooperative (e.g. lawyers, builders, architects);
+  e. costs related to organization of art residencies at Prachtsaal;
+  f. charitable contributions to the community in the areas of art and education;
+  g. production costs;
+  h. marketing costs;
+  i. licenses;
+  j. payments for paying off loans and leases;
+  k. purchase of an artwork exhibited at Prachtsaal, to form the Prachtsaal Art Collection (excluding the artwork of the Members of the Cooperative);
+  l. plans, materials, work and all the other means required to conduct renovations and constructions;
+  m. specialized equipment needed for events;
+  n. art supplies and building materials required by educational workshops and collaborations between the Members of the Cooperative.
 
 (12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative’s statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
-  1. Curatorial program of the event and exhibition space focused on organization of various cultural events:
+  a. Curatorial program of the event and exhibition space focused on organization of various cultural events:
      - visual art shows (e.g. oil paintings exhibition);
      - concerts (e.g. a series of classical music performances with media art augmentation produced and staged at Prachtsaal);
      - media art shows (e.g. a series of performances based on live-coding technique);
      - festivals (e.g. Prachtsaal as one of the host venues during: 48 Hours Neukölln, CTM/Transmediale/Vorspiel, etc.);
      - theater (e.g. production and staging of small theatrical plays at Prachtsaal).
-  2. Experimental creative center program focused on:
+  b. Experimental creative center program focused on:
      - support groups (e.g. marginalized communities, reproductive rights, domestic violence, etc.);
      - art education (e.g. live drawing sessions with mentorship);
      - art education for children (e.g. workshops during KinderKulturMonat, playful art corner for children during other meetings);
@@ -194,14 +194,14 @@ Where:
      - workshops (e.g. teaching tape-art techniques);
      - art therapy sessions;
      - recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
-  3. Educational program facilitating lectures, panels and group discussions on:
+  c. Educational program facilitating lectures, panels and group discussions on:
      - arts (e.g. feminist themes in homoerotic manga);
      - society (e.g. economy of cooperatives and its impact on local communities);
      - history (e.g. revealing the past of Rixdorf);
      - psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
      - philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
-  4. A program of sponsored residencies accessible to international artists visiting Berlin.
-  5. A project focused on reducing accessibility barriers at Prachtsaal:
+  d. A program of sponsored residencies accessible to international artists visiting Berlin.
+  e. A project focused on reducing accessibility barriers at Prachtsaal:
      - construction of an accessible toilet;
      - 3D printed description of our music program in Braille.
 
@@ -233,17 +233,17 @@ Where:
 
 (1) Membership can be acquired by:
 
-   1. natural people,
-   2. partnerships,
-   3. legal entities under private or public law.
+  a. natural people,
+  b. partnerships,
+  c. legal entities under private or public law.
 
 (2) A natural person applying for membership in the Cooperative should already have an important connection to the Prachtsaal space and community as:
 
-   1. a tenant artist,
-   2. a curator invested in organization of events happening at Prachtsaal,
-   3. a fundraiser securing funds for realizing Cooperative’s statutory purpose,
-   4. a substantial supporter of the Cooperative’s statutory purpose,
-   5. any other person invited by the decision of the General Assembly.
+  a. a tenant artist,
+  b. a curator invested in organization of events happening at Prachtsaal,
+  c. a fundraiser securing funds for realizing Cooperative’s statutory purpose,
+  d. a substantial supporter of the Cooperative’s statutory purpose,
+  e. any other person invited by the decision of the General Assembly.
 
 (3) Membership of a partnership or a legal entity is permitted only for organizations which can significantly contribute to the Cooperative’s statutory purpose (e.g. organization securing rent subsidies for ateliers).
 
@@ -257,10 +257,10 @@ Where:
 
 (1) The membership ends by
 
-  1. termination,
-  2. death of a Member,
-  3. dissolution of a legal entity or partnership,
-  4. exclusion.
+  a. termination,
+  b. death of a Member,
+  c. dissolution of a legal entity or partnership,
+  d. exclusion.
 
 (2) The Member has the right to resign from the Cooperative by giving written notice. The termination happens immediately after receiving the notice.
 
@@ -284,12 +284,12 @@ Where:
 
 (1) A Member may be excluded from the Cooperative,
 
-  1. if the Member does not comply with statutory or other obligations to the Cooperative despite a written request under threat of exclusion;
-  2. if the Member submits incorrect annual financial statements or asset overviews or otherwise makes incorrect or incomplete declarations about own legal and/or economic circumstances;
-  3. if the Member damages or has damaged the Cooperative by failing to fulfill its obligations to the Cooperative;
-  4. if the Member is unreachable for more than 3 months;
-  5. if the requirements for admission to the Cooperative were not present or no longer exist;
-  6. if behavior of the Member cannot be reconciled with the interests of the Cooperative.
+  a. if the Member does not comply with statutory or other obligations to the Cooperative despite a written request under threat of exclusion;
+  b. if the Member submits incorrect annual financial statements or asset overviews or otherwise makes incorrect or incomplete declarations about own legal and/or economic circumstances;
+  c. if the Member damages or has damaged the Cooperative by failing to fulfill its obligations to the Cooperative;
+  d. if the Member is unreachable for more than 3 months;
+  e. if the requirements for admission to the Cooperative were not present or no longer exist;
+  f. if behavior of the Member cannot be reconciled with the interests of the Cooperative.
 
 (2) The exclusion shall be effected by resolution of the General Assembly. The Member to be excluded shall be given the opportunity to comment on the exclusion beforehand, except in the case of § 9 paragraph 1 d. of this Constitution. The excluded Member must be informed immediately of the exclusion with reasons in the legally prescribed form (§ 68 GenG) and by email. From the time the notification is sent in the statutory form (§ 68 GenG), the member may no longer participate in the General Assembly, use facilities of the Cooperative or be a member of the Board of Directors, or represent the Cooperative in any other way.
 
@@ -301,16 +301,16 @@ Where:
 
 (2) Each Member is entitled by virtue of the membership in particular:
 
-  1. to use the facilities of the Cooperative in accordance with the provisions made for this purpose;
-  2. to rent an atelier space in the Prachtsaal, depending on availability and based on separate agreements between the Cooperative and the Member;
-  3. to participate in the General Assembly and in its deliberations, votes and elections and to submit proposals for the agenda of the General Assembly meeting;
-  4. to demand the calling of an extraordinary General Assembly meeting or the announcement of items for resolution in a General Assembly meeting that has already been called;
-  5. to obtain information about the affairs of the Cooperative;
-  6. to declare their withdrawal from the Cooperative;
-  7. to inspect the minutes of the resolutions of the Board of Directors and to request a copy of the annual financial statements and the annual report;
-  8. to inspect the minutes of the General Assembly meeting;
-  9. to view the List of Members;
-  10. to inspect the summarized result of the audit report.
+  a. to use the facilities of the Cooperative in accordance with the provisions made for this purpose;
+  b. to rent an atelier space in the Prachtsaal, depending on availability and based on separate agreements between the Cooperative and the Member;
+  c. to participate in the General Assembly and in its deliberations, votes and elections and to submit proposals for the agenda of the General Assembly meeting;
+  d. to demand the calling of an extraordinary General Assembly meeting or the announcement of items for resolution in a General Assembly meeting that has already been called;
+  e. to obtain information about the affairs of the Cooperative;
+  f. to declare their withdrawal from the Cooperative;
+  g. to inspect the minutes of the resolutions of the Board of Directors and to request a copy of the annual financial statements and the annual report;
+  h. to inspect the minutes of the General Assembly meeting;
+  i. to view the List of Members;
+  j. to inspect the summarized result of the audit report.
 
 ### § 11 Duties of Members
 
@@ -362,8 +362,8 @@ Where:
 
 (1) The governing bodies of the Cooperative are:
 
-  1. the General Assembly (Generalversammlung),
-  2. the Board of Directors (Vorstand)
+  a. the General Assembly (Generalversammlung),
+  b. the Board of Directors (Vorstand)
 
 (2) The governing bodies of the Cooperative are obliged to align the costs of business operations in accordance with the principles of proper management and to keep them within reasonable limits.
 
@@ -413,28 +413,28 @@ Where:
 
 (1) The General Assembly is the highest executive body of the Cooperative. In addition to the other matters specified in § 48 GenG or this Constitution it decides in particular on
 
-  1. the implementation of new projects;
-  2. forming a Rental Budget Committee of Members to prepare a rental budget proposal for the next fiscal year, which must happen no later than August 15th of each fiscal year;
-  3. approval of the rental budget for the following year, which must happen no later than September 1st of each fiscal year;
-  4. amendments to the Constitution;
-  5. the adoption of the annual financial statements and the use of the net profit for the year or the coverage of a net loss for the year;
-  6. the appointment and dismissal of members of the Board of Directors;
-  7. the discharge of the Board of Directors;
-  8. the election of the Authorized Representative(s) (Bevollmächtigter) pursuant to § 21;
-  9. the conduct of legal proceedings against members of the Board of Directors who are in office or have left office;
-  10. the withdrawal from and entry into Cooperative associations;
-  11. the merger, demerger or change of legal form of the Cooperative as well as its liquidation;
-  12. the taking up, transfer and abandonment of a significant business area;
-  13. the acquisition and sale of companies and shareholdings, the opening or closing of branches;
-  14. the requirements for non-member transactions;
-  15. the authorization of the Board of Directors to issue legally relevant declarations and contracts in specified areas of operations;
-  16. the issuing of legally relevant declarations and contracts, in case the Board of Directors is not authorized to do so;
-  17. basic principles for the content of employment contracts;
-  18. admission and exclusion of Members;
-  19. approval of the termination of employment contracts;
-  20. the measures to be taken as a result of the report on the statutory audits;
-  21. scope of the announcement of the audit report of the Examination Association (Prüfungsverband); and
-  22. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
+  a. the implementation of new projects;
+  b. forming a Rental Budget Committee of Members to prepare a rental budget proposal for the next fiscal year, which must happen no later than August 15th of each fiscal year;
+  c. approval of the rental budget for the following year, which must happen no later than September 1st of each fiscal year;
+  d. amendments to the Constitution;
+  e. the adoption of the annual financial statements and the use of the net profit for the year or the coverage of a net loss for the year;
+  f. the appointment and dismissal of members of the Board of Directors;
+  g. the discharge of the Board of Directors;
+  h. the election of the Authorized Representative(s) (Bevollmächtigter) pursuant to § 21;
+  i. the conduct of legal proceedings against members of the Board of Directors who are in office or have left office;
+  j. the withdrawal from and entry into Cooperative associations;
+  k. the merger, demerger or change of legal form of the Cooperative as well as its liquidation;
+  l. the taking up, transfer and abandonment of a significant business area;
+  m. the acquisition and sale of companies and shareholdings, the opening or closing of branches;
+  n. the requirements for non-member transactions;
+  o. the authorization of the Board of Directors to issue legally relevant declarations and contracts in specified areas of operations;
+  p. the issuing of legally relevant declarations and contracts, in case the Board of Directors is not authorized to do so;
+  q. basic principles for the content of employment contracts;
+  r. admission and exclusion of Members;
+  s. approval of the termination of employment contracts;
+  t. the measures to be taken as a result of the report on the statutory audits;
+  u. scope of the announcement of the audit report of the Examination Association (Prüfungsverband); and
+  v. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
 
 (2) In order to fulfill its legal and statutory duties, the General Assembly may form advisory committees from among its Members and avail itself of the assistance of experts, in particular of the competent Examination Association (Prüfungsverband), at the Cooperative's expense.
 
@@ -454,12 +454,12 @@ Where:
 
 (1) In particular, the Board of Directors is obliged:
 
-   1. to maintain the List of Members in accordance with the § 30 GenG;
-   2. to submit information about new membership applications to the General Assembly;
-   3. to ensure that the accounting system and the operational organization guarantee the fulfillment of the Cooperative's tasks;
-   4. to issue legally relevant declarations and contracts in cases or areas of operations authorized by the General Assembly;
-   5. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, no later than April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
-   6. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
+  a. to maintain the List of Members in accordance with the § 30 GenG;
+  b. to submit information about new membership applications to the General Assembly;
+  c. to ensure that the accounting system and the operational organization guarantee the fulfillment of the Cooperative's tasks;
+  d. to issue legally relevant declarations and contracts in cases or areas of operations authorized by the General Assembly;
+  e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, no later than April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
+  f. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
 
 ## Authorized Representative (Bevollmächtigter)
 
@@ -491,9 +491,9 @@ Where:
 
 (1) The cooperative is dissolved,
 
-  1. by resolution of the General Assembly,
-  2. by the opening of insolvency proceedings,
-  3. by decision of the court if the number of members is less than three.
+  a. by resolution of the General Assembly,
+  b. by the opening of insolvency proceedings,
+  c. by decision of the court if the number of members is less than three.
 
 (2) The provisions of the Cooperative Societies Act (Genossenschaftsgesetz GenG) shall apply to the liquidation.
 
