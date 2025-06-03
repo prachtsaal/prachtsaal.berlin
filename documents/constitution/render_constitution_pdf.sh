@@ -64,7 +64,7 @@ EOF
 # Add content: remove ALL first-level headings (# ), add TOC
 sed '
     /^# /d
-    s/<!-- table_of_contents -->/\\tableofcontents\n\\newpage/g
+    s/<!-- table_of_contents -->/\\newpage\n\\tableofcontents\n\\newpage/g
 ' "$input_file" >> "$temp_file"
 
 # Convert to PDF
