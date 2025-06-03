@@ -50,7 +50,7 @@ if [ -z "$lang" ]; then
 fi
 
 # Create temporary file with unique name to avoid conflicts
-temp_file=$(mktemp "${input_file%.md}_temp_XXXXXX.md")
+temp_file=$(mktemp "${input_file%.md}_temp_XXXXXX")
 
 cat > "$temp_file" << EOF
 ---
@@ -76,6 +76,7 @@ pandoc "$temp_file" \
     --shift-heading-level-by=-1 \
     --variable=papersize:a4 \
     --variable=geometry:margin=2.5cm \
+    --variable=fontsize:12pt \
     --include-in-header=<(cat << HEADER_EOF
 \usepackage{fancyhdr}
 \usepackage{lastpage}
