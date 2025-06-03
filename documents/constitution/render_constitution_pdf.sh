@@ -1,8 +1,17 @@
 #!/bin/bash
 
-# Simple Constitution PDF Renderer
+# Markdown to PDF Renderer
 
 set -e
+
+# Check if input file argument is provided
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <markdown_file>"
+    echo "Example: $0 my-document.md"
+    exit 1
+fi
+
+input_file="$1"
 
 # Check if pandoc is installed
 if ! command -v pandoc &> /dev/null; then
@@ -11,24 +20,39 @@ if ! command -v pandoc &> /dev/null; then
 fi
 
 # Check if input file exists
-if [ ! -f "prachtsaal-constitution.md" ]; then
-    echo "Error: prachtsaal-constitution.md not found"
+if [ ! -f "$input_file" ]; then
+    echo "Error: $input_file not found"
     exit 1
 fi
 
-echo "Converting to PDF..."
+# Check if input file has .md extension
+if [[ "$input_file" != *.md ]]; then
+    echo "Warning: Input file doesn't have .md extension"
+fi
+
+echo "Converting $input_file to PDF..."
+
+# Generate output filename (replace .md with .pdf, or add .pdf if no extension)
+if [[ "$input_file" == *.md ]]; then
+    output_file="${input_file%.md}.pdf"
+else
+    output_file="${input_file}.pdf"
+fi
 
 # Extract title from first # heading, date, and language from front matter
-title=$(grep -m 1 '^# ' prachtsaal-constitution.md | sed 's/^# //')
-date=$(grep -m 1 '^date:' prachtsaal-constitution.md | sed 's/^date: *//' | tr -d '"')
-lang=$(grep -m 1 '^lang:' prachtsaal-constitution.md | sed 's/^lang: *//' | tr -d '"')
+title=$(grep -m 1 '^# ' "$input_file" | sed 's/^# //' || echo "Document")
+date=$(grep -m 1 '^date:' "$input_file" | sed 's/^date: *//' | tr -d '"' || echo "")
+lang=$(grep -m 1 '^lang:' "$input_file" | sed 's/^lang: *//' | tr -d '"' || echo "")
 
 # Default to English if no language specified
 if [ -z "$lang" ]; then
     lang="en"
 fi
 
-cat > constitution_temp.md << EOF
+# Create temporary file with unique name to avoid conflicts
+temp_file=$(mktemp "${input_file%.md}_temp_XXXXXX.md")
+
+cat > "$temp_file" << EOF
 ---
 title: "$title"
 date: "$date"
@@ -41,14 +65,14 @@ EOF
 sed '
     /^# /d
     s/<!-- table_of_contents -->/\\tableofcontents\n\\newpage/g
-' prachtsaal-constitution.md >> constitution_temp.md
+' "$input_file" >> "$temp_file"
 
 # Convert to PDF
-pandoc constitution_temp.md \
+pandoc "$temp_file" \
     --pdf-engine=xelatex \
     --from=markdown+smart \
     --to=pdf \
-    --output=prachtsaal-constitution.pdf \
+    --output="$output_file" \
     --shift-heading-level-by=-1 \
     --variable=papersize:a4 \
     --variable=geometry:margin=2.5cm \
@@ -64,6 +88,6 @@ HEADER_EOF
 )
 
 # Clean up
-rm -f constitution_temp.md
+rm -f "$temp_file"
 
-echo "PDF created: prachtsaal-constitution.pdf"
+echo "PDF created: $output_file"
