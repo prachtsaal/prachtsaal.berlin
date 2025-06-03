@@ -26,18 +26,18 @@ We are aiming at:
 
 Facing the public, we want to achieve these aims by:
 
-   - curating inclusive events for the benefit of the local community and a wider audience,
-   - offering spaces and shared facilities to enable the exploration of various mediums,
-   - fostering a safe environment of diversity and inclusivity,
-   - facilitating physical access to the area by making it unchallenging to explore and use for people with disabilities,
+  - curating inclusive events for the benefit of the local community and a wider audience,
+  - offering spaces and shared facilities to enable the exploration of various mediums,
+  - fostering a safe environment of diversity and inclusivity,
+  - facilitating physical access to the area by making it unchallenging to explore and use for people with disabilities,
 
 Internally, we want to achieve these aims by:
 
-   - upholding a democratic governance process,
-   - seeking professional support to fulfill our mission,
-   - undertaking required renovations and reconstructions,
-   - achieving economic sustainability of the space,
-   - ensuring non-profit status of Prachtsaal.
+  - upholding a democratic governance process,
+  - seeking professional support to fulfill our mission,
+  - undertaking required renovations and reconstructions,
+  - achieving economic sustainability of the space,
+  - ensuring non-profit status of Prachtsaal.
 
 <!-- table_of_contents -->
 
@@ -180,30 +180,30 @@ Where:
 (12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative’s statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
   1. Curatorial program of the event and exhibition space focused on organization of various cultural events:
-    * visual art shows (e.g. oil paintings exhibition);
-    * concerts (e.g. a series of classical music performances with media art augmentation produced and staged at Prachtsaal);
-    * media art shows (e.g. a series of performances based on live-coding technique);
-    * festivals (e.g. Prachtsaal as one of the host venues during: 48 Hours Neukölln, CTM/Transmediale/Vorspiel, etc.);
-    * theater (e.g. production and staging of small theatrical plays at Prachtsaal).
+     - visual art shows (e.g. oil paintings exhibition);
+     - concerts (e.g. a series of classical music performances with media art augmentation produced and staged at Prachtsaal);
+     - media art shows (e.g. a series of performances based on live-coding technique);
+     - festivals (e.g. Prachtsaal as one of the host venues during: 48 Hours Neukölln, CTM/Transmediale/Vorspiel, etc.);
+     - theater (e.g. production and staging of small theatrical plays at Prachtsaal).
   2. Experimental creative center program focused on:
-    * support groups (e.g. marginalized communities, reproductive rights, domestic violence, etc.);
-    * art education (e.g. live drawing sessions with mentorship);
-    * art education for children (e.g. workshops during KinderKulturMonat, playful art corner for children during other meetings);
-    * family friendly workshops (e.g. Mandarin calligraphy workshops for children and parents);
-    * meditation (e.g. sound-bath relaxation sessions facilitated by Prachtsaal artists);
-    * workshops (e.g. teaching tape-art techniques);
-    * art therapy sessions;
-    * recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
+     - support groups (e.g. marginalized communities, reproductive rights, domestic violence, etc.);
+     - art education (e.g. live drawing sessions with mentorship);
+     - art education for children (e.g. workshops during KinderKulturMonat, playful art corner for children during other meetings);
+     - family friendly workshops (e.g. Mandarin calligraphy workshops for children and parents);
+     - meditation (e.g. sound-bath relaxation sessions facilitated by Prachtsaal artists);
+     - workshops (e.g. teaching tape-art techniques);
+     - art therapy sessions;
+     - recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
   3. Educational program facilitating lectures, panels and group discussions on:
-    * arts (e.g. feminist themes in homoerotic manga);
-    * society (e.g. economy of cooperatives and its impact on local communities);
-    * history (e.g. revealing the past of Rixdorf);
-    * psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
-    * philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
+     - arts (e.g. feminist themes in homoerotic manga);
+     - society (e.g. economy of cooperatives and its impact on local communities);
+     - history (e.g. revealing the past of Rixdorf);
+     - psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
+     - philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
   4. A program of sponsored residencies accessible to international artists visiting Berlin.
   5. A project focused on reducing accessibility barriers at Prachtsaal:
-    * construction of an accessible toilet;
-    * 3D printed description of our music program in Braille.
+     - construction of an accessible toilet;
+     - 3D printed description of our music program in Braille.
 
 (13) Dedicated part of the Prachtsaal space shall become a multimedia-enabled venue, suitable for a wide range of audiovisual performances and public events.
 

@@ -176,30 +176,31 @@ Beispiel:
 (12) Die in Absatz 10a genannten Projekte und die damit verbundenen Spendenaktionen können sowohl von den Mitgliedern der Genossenschaft als auch von externen Kuratoren und Spendensammlern in Abstimmung mit der Genossenschaft betreut werden. Der Umfang dieser Projekte soll verschiedene Themen abdecken, die mit dem satzungsmäßigen Zweck der Genossenschaft in Zusammenhang stehen. Die folgende Liste umfasst beispielhaft einige Themen ohne Priorisierung oder Einschränkung:
 
   1. Kuratorisches Programm der Veranstaltungs- und Ausstellungsräume, ausgerichtet auf die Organisation verschiedener kultureller Veranstaltungen:
-    * Ausstellungen bildender Kunst (z. B. Ausstellung von Ölgemälden);
-    * Konzerte (z. B. eine Reihe klassischer Musikdarbietungen mit medienkünstlerischer Erweiterung, produziert und aufgeführt im Prachtsaal);
-    * Medienkunstshows (z. B. eine Reihe von Performances auf der Grundlage von Live-Coding-Technik);
-    * Festivals (z. B. Prachtsaal als einer der Veranstaltungsorte bei: 48 Stunden Neukölln, CTM/Transmediale/Vorspiel usw.);
-    * Theater (z. B. Produktion und Aufführung kleinerer Theaterstücke im Prachtsaal).
+     - Ausstellungen bildender Kunst (z. B. Ausstellung von Ölgemälden);
+     - Konzerte (z. B. eine Reihe klassischer Musikdarbietungen mit medienkünstlerischer Erweiterung, produziert und aufgeführt im Prachtsaal);
+     - Medienkunstshows (z. B. eine Reihe von Performances auf der Grundlage von Live-Coding-Technik);
+     - Festivals (z. B. Prachtsaal als einer der Veranstaltungsorte bei: 48 Stunden Neukölln, CTM/Transmediale/Vorspiel usw.);
+     - Theater (z. B. Produktion und Aufführung kleinerer Theaterstücke im Prachtsaal).
+
   2. Experimentelles Programm des Kreativzentrums mit Schwerpunkt auf:
-    * Selbsthilfegruppen (z. B. marginalisierte Gemeinschaften, reproduktive Rechte, häusliche Gewalt usw.);
-    * künstlerische Bildung (z. B. Live-Drawing-Veranstaltungen unter Anleitung);
-    * Kunstvermittlung für Kinder (z. B. Workshops im KinderKulturMonat, spielerische Kunstecke für Kinder während anderer Veranstaltungen);
-    * Angebote für Eltern und Kinder (z. B. Mandarin-Kalligraphie-Workshops für Kinder und Eltern);
-    * Meditation (z. B. Klangbad-Entspannungssitzungen geleitet von Künstlern des Prachtsaals);
-    * Workshops (z. B. Vermittlung von Tape-Art-Techniken);
-    * Kunsttherapiesitzungen;
-    * Freizeitaktivitäten (z. B. Teekeramik- und Teeverkostungs-Workshop im Garten des Prachtsaals).
+     - Selbsthilfegruppen (z. B. marginalisierte Gemeinschaften, reproduktive Rechte, häusliche Gewalt usw.);
+     - künstlerische Bildung (z. B. Live-Drawing-Veranstaltungen unter Anleitung);
+     - Kunstvermittlung für Kinder (z. B. Workshops im KinderKulturMonat, spielerische Kunstecke für Kinder während anderer Veranstaltungen);
+     - Angebote für Eltern und Kinder (z. B. Mandarin-Kalligraphie-Workshops für Kinder und Eltern);
+     - Meditation (z. B. Klangbad-Entspannungssitzungen geleitet von Künstlern des Prachtsaals);
+     - Workshops (z. B. Vermittlung von Tape-Art-Techniken);
+     - Kunsttherapiesitzungen;
+     - Freizeitaktivitäten (z. B. Teekeramik- und Teeverkostungs-Workshop im Garten des Prachtsaals).
   3. Bildungsangebote mit Vorträgen, Podiumsdiskussionen und Gruppendiskussionen zu den folgenden Themen:
-    * Kunst (z. B. feministische Themen in homoerotischen Mangas);
-    * Gesellschaft (z. B. Ökonomie von Genossenschaften und ihre Auswirkungen auf lokale Gemeinschaften);
-    * Geschichte (z. B. Aufklärung der Vergangenheit von Rixdorf);
-    * Psychologie (z. B. erfahrungsbasierte Selbstbestimmung und Kreativität für Jugendliche);
-    * Philosophie (z. B. die Entwicklung der künstlichen Intelligenz und ihre Konsequenzen für die Philosophie des Geistes und die Gesellschaft im Allgemeinen), 
+     - Kunst (z. B. feministische Themen in homoerotischen Mangas);
+     - Gesellschaft (z. B. Ökonomie von Genossenschaften und ihre Auswirkungen auf lokale Gemeinschaften);
+     - Geschichte (z. B. Aufklärung der Vergangenheit von Rixdorf);
+     - Psychologie (z. B. erfahrungsbasierte Selbstbestimmung und Kreativität für Jugendliche);
+     - Philosophie (z. B. die Entwicklung der künstlichen Intelligenz und ihre Konsequenzen für die Philosophie des Geistes und die Gesellschaft im Allgemeinen), 
   4. Ein Programm gesponserter Residenzen, das internationalen Künstlern zugänglich ist, die Berlin besuchen. 
   5. Ein Projekt zur Verringerung von Zugangshindernissen im Prachtsaal:
-    * Bau einer barrierefreien Toilette;
-    * 3D-gedruckte Beschreibung unseres Musikprogramms in Blindenschrift.
+     - Bau einer barrierefreien Toilette;
+     - 3D-gedruckte Beschreibung unseres Musikprogramms in Blindenschrift.
 
 (13) Ein bestimmter Teilbereich des Prachtsaals soll zu einem multimedialen Veranstaltungsort werden, der sich für ein breites Spektrum audiovisueller Darbietungen und öffentlicher Veranstaltungen eignet.
 
