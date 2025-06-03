@@ -157,8 +157,8 @@ Where:
   e. commissions from the artwork sold while being exhibited at Prachtsaal (to be regulated by resolutions of the Cooperative and written agreements with the artists);
   f. rental of the public spaces of Prachtsaal to 3rd parties for the purposes aligned with the Cooperative’s statutory purpose;
   g. financial donations;
-  h. donations in kind (to be individually inspected and accepted, to prevent from receiving a liability);
-  j. sales of goods and services directly related to the purpose of the Cooperative, including online education.
+  h. donations in kind (to be individually inspected and accepted, to prevent receiving a liability);
+  i. sales of goods and services directly related to the purpose of the Cooperative, including online education.
 
 (11) Additional income shall be spent only on purposes aligned with the Cooperative’s statutory purpose, and described in this Constitution, including:
 
@@ -251,7 +251,7 @@ Where:
 
 (5) The General Assembly is responsible for either approving, declining or deciding on a trial period of a membership application.
 
-(6) The Member must be added to the List of Members immediately, in accordance with § 30 GenG.
+(6) The entry of the Member in the List of Members must be undertaken immediately, in accordance with § 30 GenG.
 
 ### § 5 Termination of membership
 
@@ -444,7 +444,7 @@ Where:
 
 (1) The Board of Directors shall consist of at least 2 members. The members of the Board of Directors shall be appointed by the General Assembly. The term of office shall be 1 year. A Board member shall remain in office until a new Board member is appointed or a reappointment takes place.
 
-(2) The Cooperative shall be represented by each member of the Board of Directors alone.
+(2) The Cooperative shall be represented by each member of the Board of Directors independently of the other Board member(s).
 
 (3) The Board of Directors shall conduct the business of the Cooperative on the basis of its resolutions, which shall be adopted unanimously. Minutes shall be taken of all verbally adopted resolutions, which shall be confirmed by all members of the Board. Resolutions passed in writing or electronically shall be kept permanently. The completeness and availability of the minutes and written or electronic resolutions shall be ensured.
 
@@ -458,7 +458,7 @@ Where:
   b. to submit information about new membership applications to the General Assembly;
   c. to ensure that the accounting system and the operational organization guarantee the fulfillment of the Cooperative's tasks;
   d. to issue legally relevant declarations and contracts in cases or areas of operations authorized by the General Assembly;
-  e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, no later than April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
+  e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, at the latest by April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
   f. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
 
 ## Authorized Representative (Bevollmächtigter)
@@ -471,7 +471,7 @@ Where:
 
 (3) The Authorized Representative (Bevollmächtigter) shall represent the Cooperative towards the members of the Board of Directors (§ 39 paragraph 1 sentence 2 GenG) and shall perform the tasks according to § 51 paragraph 3 sentence 2 (representation of the Cooperative in case of contestation of resolutions of the General Assembly), § 57 paragraph 6 (audit procedure) and § 58 paragraph 3 sentence 1 (audit report) of the Cooperative Societies Act (Genossenschaftsgesetz). The Authorized Representative (Bevollmächtigter) is bound by the instructions of the General Assembly.
 
-(4) The General Assembly appoints an Audit Commission (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other auditor. As part of the audit of the annual financial statements, the Audit Commission (Revisionskommission) assumes the tasks of the Supervisory Board in accordance with § 38 paragraph 1 Sentence 5 GenG.
+(4) The General Assembly appoints an Audit Commission (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other accounting auditor. As part of the audit of the annual financial statements, the Audit Commission (Revisionskommission) assumes the tasks of the Supervisory Board in accordance with § 38 paragraph 1 Sentence 5 GenG.
 
 ## V. Accounting
 
@@ -497,7 +497,7 @@ Where:
 
 (2) The provisions of the Cooperative Societies Act (Genossenschaftsgesetz GenG) shall apply to the liquidation.
 
-(3) If the corporation is dissolved or if tax-privileged purposes cease to exist, the assets of the corporation, to the extent that they exceed the paid-in capital shares (business assets) of the partners (Members) and the fair value of the contributions in kind made by the partners (Members), pass to a legal entity under public law or another tax-privileged entity for use for promotion of arts and/or culture.
+(3) If the corporation is dissolved or if tax-privileged purposes cease to exist, the assets of the corporation, to the extent that they exceed the paid-in business shares (business assets) of the partners (Members) and the fair value of the contributions in kind made by the partners (Members), pass to a legal entity under public law or another tax-privileged entity for use for promotion of arts and/or culture.
 
 ### § 25 Announcements
 
