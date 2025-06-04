@@ -11,7 +11,7 @@ images:
   - file: /assets/img/events/2025-06-07-lucid-intervals/LucidIntervals_event_img1.jpg
   - file: /assets/img/events/2025-06-07-lucid-intervals/LucidIntervals_event_img2.jpg
   - file: /assets/img/events/2025-06-07-lucid-intervals/LucidIntervals_event_img3.jpg
-tags: performance portfolio
+tags: portfolio news
 ---
 
 On Saturday, June 7th, we are opening our venue to invite you to a synthesis of sound and light.
