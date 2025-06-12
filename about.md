@@ -5,33 +5,36 @@ description: about Prachtsaal Studio Cooperative
 ---
 ## Who are we?
 
-Welcome to Prachtsaal, a vibrant and dynamic creative nexus, built on two interconnected pillars. One empowers our resident artists, who infuse the space and inspire each other with cutting-edge innovation. The other invites the public into a dynamic playground for expression, exploration, exchange, and education. Our mission is to cultivate an environment teeming with playfulness and purpose, movement and reflection, color and sound, discovery and growth. We eagerly welcome everyone with an open mind, tolerance, and curiosity to join us. As a non-profit cooperative, we are committed to pushing the boundaries of community enrichment.
+Welcome to **Prachtsaal**, a living, breathing engine of collective creativity built on two interconnected pillars. One empowers our resident artists, whose work sparks, mutates, and cross-pollinates within the space. The other opens the doors to the public, transforming the studio into a playground of expression, experimentation, and shared knowledge. Our mission is to cultivate the balance between play and purpose, movement and reflection, sound and silence. We welcome everyone driven by curiosity, openness, and the hunger to explore. As a non-profit cooperative, we're here to challenge conventions and co-create a space where art doesn't just exist: it unfolds, provokes, and connects.
 
-Join us at Prachtsaal, where creativity knows no bounds and every day is an invitation to explore, learn, and grow together!
+**Join us at Prachtsaal—where creation is a process, not a product, and every day invites fresh connections between people, ideas, and worlds.**
 
 ## Our mission
 
 At Prachtsaal, we are committed to:
 
-* Showcasing visual arts, music, and performances that embody creative expression across all mediums, intersecting with the realms of humanities, society, science, and technology.
-* Providing affordable ateliers for artists.
-* Curating inclusive events for the benefit of both the local community and a wider audience.
-* Educating all generations in art techniques and culture.
-* Promoting international artist collaborations on-site.
+* Showcasing visual art, music, and performance that expand the language of creative expression, and intersect with the social, philosophical, scientific, and technological spheres.
+* Providing affordable studio spaces that support sustainable artistic practice.
+* Curating inclusive events that resonate with both our local neighborhood and the broader cultural fabric.
+* Nurturing intergenerational learning in art and culture.
+* Fostering collaborations with international artists on-site, across disciplines and borders.
+
 
 ## How are we achieving our goals
 
-To realize our mission, we:
+To bring this vision to life, we:
 
-* Offer shared facilities that encourage the exploration of various artistic mediums.
-* Cultivate a safe, diverse, and inclusive environment.
-* Ensure our space is easily accessible to everyone.
-* Uphold a democratic management process.
-* Seek professional support to drive our mission forward.
-* Undertake necessary renovations and reconstructions.
-* Strive for the economic sustainability of our space.
-* Maintain our non-profit status.
+* Offer shared tools, spaces, and materials for multi-medium exploration.
+* Build and protect an inclusive, safe, and pluralistic environment.
+* Make accessibility a non-negotiable part of our design.
+* Operate through a transparent, democratic management model.
+* Partner with professionals to sharpen our impact and sustain our mission.
+* Develop strategies for long-term financial sustainability.
+* Remain proudly and permanently non-profit.
+
 
 ## Prachtsaal: A Cooperative in the Making
 
-We are embarking on an exciting journey to become a registered non-profit cooperative (gemeinnützige Genossenschaft). This new chapter will unlock fresh realms of community engagement and transform our space into a dynamic hub of creativity. Beyond our ateliers and daily art practices, we will host regular concerts and performances, curate a gallery with ever-evolving exhibitions, and offer a lively space for workshops and education. Join us as we re-imagine the future of art and community together!
+We’re in the process of becoming a registered non-profit cooperative (*gemeinnützige Genossenschaft*). This is a pivotal move that will deepen our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
+
+**Let’s reimagine the architecture of art and community together!**
