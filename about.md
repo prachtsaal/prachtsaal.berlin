@@ -38,3 +38,28 @@ To bring this vision to life, we:
 We’re in the process of becoming a registered non-profit cooperative (*gemeinnützige Genossenschaft*). This is a pivotal move that will deepen our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
 
 **Let’s reimagine the architecture of art and community together!**
+
+<br><br><br><br>
+# history of the building.
+<br><br><br><br>
+
+## A Living History: The Soul of Prachtsaal
+
+Prachtsaal started as a Tanzschule founded by Emil August and Olga Meisel just after World War I, back when inflation was so out of control that a single lesson cost 4.2 billion Marks. Around 1920, the school moved to its current address. Later, the couple’s sons stepped in and expanded the family business.
+
+Towards the end of the war, it was Inge Meisel-Karras, the founders’ granddaughter, who took over with fierce dedication under the close and strict supervision of her grandparents. She famously never wore the same dress twice to class, learned English dance terminology so she could train American soldiers, and was possibly the first in Berlin to introduce Rock ’n Roll in a formal setting. Inge married Günther Karras, who worked alongside her at the school, and in the 1950s they made history as the first couple to appear on German television as dance instructors.
+
+Through the decades, the space passed through many hands: in 1965, the Tanzsportabteilung Weiss-Gold-Casino got its start and called the Prachtsaal home for nearly three decades, right inside the Tanzschule Meisel-Karras. Then, in 1980, the Meisel-Karras couple retired and handed the reins over to one of their former students, Rita Beck. Come the 1990s, the school changed hands again, this time to Tanzschule Dieter Keller, with Monika Keller taking the lead.
+
+
+Another chapter unfolded when Dan Lahav, a Holocaust survivor’s son and theatre-maker, chose Prachtsaal as the home for Berlin’s first post-war Jewish theatre. Lahav, born in poverty in Haifa, raised by a grandmother who sang him German arias, had fought in the Yom Kippur war before studying theatre with Marcel Marceau and moving to Berlin. For him, Prachtsaal represented a deliberate site of cultural haunting and reclamation. His productions mingled Orthodox and liberal Jewish voices, Klezmer music, and the ghosts of his murdered family.
+
+When Lahav died in 2016, his tombstone in Weissensee read: “*He did not die of boredom.*” It’s hard to imagine a better epitaph for a man, or a building, that has been so intimately intertwined with Berlin’s rhythm—sometimes elegant, sometimes hard, never dull.
+
+Today, Prachtsaal holds all those stories without getting stuck in the past. It’s a space shaped by people who keep showing up, evolving it, and making sure it stays alive and relevant.
+
+
+References:
+* [Reinhold Steinle: Voller Leidenschaft für das Tanzen und die Etikette](https://facettenneukoelln.wordpress.com/2017/05/18/bezirksgeschichte-tanzschule_meisel-inge_meysel-neukoelln/)
+* [Gudrun Parnitzke: Tanzschule Meisel](https://www.flickr.com/photos/30845644@N04/30804692158/in/photostream/)
+* [Claudia Mattern: Café und Bar Prachtsaal](https://web.archive.org/web/20160803202552/http://qm-koernerpark.de/index.php/koernerpost/nachbarn?id=325:cafe-und-bar-prachtsaal&catid=26)
