@@ -672,6 +672,11 @@ video {
   margin-bottom: 7rem;
 }
 
+.my-5{
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .mb-14{
   margin-bottom: 3.5rem;
 }
@@ -826,6 +831,10 @@ video {
   max-width: 32rem;
 }
 
+.basis-1\/2{
+  flex-basis: 50%;
+}
+
 .cursor-pointer{
   cursor: pointer;
 }
@@ -870,6 +879,10 @@ video {
   justify-content: space-around;
 }
 
+.justify-evenly{
+  justify-content: space-evenly;
+}
+
 .gap-1{
   gap: 0.25rem;
 }
@@ -888,6 +901,10 @@ video {
 
 .gap-8{
   gap: 2rem;
+}
+
+.gap-5{
+  gap: 1.25rem;
 }
 
 .rounded{
@@ -1273,6 +1290,10 @@ div.member img:hover {
 
   .md\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:flex-row{
+    flex-direction: row;
   }
 
   .md\:p-10{

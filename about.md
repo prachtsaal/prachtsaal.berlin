@@ -52,6 +52,9 @@ Towards the end of the war, it was Inge Meisel-Karras, the founders’ granddaug
 Through the decades, the space passed through many hands: in 1965, the Tanzsportabteilung Weiss-Gold-Casino got its start and called the Prachtsaal home for nearly three decades, right inside the Tanzschule Meisel-Karras. Then, in 1980, the Meisel-Karras couple retired and handed the reins over to one of their former students, Rita Beck. Come the 1990s, the school changed hands again, this time to Tanzschule Dieter Keller, with Monika Keller taking the lead.
 
 
+{% include two_figures.html src1="/assets/img/about/prachtsaal-streetview.webp" title1="Prachtsaal from street" src2="/assets/img/about/tanzschule.webp" title2="Tanzschule doors, photo credit Reinhold Steinle" %}
+
+
 Another chapter unfolded when Dan Lahav, a Holocaust survivor’s son and theatre-maker, chose Prachtsaal as the home for Berlin’s first post-war Jewish theatre. Lahav, born in poverty in Haifa, raised by a grandmother who sang him German arias, had fought in the Yom Kippur war before studying theatre with Marcel Marceau and moving to Berlin. For him, Prachtsaal represented a deliberate site of cultural haunting and reclamation. His productions mingled Orthodox and liberal Jewish voices, Klezmer music, and the ghosts of his murdered family.
 
 When Lahav died in 2016, his tombstone in Weissensee read: “*He did not die of boredom.*” It’s hard to imagine a better epitaph for a man, or a building, that has been so intimately intertwined with Berlin’s rhythm—sometimes elegant, sometimes hard, never dull.
@@ -63,3 +66,6 @@ References:
 * [Reinhold Steinle: Voller Leidenschaft für das Tanzen und die Etikette](https://facettenneukoelln.wordpress.com/2017/05/18/bezirksgeschichte-tanzschule_meisel-inge_meysel-neukoelln/)
 * [Gudrun Parnitzke: Tanzschule Meisel](https://www.flickr.com/photos/30845644@N04/30804692158/in/photostream/)
 * [Claudia Mattern: Café und Bar Prachtsaal](https://web.archive.org/web/20160803202552/http://qm-koernerpark.de/index.php/koernerpost/nachbarn?id=325:cafe-und-bar-prachtsaal&catid=26)
+
+<br>
+{% include figure.html src="/assets/img/about/prachtsaal-dancehall.webp" title="Prachtsaal in a former age" %}
