@@ -831,6 +831,10 @@ video {
   max-width: 32rem;
 }
 
+.flex-1{
+  flex: 1 1 0%;
+}
+
 .basis-1\/2{
   flex-basis: 50%;
 }
@@ -879,10 +883,6 @@ video {
   justify-content: space-around;
 }
 
-.justify-evenly{
-  justify-content: space-evenly;
-}
-
 .gap-1{
   gap: 0.25rem;
 }
@@ -899,12 +899,12 @@ video {
   gap: 1rem;
 }
 
-.gap-8{
-  gap: 2rem;
-}
-
 .gap-5{
   gap: 1.25rem;
+}
+
+.gap-8{
+  gap: 2rem;
 }
 
 .rounded{
@@ -1286,6 +1286,10 @@ div.member img:hover {
 
   .md\:max-w-\[85\%\]{
     max-width: 85%;
+  }
+
+  .md\:basis-1\/2{
+    flex-basis: 50%;
   }
 
   .md\:grid-cols-2{

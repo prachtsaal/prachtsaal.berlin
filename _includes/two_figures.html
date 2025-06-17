@@ -1,12 +1,11 @@
 
-<div class="flex flex-col md:flex-row justify-evenly gap-5 my-5">
-<figure class="basis-1/2">
-  <img src="{{ include.src1 | relative_url }}">
-  <figcaption>{{ include.title1 }}</figcaption>
-</figure>
-
-<figure  class="basis-1/2">
-  <img src="{{ include.src2 | relative_url }}">
-  <figcaption>{{ include.title2 }}</figcaption>
-</figure>
+<div class="flex flex-col md:flex-row gap-5 my-5">
+  <figure class="md:basis-1/2 flex-1">
+    <img src="{{ include.src1 | relative_url }}">
+    <figcaption>{{ include.title1 }}</figcaption>
+  </figure>
+  <figure class="md:basis-1/2 flex-1">
+    <img src="{{ include.src2 | relative_url }}">
+    <figcaption>{{ include.title2 }}</figcaption>
+  </figure>
 </div>
