@@ -5,7 +5,7 @@ subtitle: by Tape Art Sessions
 main_image: /assets/img/events/2025-04-11-once-upon-an-art-exhibition/once-upon.webp
 description: Once upon a time in Berlin, in the far away kingdom of Neukölln, there was 12 brave artists from different lands, show their art together.
 date: 2025-04-11
-tags: news
+tags: portfolio
 ---
 
 Step into a world of wonder!

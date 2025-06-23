@@ -3,7 +3,7 @@ layout: entry
 title: Prachtayama
 subtitle: 48 Hours Neukölln
 main_image: /assets/img/events/2021-06-18-prachtayama/PRACHTSAAL STUDIO_PRACHTAYAMA.webp
-description: An group exhibition inspired by Pranayama
+description: A group exhibition inspired by Pranayama
 date: 2021-06-18
 end_date: 2021-06-20
 images: 
@@ -11,7 +11,7 @@ images:
     caption: Prachtsaal Studio
 tags: exhibition portfolio
 ---
-An group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.
+A group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.
 
 <br>
 The centerpiece of the exhibition will be a collaborative, interdisciplinary installation.
