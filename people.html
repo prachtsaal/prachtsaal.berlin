@@ -10,7 +10,7 @@ description: members and associated organizations
 </header>
 
 <div class="flex justify-center mb-28">
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
+    <div id="gridOfPeople" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
         {% for member in site.members %}
         {% if member.current != false %}
         <div class="w-full max-w-64 lg:w-64 member">
@@ -37,6 +37,14 @@ description: members and associated organizations
         {% endfor %}
     </div>
 </div>
+
+<script>
+  // Randomize the order of the list of members
+  const container = document.querySelector('#gridOfPeople');
+  const children = [...container.children];
+  children.sort(() => Math.random() - 0.5);
+  container.append(...children);  
+</script>
 
 <h1 class="min-[460px]:mx-8 mb-28">
     {{ page.alumni-title }}
