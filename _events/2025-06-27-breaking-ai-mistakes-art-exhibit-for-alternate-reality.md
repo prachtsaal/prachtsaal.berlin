@@ -25,6 +25,7 @@ Dominic Hillerkuss<br>
 Gábor Ugray<br>
 Gabriel Jeanjean<br>
 Grit Kit<br>
+Iya<br>
 Jacqueline Heer<br>
 Jamal Khalili<br>
 Karlo Walz<br>
@@ -42,9 +43,9 @@ Zack Helwa
 
 ## Opening hours:
 Friday, 27.06, 19.00-22.00<br>
-Saturday, 28.06, 12.00-22.00<br>
+Saturday, 28.06, 14.00-22.00<br>
 Sunday, 29.06, 12.00-19.00
 
 ## Performances
-Friday, 27.06, Marta Muschietti (time tba)<br>
-Saturday, 28.06, Lara Duymus (time tba)
+Friday, 27.06, 19.00, Marta Muschietti & Leonardo Sbabo<br>
+Sunday, 29.06, 14.00, Lara Duymus // Oriental Sexpress
