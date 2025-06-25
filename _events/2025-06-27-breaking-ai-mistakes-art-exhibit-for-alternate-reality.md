@@ -23,8 +23,9 @@ Anna Inhorina<br>
 Artur "Ayo" Tomecki<br>
 Dominic Hillerkuss<br>
 Gábor Ugray<br>
-Gabriel Jeanjean + Jacqueline Heer<br>
+Gabriel Jeanjean<br>
 Grit Kit<br>
+Jacqueline Heer<br>
 Jamal Khalili<br>
 Karlo Walz<br>
 Kazik Pogoda<br>
