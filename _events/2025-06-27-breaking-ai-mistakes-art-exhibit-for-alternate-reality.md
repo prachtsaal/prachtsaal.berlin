@@ -42,10 +42,10 @@ Zack Helwa
 
 
 ## Opening hours:
-Friday, 27.06, 19.00-22.00<br>
-Saturday, 28.06, 14.00-22.00<br>
-Sunday, 29.06, 12.00-19.00
+Friday, 27.06, **19.00-22.00**<br>
+Saturday, 28.06, **14.00-22.00**<br>
+Sunday, 29.06, **12.00-19.00**
 
 ## Performances
-Friday, 27.06, 19.00, Marta Muschietti & Leonardo Sbabo<br>
-Sunday, 29.06, 14.00, Lara Duymus // Oriental Sexpress
+Friday, 27.06, **19.00**, Marta Muschietti & Leonardo Sbabo<br>
+Sunday, 29.06, **14.00**, Lara Duymus // Oriental Sexpress
