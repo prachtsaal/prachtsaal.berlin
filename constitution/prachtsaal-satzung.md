@@ -503,7 +503,7 @@ c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei b
 
 (2) Bekanntmachungen, deren Veröffentlichung in einem öffentlichen Bekanntmachungsorgan aufgrund Gesetz oder dieser Satzung vorgeschrieben ist, werden ebenfalls auf der öffentlich zugänglichen Internetseite der Genossenschaft ([https://prachtsaal.berlin](https://prachtsaal.berlin) ) veröffentlicht.
 
-(3) Die offenlegungspflichtigen Rechnungslegungsunterlagen werden im Bundesanzeiger [veröffentlicht](https://www.bundesanzeiger.de/).
+(3) Die offenlegungspflichtigen Rechnungslegungsunterlagen werden im [Bundesanzeiger](https://www.bundesanzeiger.de/) veröffentlicht.
 
 ### § 26 Zuständigkeit
 

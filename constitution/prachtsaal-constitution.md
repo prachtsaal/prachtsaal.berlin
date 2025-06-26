@@ -409,7 +409,7 @@ b. the Board of Directors (Vorstand)
 
 (5) § 16 of this Constitution shall apply to all forms of General Assembly of Members.
 
-### § 18 Competence of the General Assembly to pass resolutions
+### § 18 Powers of the General Assembly to pass resolutions
 
 (1) The General Assembly is the highest executive body of the Cooperative. In addition to the other matters specified in § 48 GenG or this Constitution it decides in particular on
 
