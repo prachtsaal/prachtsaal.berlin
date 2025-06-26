@@ -266,7 +266,7 @@ d. exclusion.
 
 ### § 6 Transfer and handling of business shares (Geschäftsanteile)
 
-(1) The transfer of business shares (Geschäftsanteile) by Members to third parties is not permitted.
+(1) The transfer of business shares (Geschäftsanteile) by Members to third parties is inadmissible.
 
 (2) Members wishing to relinquish their business shares must surrender them back to the Cooperative.
 
@@ -318,7 +318,7 @@ j. to inspect the summarized result of the audit report.
 
 (2) Each Member is obliged to take at least one (1) business share.
 
-(3) All Members shall maintain strict confidentiality concerning all confidential information, and proprietary data of the Cooperative, including but not limited to financial information, operational details, intellectual property, personal data of Members and employees, personal data of Member’s associates (e.g. employees and interns), personal data of resident artists and any other collaborators of the Cooperative, and any other information not publicly available (collectively referred to as "Confidential Information"), in accordance with the GenG and the European Union's General Data Protection Regulation (GDPR).
+(3) All Members shall maintain strict confidentiality concerning all confidential information, and proprietary data of the Cooperative, including but not limited to financial information, operational details, intellectual property, personal data of Members and employees, personal data of persons connected with Members (e.g. employees and interns), personal data of resident artists and any other collaborators of the Cooperative, and any other information not publicly available (collectively referred to as "Confidential Information"), in accordance with the GenG and the European Union's General Data Protection Regulation (GDPR).
 
 (4) Members shall not, directly or indirectly, disclose, divulge, reveal, report, publish, transfer, or use, for their own benefit or the benefit of others, any Confidential Information acquired during their association with the Cooperative, except as specifically authorized by the General Assembly or required by law.
 
