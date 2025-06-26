@@ -77,7 +77,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (3) Diese Satzung, einschließlich aller zukünftigen Änderungen, wird zunächst auf Englisch redigiert, damit unsere internationalen Mitglieder an dem Prozess teilnehmen können. Die präzise deutsche Übersetzung folgt anschließend. Nur letztere ist rechtlich bindend.
 
-(4) Der Teil des Jahresbudgets der Genossenschaft, der durch die Miete von Kunstateliers eingenommen wird, muss folgende laufenden Kosten vollständig abdecken, einschließlich:
+(4) Der Teil des Jahresbudgets der Genossenschaft, der durch die Miete von Kunstateliers eingenommen wird, muss alle laufenden Kosten vollständig abdecken, einschließlich:
 
 a. Anmietung der Prachtsaalräumlichkeiten innerhalb des von der GbR Jonasstraße 22 verwalteten Grundstücks einschließlich angrenzender Gartenfläche;
 b. Anmietung von Nebenflächen und Lagerräumen innerhalb dieser Immobilie;
@@ -141,8 +141,8 @@ $$r = \frac{20}{180} \times \frac{50400€}{12} = 0,1111 \times 4200€ = 466,67
 
 - $a = 20$ (Wertpunkte der Ateliereinheit)
 - $s = 180$ (Wertpunkte aller Ateliereinheiten)
-- $c = 50400€$  (Summe der jährlichen Mietkosten laut Absatz 4\)
-- $r = 466,67€$  (monatliche Miete für die Ateliereinheit)
+- $c = 50400€$ (Summe der jährlichen Mietkosten laut Absatz 4)
+- $r = 466,67€$ (monatliche Miete für die Ateliereinheit)
 
 (9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Überprüfung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1\. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
 
@@ -485,7 +485,7 @@ f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträ
 
 ## VI. Liquidation, Bekanntmachungen und Gerichtsstand
 
-### 24. Auflösung und Liquidation
+### § 24 Auflösung und Liquidation
 
 (1) Die Genossenschaft wird aufgelöst,
 

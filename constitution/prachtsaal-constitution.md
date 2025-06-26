@@ -143,7 +143,7 @@ Where:
 
 - $a = 20$ (value points of the atelier unit)
 - $s = 180$ (value points of all atelier units)
-- $c = €50,400$ (the sum of yearly rental costs listed in paragraph 4)
+- $c = €50400$ (the sum of yearly rental costs listed in paragraph 4)
 - $r = €466.67$ (the monthly rental cost of the atelier unit)
 
 (9) All costs listed in paragraph 4, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
