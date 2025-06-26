@@ -83,7 +83,7 @@ a. rental of the Prachtsaal space within property managed by GbR Jonasstraße 22
 b. rental of additional spaces and storage spaces within this property;
 c. operating costs (Betriebskosten) (e.g. water, electricity, heating, etc.);
 d. internet and other necessary media;
-e. property insurance;
+e. property and asset insurance;
 f. security measures required by the insurance;
 g. financial costs (e.g. bank account);
 h. office supplies;
