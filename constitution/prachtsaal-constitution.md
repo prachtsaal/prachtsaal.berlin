@@ -89,7 +89,7 @@ g. financial costs (e.g. bank account);
 h. office supplies;
 i. software and service licenses;
 j. cleaning;
-k. duties towards companies or entities that provide leases to the Cooperative, ensuring timely payments and adherence to lease agreements, depending on the decision of General Assembly to cover these costs from the atelier rental budget;
+k. duties towards companies or entities that provide lease agreements (Pachtverträge) to the Cooperative, ensuring timely payments and adherence to lease agreements, depending on the decision of General Assembly to cover these costs from the atelier rental budget;
 l. additional 10% of the sum of aforementioned costs for contingencies (e.g. covering for vacant ateliers, legal costs, necessary immediate repairs).
 
 (5) The yearly budget of the Cooperative must also account for additional constant costs which should not be covered by rental of art ateliers, but acquired through other sources of income described in paragraph 10. These constant costs include:
