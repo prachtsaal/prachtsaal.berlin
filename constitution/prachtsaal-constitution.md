@@ -49,7 +49,7 @@ Internally, we want to achieve these aims by:
 
 (2) The registered office of the Cooperative is in Berlin.
 
-(3) The text of this Constitution is formulated pursuant to the German Cooperative Societies Act (Genossenschaftsgesetz) and further referred to as GenG.
+(3) The text of this Constitution is formulated pursuant to the German Cooperative Societies Act (Genossenschaftsgesetz) and hereinafter referred to as GenG.
 
 ### § 2 Purpose of the Cooperative
 
@@ -57,11 +57,11 @@ Internally, we want to achieve these aims by:
 
 (2) The purpose of the corporation is to promote arts, culture, education and creativity in the local community and a wider audience through joint operations of the Members, while providing them with optimal conditions for creative expression.
 
-(3) The statutory purpose is achieved in particular through activities of any kind with the aim of promoting arts and culture. The Cooperative particularly provides the space for showcasing art, the meeting point for the community, the space and facilities supporting creation of artwork and a framework for continuous art curation and education. The statutory purpose is also achieved by raising funds and passing them on to other non-profit corporations in accordance with § 58 paragraph 1 AO, which must use these funds exclusively and directly to promote arts and/or culture and/or education and/or local community.
+(3) The statutory purpose is achieved in particular through activities of any kind with the aim of promoting arts and culture. The Cooperative particularly provides the space for showcasing art, the meeting point for the community, the space and facilities supporting creation of artwork and a framework for continuous art cultivation, curation and education. The statutory purpose is also achieved by raising funds and passing them on to other non-profit corporations in accordance with § 58 paragraph 1 AO, which must use these funds exclusively and directly to promote arts and/or culture and/or education and/or local community.
 
 (4) The corporation operates selflessly and does not primarily pursue its own economic purposes.
 
-(5) The corporation's funds may only be used for statutory purposes. The shareholders (Members) may not receive any profit shares or other benefits from the corporation's funds. Upon leaving the corporation, or upon dissolution of the corporation, or if the tax-privileged purposes cease to apply, they shall not receive more than their paid-in capital contributions (credit balances) and the common value of their contributions in kind.
+(5) The corporation's funds may only be used for statutory purposes. The shareholders (Members) may not receive any profit shares or other benefits from the corporation's funds. Upon leaving the corporation, or upon dissolution of the corporation, or if the tax-privileged purposes cease to apply, they shall not receive more than their paid-in capital contributions (business share credit (Geschäftsguthaben)) and the common value of their contributions in kind.
 
 (6) No person may be favored through expenses that are alien to the purpose of the corporation or through disproportionately high remuneration.
 
@@ -180,30 +180,30 @@ n. art supplies and building materials required by educational workshops and col
 (12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative’s statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
 a. Curatorial program of the event and exhibition space focused on organization of various cultural events:
-- visual art shows (e.g. oil paintings exhibition);
-- concerts (e.g. a series of classical music performances with media art augmentation produced and staged at Prachtsaal);
-- media art shows (e.g. a series of performances based on live-coding technique);
-- festivals (e.g. Prachtsaal as one of the host venues during: 48 Hours Neukölln, CTM/Transmediale/Vorspiel, etc.);
-- theater (e.g. production and staging of small theatrical plays at Prachtsaal).
+   - visual art shows (e.g. oil paintings exhibition);
+   - concerts (e.g. a series of classical music performances with media art augmentation produced and staged at Prachtsaal);
+   - media art shows (e.g. a series of performances based on live-coding technique);
+   - festivals (e.g. Prachtsaal as one of the host venues during: 48 Hours Neukölln, CTM/Transmediale/Vorspiel, etc.);
+   - theater (e.g. production and staging of small theatrical plays at Prachtsaal).
 b. Experimental creative center program focused on:
-- support groups (e.g. marginalized communities, reproductive rights, domestic violence, etc.);
-- art education (e.g. live drawing sessions with mentorship);
-- art education for children (e.g. workshops during KinderKulturMonat, playful art corner for children during other meetings);
-- family friendly workshops (e.g. Mandarin calligraphy workshops for children and parents);
-- meditation (e.g. sound-bath relaxation sessions facilitated by Prachtsaal artists);
-- workshops (e.g. teaching tape-art techniques);
-- art therapy sessions;
-- recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
+   - support groups (e.g. marginalized communities, reproductive rights, domestic violence, etc.);
+   - art education (e.g. live drawing sessions with mentorship);
+   - art education for children (e.g. workshops during KinderKulturMonat, playful art corner for children during other meetings);
+   - family friendly workshops (e.g. Mandarin calligraphy workshops for children and parents);
+   - meditation (e.g. sound-bath relaxation sessions facilitated by Prachtsaal artists);
+   - workshops (e.g. teaching tape-art techniques);
+   - art therapy sessions;
+   - recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
 c. Educational program facilitating lectures, panels and group discussions on:
-- arts (e.g. feminist themes in homoerotic manga);
-- society (e.g. economy of cooperatives and its impact on local communities);
-- history (e.g. revealing the past of Rixdorf);
-- psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
-- philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
+   - arts (e.g. feminist themes in homoerotic manga);
+   - society (e.g. economy of cooperatives and its impact on local communities);
+   - history (e.g. revealing the past of Rixdorf);
+   - psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
+   - philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
 d. A program of sponsored residencies accessible to international artists visiting Berlin.
 e. A project focused on reducing accessibility barriers at Prachtsaal:
-- construction of an accessible toilet;
-- 3D printed description of our music program in Braille.
+   - construction of an accessible toilet;
+   - 3D printed description of our music program in Braille.
 
 (13) Dedicated part of the Prachtsaal space shall become a multimedia-enabled venue, suitable for a wide range of audiovisual performances and public events.
 
@@ -229,7 +229,7 @@ e. A project focused on reducing accessibility barriers at Prachtsaal:
 
 ## II. Membership
 
-### § 4. Acquisition of membership
+### § 4 Acquisition of membership
 
 (1) Membership can be acquired by:
 
@@ -251,7 +251,7 @@ e. any other person invited by the decision of the General Assembly.
 
 (5) The General Assembly is responsible for either approving, declining or deciding on a trial period of a membership application.
 
-(6) The Member must be added to the List of Members immediately, in accordance with § 30 GenG.
+(6) The entry of the Member in the List of Members must be undertaken immediately, in accordance with § 30 GenG.
 
 ### § 5 Termination of membership
 
@@ -444,7 +444,7 @@ v. on other matters which are provided by law or by the Constitution for resolut
 
 (1) The Board of Directors shall consist of at least 2 members. The members of the Board of Directors shall be appointed by the General Assembly. The term of office shall be 1 year. A Board member shall remain in office until a new Board member is appointed or a reappointment takes place.
 
-(2) The Cooperative shall be represented by each member of the Board of Directors alone.
+(2) The Cooperative shall be represented by each member of the Board of Directors independently of the other Board member.
 
 (3) The Board of Directors shall conduct the business of the Cooperative on the basis of its resolutions, which shall be adopted unanimously. Minutes shall be taken of all verbally adopted resolutions, which shall be confirmed by all members of the Board. Resolutions passed in writing or electronically shall be kept permanently. The completeness and availability of the minutes and written or electronic resolutions shall be ensured.
 
@@ -458,7 +458,7 @@ a. to maintain the List of Members in accordance with the § 30 GenG;
 b. to submit information about new membership applications to the General Assembly;
 c. to ensure that the accounting system and the operational organization guarantee the fulfillment of the Cooperative's tasks;
 d. to issue legally relevant declarations and contracts in cases or areas of operations authorized by the General Assembly;
-e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, no later than April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
+e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, at the latest by April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
 f. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
 
 ## Authorized Representative (Bevollmächtigter)
@@ -471,7 +471,7 @@ f. to notify the Examination Association (Prüfungsverband) in good time of the 
 
 (3) The Authorized Representative (Bevollmächtigter) shall represent the Cooperative towards the members of the Board of Directors (§ 39 paragraph 1 sentence 2 GenG) and shall perform the tasks according to § 51 paragraph 3 sentence 2 (representation of the Cooperative in case of contestation of resolutions of the General Assembly), § 57 paragraph 6 (audit procedure) and § 58 paragraph 3 sentence 1 (audit report) of the Cooperative Societies Act (Genossenschaftsgesetz). The Authorized Representative (Bevollmächtigter) is bound by the instructions of the General Assembly.
 
-(4) The General Assembly appoints an Audit Commission (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other auditor. As part of the audit of the annual financial statements, the Audit Commission (Revisionskommission) assumes the tasks of the Supervisory Board in accordance with § 38 paragraph 1 Sentence 5 GenG.
+(4) The General Assembly appoints an Audit Commission (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other accounting auditor. As part of the audit of the annual financial statements, the Audit Commission (Revisionskommission) assumes the tasks of the Supervisory Board in accordance with § 38 paragraph 1 Sentence 5 GenG.
 
 ## V. Accounting
 

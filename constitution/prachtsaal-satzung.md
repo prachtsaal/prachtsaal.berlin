@@ -49,7 +49,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (2) Der Sitz der Genossenschaft ist in Berlin.
 
-(3) Der Text dieser Satzung ist nach dem Genossenschaftsgesetz (im Folgenden GenG) abgefasst.
+(3) Der Text dieser Satzung ist gemäß dem Genossenschaftsgesetz (im Folgenden GenG) abgefasst.
 
 ### § 2 Zweck der Genossenschaft
 
@@ -57,7 +57,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (2) Der Zweck der Körperschaft besteht darin, durch gemeinschaftliche Aktivitäten der Mitglieder Kunst, Kultur, Bildung und Kreativität in der örtlichen Gemeinschaft und für ein breiteres Publikum zu fördern und den Mitgliedern gleichzeitig optimale Bedingungen für den kreativen Ausdruck zu bieten.
 
-(3) Der Satzungszweck wird insbesondere durch Tätigkeiten aller Art mit dem Ziel der Förderung von Kunst und Kultur verwirklicht. Die Genossenschaft stellt im Speziellen Raum für die Präsentation von Kunst, einen Treffpunkt für die Gemeinschaft, Platz und Ausstattung zur Unterstützung der Schaffung von Kunstwerken sowie einen Rahmen für kontinuierliche Kunstpflege und \-vermittlung bereit. Der Satzungszweck wird auch durch die Beschaffung und Weitergabe von Mitteln an andere gemeinnützige Körperschaften im Sinne des § 58 Absatz 1 AO verwirklicht, die diese Mittel ausschließlich und unmittelbar zur Förderung von Kunst und/oder Kultur und/oder Bildung und/oder der heimischen Gemeinschaft zu verwenden haben.
+(3) Der Satzungszweck wird insbesondere durch Tätigkeiten aller Art mit dem Ziel der Förderung von Kunst und Kultur verwirklicht. Die Genossenschaft stellt im Speziellen Raum für die Präsentation von Kunst, einen Treffpunkt für die Gemeinschaft, Platz und Ausstattung zur Unterstützung der Schaffung von Kunstwerken sowie einen Rahmen für kontinuierliche Kunstpflege und \-vermittlung bereit. Der Satzungszweck wird auch durch die Beschaffung und Weitergabe von Mitteln an andere gemeinnützige Körperschaften im Sinne des § 58 Absatz 1 AO verwirklicht, die diese Mittel ausschließlich und unmittelbar zur Förderung von Kunst und/oder Kultur und/oder Bildung und/oder der örtlichen Gemeinschaft zu verwenden haben.
 
 (4) Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -75,7 +75,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (2) Die Genossenschaft verfolgt ihren satzungsgemäßen Zweck maßgeblich auf der Grundlage basisdemokratischer Entscheidungen. Sie verfolgt in ihrer internen Geschäftstätigkeit den Grundsatz größtmöglicher Transparenz und Partizipation. Diese und alle zuvor genannten Grundprinzipien der Genossenschaft sind für alle Mitglieder und Organe verbindlich.
 
-(3) Diese Satzung, einschließlich aller zukünftigen Änderungen, wird zunächst auf Englisch verfasst, damit unsere internationalen Mitglieder an dem Prozess teilnehmen können. Die präzise deutsche Übersetzung folgt anschließend. Nur letztere ist rechtlich bindend.
+(3) Diese Satzung, einschließlich aller zukünftigen Änderungen, wird zunächst auf Englisch redigiert, damit unsere internationalen Mitglieder an dem Prozess teilnehmen können. Die präzise deutsche Übersetzung folgt anschließend. Nur letztere ist rechtlich bindend.
 
 (4) Der Teil des Jahresbudgets der Genossenschaft, der durch die Miete von Kunstateliers eingenommen wird, muss folgende laufenden Kosten vollständig abdecken, einschließlich:
 
@@ -89,13 +89,13 @@ g. Finanzielle Kosten (z. B. Bankkonto);
 h. Büromaterialien;
 i. Software- und Servicelizenzen;
 j. Reinigung;
-k. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, einschließlich der fristgerechten Zahlungen und Einhaltung der Pachtverträge, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken.
+k. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, wobei fristgerechte Zahlungen und Einhaltung der Pachtverträge sichergestellt werden, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken;
 l. zusätzlich 10% der Summe der vorgenannten Kosten für unvorhergesehene Aufwendungen (z. B.: Deckung leerstehender Ateliers, Rechtskosten, notwendige Sofortreparaturen).
 
 (5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern durch andere Einnahmequellen, wie in Abschnitt 10 beschrieben, beschafft werden können. Zu diesen ständigen Kosten zählen:
 
 a. Kosten der Pflichtprüfung nach § 4 GenG („Prüfung und Prüfungsverbände“),
-b. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des Personals bei Veranstaltungen im Prachtsaal (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
+b. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des bei Veranstaltungen im Prachtsaal tätigen Personals (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
 c. die Kosten der Mietkaution.
 
 (6) Die folgenden Vereinbarungen zwischen Dritten und der Genossenschaft werden in gesonderten Verträgen geregelt:
@@ -144,7 +144,7 @@ $$r = \frac{20}{180} \times \frac{50400€}{12} = 0,1111 \times 4200€ = 466,67
 - $c = 50400€$  (Summe der jährlichen Mietkosten laut Absatz 4\)
 - $r = 466,67€$  (monatliche Miete für die Ateliereinheit)
 
-(9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Neugestaltung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1\. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
+(9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Überprüfung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1\. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
 
 (10) Zusätzliche Einnahmen der Genossenschaft können erzielt werden durch:
 
@@ -177,33 +177,32 @@ n. Künstlerbedarf und Baumaterialien, die für pädagogische Workshops und Koop
 
 (12) Die in Absatz 10a genannten Projekte und die damit verbundenen Spendenaktionen können sowohl von den Mitgliedern der Genossenschaft als auch von externen Kuratoren und Spendensammlern in Abstimmung mit der Genossenschaft betreut werden. Der Umfang dieser Projekte soll verschiedene Themen abdecken, die mit dem satzungsmäßigen Zweck der Genossenschaft in Zusammenhang stehen. Die folgende Liste umfasst beispielhaft einige Themen ohne Priorisierung oder Einschränkung:
 
-1. Kuratorisches Programm der Veranstaltungs- und Ausstellungsräume, ausgerichtet auf die Organisation verschiedener kultureller Veranstaltungen:
-    - Ausstellungen bildender Kunst (z. B. Ausstellung von Ölgemälden);
-    - Konzerte (z. B. eine Reihe klassischer Musikdarbietungen mit medienkünstlerischer Erweiterung, produziert und aufgeführt im Prachtsaal);
-    - Medienkunstshows (z. B. eine Reihe von Performances auf der Grundlage von Live-Coding-Technik);
-    - Festivals (z. B. Prachtsaal als einer der Veranstaltungsorte bei: 48 Stunden Neukölln, CTM/Transmediale/Vorspiel usw.);
-    - Theater (z. B. Produktion und Aufführung kleinerer Theaterstücke im Prachtsaal).
-
-2. Experimentelles Programm des Kreativzentrums mit Schwerpunkt auf:
-    - Selbsthilfegruppen (z. B. marginalisierte Gemeinschaften, reproduktive Rechte, häusliche Gewalt usw.);
-    - künstlerische Bildung (z. B. Live-Drawing-Veranstaltungen unter Anleitung);
-    - Kunstvermittlung für Kinder (z. B. Workshops im KinderKulturMonat, spielerische Kunstecke für Kinder während anderer Veranstaltungen);
-    - Angebote für Eltern und Kinder (z. B. Mandarin-Kalligraphie-Workshops für Kinder und Eltern);
-    - Meditation (z. B. Klangbad-Entspannungssitzungen geleitet von Künstlern des Prachtsaals);
-    - Workshops (z. B. Vermittlung von Tape-Art-Techniken);
-    - Kunsttherapiesitzungen;
-    - Freizeitaktivitäten (z. B. Teekeramik- und Teeverkostungs-Workshop im Garten des Prachtsaals).
-3. Bildungsangebote mit Vorträgen, Podiumsdiskussionen und Gruppendiskussionen zu den folgenden Themen:
-    - Kunst (z. B. feministische Themen in homoerotischen Mangas);
-    - Gesellschaft (z. B. Ökonomie von Genossenschaften und ihre Auswirkungen auf lokale Gemeinschaften);
-    - Geschichte (z. B. Aufklärung der Vergangenheit von Rixdorf);
-    - Psychologie (z. B. erfahrungsbasierte Selbstbestimmung und Kreativität für Jugendliche);
-    - Philosophie (z. B. die Entwicklung der künstlichen Intelligenz und ihre Konsequenzen für die Philosophie des Geistes und die Gesellschaft im Allgemeinen),
-4. Ein Programm gesponserter Residenzen, das internationalen Künstlern zugänglich ist, die Berlin besuchen.
-5. Ein Projekt zur Verringerung von Zugangshindernissen im Prachtsaal:
-    - Bau einer barrierefreien Toilette;
-    - 3D-gedruckte Beschreibung unseres Musikprogramms in Blindenschrift.
-
+a. Kuratorisches Programm der Veranstaltungs- und Ausstellungsräume, ausgerichtet auf die Organisation verschiedener kultureller Veranstaltungen:
+   - Ausstellungen bildender Kunst (z. B. Ausstellung von Ölgemälden);
+   - Konzerte (z. B. eine Reihe klassischer Musikdarbietungen mit medienkünstlerischer Erweiterung, produziert und aufgeführt im Prachtsaal);
+   - Medienkunstshows (z. B. eine Reihe von Performances auf der Grundlage von Live-Coding-Technik);
+   - Festivals (z. B. Prachtsaal als einer der Veranstaltungsorte bei: 48 Stunden Neukölln, CTM/Transmediale/Vorspiel usw.);
+   - Theater (z. B. Produktion und Aufführung kleinerer Theaterstücke im Prachtsaal).
+b. Experimentelles Programm des Kreativzentrums mit Schwerpunkt auf:
+   - Selbsthilfegruppen (z. B. marginalisierte Gemeinschaften, reproduktive Rechte, häusliche Gewalt usw.);
+   - künstlerische Bildung (z. B. Live-Drawing-Veranstaltungen unter Anleitung);
+   - Kunstvermittlung für Kinder (z. B. Workshops im KinderKulturMonat, spielerische Kunstecke für Kinder während anderer Veranstaltungen);
+   - Angebote für Eltern und Kinder (z. B. Mandarin-Kalligraphie-Workshops für Kinder und Eltern);
+   - Meditation (z. B. Klangbad-Entspannungssitzungen geleitet von Künstlern des Prachtsaals);
+   - Workshops (z. B. Vermittlung von Tape-Art-Techniken);
+   - Kunsttherapiesitzungen;
+   - Freizeitaktivitäten (z. B. Teekeramik- und Teeverkostungs-Workshop im Garten des Prachtsaals).
+c. Bildungsangebote mit Vorträgen, Podiumsdiskussionen und Gruppendiskussionen zu den folgenden Themen:
+   - Kunst (z. B. feministische Themen in homoerotischen Mangas);
+   - Gesellschaft (z. B. Ökonomie von Genossenschaften und ihre Auswirkungen auf lokale Gemeinschaften);
+   - Geschichte (z. B. Aufklärung der Vergangenheit von Rixdorf);
+   - Psychologie (z. B. erfahrungsbasierte Selbstbestimmung und Kreativität für Jugendliche);
+   - Philosophie (z. B. die Entwicklung der künstlichen Intelligenz und ihre Konsequenzen für die Philosophie des Geistes und die Gesellschaft im Allgemeinen),
+d. Ein Programm gesponserter Residenzen, das internationalen Künstlern zugänglich ist, die Berlin besuchen.
+e. Ein Projekt zur Verringerung von Zugangshindernissen im Prachtsaal:
+   - Bau einer barrierefreien Toilette;
+   - 3D-gedruckte Beschreibung unseres Musikprogramms in Blindenschrift.
+   
 (13) Ein bestimmter Teilbereich des Prachtsaals soll zu einem multimedialen Veranstaltungsort werden, der sich für ein breites Spektrum audiovisueller Darbietungen und öffentlicher Veranstaltungen eignet.
 
 (14) Der Foyerbereich des Prachtsaals dient als Galerie-/Ausstellungsraum mit kontinuierlicher Präsentation von Kunstwerken.
@@ -317,7 +316,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 (2) Jedes Mitglied ist verpflichtet, mindestens einen (1) Geschäftsanteil zu erwerben.
 
-(3) Alle Mitglieder müssen alle vertraulichen Informationen und geschützten Daten der Genossenschaft gemäß dem GenG und der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union streng vertraulich behandeln. Dies umfasst unter anderem Finanzinformationen, Betriebsdetails, geistiges Eigentum, persönliche Daten von Mitgliedern und Mitarbeitern, persönliche Daten von Partnern der Mitglieder (z. B. Mitarbeiter und Praktikanten), persönliche Daten von ansässigen Künstlern und anderen Mitarbeitern der Genossenschaft und alle anderen nicht öffentlich verfügbaren Informationen (zusammen „Vertrauliche Informationen“ genannt).
+(3) Alle Mitglieder müssen alle vertraulichen Informationen und geschützten Daten der Genossenschaft gemäß dem GenG und der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union streng vertraulich behandeln. Dies umfasst unter anderem Finanzinformationen, Betriebsdetails, geistiges Eigentum, persönliche Daten von Mitgliedern und Mitarbeitern, persönliche Daten der mit den Mitgliedern verbundenen Personen (z. B. Mitarbeiter und Praktikanten), persönliche Daten von ansässigen Künstlern und anderen Mitarbeitern der Genossenschaft und alle anderen nicht öffentlich verfügbaren Informationen (zusammen „Vertrauliche Informationen“ genannt).
 
 (4) Es ist den Mitgliedern nicht gestattet, vertrauliche Informationen, die sie während ihrer Zugehörigkeit zur Genossenschaft erhalten haben, direkt oder indirekt zu ihrem eigenen Vorteil oder zum Vorteil anderer offenzulegen, preiszugeben, bekannt zu machen, zu melden, zu veröffentlichen, zu übertragen oder zu verwenden, es sei denn, dies wurde von der Generalversammlung ausdrücklich genehmigt oder ist gesetzlich vorgeschrieben.
 
@@ -341,13 +340,13 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 (4) Mitglieder können Sacheinlagen in die Genossenschaft einbringen, die in gesonderten Vereinbarungen näher geregelt sind. Die Bedingungen und der Wert der Sacheinlagen werden von der Generalversammlung festgelegt.
 
-(5) Die Mitglieder haben Anspruch auf die von der Generalversammlung beschlossene Rückerstattung/Kompensation der von ihnen aufgewendeten Arbeitsstunden, Finanz- und Sachmittel.
+(5) Die Mitglieder haben Anspruch auf die von der Generalversammlung beschlossene Rückerstattung ihrer Arbeits-, Material- und Finanzaufwendungen.
 
 ### § 13 Haftung der Mitglieder
 
 (1) Die Haftung der Mitglieder ist auf ihre Geschäftsanteile an der Genossenschaft beschränkt.
 
-(2) Kein Mitglied haftet persönlich für die Schulden oder Verpflichtungen der Genossenschaft über seinen eingezahlten Anteil hinaus.
+(2) Kein Mitglied haftet persönlich für die Schulden oder Verpflichtungen der Genossenschaft über seinen beigetragenen Anteil hinaus.
 
 (3) Im Falle der Auflösung oder Insolvenz der Genossenschaft haften die Mitglieder nur bis zur Höhe ihrer Geschäftsanteile.
 
@@ -364,7 +363,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 a. die Generalversammlung,
 b. der Vorstand
 
-(2) Die Organe der Genossenschaft sind verpflichtet, die Kosten des Geschäftsbetriebes nach den Grundsätzen einer ordnungsgemäßen Wirtschaftsführung auszurichten und in angemessenem Rahmen zu halten.
+(2) Die Leitungsorgane der Genossenschaft sind verpflichtet, die Kosten des Geschäftsbetriebes nach den Grundsätzen einer ordnungsgemäßen Wirtschaftsführung auszurichten und in angemessenem Rahmen zu halten.
 
 ## Generalversammlung
 
@@ -390,7 +389,7 @@ b. der Vorstand
 
 (10) Der Sitzungsvorsitzende wird zu Beginn jeder Generalversammlung auf Vorschlag des Vorstands von der Generalversammlung gewählt.
 
-(11) Sollte die Tagesordnung der Generalversammlung auch die Beratung über die Aufnahme eines 21\. Mitglied vorsehen, so muss der Vorstand vorsorglich die Tagesordnung um Wahlen zum Vorstand und Aufsichtsrat sowie um entsprechende Änderungen der Satzung gemäß § 9 GenG erweitern.
+(11) Sollte die Tagesordnung der Generalversammlung auch die Beratung über die Aufnahme eines 21. Mitglieds vorsehen, so muss der Vorstand vorsorglich die Tagesordnung um Wahlen zum Vorstand und Aufsichtsrat sowie um entsprechende Änderungen der Satzung gemäß § 9 GenG erweitern.
 
 (12) Kein Mitglied kann für sich selbst das Stimmrecht ausüben, wenn über den Ausschluss aus der Genossenschaft oder über die Befreiung von einer Verantwortung beschlossen wird oder darüber, ob die Genossenschaft einen Anspruch gegen die Person geltend machen soll. Allerdings muss die Person vor der Beschlussfassung angehört werden.
 
@@ -408,7 +407,7 @@ b. der Vorstand
 
 (5) § 16 dieser Satzung gilt für alle Formen der Generalversammlung.
 
-### § 18 Beschlussfähigkeit der Generalversammlung
+### § 18 Befugnisse der Generalversammlung zur Beschlussfassung
 
 (1) Die Generalversammlung ist das höchste Exekutivorgan der Genossenschaft. Sie entscheidet neben den in § 48 GenG oder dieser Satzung genannten weiteren Angelegenheiten insbesondere über
 
@@ -466,7 +465,7 @@ f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträ
 
 (1) Solange die Genossenschaft nicht mehr als 20 Mitglieder hat, sieht sie von der Bildung eines Aufsichtsrates ab. In diesem Fall nimmt die Generalversammlung die Rechte und Pflichten des Aufsichtsrates wahr, soweit das Gesetz nichts anderes bestimmt.
 
-(2) Die Generalversammlung wählt aus ihrer Mitte einen Bevollmächtigten für die Dauer von einem Jahr. Das Amt endet mit der Wahl/Wiederwahl eines neuen Bevollmächtigten. Die bevollmächtigte Person ist dem Prüfungsverband bekannt zu geben.
+(2) Die Generalversammlung wählt aus ihrer Mitte einen Bevollmächtigten für die Dauer von einem Jahr. Das Amt endet mit der Wahl/Wiederwahl eines neuen Bevollmächtigten. Der Bevollmächtigte ist dem Prüfungsverband bekannt zu geben.
 
 (3) Der Bevollmächtigte vertritt die Genossenschaft gegenüber dem Vorstand (§ 39 Abs. 1 Satz 2 GenG) und nimmt die Aufgaben nach § 51 Abs. 3 Satz 2 (Vertretung der Genossenschaft bei der Anfechtung von Beschlüssen der Generalversammlung), § 57 Abs. 6 (Prüfungsverfahren) und § 58 Abs. 3 Satz 1 (Prüfungsbericht) GenG wahr. Der Bevollmächtigte ist an die Weisungen der Generalversammlung gebunden.
 
@@ -482,7 +481,7 @@ f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträ
 
 ### § 23 Verwendung des Bilanzgewinns
 
-(1) Über die Verwendung des Jahresergebnisses beschließt die Generalversammlung. Das Jahresergebnis kann den Rücklagen zugeführt oder für andere satzungsmäßige Zwecke verwendet werden. Ansprüche der Genossenschaft auf Gewinnanteile oder sonstige Zuwendungen aus Mitteln der Genossenschaft sind ausgeschlossen.
+(1) Über die Zuteilung des Jahresergebnisses beschließt die Generalversammlung. Das Jahresergebnis kann den Rücklagen zugeführt oder für andere satzungsmäßige Zwecke verwendet werden. Ansprüche der Mitglieder auf Gewinnanteile oder sonstige Zuwendungen aus Mitteln der Genossenschaft sind ausgeschlossen.
 
 ## VI. Liquidation, Bekanntmachungen und Gerichtsstand
 
