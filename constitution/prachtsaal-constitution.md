@@ -29,14 +29,14 @@ Facing the public, we want to achieve these aims by:
 - curating inclusive events for the benefit of the local community and a wider audience,
 - offering spaces and shared facilities to enable the exploration of various mediums,
 - fostering a safe environment of diversity and inclusivity,
-- facilitating physical access to the area by making it unchallenging to explore and use for people with disabilities,
+- facilitating physical access to the area by making it easy to explore and use for people with disabilities,
 
 Internally, we want to achieve these aims by:
 
 - upholding a democratic governance process,
 - seeking professional support to fulfill our mission,
 - undertaking required renovations and reconstructions,
-- achieving economic sustainability of the space,
+- achieving economic sustainability of the project,
 - ensuring non-profit status of Prachtsaal.
 
 <!-- table_of_contents -->

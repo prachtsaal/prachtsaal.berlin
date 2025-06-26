@@ -16,8 +16,8 @@ Die „Prachtsaal eG“ ist ein kreatives Zentrum, das von zwei Säulen getragen
 
 Unsere Ziele:
 
-- Präsentation von bildender Kunst, Musik und Darbietungen, die kreativen Ausdruck über alle Medien hinweg verkörpern.  Schnittstellen zu den Bereichen Geisteswissenschaften, Gesellschaft, Wissenschaft und Technologie herstellen;
-- Einbeziehung unserer örtlichen Nachbarschaft und Gemeinschaft in die kreative Arbeit;
+- Präsentation von bildender Kunst, Musik und Darbietungen, die kreativen Ausdruck über alle Medien hinweg verkörpern und dabei Schnittstellen zu den Bereichen Geisteswissenschaften, Gesellschaft, Wissenschaft und Technologie herstellen;
+- Einbeziehung unserer lokalen Gemeinschaft in die kreative Arbeit;
 - Bereitstellung erschwinglicher Ateliers für Künstler;
 - alle Generationen in Kunsttechniken und Kultur zu unterrichten;
 - Förderung internationaler Künstlerkooperationen vor Ort.
@@ -37,7 +37,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 - professionelle Unterstützung suchen, um unsere Mission zu erfüllen,
 - erforderliche Renovierungen und Umbauten vornehmen,
 - die wirtschaftliche Nachhaltigkeit des Projektes erreichen,
-- den Non-Profit-Status vom Prachtsaal sicherstellen.
+- den Non-Profit-Status des Prachtsaals sicherstellen.
 
 <!-- table_of_contents -->
 
