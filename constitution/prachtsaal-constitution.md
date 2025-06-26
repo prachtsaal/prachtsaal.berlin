@@ -49,7 +49,7 @@ Internally, we want to achieve these aims by:
 
 (2) The registered office of the Cooperative is in Berlin.
 
-(3) The text of this Constitution is formulated pursuant to the German Cooperative Societies Act (Genossenschaftsgesetz) and hereinafter referred to as GenG.
+(3) The text of this Constitution is formulated pursuant to the German Cooperative Societies Act (Genossenschaftsgesetz, hereinafter GenG).
 
 ### § 2 Purpose of the Cooperative
 
