@@ -6,7 +6,7 @@ lang: "de"
 
 ## Präambel
 
-Der Prachtsaal ist ein Zentrum der Künste, Kultur und Bildung. Historisch ist der Saal tief in das soziale Gefüge des Berliner Bezirks Neukölln verwoben. Dieses 1913 erbaute architektonische Juwel hat Tänzer, Schauspieler, Musiker und Künstler aus den unterschiedlichsten Bereichen angezogen sowie ein Publikum auf der Suche nach einem einzigartigen kulturellen Erlebnis, neuem Wissen, neuen Fähigkeiten und Schönheit begrüßt. Wir möchten diese Tradition fortführen.
+Der Prachtsaal ist ein Knotenpunkt der Künste, Kultur und Bildung. Historisch ist der Saal tief in das soziale Gefüge des Berliner Bezirks Neukölln verwoben. Dieses 1913 erbaute architektonische Juwel hat Tänzer, Schauspieler, Musiker und Künstler verschiedenster Kunstrichtungen angezogen sowie ein Publikum auf der Suche nach einem einzigartigen kulturellen Erlebnis, neuem Wissen, neuen Fähigkeiten und Schönheit begrüßt. Wir möchten diese Tradition fortführen.
 
 ### Wer sind wir?
 
