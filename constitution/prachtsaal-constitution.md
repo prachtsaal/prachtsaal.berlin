@@ -387,13 +387,15 @@ b. the Board of Directors (Vorstand)
 
 (9) The General Assembly shall pass resolutions by a ¾ majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
 
-(10) The chair of the meeting shall be elected at the beginning of each General Assembly by the General Assembly on the proposal of the Board of Directors.
+(10) Any Member may request that a vote be conducted by secret ballot. Such request shall be granted if supported by a simple majority (more than half) of the Members present and entitled to vote. Secret ballot voting shall be conducted in writing using ballot papers or, in the case of virtual or hybrid meetings, through secure electronic means that ensure the anonymity of individual votes while maintaining the integrity of the voting process.
 
-(11) If the agenda of the General Assembly includes deliberation on accepting the 21st Member, then the Board of Directors must, as a precautionary measure, extend the agenda with elections to the Board of Directors and Supervisory Board and corresponding changes to the Constitution in accordance with § 9 GenG.
+(11) The chair of the meeting shall be elected at the beginning of each General Assembly by the General Assembly on the proposal of the Board of Directors.
 
-(12) No Member may exercise the voting right for oneself when a resolution is passed on whether one is to be excluded from the Cooperative or released from a liability, or whether the Cooperative is to assert a claim against the person. However, the person must be heard before the resolution is adopted.
+(12) If the agenda of the General Assembly includes deliberation on accepting the 21st Member, then the Board of Directors must, as a precautionary measure, extend the agenda with elections to the Board of Directors and Supervisory Board and corresponding changes to the Constitution in accordance with § 9 GenG.
 
-(13) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
+(13) No Member may exercise the voting right for oneself when a resolution is passed on whether one is to be excluded from the Cooperative or released from a liability, or whether the Cooperative is to assert a claim against the person. However, the person must be heard before the resolution is adopted.
+
+(14) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
 
 ### § 17 Virtual and hybrid General Assembly, meeting in an extended procedure
 

@@ -385,13 +385,15 @@ b. der Vorstand
 
 (9) Die Generalversammlung fasst ihre Beschlüsse mit einer Dreiviertelmehrheit der abgegebenen Stimmen, soweit nicht das Gesetz oder diese Satzung eine größere Mehrheit oder weitere Erfordernisse vorschreibt.
 
-(10) Der Sitzungsvorsitzende wird zu Beginn jeder Generalversammlung auf Vorschlag des Vorstands von der Generalversammlung gewählt.
+(10) Jedes Mitglied kann beantragen, dass eine Abstimmung durch geheime Wahl durchgeführt wird. Ein solcher Antrag ist zu bewilligen, wenn er von einer einfachen Mehrheit (mehr als die Hälfte) der anwesenden und stimmberechtigten Mitglieder unterstützt wird. Geheime Abstimmungen sind schriftlich mittels Stimmzetteln oder im Falle virtueller oder hybrider Versammlungen durch sichere elektronische Mittel durchzuführen, die die Anonymität der einzelnen Stimmen gewährleisten und gleichzeitig die Integrität des Abstimmungsprozesses sicherstellen.
 
-(11) Sollte die Tagesordnung der Generalversammlung auch die Beratung über die Aufnahme eines 21. Mitglieds vorsehen, so muss der Vorstand vorsorglich die Tagesordnung um Wahlen zum Vorstand und Aufsichtsrat sowie um entsprechende Änderungen der Satzung gemäß § 9 GenG erweitern.
+(11) Der Sitzungsvorsitzende wird zu Beginn jeder Generalversammlung auf Vorschlag des Vorstands von der Generalversammlung gewählt.
 
-(12) Kein Mitglied kann für sich selbst das Stimmrecht ausüben, wenn über den Ausschluss aus der Genossenschaft oder über die Befreiung von einer Verantwortung beschlossen wird oder darüber, ob die Genossenschaft einen Anspruch gegen die Person geltend machen soll. Allerdings muss die Person vor der Beschlussfassung angehört werden.
+(12) Sollte die Tagesordnung der Generalversammlung auch die Beratung über die Aufnahme eines 21. Mitglieds vorsehen, so muss der Vorstand vorsorglich die Tagesordnung um Wahlen zum Vorstand und Aufsichtsrat sowie um entsprechende Änderungen der Satzung gemäß § 9 GenG erweitern.
 
-(13) Beschlüsse müssen gemäß § 47 GenG (Niederschrift) aufgezeichnet und stets zur Einsichtnahme für jedes Mitglied der Genossenschaft verfügbar sein.
+(13) Kein Mitglied kann für sich selbst das Stimmrecht ausüben, wenn über den Ausschluss aus der Genossenschaft oder über die Befreiung von einer Verantwortung beschlossen wird oder darüber, ob die Genossenschaft einen Anspruch gegen die Person geltend machen soll. Allerdings muss die Person vor der Beschlussfassung angehört werden.
+
+(14) Beschlüsse müssen gemäß § 47 GenG (Niederschrift) aufgezeichnet und stets zur Einsichtnahme für jedes Mitglied der Genossenschaft verfügbar sein.
 
 ### § 17 Virtuelle und hybride Generalversammlung, Tagung im erweiterten Verfahren
 
