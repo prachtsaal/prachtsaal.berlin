@@ -266,8 +266,6 @@ d. Ausschluss.
 
 (1) Die Übertragung von Geschäftsanteilen durch Mitglieder an Dritte ist nicht zulässig.
 
-(2) Mitglieder, die ihre Geschäftsanteile aufgeben möchten, müssen diese an die Genossenschaft zurückgeben.
-
 ### § 7 Umgang mit Geschäftsanteilen bei Beendigung der Mitgliedschaft
 
 (1) Bei Beendigung der Mitgliedschaft, sei es durch Austritt, Tod oder Ausschluss, werden die Geschäftsanteile des ausscheidenden Mitglieds nicht zurückerstattet, sondern den Rücklagen der Genossenschaft zugeführt oder zur Erfüllung des satzungsmäßigen Genossenschaftszwecks verwendet.
@@ -334,7 +332,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 (1) Der Wert eines Geschäftsanteils beträgt 100,- Euro.
 
-(2) Jedes Mitglied ist verpflichtet, mindestens einen (1) Geschäftsanteil zu übernehmen und darf maximal zehn (10) Geschäftsanteile erwerben.
+(2) Jedes Mitglied ist verpflichtet, genau einen (1) Geschäftsanteil zu übernehmen. Mitglieder dürfen nicht mehr als einen Geschäftsanteil halten.
 
 (3) Jeder Pflichtanteil muss sofort eingezahlt werden.
 
@@ -450,7 +448,7 @@ v. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung g
 
 ### § 20 Aufgaben und Pflichten des Vorstands
 
-1) Der Vorstand ist insbesondere verpflichtet:
+(1) Der Vorstand ist insbesondere verpflichtet:
 
 a. zur Führung der Mitgliederliste gemäß § 30 GenG;
 b. der Generalversammlung Informationen über neue Mitgliedsanträge vorzulegen;
@@ -458,6 +456,13 @@ c. dafür zu sorgen, dass das Rechnungswesen und die Betriebsorganisation die Er
 d. in von der Generalversammlung genehmigten Fällen oder Tätigkeitsbereichen rechtserhebliche Erklärungen abzugeben und Verträge abzuschließen;
 e. die Jahresabschlüsse und den Jahresbericht gemäß den gesetzlichen Anforderungen vorzubereiten, zusammen mit dem Vorschlag zur Verwendung des Bilanzgewinns oder zur Deckung des Bilanzverlusts, spätestens bis zum 1\. April, und die Vorstellung dieser Dokumente in die Tagesordnung der ordentlichen Generalversammlung aufzunehmen;
 f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträge der Generalversammlung bekannt zu geben.
+
+(2) Jedes Mitglied des Vorstands ist befugt, einmalige Anschaffungen oder Ausgaben bis zu 200 € pro Monat ohne vorherige Genehmigung der Generalversammlung selbstständig zu genehmigen und auszuführen. Diese Befugnis:
+
+a. gilt nur für einmalige Anschaffungen und Zahlungen, nicht für Verträge, die wiederkehrende monatliche Verpflichtungen begründen;
+b. ist auf 200 € pro Vorstandsmitglied pro Kalendermonat begrenzt;
+c. erfordert eine ordnungsgemäße Dokumentation und Berichterstattung an die Generalversammlung bei der nächsten Sitzung;
+d. muss im Einklang mit dem satzungsmäßigen Zweck der Genossenschaft ausgeübt werden.
 
 ## Bevollmächtigter
 

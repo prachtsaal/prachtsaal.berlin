@@ -268,8 +268,6 @@ d. exclusion.
 
 (1) The transfer of business shares (Geschäftsanteile) by Members to third parties is inadmissible.
 
-(2) Members wishing to relinquish their business shares must surrender them back to the Cooperative.
-
 ### § 7 Handling of business shares upon termination of membership
 
 (1) Upon the termination of membership, whether through resignation, death, or exclusion, the business shares of the departing Member will not be refunded but will be allocated to the Cooperative’s reserves or used to support the Cooperative’s statutory purpose.
@@ -336,7 +334,7 @@ j. to inspect the summarized result of the audit report.
 
 (1) The value of one business share is €100.
 
-(2) Each Member is obliged to take a minimum of one (1) and is allowed a maximum of ten (10) business shares.
+(2) Each Member is obliged to take exactly one (1) business share. Members may not hold more than one business share.
 
 (3) Each mandatory share must be paid immediately.
 
@@ -460,6 +458,12 @@ c. to ensure that the accounting system and the operational organization guarant
 d. to issue legally relevant declarations and contracts in cases or areas of operations authorized by the General Assembly;
 e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, at the latest by April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
 f. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
+
+(2) Each member of the Board of Directors is authorized to independently approve and execute one-time purchases or expenses up to €200 per month without prior approval from the General Assembly. This authorization:
+a. applies only to one-time purchases and payments, not to contracts creating recurring monthly obligations;
+b. is limited to €200 per Board member per calendar month;
+c. requires proper documentation and reporting to the General Assembly at the next meeting;
+d. must be exercised in accordance with the Cooperative's statutory purpose.
 
 ## Authorized Representative (Bevollmächtigter)
 
