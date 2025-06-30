@@ -1,6 +1,6 @@
 ---
-date: "26.06.2025"
-lang: "de"
+date: "30.06.2025"
+lang: de
 ---
 # Prachtsaal eG Satzung
 
@@ -10,7 +10,7 @@ Der Prachtsaal ist ein Knotenpunkt der Künste, Kultur und Bildung. Historisch i
 
 ### Wer sind wir?
 
-Die „Prachtsaal eG“ ist ein kreatives Zentrum, das von zwei Säulen getragen wird, die interagieren, sich gegenseitig unterstützen und inspirieren. Eine Säule besteht aus einer internationalen Gruppe ansässiger Künstler, die den Raum für ihre kreative Arbeit nutzen, die andere dient der Öffentlichkeit, indem sie einen experimentellen Raum für Ausdruck, Erkundung, Austausch und Bildung bietet. Wir möchten, dass in diesem Raum eine Atmosphäre der Verspieltheit und Bedeutung, der Bewegung und Selbstbeobachtung, der Farbe und des Klangs, der Entdeckung und des Wachstums herrscht. Wir heißen alle willkommen, die mit einer Haltung der Offenheit, Toleranz und Neugier kommen. Wir nennen uns Prachtsaalianer und agieren als gemeinnützige Genossenschaft.
+Die "Prachtsaal eG" ist ein kreatives Zentrum, das von zwei Säulen getragen wird, die interagieren, sich gegenseitig unterstützen und inspirieren. Eine Säule besteht aus einer internationalen Gruppe ansässiger Künstler, die den Raum für ihre kreative Arbeit nutzen, die andere dient der Öffentlichkeit, indem sie einen experimentellen Raum für Ausdruck, Erkundung, Austausch und Bildung bietet. Wir möchten, dass in diesem Raum eine Atmosphäre der Verspieltheit und Bedeutung, der Bewegung und Selbstbeobachtung, der Farbe und des Klangs, der Entdeckung und des Wachstums herrscht. Wir heißen alle willkommen, die mit einer Haltung der Offenheit, Toleranz und Neugier kommen. Wir nennen uns Prachtsaalianer und agieren als gemeinnützige Genossenschaft.
 
 ### Was ist unser Ziel?
 
@@ -53,15 +53,15 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 ### § 2 Zweck der Genossenschaft
 
-(1) Die Prachtsaal eG (Körperschaft) mit Sitz in Berlin verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+(1) Die Prachtsaal eG (Körperschaft) mit Sitz in Berlin verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 (2) Der Zweck der Körperschaft besteht darin, durch gemeinschaftliche Aktivitäten der Mitglieder Kunst, Kultur, Bildung und Kreativität in der örtlichen Gemeinschaft und für ein breiteres Publikum zu fördern und den Mitgliedern gleichzeitig optimale Bedingungen für den kreativen Ausdruck zu bieten.
 
-(3) Der Satzungszweck wird insbesondere durch Tätigkeiten aller Art mit dem Ziel der Förderung von Kunst und Kultur verwirklicht. Die Genossenschaft stellt im Speziellen Raum für die Präsentation von Kunst, einen Treffpunkt für die Gemeinschaft, Platz und Ausstattung zur Unterstützung der Schaffung von Kunstwerken sowie einen Rahmen für kontinuierliche Kunstpflege und \-vermittlung bereit. Der Satzungszweck wird auch durch die Beschaffung und Weitergabe von Mitteln an andere gemeinnützige Körperschaften im Sinne des § 58 Absatz 1 AO verwirklicht, die diese Mittel ausschließlich und unmittelbar zur Förderung von Kunst und/oder Kultur und/oder Bildung und/oder der örtlichen Gemeinschaft zu verwenden haben.
+(3) Der Satzungszweck wird insbesondere durch Tätigkeiten aller Art mit dem Ziel der Förderung von Kunst und Kultur verwirklicht. Die Genossenschaft stellt im Speziellen Raum für die Präsentation von Kunst, einen Treffpunkt für die Gemeinschaft, Platz und Ausstattung zur Unterstützung der Schaffung von Kunstwerken sowie einen Rahmen für kontinuierliche Kunstpflege und -vermittlung bereit. Der Satzungszweck wird auch durch die Beschaffung und Weitergabe von Mitteln an andere gemeinnützige Körperschaften im Sinne des § 58 Absatz 1 AO verwirklicht, die diese Mittel ausschließlich und unmittelbar zur Förderung von Kunst und/oder Kultur und/oder Bildung und/oder der örtlichen Gemeinschaft zu verwenden haben.
 
 (4) Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
-(5) Mittel der Körperschaft dürfen nur für satzungsmäßige Zwecke verwendet werden. Die Gesellschafter (Mitglieder) dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten. Sie erhalten bei ihrem Ausscheiden oder bei der Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile (Geschäftsguthaben) und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück.
+(5) Mittel der Körperschaft dürfen nur für satzungsmäßige Zwecke verwendet werden. Die Mitglieder dürfen keine Gewinnanteile und auch keine sonstigen unangemessenen Zuwendungen aus Mitteln der Körperschaft in ihrer Eigenschaft als Mitglieder erhalten. Alle Mittel sind ausschließlich für die satzungsmäßigen gemeinnützigen Zwecke zu verwenden. Sie erhalten bei ihrem Ausscheiden oder bei der Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile (Geschäftsguthaben) und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück.
 
 (6) Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -94,7 +94,7 @@ l. zusätzlich 10% der Summe der vorgenannten Kosten, die den Rücklagen der Gen
 
 (5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern aus den Rücklagen gedeckt werden sollen. Zu diesen ständigen Kosten zählen:
 
-a. Kosten der Pflichtprüfung nach § 4 GenG („Prüfung und Prüfungsverbände“),
+a. Kosten der Pflichtprüfung nach § 4 GenG ("Prüfung und Prüfungsverbände"),
 b. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des bei Veranstaltungen im Prachtsaal tätigen Personals (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
 c. die Kosten der Mietkaution.
 
@@ -243,13 +243,15 @@ c. eine Person, die Gelder für die Verwirklichung des satzungsmäßigen Zwecks 
 d. ein wesentlicher Unterstützer des satzungsmäßigen Zwecks der Genossenschaft,
 e. jede andere Person, die durch einen Beschluss der Generalversammlung eingeladen wird.
 
-(3) Eine Mitgliedschaft einer Personengesellschaft oder einer juristischen Person ist nur solchen Organisationen möglich, die wesentlich zur Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beitragen können (z. B. Verein zur Erlangung von Mietzuschüssen für Ateliers).
+(3) Alle Bewerber müssen ein greifbares Engagement für die gemeinnützigen Zwecke der Genossenschaft nachweisen und von der Generalversammlung auf der Grundlage ihrer Übereinstimmung mit der gemeinnützigen Mission genehmigt werden.
 
-(4) Um Mitglied zu werden, muss der Bewerber diese Satzung lesen und ihr zustimmen, eine bedingungslose Beitrittserklärung unterzeichnen und diese dem Vorstand übermitteln, der für die Vorlage des Antrags bei der Generalversammlung verantwortlich ist.
+(4) Eine Mitgliedschaft einer Personengesellschaft oder einer juristischen Person ist nur solchen Organisationen möglich, die wesentlich zur Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beitragen können (z. B. Verein zur Erlangung von Mietzuschüssen für Ateliers).
 
-(5) Die Generalversammlung ist für die Genehmigung, Ablehnung oder Bewilligung einer Probezeit eines Mitgliedsantrags zuständig.
+(5) Um Mitglied zu werden, muss der Bewerber diese Satzung lesen und ihr zustimmen, eine bedingungslose Beitrittserklärung unterzeichnen und diese dem Vorstand übermitteln, der für die Vorlage des Antrags bei der Generalversammlung verantwortlich ist.
 
-(6) Die Eintragung des Mitglieds in die Mitgliederliste ist gemäß § 30 GenG unverzüglich vorzunehmen.
+(6) Die Generalversammlung ist für die Genehmigung, Ablehnung oder Bewilligung einer Probezeit eines Mitgliedsantrags zuständig.
+
+(7) Die Eintragung des Mitglieds in die Mitgliederliste ist gemäß § 30 GenG unverzüglich vorzunehmen.
 
 ### § 5 Beendigung der Mitgliedschaft
 
@@ -266,15 +268,31 @@ d. Ausschluss.
 
 (1) Die Übertragung von Geschäftsanteilen durch Mitglieder an Dritte ist nicht zulässig.
 
-### § 7 Umgang mit Geschäftsanteilen bei Beendigung der Mitgliedschaft
+### § 7 Auseinandersetzung bei Beendigung der Mitgliedschaft
 
-(1) Bei Beendigung der Mitgliedschaft, sei es durch Austritt, Tod oder Ausschluss, werden die Geschäftsanteile des ausscheidenden Mitglieds nicht zurückerstattet, sondern den Rücklagen der Genossenschaft zugeführt oder zur Erfüllung des satzungsmäßigen Genossenschaftszwecks verwendet.
+(1) Bei Beendigung der Mitgliedschaft, sei es durch Austritt, Tod oder Ausschluss, erhält das ausscheidende Mitglied oder dessen Rechtsnachfolger eine Auseinandersetzung (Auseinandersetzungsguthaben) in Übereinstimmung mit § 73 GenG.
 
-(2) Die Mitglieder erkennen an und stimmen zu, dass ihre Geschäftsanteile nicht rückzahlbare Beiträge zur Unterstützung des satzungsmäßigen Zwecks und der Geschäftstätigkeit der Genossenschaft sind.
+(2) Die Höhe der Auseinandersetzung wird auf der Grundlage des Geschäftsguthabens des Mitglieds berechnet, wie es in der Bilanz am Ende des Geschäftsjahres ausgewiesen ist, in dem die Mitgliedschaft beendet wurde.
 
-### § 8 Tod eines Mitglieds
+(3) Das ausscheidende Mitglied hat keinen Anspruch auf die Rücklagen oder andere Vermögenswerte der Genossenschaft über seine eingezahlten Geschäftsanteile hinaus. Die Auseinandersetzungszahlung darf den Wert der eingezahlten Geschäftsanteile nicht übersteigen.
 
-(1) Mit dem Tod eines Mitglieds endet dessen Mitgliedschaft sofort.
+(4) Die Auseinandersetzungszahlung erfolgt innerhalb von sechs Monaten nach Beendigung der Mitgliedschaft oder nach Genehmigung der Jahresabschlüsse durch die Generalversammlung, falls dies später erfolgt.
+
+### § 8 Tod eines Mitglieds und Nachfolge
+
+(1) Mit dem Tod eines Mitglieds gehen dessen Mitgliedschaft und die damit verbundenen Geschäftsanteile automatisch auf den Erben oder die Erbengemeinschaft über.
+
+(2) Die geerbte Mitgliedschaft endet automatisch am Ende des Geschäftsjahres, in dem der Tod eingetreten ist, es sei denn, der Erbe beantragt die Fortsetzung der Mitgliedschaft.
+
+(3) Jeder Erbe, der die Mitgliedschaft des verstorbenen Mitglieds fortsetzen möchte, muss:
+
+a. Innerhalb von sechs Monaten nach dem Tod des Mitglieds einen förmlichen schriftlichen Antrag stellen;
+b. Alle in § 4 definierten Standard-Mitgliedschaftskriterien erfüllen;
+c. Die Genehmigung der Generalversammlung erhalten.
+
+(4) Wenn die Mitgliedschaft von mehreren Erben (Erbengemeinschaft) geerbt wird, müssen diese innerhalb von sechs Monaten eine einzelne Person aus ihrer Gruppe bestimmen, die die Mitgliedschaft fortsetzt. Die Nichternennung führt zur automatischen Beendigung der Mitgliedschaft für die gesamte Gruppe.
+
+(5) Unabhängig von der Fortsetzung der Mitgliedschaft behalten die Erben das Recht auf Auseinandersetzung gemäß § 7.
 
 ### § 9 Ausschluss eines Mitglieds
 
@@ -314,7 +332,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 (2) Jedes Mitglied ist verpflichtet, mindestens einen (1) Geschäftsanteil zu erwerben.
 
-(3) Alle Mitglieder müssen alle vertraulichen Informationen und geschützten Daten der Genossenschaft gemäß dem GenG und der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union streng vertraulich behandeln. Dies umfasst unter anderem Finanzinformationen, Betriebsdetails, geistiges Eigentum, persönliche Daten von Mitgliedern und Mitarbeitern, persönliche Daten der mit den Mitgliedern verbundenen Personen (z. B. Mitarbeiter und Praktikanten), persönliche Daten von ansässigen Künstlern und anderen Mitarbeitern der Genossenschaft und alle anderen nicht öffentlich verfügbaren Informationen (zusammen „Vertrauliche Informationen“ genannt).
+(3) Alle Mitglieder müssen alle vertraulichen Informationen und geschützten Daten der Genossenschaft gemäß dem GenG und der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union streng vertraulich behandeln. Dies umfasst unter anderem Finanzinformationen, Betriebsdetails, geistiges Eigentum, persönliche Daten von Mitgliedern und Mitarbeitern, persönliche Daten der mit den Mitgliedern verbundenen Personen (z. B. Mitarbeiter und Praktikanten), persönliche Daten von ansässigen Künstlern und anderen Mitarbeitern der Genossenschaft und alle anderen nicht öffentlich verfügbaren Informationen (zusammen "Vertrauliche Informationen" genannt).
 
 (4) Es ist den Mitgliedern nicht gestattet, vertrauliche Informationen, die sie während ihrer Zugehörigkeit zur Genossenschaft erhalten haben, direkt oder indirekt zu ihrem eigenen Vorteil oder zum Vorteil anderer offenzulegen, preiszugeben, bekannt zu machen, zu melden, zu veröffentlichen, zu übertragen oder zu verwenden, es sei denn, dies wurde von der Generalversammlung ausdrücklich genehmigt oder ist gesetzlich vorgeschrieben.
 
@@ -350,7 +368,9 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 ### § 14 Nachschusspflicht
 
-(1) Eine Verpflichtung zur Zahlung von Nachschüssen besteht für die Mitglieder auch im Insolvenzfall nicht.
+(1) Eine Verpflichtung zur Zahlung von Nachschüssen besteht für die Mitglieder auch im Insolvenzfall nicht (keine Nachschusspflicht).
+
+(2) **Diese Haftungsbegrenzung muss klar festgestellt werden: Die Mitglieder haften nicht für zusätzliche Beiträge über ihre eingezahlten Geschäftsanteile hinaus.**
 
 ## IV. Organe der Genossenschaft
 
@@ -509,7 +529,9 @@ c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei b
 
 (2) Für die Liquidation gelten die Vorschriften des Genossenschaftsgesetzes (GenG).
 
-(3) Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Stammanteile (Betriebsvermögen) der Gesellschafter (Mitglieder) und den Verkehrswert der von den Gesellschaftern (Mitgliedern) geleisteten Sacheinlagen übersteigt, an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung von Kunst und/oder Kultur.
+(3) Bei Auflösung der Genossenschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Genossenschaft, soweit es die eingezahlten Geschäftsanteile (Geschäftsguthaben) der Mitglieder und den Verkehrswert der von den Mitgliedern geleisteten Sacheinlagen übersteigt, an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung von Kunst und/oder Kultur und/oder Bildung.
+
+(4) Diese Bestimmung ist unwiderruflich und wesentlich für die Aufrechterhaltung des gemeinnützigen Status gemäß § 61 AO.
 
 ### § 25 Ankündigungen
 

@@ -1,6 +1,6 @@
 ---
-date: "26.06.2025"
-lang: "en"
+date: "30.06.2025"
+lang: en
 ---
 # Prachtsaal eG Constitution
 
@@ -10,7 +10,7 @@ Prachtsaal (magnificent hall) stands as a nexus of arts, culture, and education,
 
 ### Who are we?
 
-The “Prachtsaal eG” is a creative center carried by two legs that interact, mutually support and inspire each other. One leg is made up of an international group of resident artists who use the space for their creative work, the other leg serves the public by offering an experimental space for expression, exploration, exchange and education. We aim for the space to be in a spirit of playfulness and meaning, of movement and introspection, of colour and sound, discovery and growth. We welcome all who come in an attitude of openness, tolerance and curiosity. We call ourselves Prachtsaalians and act as a non-profit cooperative (gemeinnützige Genossenschaft).
+The "Prachtsaal eG" is a creative center carried by two legs that interact, mutually support and inspire each other. One leg is made up of an international group of resident artists who use the space for their creative work, the other leg serves the public by offering an experimental space for expression, exploration, exchange and education. We aim for the space to be in a spirit of playfulness and meaning, of movement and introspection, of colour and sound, discovery and growth. We welcome all who come in an attitude of openness, tolerance and curiosity. We call ourselves Prachtsaalians and act as a non-profit cooperative (gemeinnützige Genossenschaft).
 
 ### What are we aiming at?
 
@@ -45,7 +45,7 @@ Internally, we want to achieve these aims by:
 
 ### § 1 Company name and registered office
 
-(1) The Cooperative’s company name is: Prachtsaal eG.
+(1) The Cooperative's company name is: Prachtsaal eG.
 
 (2) The registered office of the Cooperative is in Berlin.
 
@@ -61,7 +61,7 @@ Internally, we want to achieve these aims by:
 
 (4) The corporation operates selflessly and does not primarily pursue its own economic purposes.
 
-(5) The corporation's funds may only be used for statutory purposes. The shareholders (Members) may not receive any profit shares or other benefits from the corporation's funds. Upon leaving the corporation, or upon dissolution of the corporation, or if the tax-privileged purposes cease to apply, they shall not receive more than their paid-in capital contributions (business share credit (Geschäftsguthaben)) and the common value of their contributions in kind.
+(5) The corporation's funds may only be used for statutory purposes. Members shall not receive profit shares (Gewinnanteile) or any other undue financial benefits from the Cooperative's funds in their capacity as members. All funds shall be used exclusively for the statutory charitable purposes. Upon leaving the corporation, or upon dissolution of the corporation, or if the tax-privileged purposes cease to apply, they shall not receive more than their paid-in capital contributions (business share credit (Geschäftsguthaben)) and the common value of their contributions in kind.
 
 (6) No person may be favored through expenses that are alien to the purpose of the corporation or through disproportionately high remuneration.
 
@@ -94,7 +94,7 @@ l. additional 10% of the sum of aforementioned costs to be allocated to the Coop
 
 (5) The yearly budget of the Cooperative must also account for additional constant costs which should not be covered by rental of art ateliers, but covered from the reserves. These constant costs include:
 
-a. legal costs associated with mandatory audit pursuant to § 4 GenG (“Prüfung und Prüfungsverbände”),
+a. legal costs associated with mandatory audit pursuant to § 4 GenG ("Prüfung und Prüfungsverbände"),
 b. all the necessary insurances covering accidents involving performers, audience and staff running events at Prachtsaal (to be covered from ticket sales for the events),
 c. the costs of rental deposit.
 
@@ -155,12 +155,12 @@ b. ticket sales for the events happening at Prachtsaal;
 c. commissions from ticket sales for workshops and educational events happening at Prachtsaal;
 d. sales of beverages and food during these events in compliance with rules and guidelines for hospitality services in Germany;
 e. commissions from the artwork sold while being exhibited at Prachtsaal (to be regulated by resolutions of the Cooperative and written agreements with the artists);
-f. rental of the public spaces of Prachtsaal to 3rd parties for the purposes aligned with the Cooperative’s statutory purpose;
+f. rental of the public spaces of Prachtsaal to 3rd parties for the purposes aligned with the Cooperative's statutory purpose;
 g. financial donations;
 h. donations in kind (to be individually inspected and accepted, to prevent receiving a liability);
 i. sales of goods and services directly related to the purpose of the Cooperative, including online education.
 
-(11) Additional income shall be spent only on purposes aligned with the Cooperative’s statutory purpose, and described in this Constitution, including:
+(11) Additional income shall be spent only on purposes aligned with the Cooperative's statutory purpose, and described in this Constitution, including:
 
 a. payments for artists performing during events happening at Prachtsaal;
 b. payments for technicians and staff supporting these events;
@@ -177,7 +177,7 @@ l. plans, materials, work and all the other means required to conduct renovation
 m. specialized equipment needed for events;
 n. art supplies and building materials required by educational workshops and collaborations between the Members of the Cooperative.
 
-(12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative’s statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
+(12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative's statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
 a. Curatorial program of the event and exhibition space focused on organization of various cultural events:
    - visual art shows (e.g. oil paintings exhibition);
@@ -193,13 +193,13 @@ b. Experimental creative center program focused on:
    - meditation (e.g. sound-bath relaxation sessions facilitated by Prachtsaal artists);
    - workshops (e.g. teaching tape-art techniques);
    - art therapy sessions;
-   - recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal’s garden).
+   - recreational activities (e.g. tea pottery making and tea tasting workshop in Prachtsaal's garden).
 c. Educational program facilitating lectures, panels and group discussions on:
    - arts (e.g. feminist themes in homoerotic manga);
    - society (e.g. economy of cooperatives and its impact on local communities);
    - history (e.g. revealing the past of Rixdorf);
    - psychology (e.g. experiential self-advocacy and creation tailored to adolescents);
-   - philosophy (e.g. evolution of Artificial Intelligence and it’s consequences for the philosophy of mind and society in general),
+   - philosophy (e.g. evolution of Artificial Intelligence and it's consequences for the philosophy of mind and society in general),
 d. A program of sponsored residencies accessible to international artists visiting Berlin.
 e. A project focused on reducing accessibility barriers at Prachtsaal:
    - construction of an accessible toilet;
@@ -241,17 +241,19 @@ c. legal entities under private or public law.
 
 a. a tenant artist,
 b. a curator invested in organization of events happening at Prachtsaal,
-c. a fundraiser securing funds for realizing Cooperative’s statutory purpose,
-d. a substantial supporter of the Cooperative’s statutory purpose,
+c. a fundraiser securing funds for realizing Cooperative's statutory purpose,
+d. a substantial supporter of the Cooperative's statutory purpose,
 e. any other person invited by the decision of the General Assembly.
 
-(3) Membership of a partnership or a legal entity is permitted only for organizations which can significantly contribute to the Cooperative’s statutory purpose (e.g. organization securing rent subsidies for ateliers).
+(3) All applicants must demonstrate a tangible commitment to the Cooperative's charitable purposes and be approved by the General Assembly based on their alignment with the non-profit mission.
 
-(4) To become a Member, the applicant must read and agree with this Constitution and sign an unconditional declaration of accession and pass it to the Board of Directors, which is responsible for presenting the application to the General Assembly.
+(4) Membership of a partnership or a legal entity is permitted only for organizations which can significantly contribute to the Cooperative's statutory purpose (e.g. organization securing rent subsidies for ateliers).
 
-(5) The General Assembly is responsible for either approving, declining or deciding on a trial period of a membership application.
+(5) To become a Member, the applicant must read and agree with this Constitution and sign an unconditional declaration of accession and pass it to the Board of Directors, which is responsible for presenting the application to the General Assembly.
 
-(6) The entry of the Member in the List of Members must be undertaken immediately, in accordance with § 30 GenG.
+(6) The General Assembly is responsible for either approving, declining or deciding on a trial period of a membership application.
+
+(7) The entry of the Member in the List of Members must be undertaken immediately, in accordance with § 30 GenG.
 
 ### § 5 Termination of membership
 
@@ -268,15 +270,31 @@ d. exclusion.
 
 (1) The transfer of business shares (Geschäftsanteile) by Members to third parties is inadmissible.
 
-### § 7 Handling of business shares upon termination of membership
+### § 7 Financial settlement upon termination of membership
 
-(1) Upon the termination of membership, whether through resignation, death, or exclusion, the business shares of the departing Member will not be refunded but will be allocated to the Cooperative’s reserves or used to support the Cooperative’s statutory purpose.
+(1) Upon termination of membership, whether through resignation, death, or exclusion, the departing Member or their legal heir shall receive financial settlement (Auseinandersetzungsguthaben) in accordance with § 73 GenG.
 
-(2) Members acknowledge and agree that their business shares are non-refundable contributions to support the Cooperative’s statutory purpose and operations.
+(2) The settlement amount shall be calculated based on the Member's business credit balance (Geschäftsguthaben) as shown in the balance sheet at the end of the fiscal year in which membership terminated.
 
-### § 8 Death of a Member
+(3) The departing Member has no claim to the reserves or other assets of the Cooperative beyond their paid-in business shares. The settlement payment shall not exceed the value of the paid-in business shares.
 
-(1) Upon the death of a Member, their membership terminates immediately.
+(4) Settlement payment shall be made within six months of membership termination, or after approval of the annual financial statements by the General Assembly if later.
+
+### § 8 Death of a Member and Succession
+
+(1) Upon the death of a Member, their membership and associated business shares automatically pass to their heir or community of heirs (Erbengemeinschaft).
+
+(2) The inherited membership terminates automatically at the conclusion of the fiscal year in which the death occurred, unless the heir applies for continuation of membership.
+
+(3) Any heir wishing to continue the deceased Member's membership must:
+
+a. Submit a formal written application within six months of the Member's death;
+b. Meet all standard membership criteria as defined in § 4;
+c. Receive approval from the General Assembly.
+
+(4) If membership is inherited by multiple heirs (Erbengemeinschaft), they must designate a single individual from their group to continue the membership within six months. Failure to designate results in automatic termination of membership for the entire group.
+
+(5) Regardless of membership continuation, heirs retain the right to financial settlement in accordance with § 7.
 
 ### § 9 Exclusion of a Member
 
@@ -312,7 +330,7 @@ j. to inspect the summarized result of the audit report.
 
 ### § 11 Duties of Members
 
-(1) All Members have the same obligations. They are obliged to participate in the decision-making process, engage in the Cooperative’s activities, promote the interests of the Cooperative and to work within the framework of the principles adopted by the General Assembly, this Constitution and the Cooperative Societies Act (Genossenschaftsgesetz).
+(1) All Members have the same obligations. They are obliged to participate in the decision-making process, engage in the Cooperative's activities, promote the interests of the Cooperative and to work within the framework of the principles adopted by the General Assembly, this Constitution and the Cooperative Societies Act (Genossenschaftsgesetz).
 
 (2) Each Member is obliged to take at least one (1) business share.
 
@@ -352,7 +370,9 @@ j. to inspect the summarized result of the audit report.
 
 ### § 14 Obligation to make additional contributions
 
-(1) Members are not obliged to make additional contributions, even in the event of insolvency.
+(1) Members are not obliged to make additional contributions (keine Nachschusspflicht), even in the event of insolvency.
+
+(2) Members have no liability for additional contributions beyond their paid-in business shares.
 
 ## IV. Bodies of the Cooperative
 
@@ -500,7 +520,7 @@ d. The Board shall promptly notify the tenant artist of any deductions made from
 
 ## VI. Liquidation, announcements and place of jurisdiction
 
-### § 24 Dissolution and liquidation
+### § 24 Dissolution, liquidation and Asset Lock
 
 (1) The cooperative is dissolved,
 
@@ -510,13 +530,15 @@ c. by decision of the court if the number of members is less than three.
 
 (2) The provisions of the Cooperative Societies Act (Genossenschaftsgesetz GenG) shall apply to the liquidation.
 
-(3) If the corporation is dissolved or if tax-privileged purposes cease to exist, the assets of the corporation, to the extent that they exceed the paid-in business shares (business assets) of the partners (Members) and the fair value of the contributions in kind made by the partners (Members), pass to a legal entity under public law or another tax-privileged entity for use for promotion of arts and/or culture.
+(3) Upon dissolution of the Cooperative or cessation of its tax-privileged purposes, the assets of the Cooperative, to the extent that they exceed the paid-in business shares (Geschäftsguthaben) of the Members and the fair value of contributions in kind made by the Members, shall pass to another tax-privileged entity under public law or another tax-privileged corporation for use in promoting arts and/or culture and/or education.
+
+(4) This provision is irrevocable and essential for maintaining non-profit status in accordance with § 61 AO.
 
 ### § 25 Announcements
 
 (1) Any announcements shall be published under the name of the Cooperative on its publicly accessible website ([https://prachtsaal.berlin](https://prachtsaal.berlin)).
 
-(2) Announcements whose publication in a public bulletin is required by law or by this Constitution shall also be published on Cooperative’s publicly accessible website ([https://prachtsaal.berlin](https://prachtsaal.berlin)).
+(2) Announcements whose publication in a public bulletin is required by law or by this Constitution shall also be published on Cooperative's publicly accessible website ([https://prachtsaal.berlin](https://prachtsaal.berlin)).
 
 (3) The accounting documents subject to disclosure requirements shall be published in the German Federal Bulletin ([Bundesanzeiger](https://www.bundesanzeiger.de/)).
 
