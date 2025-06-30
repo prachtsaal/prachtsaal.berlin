@@ -90,7 +90,7 @@ h. Büromaterialien;
 i. Software- und Servicelizenzen;
 j. Reinigung;
 k. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, wobei fristgerechte Zahlungen und Einhaltung der Pachtverträge sichergestellt werden, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken;
-l. zusätzlich 10% der Summe der vorgenannten Kosten für unvorhergesehene Aufwendungen (z. B.: Deckung leerstehender Ateliers, Rechtskosten, notwendige Sofortreparaturen).
+l. zusätzlich 10% der Summe der vorgenannten Kosten, die den Rücklagen der Genossenschaft zuzuführen sind.
 
 (5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern durch andere Einnahmequellen, wie in Abschnitt 10 beschrieben, beschafft werden können. Zu diesen ständigen Kosten zählen:
 
