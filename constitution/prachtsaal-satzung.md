@@ -467,6 +467,12 @@ b. ist auf den von der Generalversammlung per Beschluss festgelegten Betrag pro 
 c. erfordert eine ordnungsgemäße Dokumentation und Berichterstattung an die Generalversammlung bei der nächsten Sitzung;
 d. muss im Einklang mit dem satzungsmäßigen Zweck der Genossenschaft ausgeübt werden.
 
+(3) Der Vorstand ist befugt, ausstehende Mietzahlungen von Mieterkünstlern automatisch wie folgt zu decken:
+a. Wenn ein Mieterkünstler die monatliche Miete nicht fristgerecht zahlt, kann der Vorstand den ausstehenden Betrag automatisch von der bei der Genossenschaft hinterlegten Mietkaution des Mieters abziehen;
+b. Wenn ein Mieterkünstler die Miete für weitere Monate nicht zahlt oder wenn die Kaution erschöpft ist, kann der Vorstand die ausstehenden Mietzahlungen automatisch aus den Rücklagen der Genossenschaft decken;
+c. Jede Verwendung von Mietsicherheiten oder Genossenschaftsrücklagen nach dieser Bestimmung muss dokumentiert und der Generalversammlung bei der nächsten Sitzung gemeldet werden;
+d. Der Vorstand soll den Mieterkünstler umgehend über alle Abzüge von seiner Kaution informieren und kann gegebenenfalls entsprechende Inkasso-Verfahren oder Kündigungsverfahren einleiten.
+
 ## Bevollmächtigter
 
 ### § 21 Bevollmächtigter und Revisionskommission

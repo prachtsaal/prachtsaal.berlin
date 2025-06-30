@@ -468,6 +468,12 @@ b. is limited to the amount per Board member per calendar month as determined by
 c. requires proper documentation and reporting to the General Assembly at the next meeting;
 d. must be exercised in accordance with the Cooperative's statutory purpose.
 
+(3) The Board of Directors is authorized to automatically cover missed rental payments from tenant artists as follows:
+a. If a tenant artist fails to pay the monthly rental fee by the due date, the Board may automatically deduct the outstanding amount from the tenant's rental security deposit (Kaution) held by the Cooperative;
+b. If a tenant artist fails to pay rental fees for subsequent months, or if the security deposit has been exhausted, the Board may automatically cover the outstanding rental payments from the Cooperative's reserves;
+c. Any use of tenant security deposits or Cooperative reserves under this provision must be documented and reported to the General Assembly at the next meeting;
+d. The Board shall promptly notify the tenant artist of any deductions made from their security deposit and may initiate appropriate collection procedures or termination proceedings as necessary.
+
 ## Authorized Representative (Bevollmächtigter)
 
 ### § 21 Authorized Representative (Bevollmächtigter) and Audit Commission (Revisionskommission)
