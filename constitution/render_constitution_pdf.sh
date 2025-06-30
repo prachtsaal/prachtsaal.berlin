@@ -73,6 +73,7 @@ pandoc "$temp_file" \
     --from=markdown+smart \
     --to=pdf \
     --output="$output_file" \
+    --metadata lang="$lang" \
     --shift-heading-level-by=-1 \
     --variable=papersize:a4 \
     --variable=geometry:margin=2.5cm \
