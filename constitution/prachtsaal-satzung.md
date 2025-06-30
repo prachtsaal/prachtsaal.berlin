@@ -92,7 +92,7 @@ j. Reinigung;
 k. Pflichten gegenüber Unternehmen oder Einrichtungen, die der Genossenschaft Pachtverträge gewähren, wobei fristgerechte Zahlungen und Einhaltung der Pachtverträge sichergestellt werden, abhängig vom Beschluss der Generalversammlung, diese Kosten aus dem Atelier-Mietbudget zu decken;
 l. zusätzlich 10% der Summe der vorgenannten Kosten, die den Rücklagen der Genossenschaft zuzuführen sind.
 
-(5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern durch andere Einnahmequellen, wie in Abschnitt 10 beschrieben, beschafft werden können. Zu diesen ständigen Kosten zählen:
+(5) Im Jahresbudget der Genossenschaft müssen auch weitere laufende Kosten enthalten sein, die nicht durch die Miete von Ateliers gedeckt werden dürfen, sondern aus den Rücklagen gedeckt werden sollen. Zu diesen ständigen Kosten zählen:
 
 a. Kosten der Pflichtprüfung nach § 4 GenG („Prüfung und Prüfungsverbände“),
 b. alle notwendigen Versicherungen zur Abdeckung von Unfällen der Künstler, des Publikums und des bei Veranstaltungen im Prachtsaal tätigen Personals (die Deckung erfolgt aus den Einnahmen der Veranstaltungskarten),
