@@ -370,7 +370,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 (1) Eine Verpflichtung zur Zahlung von Nachschüssen besteht für die Mitglieder auch im Insolvenzfall nicht (keine Nachschusspflicht).
 
-(2) **Diese Haftungsbegrenzung muss klar festgestellt werden: Die Mitglieder haften nicht für zusätzliche Beiträge über ihre eingezahlten Geschäftsanteile hinaus.**
+(2) Die Mitglieder haften nicht für zusätzliche Beiträge über ihre eingezahlten Geschäftsanteile hinaus.
 
 ## IV. Organe der Genossenschaft
 

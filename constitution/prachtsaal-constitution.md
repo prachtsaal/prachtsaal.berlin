@@ -532,7 +532,7 @@ c. by decision of the court if the number of members is less than three.
 
 (3) Upon dissolution of the Cooperative or cessation of its tax-privileged purposes, the assets of the Cooperative, to the extent that they exceed the paid-in business shares (Geschäftsguthaben) of the Members and the fair value of contributions in kind made by the Members, shall pass to another tax-privileged entity under public law or another tax-privileged corporation for use in promoting arts and/or culture and/or education.
 
-(4) This provision is irrevocable and essential for maintaining non-profit status in accordance with § 61 AO.
+(4) This provision is irrevocable and essential for maintaining non-profit status pursuant to § 61 AO.
 
 ### § 25 Announcements
 
