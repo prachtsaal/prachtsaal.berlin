@@ -431,8 +431,9 @@ q. basic principles for the content of employment contracts;
 r. admission and exclusion of Members;
 s. approval of the termination of employment contracts;
 t. the measures to be taken as a result of the report on the statutory audits;
-u. scope of the announcement of the audit report of the Examination Association (Prüfungsverband); and
-v. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
+u. the scope of the announcement of the audit report of the Examination Association (Prüfungsverband); 
+v. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 20 paragraph 2; and
+w. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
 
 (2) In order to fulfill its legal and statutory duties, the General Assembly may form advisory committees from among its Members and avail itself of the assistance of experts, in particular of the competent Examination Association (Prüfungsverband), at the Cooperative's expense.
 
@@ -459,9 +460,9 @@ d. to issue legally relevant declarations and contracts in cases or areas of ope
 e. to prepare the annual financial statements and the annual report, to the extent required by law, together with the proposal for the appropriation of the balance sheet profit or for covering the balance sheet loss, at the latest by April 1st, and to include presentation of these documents in the agenda of the regular General Assembly;
 f. to notify the Examination Association (Prüfungsverband) in good time of the convening, date, agenda and motions for the General Assembly.
 
-(2) Each member of the Board of Directors is authorized to independently approve and execute one-time purchases or expenses up to €200 per month without prior approval from the General Assembly. This authorization:
+(2) Each member of the Board of Directors is authorized to independently approve and execute one-time purchases or expenses without prior approval from the General Assembly, up to a monthly limit determined by the General Assembly. This authorization:
 a. applies only to one-time purchases and payments, not to contracts creating recurring monthly obligations;
-b. is limited to €200 per Board member per calendar month;
+b. is limited to the amount per Board member per calendar month as determined by resolution of the General Assembly;
 c. requires proper documentation and reporting to the General Assembly at the next meeting;
 d. must be exercised in accordance with the Cooperative's statutory purpose.
 

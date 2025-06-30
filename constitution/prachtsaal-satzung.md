@@ -429,8 +429,9 @@ q. die Grundprinzipien für den Inhalt von Arbeitsverträgen;
 r. die Aufnahme und Ausschluss von Mitgliedern;
 s. die Zustimmung zur Beendigung von Arbeitsverträgen;
 t. die aufgrund des Berichts über die gesetzlichen Abschlussprüfungen zu treffenden Maßnahmen;
-u. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands und
-v. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
+u. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands;
+v. die monatliche Ausgabengrenze für autonome einmalige Anschaffungen der Vorstandsmitglieder gemäß § 20 Absatz 2; und
+w. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
 
 (2) Die Generalversammlung kann zur Erfüllung ihrer gesetzlichen und satzungsmäßigen Aufgaben aus dem Kreis ihrer Mitglieder beratende Ausschüsse bilden und sich auf Kosten der Genossenschaft der Hilfe von Sachverständigen, insbesondere des zuständigen Prüfungsverbandes, bedienen.
 
@@ -457,10 +458,10 @@ d. in von der Generalversammlung genehmigten Fällen oder Tätigkeitsbereichen r
 e. die Jahresabschlüsse und den Jahresbericht gemäß den gesetzlichen Anforderungen vorzubereiten, zusammen mit dem Vorschlag zur Verwendung des Bilanzgewinns oder zur Deckung des Bilanzverlusts, spätestens bis zum 1\. April, und die Vorstellung dieser Dokumente in die Tagesordnung der ordentlichen Generalversammlung aufzunehmen;
 f. dem Prüfungsverband rechtzeitig Einberufung, Termin, Tagesordnung und Anträge der Generalversammlung bekannt zu geben.
 
-(2) Jedes Mitglied des Vorstands ist befugt, einmalige Anschaffungen oder Ausgaben bis zu 200 € pro Monat ohne vorherige Genehmigung der Generalversammlung selbstständig zu genehmigen und auszuführen. Diese Befugnis:
+(2) Jedes Mitglied des Vorstands ist befugt, einmalige Anschaffungen oder Ausgaben ohne vorherige Genehmigung der Generalversammlung selbstständig zu genehmigen und auszuführen, bis zu einer von der Generalversammlung festgelegten monatlichen Obergrenze. Diese Befugnis:
 
 a. gilt nur für einmalige Anschaffungen und Zahlungen, nicht für Verträge, die wiederkehrende monatliche Verpflichtungen begründen;
-b. ist auf 200 € pro Vorstandsmitglied pro Kalendermonat begrenzt;
+b. ist auf den von der Generalversammlung per Beschluss festgelegten Betrag pro Vorstandsmitglied pro Kalendermonat begrenzt;
 c. erfordert eine ordnungsgemäße Dokumentation und Berichterstattung an die Generalversammlung bei der nächsten Sitzung;
 d. muss im Einklang mit dem satzungsmäßigen Zweck der Genossenschaft ausgeübt werden.
 
