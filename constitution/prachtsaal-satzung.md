@@ -519,7 +519,7 @@ d. Der Vorstand soll den Mieterkünstler umgehend über alle Abzüge von seiner 
 
 ## VI. Liquidation, Bekanntmachungen und Gerichtsstand
 
-### § 24 Auflösung und Liquidation
+### § 24 Auflösung, Liquidation und Vermögensbindung
 
 (1) Die Genossenschaft wird aufgelöst,
 
