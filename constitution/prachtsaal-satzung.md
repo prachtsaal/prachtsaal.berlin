@@ -1,12 +1,13 @@
 ---
-date: "30.06.2025"
-lang: de
+date: "12.07.2025"
+lang: de-DE
+csquotes: true
 ---
 # Prachtsaal eG Satzung
 
 ## Präambel
 
-Der Prachtsaal ist ein Knotenpunkt der Künste, Kultur und Bildung. Historisch ist der Saal tief in das soziale Gefüge des Berliner Bezirks Neukölln verwoben. Dieses 1913 erbaute architektonische Juwel hat Tänzer, Schauspieler, Musiker und Künstler verschiedenster Kunstrichtungen angezogen sowie ein Publikum auf der Suche nach einem einzigartigen kulturellen Erlebnis, neuem Wissen, neuen Fähigkeiten und Schönheit begrüßt. Wir möchten diese Tradition fortführen.
+Der Prachtsaal ist ein Zentrum der Künste, Kultur und Bildung. Historisch ist der Saal tief in das soziale Gefüge des Berliner Bezirks Neukölln verwoben. Dieses 1913 erbaute architektonische Juwel hat Tänzer, Schauspieler, Musiker und Künstler aus den unterschiedlichsten Bereichen angezogen sowie ein Publikum auf der Suche nach einem einzigartigen kulturellen Erlebnis, neuem Wissen, neuen Fähigkeiten und Schönheit begrüßt. Wir möchten diese Tradition fortführen.
 
 ### Wer sind wir?
 
@@ -16,8 +17,8 @@ Die "Prachtsaal eG" ist ein kreatives Zentrum, das von zwei Säulen getragen wir
 
 Unsere Ziele:
 
-- Präsentation von bildender Kunst, Musik und Darbietungen, die kreativen Ausdruck über alle Medien hinweg verkörpern und dabei Schnittstellen zu den Bereichen Geisteswissenschaften, Gesellschaft, Wissenschaft und Technologie herstellen;
-- Einbeziehung unserer lokalen Gemeinschaft in die kreative Arbeit;
+- Präsentation von bildender Kunst, Musik und Darbietungen, die kreativen Ausdruck über alle Medien hinweg verkörpern. Schnittstellen zu den Bereichen Geisteswissenschaften, Gesellschaft, Wissenschaft und Technologie herstellen;
+- Einbeziehung unserer Nachbarschaft und der lokalen Kunst-Community in die kreative Arbeit;
 - Bereitstellung erschwinglicher Ateliers für Künstler;
 - alle Generationen in Kunsttechniken und Kultur zu unterrichten;
 - Förderung internationaler Künstlerkooperationen vor Ort.
@@ -75,7 +76,7 @@ Intern wollen wir diese Ziele erreichen, indem wir:
 
 (2) Die Genossenschaft verfolgt ihren satzungsgemäßen Zweck maßgeblich auf der Grundlage basisdemokratischer Entscheidungen. Sie verfolgt in ihrer internen Geschäftstätigkeit den Grundsatz größtmöglicher Transparenz und Partizipation. Diese und alle zuvor genannten Grundprinzipien der Genossenschaft sind für alle Mitglieder und Organe verbindlich.
 
-(3) Diese Satzung, einschließlich aller zukünftigen Änderungen, wird zunächst auf Englisch redigiert, damit unsere internationalen Mitglieder an dem Prozess teilnehmen können. Die präzise deutsche Übersetzung folgt anschließend. Nur letztere ist rechtlich bindend.
+(3) Diese Satzung, einschließlich aller zukünftigen Änderungen, wird zunächst auf Englisch verfasst, damit unsere internationalen Mitglieder an dem Prozess teilnehmen können. Die präzise deutsche Übersetzung folgt anschließend. Nur letztere ist rechtlich bindend.
 
 (4) Der Teil des Jahresbudgets der Genossenschaft, der durch die Miete von Kunstateliers eingenommen wird, muss alle laufenden Kosten vollständig abdecken, einschließlich:
 
@@ -144,7 +145,7 @@ $$r = \frac{20}{180} \times \frac{50400€}{12} = 0,1111 \times 4200€ = 466,67
 - $c = 50400€$ (Summe der jährlichen Mietkosten laut Absatz 4)
 - $r = 466,67€$ (monatliche Miete für die Ateliereinheit)
 
-(9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Überprüfung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1\. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
+(9) Sämtliche in Absatz 4 aufgeführten Kosten sowie die Regeln für die Vergabe von Wertpunkten an Ateliereinheiten werden jährlich für das folgende Geschäftsjahr überprüft. Durch die Überprüfung verändern sich die Mietkosten der einzelnen Ateliereinheiten. Daher muss vor dem 1. September jedes Geschäftsjahres eine Neuberechnung erfolgen. Dadurch bleibt genügend Zeit, um den KünstlerInnen etwaige Änderungen der monatlichen Ateliermieten rechtzeitig mitzuteilen. Mieterkünstler haben dann die Möglichkeit, entweder einen Nachtrag zum Mietvertrag mit dem aktualisierten Mietpreis zu unterzeichnen oder den Mietvertrag mit der vereinbarten Kündigungsfrist zu kündigen. Aufgrund der jährlichen Budgetplanung der Genossenschaft muss jeder Mietvertrag zwischen der Genossenschaft und einem Mieterkünstler eine Klausel enthalten, die eine Anpassung des Mietpreises für jedes Geschäftsjahr ermöglicht.
 
 (10) Zusätzliche Einnahmen der Genossenschaft können erzielt werden durch:
 
@@ -243,7 +244,7 @@ c. eine Person, die Gelder für die Verwirklichung des satzungsmäßigen Zwecks 
 d. ein wesentlicher Unterstützer des satzungsmäßigen Zwecks der Genossenschaft,
 e. jede andere Person, die durch einen Beschluss der Generalversammlung eingeladen wird.
 
-(3) Alle Bewerber müssen ein greifbares Engagement für die gemeinnützigen Zwecke der Genossenschaft nachweisen und von der Generalversammlung auf der Grundlage ihrer Übereinstimmung mit der gemeinnützigen Mission genehmigt werden.
+(3) Alle Bewerber müssen ein erkennbares Engagement für die gemeinnützigen Zwecke der Genossenschaft nachweisen und von der Generalversammlung basierend auf der Vereinbarkeit mit der gemeinnützigen Mission genehmigt werden.
 
 (4) Eine Mitgliedschaft einer Personengesellschaft oder einer juristischen Person ist nur solchen Organisationen möglich, die wesentlich zur Verwirklichung des satzungsmäßigen Zwecks der Genossenschaft beitragen können (z. B. Verein zur Erlangung von Mietzuschüssen für Ateliers).
 
@@ -368,7 +369,7 @@ j. das zusammengefasste Ergebnis des Prüfberichts einzusehen.
 
 ### § 14 Nachschusspflicht
 
-(1) Eine Verpflichtung zur Zahlung von Nachschüssen besteht für die Mitglieder auch im Insolvenzfall nicht (keine Nachschusspflicht).
+(1) Eine Verpflichtung zur Zahlung von Nachschüssen besteht für die Mitglieder auch im Insolvenzfall nicht.
 
 (2) Die Mitglieder haften nicht für zusätzliche Beiträge über ihre eingezahlten Geschäftsanteile hinaus.
 
@@ -535,11 +536,11 @@ c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei b
 
 ### § 25 Ankündigungen
 
-(1) Sämtliche Bekanntmachungen werden unter Angabe des Namens der Genossenschaft auf ihrer öffentlich zugänglichen Internetseite ([https://prachtsaal.berlin](https://prachtsaal.berlin) ) veröffentlicht.
+(1) Sämtliche Bekanntmachungen werden unter Angabe des Namens der Genossenschaft auf ihrer öffentlich zugänglichen Internetseite ([https://prachtsaal.berlin](https://prachtsaal.berlin)) veröffentlicht.
 
-(2) Bekanntmachungen, deren Veröffentlichung in einem öffentlichen Bekanntmachungsorgan aufgrund Gesetz oder dieser Satzung vorgeschrieben ist, werden ebenfalls auf der öffentlich zugänglichen Internetseite der Genossenschaft ([https://prachtsaal.berlin](https://prachtsaal.berlin) ) veröffentlicht.
+(2) Bekanntmachungen, deren Veröffentlichung in einem öffentlichen Bekanntmachungsorgan aufgrund Gesetz oder dieser Satzung vorgeschrieben ist, werden ebenfalls auf der öffentlich zugänglichen Internetseite der Genossenschaft ([https://prachtsaal.berlin](https://prachtsaal.berlin)) veröffentlicht.
 
-(3) Die offenlegungspflichtigen Rechnungslegungsunterlagen werden im [Bundesanzeiger](https://www.bundesanzeiger.de/) veröffentlicht.
+(3) Die offenlegungspflichtigen Rechnungslegungsunterlagen werden im Bundesanzeiger [https://www.bundesanzeiger.de](https://www.bundesanzeiger.de) veröffentlicht.
 
 ### § 26 Zuständigkeit
 

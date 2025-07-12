@@ -1,6 +1,7 @@
 ---
-date: "30.06.2025"
+date: "12.07.2025"
 lang: en
+csquotes: true
 ---
 # Prachtsaal eG Constitution
 
@@ -540,7 +541,7 @@ c. by decision of the court if the number of members is less than three.
 
 (2) Announcements whose publication in a public bulletin is required by law or by this Constitution shall also be published on Cooperative's publicly accessible website ([https://prachtsaal.berlin](https://prachtsaal.berlin)).
 
-(3) The accounting documents subject to disclosure requirements shall be published in the German Federal Bulletin ([Bundesanzeiger](https://www.bundesanzeiger.de/)).
+(3) The accounting documents subject to disclosure requirements shall be published in the German Federal Bulletin (Bundesanzeiger [https://www.bundesanzeiger.de](https://www.bundesanzeiger.de)).
 
 ### § 26 Jurisdiction
 
