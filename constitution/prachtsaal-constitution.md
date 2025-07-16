@@ -461,7 +461,7 @@ s. approval of the termination of employment contracts;
 t. the measures to be taken as a result of the report on the statutory audits;
 u. the scope of the announcement of the audit report of the Examination Association (Prüfungsverband); 
 v. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 20 paragraph 2;
-w. adoption and amendments to the Code of Conduct pursuant to § 3 paragraph 4; and
+w. adoption and amendments to the Code of Conduct and the Grievance Policy pursuant to § 3 paragraph 4; and
 x. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
 
 ### § 19 Committees
