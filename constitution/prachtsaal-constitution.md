@@ -78,7 +78,7 @@ Internally, we want to achieve these aims by:
 
 (3) This Constitution, including all the future amendments, shall be redacted in English first, so that our international Members can participate in the process. The precise German translation shall follow. Only the latter is legally binding.
 
-(4) All Members, resident artists, staff, volunteers, and visitors to Prachtsaal shall adhere to the Cooperative's Code of Conduct, which is published on the Cooperative's website and may be updated by resolution of the General Assembly. The Code of Conduct sets forth detailed behavioral expectations, the Grievance Policy for addressing violations through the Grievance Committee, and mechanisms for ensuring a safe and respectful environment for all participants in the Prachtsaal community.
+(4) All Members, resident artists, staff, volunteers, and visitors to Prachtsaal shall adhere to the Cooperative's Code of Conduct, which is published on the Cooperative's website and may be updated by resolution of the General Assembly. The Code of Conduct sets forth detailed behavioral expectations, the Grievance Policy for addressing violations through the Grievance Committee established pursuant to § 19 paragraph 2e, and mechanisms for ensuring a safe and respectful environment for all participants in the Prachtsaal community.
 
 (5) The part of the yearly budget of the Cooperative which is acquired through rental of art ateliers must completely cover all the constant costs including:
 
@@ -220,7 +220,7 @@ e. A project focused on reducing accessibility barriers at Prachtsaal:
 
 (19) The public cultural offerings of the Cooperative shall be promoted to optimize their success.
 
-(20) The curatorial program shall be prepared by the Cooperative and agreed on by the decision of the General Assembly.
+(20) The curatorial program shall be prepared by the Curatorial Committee established pursuant to § 19 paragraph 2b and agreed on by the decision of the General Assembly.
 
 (21) External curators can be invited to participate.
 
@@ -468,22 +468,22 @@ x. on other matters which are provided by law or by the Constitution for resolut
 
 (1) In order to fulfill its legal and statutory duties, the General Assembly may form advisory committees from among its Members and avail itself of the assistance of experts, in particular of the competent Examination Association (Prüfungsverband), at the Cooperative's expense.
 
-(1) The General Assembly may establish standing or ad-hoc committees to support the governance and operations of the Cooperative, including but not limited to:
+(2) The General Assembly may establish standing or ad-hoc committees to support the governance and operations of the Cooperative, including but not limited to:
 
-a. Rental Budget Committee - prepares rental budget proposals pursuant to § 18(1)b;
+a. Rental Budget Committee - prepares rental budget proposals pursuant to § 18 paragraph 1b;
 b. Curatorial Committee - prepares the Cooperative's curatorial programme;
 c. Fundraising Committee - develops fundraising strategies and campaigns to support the Cooperative's statutory purposes;
-c. Audit Committee - audits annual financial statements pursuant to § 22 paragraph 4;
-d. Grievance Committee - addresses violations of the Code of Conduct pursuant to the Grievance Policy referenced in § 3 paragraph 4;
-e. other committees as determined necessary by the General Assembly.
+d. Audit Committee - audits annual financial statements pursuant to § 22 paragraph 4;
+e. Grievance Committee - addresses violations of the Code of Conduct pursuant to the Grievance Policy referenced in § 3 paragraph 4;
+f. other committees as determined necessary by the General Assembly.
 
-(2) Each committee shall:
+(3) Each committee shall:
 a. consist of at least 2 Members appointed by the General Assembly;
 b. operate according to its charter or policy approved by the General Assembly;
 c. report regularly to the General Assembly on its activities;
 d. have its term, composition, and duties defined by General Assembly resolution.
 
-(3) Committee decisions are recommendations to the General Assembly unless specific decision-making authority is delegated by General Assembly resolution.
+(4) Committee decisions are recommendations to the General Assembly unless specific decision-making authority is delegated by General Assembly resolution.
 
 ## Board of Directors (Vorstand)
 
