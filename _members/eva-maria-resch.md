@@ -6,7 +6,7 @@ description: writer
 thumb: /assets/img/members/eva-maria-resch/eva-thumb.webp
 portrait: /assets/img/members/eva-maria-resch/eva-portrait.webp
 portfolio_image_locations:
-  - /assets/img/members/eva-maria-resch/evas-pages.webp
+  - 
 website: 
 socials: 
 ---
