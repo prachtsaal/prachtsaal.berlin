@@ -3,8 +3,8 @@ layout: member
 current: true
 full_name: Marta Muschietti
 description: Speculative artist & researcher
-thumb: /assets/img/members/marta-muschietti/marta_prachtsaal-square.png
-portrait: /assets/img/members/marta-muschietti/marta_prachtsaal.png
+thumb: /assets/img/members/marta-muschietti/marta_prachtsaal-square.webp
+portrait: /assets/img/members/marta-muschietti/marta_prachtsaal.webp
 socials:
   - https://www.instagram.com/machete665/
 ---
