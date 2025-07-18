@@ -1,6 +1,6 @@
 ---
 layout: member
-current: false
+current: true
 full_name: So Kanno
 description: roboticist
 thumb: /assets/img/members/no_image.svg
