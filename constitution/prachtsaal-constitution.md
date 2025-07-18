@@ -440,7 +440,7 @@ b. the Board of Directors (Vorstand)
 (1) The General Assembly is the highest executive body of the Cooperative. In addition to the other matters specified in § 48 GenG or this Constitution it decides in particular on
 
 a. the implementation of new projects;
-b. forming committees pursuant to § 19, requiring that the Rental Budget Committee be established in time to deliver its rental budget proposal for the next fiscal year no later than August 15th;
+b. forming committees pursuant to § 19;
 c. approval of the rental budget for the following year, which must happen no later than September 1st of each fiscal year;
 d. amendments to the Constitution;
 e. the adoption of the annual financial statements and the use of the net profit for the year or the coverage of a net loss for the year;
@@ -470,7 +470,7 @@ x. on other matters which are provided by law or by the Constitution for resolut
 
 (2) The General Assembly may establish standing or ad-hoc committees to support the governance and operations of the Cooperative, including but not limited to:
 
-a. Rental Budget Committee - prepares rental budget proposals pursuant to § 18 paragraph 1b;
+a. Rental Budget Committee - prepares rental budget proposals, pursuant to agreements mentioned in § 3, and must be established in time to deliver its rental budget proposal for the next fiscal year no later than August 15th;
 b. Curatorial Committee - prepares the Cooperative's curatorial programme;
 c. Fundraising Committee - develops fundraising strategies and campaigns to support the Cooperative's statutory purposes;
 d. Audit Committee - audits annual financial statements pursuant to § 22 paragraph 4;
