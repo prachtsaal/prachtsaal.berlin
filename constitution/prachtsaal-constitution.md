@@ -383,6 +383,7 @@ j. to inspect the summarized result of the audit report.
 
 a. the General Assembly (Generalversammlung),
 b. the Board of Directors (Vorstand)
+c. the Authorized Representative (Bevollmächtigter)
 
 (2) The governing bodies of the Cooperative are obliged to align the costs of business operations in accordance with the principles of proper management and to keep them within reasonable limits.
 
