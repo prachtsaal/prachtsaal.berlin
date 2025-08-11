@@ -396,21 +396,21 @@ b. the Board of Directors (Vorstand)
 
 (3) The General Assembly shall be convened by notifying all Members in text form, stating the items on the agenda. As a rule, the convocation shall be issued by the Board of Directors or the Authorized Representative (Bevollmächtigter) (§ 21). There must be a period of at least 2 weeks between the date of the General Assembly and the date of receipt of the notice. Items for resolution in the General Assembly must be announced at least one week before the General Assembly.
 
-(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 2 applies accordingly.
+(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 3 applies accordingly.
 
 (5) Resolutions of the General Assembly may be passed without complying with the form and deadlines for convening the meeting as stipulated in paragraph 3 if all Members participate in the General Assembly in person or by representation and no Member objects to the holding of the General Assembly (§ 46 paragraph 2 sentence 2 GenG).
 
-(6) The General Assembly shall constitute a quorum when at least ¾ of the Members participate in the General Assembly in person or by representation.
+(6) The General Assembly shall constitute a quorum when at least 75% of the Members participate in the General Assembly in person or by representation.
 
 (7) A Member may grant power of attorney to another Member in the form prescribed by law (§ 43 paragraph 5 GenG). A Member may not represent more than two Members.
 
 (8) Each Member has one vote. The rights of legal entities are exercised by persons authorized to represent them.
 
-(9) The General Assembly shall pass resolutions by a ¾ majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
+(9) The General Assembly shall pass resolutions by a 75% majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
 
 (10) Any Member may request that a vote be conducted by secret ballot. Such request shall be granted if supported by a simple majority (more than half) of the Members present and entitled to vote. Secret ballot voting shall be conducted in writing using ballot papers or, in the case of virtual or hybrid meetings, through secure electronic means that ensure the anonymity of individual votes while maintaining the integrity of the voting process.
 
-(11) The chair of the meeting shall be elected at the beginning of each General Assembly by the General Assembly on the proposal of the Board of Directors.
+(11) For real-time meeting, the chair of the meeting shall be elected at the beginning of each General Assembly by the General Assembly on the proposal of the Board of Directors.
 
 (12) If the agenda of the General Assembly includes deliberation on accepting the 21st Member, then the Board of Directors must, as a precautionary measure, extend the agenda with elections to the Board of Directors and Supervisory Board and corresponding changes to the Constitution in accordance with § 9 GenG.
 
@@ -418,17 +418,23 @@ b. the Board of Directors (Vorstand)
 
 (14) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
 
-### § 17 Virtual and hybrid General Assembly, meeting in an extended procedure
+### § 17 Modalities of the Discussion and Voting phases of General Assemblies
 
-(1) The General Assembly may be held as a presence-only meeting or remotely (exclusively using technical means of communication) or in hybrid form as an online presence meeting (presence meeting in which Members not physically present can participate electronically). The discussion phase and the subsequent voting phase of the meeting can be split (meeting in an extended procedure). The Board of Directors or the convening member shall decide on this at its own discretion and inform the Members of this in the invitation. At the request of one or more Members, digital participation in a presence meeting taking place must be made possible within the meaning of paragraph 3\.
+(1) General Assemblies are divided into two phases: Discussion and Voting. Both of these may happen as a real-time, synchronous meeting, or as an asynchronous online process.
 
-(2) The General Assembly can be held remotely without a physical meeting place on a specific day (remote General Assembly). In this case, a two-way communication of the Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted participation in the virtual General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+(2) A real-time, synchronous meeting can mean that all participants are physically present at a previous set time and place; it can happen as an entirely virtual, online meeting; or as a hybrid meeting where some participants are physically present, while others join over a digital connection.
 
-(3) Members can be enabled to participate digitally in a General Assembly, including the exercise of their rights, without being physically present at the meeting location (hybrid General Assembly). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted digital participation in the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+(3) For fully online and hybrid real-time meetings, a two-way communication of the Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided in advance with all information required for unrestricted virtual participation in the General Assembly. This includes, in particular, access details and information on how the right to speak, to make motions, to provide information and to vote can be exercised over the remote communication channel.
 
-(4) Participation in the General Assembly can also take place in such a way that the meeting is split into a discussion phase, which is held as a virtual meeting or as a hybrid meeting, and a subsequent voting phase (meeting in an extended procedure). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) shall be ensured during the discussion phase. The Members shall be provided with all information required for unrestricted digital participation in the discussion phase of the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak and to make motions can be exercised. It must also be ensured that during the voting phase of the General Assembly all Members can exercise their voting rights via electronic communication and secret voting is possible. This includes, in particular, information on access data as well as information on how the right to vote can be exercised. It must also be communicated how and by when the vote must be cast in writing or via electronic communication.
+(4) For asynchronous meetings, an online platform shall be used where authenticated Members can participate in a written discussion. The online platform shall record a flow of timestamped messages by individuals. Members shall receive notification when a new discussion is opened to start a General Meeting, and every such discussion must have a clear termination date and time stated at the beginning. Members shall be provided in advance with all information required for unrestricted access to the platform hosting the General Assembly, in particular credentials for authenticated access.
 
-(5) § 16 of this Constitution shall apply to all forms of General Assembly of Members.
+(5) If the asynchronous meeting is for the voting phase, a clear mechanism must be defined up front for the act of casting votes and determining the outcome. Ideally this shall be a built-in functionality of the platform.
+
+(6) If the online platform does not support secret voting and the nature of the decision to be made by the General Assembly requires secret voting, then the voting phase must happen through other means. This must be clarified in the General Assembly's discussion phase before voting begins.
+
+(7) In case the online platform used for asynchronous meetings also contains other discussions, these must be clearly distinguished from discussions that constitute a General Assembly. Discussions that constitute a General Assembly shall be archived, either manually or automatically, when their termination date has passed and the discussion becomes read-only.
+
+(8) § 17 of this Constitution shall apply to all forms of General Assembly of Members (regular or extraordinary).
 
 ### § 18 Powers of the General Assembly to pass resolutions
 
