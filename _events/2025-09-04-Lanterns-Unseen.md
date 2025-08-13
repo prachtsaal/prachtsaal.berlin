@@ -12,7 +12,7 @@ tags: news
 ---
 Prachtsaal will be part of the Berlin New Media Week with a new collective exhibition.<br>
 
-<href="https://berlinnewmediaweek.com/en/program">Please find the program on the website of the Berlin New Media Week<br>
+<a href="https://berlinnewmediaweek.com/en/program">Please find the program on the website of the Berlin New Media Week</a>
 
 “Lanterns: Unseen” is a collective exhibition designed explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations.<br>
 
