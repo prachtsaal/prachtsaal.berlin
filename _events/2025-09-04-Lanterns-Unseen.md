@@ -7,7 +7,7 @@ description: This collective exhibition is designed to explore the complexities 
 date: 2025-06-27
 end_date: 2025-06-29
 images: 
-  - file: 
+  - file: /assets/img/events/2025-09-04-Lanterns-Unseen/berlin_new_media_week_2025.webp
 tags: news
 ---
 Prachtsaal will be part of the Berlin New Media Week with a new collective exhibition.<br>
