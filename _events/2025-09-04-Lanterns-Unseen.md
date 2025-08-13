@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: Lanterns: Unseen 
+title: Lanterns Unseen 
 subtitle: Berlin Media Art Week
 main_image: /assets/img/events/2025-09-04-Lanterns-Unseen/thumbnail.webp
 description: This collective exhibition is designed to explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations.
