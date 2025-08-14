@@ -42,7 +42,7 @@ Zack Helwa<br>
 
 ## Opening hours:
 
-Thursday 4 to Sunday 7 September, **19.00-22.00**<br>
+Thursday 4 to Sunday 7 September, **18.00-22.00**<br>
 Jonasstraße 22, 12053 Berlin<br>
 
 ## Curation:
