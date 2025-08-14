@@ -4,11 +4,11 @@ title: Lanterns Unseen
 subtitle: Berlin Media Art Week
 main_image: /assets/img/events/2025-09-04-Lanterns-Unseen/thumbnail.webp
 description: This collective exhibition is designed to explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations.
-date: 2025-06-27
-end_date: 2025-06-29
+date: 2025-09-07
+end_date: 2025-09-07
 images: 
   - file: /assets/img/events/2025-09-04-Lanterns-Unseen/berlin_new_media_week_2025.webp
-tags: news
+tags: news portfolio event
 ---
 Prachtsaal will be part of the Berlin New Media Week with a new collective exhibition.<br>
 
