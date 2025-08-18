@@ -418,23 +418,35 @@ b. the Board of Directors (Vorstand)
 
 (14) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
 
-### § 17 Modalities of the Discussion and Voting phases of General Assemblies
 
-(1) General Assemblies are divided into two phases: Discussion and Voting. Both of these may happen as a real-time, synchronous meeting, or as an asynchronous online process.
+### § 17 Formats of the General Assembly
 
-(2) A real-time, synchronous meeting can mean that all participants are physically present at a previous set time and place; it can happen as an entirely virtual, online meeting; or as a hybrid meeting where some participants are physically present, while others join over a digital connection.
+(1) The General Assembly must be held in one of the following formats:
 
-(3) For fully online and hybrid real-time meetings, a two-way communication of the Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided in advance with all information required for unrestricted virtual participation in the General Assembly. This includes, in particular, access details and information on how the right to speak, to make motions, to provide information and to vote can be exercised over the remote communication channel.
+1. as a physical meeting where the members are present in person at the same location,
 
-(4) For asynchronous meetings, an online platform shall be used where authenticated Members can participate in a written discussion. The online platform shall record a flow of timestamped messages by individuals. Members shall receive notification when a new discussion is opened to start a General Meeting, and every such discussion must have a clear termination date and time stated at the beginning. Members shall be provided in advance with all information required for unrestricted access to the platform hosting the General Assembly, in particular credentials for authenticated access.
+2. as a hybrid meeting in which the members can choose to participate either physically, or remotely without being physically present,
 
-(5) If the asynchronous meeting is for the voting phase, a clear mechanism must be defined up front for the act of casting votes and determining the outcome. Ideally this shall be a built-in functionality of the platform.
+3. as a virtual meeting without physical presence of the members in one place,
 
-(6) If the online platform does not support secret voting and the nature of the decision to be made by the General Assembly requires secret voting, then the voting phase must happen through other means. This must be clarified in the General Assembly's discussion phase before voting begins.
+4. as a meeting in an extended procedure, divided into (a) a discussion phase held either as a hybrid or a virtual meeting, and (b) a subsequent voting phase.
 
-(7) In case the online platform used for asynchronous meetings also contains other discussions, these must be clearly distinguished from discussions that constitute a General Assembly. Discussions that constitute a General Assembly shall be archived, either manually or automatically, when their termination date has passed and the discussion becomes read-only.
+(2) For hybrid meetings, it must be ensured that
 
-(8) § 17 of this Constitution shall apply to all forms of General Assembly of Members (regular or extraordinary).
+1. the entire meeting is transmitted to all participating members by means of electronic communication,
+2. members who participate remotely can exercise their rights to speak, submit motions, request information, and vote by means of electronic communication
+
+(3) For virtual meetings, it must be ensured that
+
+1. the entire meeting is communicated to all members in writing or by means of electronic communication, and
+2. all participating members can exercise their rights to speak, submit motions, request information, and vote in writing or by means of electronic communication.
+
+(4) For meetings held in the extended procedure, it must be ensured that all members can exercise their voting rights in writing or by means of electronic communication during the voting phase.
+
+(5) The Board of Directors and the Authorized Representative shall jointly decide, taking into account the interests of the members, the format of the meeting as per §17 (1), and in the case of a meeting in the extended procedure, the format of the discussion phase from the options in §17 (4). If they cannot agree on a format, a physical meeting shall be held.
+
+(6) For virtual and hybrid meetings and meetings in the extended procedure, members who participate in writing or by means of electronic communication are considered to have attended the General Assembly.
+
 
 ### § 18 Powers of the General Assembly to pass resolutions
 
