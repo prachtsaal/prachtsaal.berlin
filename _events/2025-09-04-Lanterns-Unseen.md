@@ -46,6 +46,7 @@ Thursday 4 to Sunday 7 September, **18.00-22.00**<br>
 Jonasstraße 22, 12053 Berlin<br>
 
 ## Curation:
-Michelle Meissner & Gabriel Jeanjean for Prachtsaal Studio
+Michelle Meissner, Gabriel Jeanjean, Martyna Lebryk<br>
+for Prachtsaal Studio
 
 
