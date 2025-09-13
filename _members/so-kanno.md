@@ -1,9 +1,9 @@
 ---
 layout: member
-current: false
+current: true
 full_name: So Kanno
 description: roboticist
-thumb: /assets/img/members/no_image.svg
+thumb: /assets/img/members/so-kanno/so-kanno-thumb.webp
 portrait: /assets/img/members/so-kanno/by-martina-kohnova-scaled.jpg
 portfolio_image_locations:
   - /assets/img/members/so-kanno/mg_7243.jpg
