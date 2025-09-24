@@ -78,7 +78,7 @@ Internally, we want to achieve these aims by:
 
 (3) This Constitution, including all the future amendments, shall be redacted in English first, so that our international Members can participate in the process. The precise German translation shall follow. Only the latter is legally binding.
 
-(4) All Members, resident artists, staff, volunteers, and visitors to Prachtsaal shall adhere to the Cooperative's Code of Conduct, which is published on the Cooperative's website and may be updated by resolution of the General Assembly. The Code of Conduct sets forth detailed behavioral expectations, the Grievance Policy for addressing violations through the Grievance Committee established pursuant to § 19 paragraph 2e, and mechanisms for ensuring a safe and respectful environment for all participants in the Prachtsaal community.
+(4) All Members, resident artists, staff, volunteers, and visitors to Prachtsaal shall adhere to the Cooperative's Code of Conduct, which is published on the Cooperative's website and may be updated by resolution of the General Assembly. The Code of Conduct sets forth detailed behavioral expectations. The Grievance Policy sets the process for addressing Code of Conduct violations, detailing mechanisms for ensuring a safe and respectful environment for all participants in the Prachtsaal community. The Grievance Committee is the body tasked with processing Code of Conduct violations via the Grievance Policy, established pursuant to § 19 paragraph 2e.
 
 (5) The part of the yearly budget of the Cooperative which is acquired through rental of art ateliers must completely cover all the constant costs including:
 
@@ -309,7 +309,7 @@ c. if the Member damages or has damaged the Cooperative by failing to fulfill it
 d. if the Member is unreachable for more than 3 months;
 e. if the requirements for admission to the Cooperative were not present or no longer exist;
 f. if behavior of the Member cannot be reconciled with the interests of the Cooperative;
-g. if the Member violates the Cooperative's Code of Conduct pursuant to § 3 paragraph 4 in a manner that cannot be remedied through the procedures outlined therein.
+g. if the Member is found to have violated the Cooperative's Code of Conduct pursuant to § 3 paragraph 4 in a manner that cannot be remedied through the procedures outlined therein.
 
 (2) The exclusion shall be effected by resolution of the General Assembly. The Member to be excluded shall be given the opportunity to comment on the exclusion beforehand, except in the case of § 9 paragraph 1 d. of this Constitution. The excluded Member must be informed immediately of the exclusion with reasons in the legally prescribed form (§ 68 GenG) and by email. From the time the notification is sent in the statutory form (§ 68 GenG), the member may no longer participate in the General Assembly, use facilities of the Cooperative or be a member of the Board of Directors, or represent the Cooperative in any other way.
 
