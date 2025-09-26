@@ -401,7 +401,7 @@ b. the Board of Directors (Vorstand)
 
 (3) The General Assembly shall be convened by notifying all Members in text form, stating the items on the agenda. As a rule, the convocation shall be issued by the Board of Directors or the Authorized Representative (Bevollmächtigter) (§ 21). There must be a period of at least 2 weeks between the date of the General Assembly and the date of receipt of the notice. Items for resolution in the General Assembly must be announced at least one week before the General Assembly.
 
-(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 2 applies accordingly.
+(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 3 applies accordingly.
 
 (5) Resolutions of the General Assembly may be passed without complying with the form and deadlines for convening the meeting as stipulated in paragraph 3 if all Members participate in the General Assembly in person or by representation and no Member objects to the holding of the General Assembly (§ 46 paragraph 2 sentence 2 GenG).
 
