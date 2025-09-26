@@ -405,13 +405,13 @@ b. the Board of Directors (Vorstand)
 
 (5) Resolutions of the General Assembly may be passed without complying with the form and deadlines for convening the meeting as stipulated in paragraph 3 if all Members participate in the General Assembly in person or by representation and no Member objects to the holding of the General Assembly (§ 46 paragraph 2 sentence 2 GenG).
 
-(6) The General Assembly shall constitute a quorum when at least ¾ of the Members participate in the General Assembly in person or by representation.
+(6) The General Assembly shall constitute a quorum when at least ¾ of the Members participate in the General Assembly in person or by representation. For the purpose of calculating the quorum requirement, ¾ of the total number of Members shall be rounded down to the next whole number.
 
 (7) A Member may grant power of attorney to another Member in the form prescribed by law (§ 43 paragraph 5 GenG). A Member may not represent more than two Members.
 
 (8) Each Member has one vote. The rights of legal entities are exercised by persons authorized to represent them.
 
-(9) The General Assembly shall pass resolutions by a ¾ majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
+(9) The General Assembly shall pass resolutions by a ¾ majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution. For the purpose of calculating the required majority, abstentions are not counted as votes cast. The ¾ majority requirement shall be mathematically rounded to the nearest whole number.
 
 (10) Any Member may request that a vote be conducted by secret ballot. Such request shall be granted if supported by a simple majority (more than half) of the Members present and entitled to vote. Secret ballot voting shall be conducted in writing using ballot papers or, in the case of virtual or hybrid meetings, through secure electronic means that ensure the anonymity of individual votes while maintaining the integrity of the voting process.
 

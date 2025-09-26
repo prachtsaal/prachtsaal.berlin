@@ -398,13 +398,13 @@ b. der Vorstand
 
 (5) Beschlüsse der Generalversammlung können ohne Einhaltung der in Absatz 3 vorgesehenen Form und Fristen für die Einberufung gefasst werden, wenn alle Mitglieder persönlich oder durch Vertretung an der Generalversammlung teilnehmen und kein Mitglied der Abhaltung der Generalversammlung widerspricht (§ 46 Absatz 2 Satz 2 GenG).
 
-(6) Die Generalversammlung ist beschlussfähig, wenn mindestens ¾ der Mitglieder persönlich oder durch Vertretung an der Generalversammlung teilnehmen.
+(6) Die Generalversammlung ist beschlussfähig, wenn mindestens ¾ der Mitglieder persönlich oder durch Vertretung an der Generalversammlung teilnehmen. Für die Berechnung der Beschlussfähigkeitsanforderung wird ¾ der Gesamtzahl der Mitglieder auf die nächste ganze Zahl abgerundet.
 
 (7) Ein Mitglied kann einem anderen Mitglied in der gesetzlich vorgeschriebenen Form Vollmacht erteilen (§ 43 Abs. 5 GenG). Ein Mitglied darf nicht mehr als zwei Mitglieder vertreten.
 
 (8) Jedes Mitglied hat eine Stimme. Die Rechte juristischer Personen werden durch vertretungsberechtigte Personen ausgeübt.
 
-(9) Die Generalversammlung fasst ihre Beschlüsse mit einer Dreiviertelmehrheit der abgegebenen Stimmen, soweit nicht das Gesetz oder diese Satzung eine größere Mehrheit oder weitere Erfordernisse vorschreibt.
+(9) Die Generalversammlung fasst ihre Beschlüsse mit einer Dreiviertelmehrheit der abgegebenen Stimmen, soweit nicht das Gesetz oder diese Satzung eine größere Mehrheit oder weitere Erfordernisse vorschreibt. Für die Berechnung der erforderlichen Mehrheit gelten Stimmenthaltungen nicht als abgegebene Stimmen. Die Dreiviertelmehrheit wird mathematisch auf die nächste ganze Zahl gerundet.
 
 (10) Jedes Mitglied kann beantragen, dass eine Abstimmung durch geheime Wahl durchgeführt wird. Ein solcher Antrag ist zu bewilligen, wenn er von einer einfachen Mehrheit (mehr als die Hälfte) der anwesenden und stimmberechtigten Mitglieder unterstützt wird. Geheime Abstimmungen sind schriftlich mittels Stimmzetteln oder im Falle virtueller oder hybrider Versammlungen durch sichere elektronische Mittel durchzuführen, die die Anonymität der einzelnen Stimmen gewährleisten und gleichzeitig die Integrität des Abstimmungsprozesses sicherstellen.
 
