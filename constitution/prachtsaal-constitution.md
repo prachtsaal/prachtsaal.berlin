@@ -78,7 +78,9 @@ Internally, we want to achieve these aims by:
 
 (3) This Constitution, including all the future amendments, shall be redacted in English first, so that our international Members can participate in the process. The precise German translation shall follow. Only the latter is legally binding.
 
-(4) The part of the yearly budget of the Cooperative which is acquired through rental of art ateliers must completely cover all the constant costs including:
+(4) All Members, resident artists, staff, volunteers, and visitors to Prachtsaal shall adhere to the Cooperative's Code of Conduct, which is published on the Cooperative's website and may be updated by resolution of the General Assembly. The Code of Conduct sets forth detailed behavioral expectations. The Grievance Policy sets the process for addressing Code of Conduct violations, detailing mechanisms for ensuring a safe and respectful environment for all participants in the Prachtsaal community. The Grievance Committee is the body tasked with processing Code of Conduct violations via the Grievance Policy, established pursuant to § 19 paragraph 2e.
+
+(5) The part of the yearly budget of the Cooperative which is acquired through rental of art ateliers must completely cover all the constant costs including:
 
 a. rental of the Prachtsaal space within property managed by GbR Jonasstraße 22, including adjacent garden area;
 b. rental of additional spaces and storage spaces within this property;
@@ -93,13 +95,13 @@ j. cleaning;
 k. duties towards companies or entities that provide lease agreements (Pachtverträge) to the Cooperative, ensuring timely payments and adherence to lease agreements, depending on the decision of General Assembly to cover these costs from the atelier rental budget;
 l. additional 10% of the sum of aforementioned costs to be allocated to the Cooperative's reserves.
 
-(5) The yearly budget of the Cooperative must also account for additional constant costs which should not be covered by rental of art ateliers, but covered from the reserves. These constant costs include:
+(6) The yearly budget of the Cooperative must also account for additional constant costs which should not be covered by rental of art ateliers, but covered from the reserves. These constant costs include:
 
 a. legal costs associated with mandatory audit pursuant to § 4 GenG ("Prüfung und Prüfungsverbände"),
 b. all the necessary insurances covering accidents involving performers, audience and staff running events at Prachtsaal (to be covered from ticket sales for the events),
 c. the costs of rental deposit.
 
-(6) The following agreements between 3rd parties and the Cooperative shall be covered by separate contracts:
+(7) The following agreements between 3rd parties and the Cooperative shall be covered by separate contracts:
 
 a. The rental contract with GbR Jonasstraße 22 to rent the whole Prachtsaal space and agreed additional spaces of the managed property;
 b. Rental contracts with artists residing in the space;
@@ -111,7 +113,7 @@ g. Contracts with the garbage disposal facilities;
 h. Contracts with the cleaning service provider;
 i. Other contracts with media and service providers necessary for fulfilling statutory purposes stated in this Constitution.
 
-(7) In order to provide fair division of the rental burden carried by tenant artists the Prachtsaal atelier space shall be partitioned into rentable atelier units of value established in points, which relate to:
+(8) In order to provide fair division of the rental burden carried by tenant artists the Prachtsaal atelier space shall be partitioned into rentable atelier units of value established in points, which relate to:
 
 a. the unit area in square meters,
 b. the amount of daylight,
@@ -123,7 +125,7 @@ g. reduced heating,
 h. location in the basement,
 i. other important factors established after deliberation.
 
-(8) The sum of incomes from all rented atelier units equals to the sum of all costs listed in paragraph 4, when divided by 12 months. The monthly rental cost specified in each individual rental contract between the Cooperative and a tenant artist must be calculated according to the formula:
+(9) The sum of incomes from all rented atelier units equals to the sum of all costs listed in paragraph 4, when divided by 12 months. The monthly rental cost specified in each individual rental contract between the Cooperative and a tenant artist must be calculated according to the formula:
 
 $$r = \frac{a}{s} \times \frac{c}{12}$$
 
@@ -147,9 +149,9 @@ Where:
 - $c = €50400$ (the sum of yearly rental costs listed in paragraph 4)
 - $r = €466.67$ (the monthly rental cost of the atelier unit)
 
-(9) All costs listed in paragraph 4, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
+(10) All costs listed in paragraph 4, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
 
-(10) Additional income of the Cooperative can be acquired through:
+(11) Additional income of the Cooperative can be acquired through:
 
 a. fundraising campaigns focused on particular projects to be realized by the Cooperative;
 b. ticket sales for the events happening at Prachtsaal;
@@ -161,7 +163,7 @@ g. financial donations;
 h. donations in kind (to be individually inspected and accepted, to prevent receiving a liability);
 i. sales of goods and services directly related to the purpose of the Cooperative, including online education.
 
-(11) Additional income shall be spent only on purposes aligned with the Cooperative's statutory purpose, and described in this Constitution, including:
+(12) Additional income shall be spent only on purposes aligned with the Cooperative's statutory purpose, and described in this Constitution, including:
 
 a. payments for artists performing during events happening at Prachtsaal;
 b. payments for technicians and staff supporting these events;
@@ -178,7 +180,7 @@ l. plans, materials, work and all the other means required to conduct renovation
 m. specialized equipment needed for events;
 n. art supplies and building materials required by educational workshops and collaborations between the Members of the Cooperative.
 
-(12) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative's statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
+(13) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative's statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
 a. Curatorial program of the event and exhibition space focused on organization of various cultural events:
    - visual art shows (e.g. oil paintings exhibition);
@@ -206,27 +208,27 @@ e. A project focused on reducing accessibility barriers at Prachtsaal:
    - construction of an accessible toilet;
    - 3D printed description of our music program in Braille.
 
-(13) Dedicated part of the Prachtsaal space shall become a multimedia-enabled venue, suitable for a wide range of audiovisual performances and public events.
+(14) Dedicated part of the Prachtsaal space shall become a multimedia-enabled venue, suitable for a wide range of audiovisual performances and public events.
 
-(14) The foyer section of Prachtsaal space shall serve as a gallery/exhibition space, featuring continuous display of artworks.
+(15) The foyer section of Prachtsaal space shall serve as a gallery/exhibition space, featuring continuous display of artworks.
 
-(15) In due course the garden section of Prachtsaal space should be more accessible to all the residents of the Jonasstraße 22 building as a recreation area after implementing necessary security measures.
+(16) In due course the garden section of Prachtsaal space should be more accessible to all the residents of the Jonasstraße 22 building as a recreation area after implementing necessary security measures.
 
-(16) All the publicly accessible spaces of Prachtsaal should be open only at certain announced times unless a professional gallerist is hired to oversee the space and welcome guests.
+(17) All the publicly accessible spaces of Prachtsaal should be open only at certain announced times unless a professional gallerist is hired to oversee the space and welcome guests.
 
-(17) All the publicly accessible spaces of Prachtsaal shall be securely separated from atelier spaces, so that public events are not impacting the routine of artists working at Prachtsaal ateliers, except for possible increased sound levels.
+(18) All the publicly accessible spaces of Prachtsaal shall be securely separated from atelier spaces, so that public events are not impacting the routine of artists working at Prachtsaal ateliers, except for possible increased sound levels.
 
-(18) The public cultural offerings of the Cooperative shall be promoted to optimize their success.
+(19) The public cultural offerings of the Cooperative shall be promoted to optimize their success.
 
-(19) The curatorial program shall be prepared by the Cooperative and agreed on by the decision of the General Assembly.
+(20) The curatorial program shall be prepared by the Curatorial Committee established pursuant to § 19 paragraph 2b and agreed on by the decision of the General Assembly.
 
-(20) External curators can be invited to participate.
+(21) External curators can be invited to participate.
 
-(21) Professionals specialized in all the domains required to realize the statutory purpose of the Cooperative can be hired according to separate contracts.
+(22) Professionals specialized in all the domains required to realize the statutory purpose of the Cooperative can be hired according to separate contracts.
 
-(22) In search for professional help the Cooperative should reach to its members first, therefore the members can be compensated for their work on behalf of the Cooperative based on separate agreements.
+(23) In search for professional help the Cooperative should reach to its members first, therefore the members can be compensated for their work on behalf of the Cooperative based on separate agreements.
 
-(23) The Cooperative shall implement appropriate technical and organizational measures to ensure the security and protection of confidential information, including personal data, in compliance with the European Union's General Data Protection Regulation (GDPR) and other applicable data protection laws.
+(24) The Cooperative shall implement appropriate technical and organizational measures to ensure the security and protection of confidential information, including personal data, in compliance with the European Union's General Data Protection Regulation (GDPR) and other applicable data protection laws.
 
 ## II. Membership
 
@@ -250,7 +252,7 @@ e. any other person invited by the decision of the General Assembly.
 
 (4) Membership of a partnership or a legal entity is permitted only for organizations which can significantly contribute to the Cooperative's statutory purpose (e.g. organization securing rent subsidies for ateliers).
 
-(5) To become a Member, the applicant must read and agree with this Constitution and sign an unconditional declaration of accession and pass it to the Board of Directors, which is responsible for presenting the application to the General Assembly.
+(5) To become a Member, the applicant must read and agree with this Constitution and the Cooperative's Code of Conduct pursuant to § 3 paragraph 4, and sign an unconditional declaration of accession and pass it to the Board of Directors, which is responsible for presenting the application to the General Assembly.
 
 (6) The General Assembly is responsible for either approving, declining or deciding on a trial period of a membership application.
 
@@ -306,7 +308,8 @@ b. if the Member submits incorrect annual financial statements or asset overview
 c. if the Member damages or has damaged the Cooperative by failing to fulfill its obligations to the Cooperative;
 d. if the Member is unreachable for more than 3 months;
 e. if the requirements for admission to the Cooperative were not present or no longer exist;
-f. if behavior of the Member cannot be reconciled with the interests of the Cooperative.
+f. if behavior of the Member cannot be reconciled with the interests of the Cooperative;
+g. if the Member is found to have violated the Cooperative's Code of Conduct pursuant to § 3 paragraph 4 in a manner that cannot be remedied through the procedures outlined therein.
 
 (2) The exclusion shall be effected by resolution of the General Assembly. The Member to be excluded shall be given the opportunity to comment on the exclusion beforehand, except in the case of § 9 paragraph 1 d. of this Constitution. The excluded Member must be informed immediately of the exclusion with reasons in the legally prescribed form (§ 68 GenG) and by email. From the time the notification is sent in the statutory form (§ 68 GenG), the member may no longer participate in the General Assembly, use facilities of the Cooperative or be a member of the Board of Directors, or represent the Cooperative in any other way.
 
@@ -335,17 +338,19 @@ j. to inspect the summarized result of the audit report.
 
 (2) Each Member is obliged to take at least one (1) business share.
 
-(3) All Members shall maintain strict confidentiality concerning all confidential information, and proprietary data of the Cooperative, including but not limited to financial information, operational details, intellectual property, personal data of Members and employees, personal data of persons connected with Members (e.g. employees and interns), personal data of resident artists and any other collaborators of the Cooperative, and any other information not publicly available (collectively referred to as "Confidential Information"), in accordance with the GenG and the European Union's General Data Protection Regulation (GDPR).
+(3) Each Member is obliged to read, understand, and comply with the Cooperative's Code of Conduct pursuant to § 3 paragraph 4 in all interactions within the Prachtsaal community.
 
-(4) Members shall not, directly or indirectly, disclose, divulge, reveal, report, publish, transfer, or use, for their own benefit or the benefit of others, any Confidential Information acquired during their association with the Cooperative, except as specifically authorized by the General Assembly or required by law.
+(4) All Members shall maintain strict confidentiality concerning all confidential information, and proprietary data of the Cooperative, including but not limited to financial information, operational details, intellectual property, personal data of Members and employees, personal data of persons connected with Members (e.g. employees and interns), personal data of resident artists and any other collaborators of the Cooperative, and any other information not publicly available (collectively referred to as "Confidential Information"), in accordance with the GenG and the European Union's General Data Protection Regulation (GDPR).
 
-(5) The obligation of confidentiality shall survive the termination of a Member's association with the Cooperative and shall continue indefinitely until such Confidential Information becomes publicly available through no fault of the Member.
+(5) Members shall not, directly or indirectly, disclose, divulge, reveal, report, publish, transfer, or use, for their own benefit or the benefit of others, any Confidential Information acquired during their association with the Cooperative, except as specifically authorized by the General Assembly or required by law.
 
-(6) Any violation of this Confidentiality and Non-Disclosure clause shall be considered a material breach of the Cooperative's Constitution and may result in disciplinary action, including but not limited to termination of membership.
+(6) The obligation of confidentiality shall survive the termination of a Member's association with the Cooperative and shall continue indefinitely until such Confidential Information becomes publicly available through no fault of the Member.
 
-(7) Each Member being a partnership or a legal entity under private or public law is obliged to immediately inform the Cooperative of any change in the legal form and ownership of their company.
+(7) Any violation of this Confidentiality and Non-Disclosure clause shall be considered a material breach of the Cooperative's Constitution and may result in disciplinary action, including but not limited to termination of membership.
 
-(8) Each Member is obliged to inform the Cooperative about their address, telephone number and email address, as well as of any change in this data.
+(8) Each Member being a partnership or a legal entity under private or public law is obliged to immediately inform the Cooperative of any change in the legal form and ownership of their company.
+
+(9) Each Member is obliged to inform the Cooperative about their address, telephone number and email address, as well as of any change in this data.
 
 ## III. Business share, payments, contributions in kind, reimbursement, liability amount and additional contributions
 
@@ -435,7 +440,7 @@ b. the Board of Directors (Vorstand)
 (1) The General Assembly is the highest executive body of the Cooperative. In addition to the other matters specified in § 48 GenG or this Constitution it decides in particular on
 
 a. the implementation of new projects;
-b. forming a Rental Budget Committee of Members to prepare a rental budget proposal for the next fiscal year, which must happen no later than August 15th of each fiscal year;
+b. forming committees pursuant to § 19;
 c. approval of the rental budget for the following year, which must happen no later than September 1st of each fiscal year;
 d. amendments to the Constitution;
 e. the adoption of the annual financial statements and the use of the net profit for the year or the coverage of a net loss for the year;
@@ -455,14 +460,34 @@ r. admission and exclusion of Members;
 s. approval of the termination of employment contracts;
 t. the measures to be taken as a result of the report on the statutory audits;
 u. the scope of the announcement of the audit report of the Examination Association (Prüfungsverband); 
-v. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 20 paragraph 2; and
-w. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
+v. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 20 paragraph 2;
+w. adoption and amendments to the Code of Conduct and the Grievance Policy pursuant to § 3 paragraph 4; and
+x. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
 
-(2) In order to fulfill its legal and statutory duties, the General Assembly may form advisory committees from among its Members and avail itself of the assistance of experts, in particular of the competent Examination Association (Prüfungsverband), at the Cooperative's expense.
+### § 19 Committees
+
+(1) In order to fulfill its legal and statutory duties, the General Assembly may form advisory committees from among its Members and avail itself of the assistance of experts, in particular of the competent Examination Association (Prüfungsverband), at the Cooperative's expense.
+
+(2) The General Assembly may establish standing or ad-hoc committees to support the governance and operations of the Cooperative, including but not limited to:
+
+a. Rental Budget Committee - prepares rental budget proposals, pursuant to agreements mentioned in § 3, and must be established in time to deliver its rental budget proposal for the next fiscal year no later than August 15th;
+b. Curatorial Committee - prepares the Cooperative's curatorial programme;
+c. Fundraising Committee - develops fundraising strategies and campaigns to support the Cooperative's statutory purposes;
+d. Audit Committee - audits annual financial statements pursuant to § 22 paragraph 4;
+e. Grievance Committee - addresses violations of the Code of Conduct pursuant to the Grievance Policy referenced in § 3 paragraph 4;
+f. other committees as determined necessary by the General Assembly.
+
+(3) Each committee shall:
+a. consist of at least 2 Members appointed by the General Assembly;
+b. operate according to its charter or policy approved by the General Assembly;
+c. report regularly to the General Assembly on its activities;
+d. have its term, composition, and duties defined by General Assembly resolution.
+
+(4) Committee decisions are recommendations to the General Assembly unless specific decision-making authority is delegated by General Assembly resolution.
 
 ## Board of Directors (Vorstand)
 
-### § 19 Representation of the Cooperative
+### § 20 Representation of the Cooperative
 
 (1) The Board of Directors shall consist of at least 2 members. The members of the Board of Directors shall be appointed by the General Assembly. The term of office shall be 1 year. A Board member shall remain in office until a new Board member is appointed or a reappointment takes place.
 
@@ -472,7 +497,7 @@ w. on other matters which are provided by law or by the Constitution for resolut
 
 (4) Board of Directors meetings can also be held without physical presence at a meeting location using electronic communication (virtual meeting) if no Member of the Board of Directors objects to this procedure. Under the same conditions, a Board of Directors meeting can be held both through physical presence at the meeting location and without physical presence at this location using electronic communication (hybrid meeting). A resolution is permitted without calling a meeting in writing or via electronic communication if no Member of the Board of Directors objects to this procedure.
 
-### § 20 Tasks and Duties of the Board of Directors
+### § 21 Tasks and Duties of the Board of Directors
 
 (1) In particular, the Board of Directors is obliged:
 
@@ -495,9 +520,9 @@ b. If a tenant artist fails to pay rental fees for subsequent months, or if the 
 c. Any use of tenant security deposits or Cooperative reserves under this provision must be documented and reported to the General Assembly at the next meeting;
 d. The Board shall promptly notify the tenant artist of any deductions made from their security deposit and may initiate appropriate collection procedures or termination proceedings as necessary.
 
-## Authorized Representative (Bevollmächtigter)
+## Supervisory Functions
 
-### § 21 Authorized Representative (Bevollmächtigter) and Audit Commission (Revisionskommission)
+### § 22 Authorized Representative (Bevollmächtigter) and Audit Committee (Revisionskommission)
 
 (1) As long as the Cooperative does not have more than 20 members, it shall refrain from forming a Supervisory Board. In this case, the General Assembly shall exercise the rights and duties of the Supervisory Board, unless otherwise provided by law.
 
@@ -505,23 +530,23 @@ d. The Board shall promptly notify the tenant artist of any deductions made from
 
 (3) The Authorized Representative (Bevollmächtigter) shall represent the Cooperative towards the members of the Board of Directors (§ 39 paragraph 1 sentence 2 GenG) and shall perform the tasks according to § 51 paragraph 3 sentence 2 (representation of the Cooperative in case of contestation of resolutions of the General Assembly), § 57 paragraph 6 (audit procedure) and § 58 paragraph 3 sentence 1 (audit report) of the Cooperative Societies Act (Genossenschaftsgesetz). The Authorized Representative (Bevollmächtigter) is bound by the instructions of the General Assembly.
 
-(4) The General Assembly appoints an Audit Commission (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other accounting auditor. As part of the audit of the annual financial statements, the Audit Commission (Revisionskommission) assumes the tasks of the Supervisory Board in accordance with § 38 paragraph 1 Sentence 5 GenG.
+(4) The General Assembly appoints an Audit Committee (Revisionskommission), which consists of the Authorized Representative (Bevollmächtigter) and at least one other accounting auditor. As part of the audit of the annual financial statements, the Audit Committee (Revisionskommission) assumes the tasks of the Supervisory Board (Aufsichtsrat) in accordance with § 38 paragraph 1 Sentence 5 GenG.
 
 ## V. Accounting
 
-### § 22 Fiscal Year
+### § 23 Fiscal Year
 
 (1) The fiscal year is the calendar year.
 
 (2) The first fiscal year is a short fiscal year. It begins with the founding of the Cooperative and ends on December 31st of the founding year.
 
-### § 23 Appropriation of the net profit for the year
+### § 24 Appropriation of the net profit for the year
 
 (1) The General Assembly shall decide on the appropriation of the annual result. The annual result may be allocated to reserves or used for other statutory purposes. Members of the Cooperative have no claim to shares in profits or other allocations from the funds of the Cooperative.
 
 ## VI. Liquidation, announcements and place of jurisdiction
 
-### § 24 Dissolution, liquidation and Asset Lock
+### § 25 Dissolution, liquidation and Asset Lock
 
 (1) The cooperative is dissolved,
 
@@ -535,7 +560,7 @@ c. by decision of the court if the number of members is less than three.
 
 (4) This provision is irrevocable and essential for maintaining non-profit status pursuant to § 61 AO.
 
-### § 25 Announcements
+### § 26 Announcements
 
 (1) Any announcements shall be published under the name of the Cooperative on its publicly accessible website ([https://prachtsaal.berlin](https://prachtsaal.berlin)).
 
@@ -543,6 +568,6 @@ c. by decision of the court if the number of members is less than three.
 
 (3) The accounting documents subject to disclosure requirements shall be published in the German Federal Bulletin (Bundesanzeiger [https://www.bundesanzeiger.de](https://www.bundesanzeiger.de)).
 
-### § 26 Jurisdiction
+### § 27 Jurisdiction
 
 (1) The place of jurisdiction is Berlin.
