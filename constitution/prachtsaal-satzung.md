@@ -2,6 +2,7 @@
 date: "12.07.2025"
 lang: de-DE
 ---
+
 # Prachtsaal eG Satzung
 
 ## Präambel
