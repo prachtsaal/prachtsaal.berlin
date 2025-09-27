@@ -337,7 +337,7 @@ j. to inspect the summarized result of the audit report.
 
 (1) All Members have the same obligations. They are obliged to participate in the decision-making process, engage in the Cooperative's activities, promote the interests of the Cooperative and to work within the framework of the principles adopted by the General Assembly, this Constitution and the Cooperative Societies Act (Genossenschaftsgesetz).
 
-(2) Each Member is obliged to take at least one (1) business share.
+(2) Each Member is obliged to take exactly one (1) business share.
 
 (3) Each Member is obliged to read, understand, and comply with the Cooperative's Code of Conduct pursuant to § 3 paragraph 4 in all interactions within the Prachtsaal community.
 
