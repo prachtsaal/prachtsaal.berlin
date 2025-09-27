@@ -416,47 +416,61 @@ b. der Vorstand
 
 (14) Beschlüsse müssen gemäß § 47 GenG (Niederschrift) aufgezeichnet und stets zur Einsichtnahme für jedes Mitglied der Genossenschaft verfügbar sein.
 
-### § 17 Virtuelle und hybride Generalversammlung, Tagung im erweiterten Verfahren
+### § 17 Formen der Generalversammlung, elektronische Teilnahme und Abstimmung
 
-(1) Die Generalversammlung kann als reine Präsenzversammlung oder als Fernversammlung (unter ausschließlicher Verwendung technischer Kommunikationsmittel) oder in hybrider Form als Online-Präsenzversammlung (Präsenzversammlung, an der nicht physisch anwesende Mitglieder elektronisch teilnehmen können) abgehalten werden. Die Diskussionsphase und die anschließende Abstimmungsphase der Sitzung können getrennt werden (Sitzung im erweiterten Verfahren). Der Vorstand bzw. das einberufende Mitglied entscheidet hierüber nach eigenem Ermessen und teilt dies den Mitgliedern in der Einladung mit. Auf Wunsch eines oder mehrerer Mitglieder ist die digitale Teilnahme an einer stattfindenden Präsenzsitzung im Sinne des Absatzes 3 zu ermöglichen.
+(1) Die Generalversammlung kann gemäß § 43b GenG in einer der folgenden Formen abgehalten werden:
 
-(2) Die Generalversammlung kann auch als Fernversammlung ohne physischen Versammlungsort an einem bestimmten Tag abgehalten werden (virtuelle Generalversammlung). Dabei ist eine wechselseitige Kommunikation der Mitglieder mit den Organen (Vorstand, Generalversammlung) sowie die Möglichkeit geheimer Abstimmungen sicherzustellen. Den Mitgliedern werden alle erforderlichen Informationen zur Verfügung gestellt, um eine uneingeschränkte Teilnahme an der virtuellen Generalversammlung zu ermöglichen. Hierzu gehören insbesondere die Auskunft über die Zugangsdaten sowie die Informationen zur Ausübung des Rede-, Antrags-, Auskunfts- und Stimmrechts.
+a) als Präsenzversammlung an einem Ort, an dem die Mitglieder gemeinsam physisch anwesend sind,
+b) als virtuelle Versammlung ohne gemeinsame physische Anwesenheit der Mitglieder an einem Ort,
+c) als hybride Versammlung, bei der die Mitglieder sowohl physisch an einem Ort als auch virtuell teilnehmen können,
+d) als Versammlung im gestreckten Verfahren mit zeitlich getrennter Erörterungs- und Abstimmungsphase.
 
-(3) Den Mitgliedern kann ermöglicht werden, auf digitalem Wege an einer Generalversammlung teilzunehmen und ihre Rechte auszuüben, ohne physisch am Versammlungsort anwesend zu sein (hybride Generalversammlung). Dabei soll eine wechselseitige Kommunikation aller physisch und digital teilnehmenden Mitglieder mit den Organen (Vorstand, Generalversammlung) sowie die Möglichkeit zur geheimen Abstimmung gewährleistet sein. Den Mitgliedern werden alle erforderlichen Informationen zur Verfügung gestellt, um eine uneingeschränkte digitale Teilnahme an der Generalversammlung zu ermöglichen. Hierzu gehören insbesondere die Auskunft über die Zugangsdaten sowie die Informationen zur Ausübung des Rede-, Antrags-, Auskunfts- und Stimmrechts.
+(2) Der Vorstand entscheidet gemeinsam mit dem Mitgliedervertreter für Versammlungsformen unter Berücksichtigung der Interessen der Mitglieder über die Form der Generalversammlung. Eine Versammlung im gestreckten Verfahren wird bevorzugt. Bei Uneinigkeit oder wenn keine Entscheidung zustande kommt, ist eine Präsenzversammlung abzuhalten.
 
-(4) Die Teilnahme an der Generalversammlung kann auch in der Weise erfolgen, dass die Versammlung in eine Diskussionsphase, die als virtuelle Versammlung oder als hybride Versammlung durchgeführt wird, und eine sich daran anschließende Abstimmungsphase aufgespalten wird (Versammlung im erweiterten Verfahren). Dabei soll eine wechselseitige Kommunikation aller physisch und digital teilnehmenden Mitglieder mit den Organen (Vorstand, Generalversammlung) während der Diskussionsphase sichergestellt werden. Den Mitgliedern werden alle erforderlichen Informationen zur Verfügung gestellt, um eine uneingeschränkte digitale Teilnahme an der Diskussionsphase der Generalversammlung zu ermöglichen. Hierzu gehören insbesondere die Auskunft über die Zugangsdaten sowie die Information, wie das Rede- und Antragsrecht ausgeübt werden kann. Zudem muss sichergestellt sein, dass während der Abstimmungsphase der Generalversammlung alle Mitglieder ihr Stimmrecht auch per elektronischer Kommunikation ausüben können und eine geheime Abstimmung möglich ist. Hierzu gehören insbesondere die Auskunft über die Zugangsdaten sowie Informationen zur Ausübung des Stimmrechts. Es muss auch mitgeteilt werden, wie und bis wann die Stimmabgabe schriftlich oder über den Weg elektronischer Kommunikation erfolgen muss.
+(3) Die Generalversammlung wählt aus ihrer Mitte einen Mitgliedervertreter für Versammlungsformen für die Dauer von zwei Jahren, der gemeinsam mit dem Vorstand an Entscheidungen über die Form der Generalversammlung gemäß § 43b Abs. 6 GenG mitwirkt. Ist kein Mitgliedervertreter für Versammlungsformen gewählt, beruft der Vorstand eine Präsenzversammlung ein.
 
-(5) § 16 dieser Satzung gilt für alle Formen der Generalversammlung.
+(4) Bei Versammlungen im gestreckten Verfahren beträgt die Abstimmungsfrist mindestens 7 Tage nach Abschluss der Erörterungsphase.
+
+(5) In der Einladung ist anzugeben, in welcher Form die Versammlung abgehalten wird.
+
+(6) Die Genossenschaft stellt ein elektronisches System zur Verfügung, über das die Mitglieder:
+
+a) an virtuellen oder hybriden Versammlungen teilnehmen,
+b) ihre Stimmrechte ausüben,
+c) Vollmachten erteilen,
+d) Anträge und Wortmeldungen einreichen können.
+
+(7) § 16 dieser Satzung gilt für alle Formen der Generalversammlung.
 
 ### § 18 Befugnisse der Generalversammlung zur Beschlussfassung
 
 (1) Die Generalversammlung ist das höchste Exekutivorgan der Genossenschaft. Sie entscheidet neben den in § 48 GenG oder dieser Satzung genannten weiteren Angelegenheiten insbesondere über
 
 a. die Umsetzung neuer Projekte;
-b. die Bildung eines Mietbudgetausschusses aus Mitgliedern zur Vorbereitung eines Mietbudgetvorschlags für das nächste Geschäftsjahr, die spätestens am 15\. August jedes Geschäftsjahres erfolgen muss;
-c. die Genehmigung des Mietbudgets für das folgende Jahr, die spätestens am 1\. September jedes Geschäftsjahres erfolgen muss.
+b. die Bildung von Ausschüssen gemäß § 19;
+c. die Genehmigung des Mietbudgets für das folgende Jahr, die spätestens am 1. September jedes Geschäftsjahres erfolgen muss;
 d. die Änderungen der Satzung;
 e. die Feststellung des Jahresabschlusses und die Verwendung des Jahresgewinns bzw. die Deckung des Jahresfehlbetrags;
 f. die Ernennung und Abberufung von Mitgliedern des Vorstandes;
-g. die Entlassung des Vorstandes;
+g. die Entlastung des Vorstandes;
 h. die Wahl des/der Bevollmächtigten gemäß § 21;
-i. die Führung von Gerichtsverfahren gegen im Amt befindliche und aus dem Amt ausgeschiedene Mitglieder des Vorstands;
-j. den Austritt aus und den Beitritt in die Genossenschaft;
-k. die Verschmelzung, die Spaltung oder die Änderung der Rechtsform der Genossenschaft sowie ihre Liquidation;
-l. die Aufnahme, Veräußerung und Aufgabe eines bedeutenden Geschäftsfeldes;
-m. den Erwerb und die Veräußerung von Unternehmen und Unternehmensbeteiligungen, die Eröffnung oder Schließung von Zweigniederlassungen;
-n. die Anforderungen für Transaktionen mit Nichtmitgliedern;
-o. die Befugnis des Vorstands zur Abgabe rechtserheblicher Erklärungen und zum Abschluss von Verträgen in bestimmten Geschäftsbereichen;
-p. die Abgabe von rechtserheblichen Erklärungen und Verträgen, sofern der Vorstand hierzu nicht befugt ist;
-q. die Grundprinzipien für den Inhalt von Arbeitsverträgen;
-r. die Aufnahme und Ausschluss von Mitgliedern;
-s. die Zustimmung zur Beendigung von Arbeitsverträgen;
-t. die aufgrund des Berichts über die gesetzlichen Abschlussprüfungen zu treffenden Maßnahmen;
-u. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands;
-v. die monatliche Ausgabengrenze für autonome einmalige Anschaffungen der Vorstandsmitglieder gemäß § 20 Absatz 2; und
-w. andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
-
-(2) Die Generalversammlung kann zur Erfüllung ihrer gesetzlichen und satzungsmäßigen Aufgaben aus dem Kreis ihrer Mitglieder beratende Ausschüsse bilden und sich auf Kosten der Genossenschaft der Hilfe von Sachverständigen, insbesondere des zuständigen Prüfungsverbandes, bedienen.
+i. die Wahl des Mitgliedervertreters für Versammlungsformen gemäß § 17 Absatz 3;
+j. die Führung von Gerichtsverfahren gegen im Amt befindliche und aus dem Amt ausgeschiedene Mitglieder des Vorstands;
+k. den Austritt aus und den Beitritt in Genossenschaften;
+l. die Verschmelzung, die Spaltung oder die Änderung der Rechtsform der Genossenschaft sowie ihre Liquidation;
+m. die Aufnahme, Veräußerung und Aufgabe eines bedeutenden Geschäftsfeldes;
+n. den Erwerb und die Veräußerung von Unternehmen und Unternehmensbeteiligungen, die Eröffnung oder Schließung von Zweigniederlassungen;
+o. die Anforderungen für Transaktionen mit Nichtmitgliedern;
+p. die Befugnis des Vorstands zur Abgabe rechtserheblicher Erklärungen und zum Abschluss von Verträgen in bestimmten Geschäftsbereichen;
+q. die Abgabe von rechtserheblichen Erklärungen und Verträgen, sofern der Vorstand hierzu nicht befugt ist;
+r. die Grundprinzipien für den Inhalt von Arbeitsverträgen;
+s. die Aufnahme und Ausschluss von Mitgliedern;
+t. die Zustimmung zur Beendigung von Arbeitsverträgen;
+u. die aufgrund des Berichts über die gesetzlichen Abschlussprüfungen zu treffenden Maßnahmen;
+v. den Umfang der Bekanntgabe des Prüfungsberichtes des Prüfungsverbands;
+w. die monatliche Ausgabengrenze für autonome einmalige Anschaffungen der Vorstandsmitglieder gemäß § 21 Absatz 2;
+x. die Annahme und Änderungen des Verhaltenskodex und der Beschwerderichtlinie gemäß § 3 Absatz 4; und
+y. über andere Angelegenheiten, deren Beschlussfassung durch die Generalversammlung gesetzlich oder durch die Satzung vorgesehen ist.
 
 ## Vorstand
 
@@ -489,6 +503,7 @@ c. erfordert eine ordnungsgemäße Dokumentation und Berichterstattung an die Ge
 d. muss im Einklang mit dem satzungsmäßigen Zweck der Genossenschaft ausgeübt werden.
 
 (3) Der Vorstand ist befugt, ausstehende Mietzahlungen von Mieterkünstlern automatisch wie folgt zu decken:
+
 a. Wenn ein Mieterkünstler die monatliche Miete nicht fristgerecht zahlt, kann der Vorstand den ausstehenden Betrag automatisch von der bei der Genossenschaft hinterlegten Mietkaution des Mieters abziehen;
 b. Wenn ein Mieterkünstler die Miete für weitere Monate nicht zahlt oder wenn die Kaution erschöpft ist, kann der Vorstand die ausstehenden Mietzahlungen automatisch aus den Rücklagen der Genossenschaft decken;
 c. Jede Verwendung von Mietsicherheiten oder Genossenschaftsrücklagen nach dieser Bestimmung muss dokumentiert und der Generalversammlung bei der nächsten Sitzung gemeldet werden;
@@ -496,11 +511,11 @@ d. Der Vorstand soll den Mieterkünstler umgehend über alle Abzüge von seiner 
 
 ## Bevollmächtigter
 
-### § 21 Bevollmächtigter und Revisionskommission
+### § 22 Bevollmächtigter und Revisionskommission
 
 (1) Solange die Genossenschaft nicht mehr als 20 Mitglieder hat, sieht sie von der Bildung eines Aufsichtsrates ab. In diesem Fall nimmt die Generalversammlung die Rechte und Pflichten des Aufsichtsrates wahr, soweit das Gesetz nichts anderes bestimmt.
 
-(2) Die Generalversammlung wählt aus ihrer Mitte einen Bevollmächtigten für die Dauer von einem Jahr. Das Amt endet mit der Wahl/Wiederwahl eines neuen Bevollmächtigten. Der Bevollmächtigte ist dem Prüfungsverband bekannt zu geben.
+(2) Die Generalversammlung wählt einen Bevollmächtigten aus ihrer Mitte, der nicht Mitglied des Vorstands ist, für die Dauer von einem Jahr. Das Amt endet mit der Wahl/Wiederwahl eines neuen Bevollmächtigten. Der Bevollmächtigte ist dem Prüfungsverband bekannt zu geben.
 
 (3) Der Bevollmächtigte vertritt die Genossenschaft gegenüber dem Vorstand (§ 39 Abs. 1 Satz 2 GenG) und nimmt die Aufgaben nach § 51 Abs. 3 Satz 2 (Vertretung der Genossenschaft bei der Anfechtung von Beschlüssen der Generalversammlung), § 57 Abs. 6 (Prüfungsverfahren) und § 58 Abs. 3 Satz 1 (Prüfungsbericht) GenG wahr. Der Bevollmächtigte ist an die Weisungen der Generalversammlung gebunden.
 
@@ -508,19 +523,19 @@ d. Der Vorstand soll den Mieterkünstler umgehend über alle Abzüge von seiner 
 
 ## V. Buchhaltung
 
-### § 22 Fiskaljahr
+### § 23 Fiskaljahr
 
 (1) Das Geschäftsjahr ist das Kalenderjahr.
 
 (2) Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr. Es beginnt mit der Gründung der Genossenschaft und endet am 31\. Dezember des Gründungsjahres.
 
-### § 23 Verwendung des Bilanzgewinns
+### § 24 Verwendung des Bilanzgewinns
 
 (1) Über die Zuteilung des Jahresergebnisses beschließt die Generalversammlung. Das Jahresergebnis kann den Rücklagen zugeführt oder für andere satzungsmäßige Zwecke verwendet werden. Ansprüche der Mitglieder auf Gewinnanteile oder sonstige Zuwendungen aus Mitteln der Genossenschaft sind ausgeschlossen.
 
 ## VI. Liquidation, Bekanntmachungen und Gerichtsstand
 
-### § 24 Auflösung, Liquidation und Vermögensbindung
+### § 25 Auflösung, Liquidation und Vermögensbindung
 
 (1) Die Genossenschaft wird aufgelöst,
 
@@ -534,7 +549,7 @@ c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei b
 
 (4) Diese Bestimmung ist unwiderruflich und wesentlich für die Aufrechterhaltung des gemeinnützigen Status gemäß § 61 AO.
 
-### § 25 Ankündigungen
+### § 26 Ankündigungen
 
 (1) Sämtliche Bekanntmachungen werden unter Angabe des Namens der Genossenschaft auf ihrer öffentlich zugänglichen Internetseite ([https://prachtsaal.berlin](https://prachtsaal.berlin)) veröffentlicht.
 
@@ -542,6 +557,6 @@ c. durch Beschluss des Gerichts, wenn die Zahl der Mitglieder weniger als drei b
 
 (3) Die offenlegungspflichtigen Rechnungslegungsunterlagen werden im Bundesanzeiger [https://www.bundesanzeiger.de](https://www.bundesanzeiger.de) veröffentlicht.
 
-### § 26 Zuständigkeit
+### § 27 Zuständigkeit
 
 (1) Der Gerichtsstand ist Berlin.

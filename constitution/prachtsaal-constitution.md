@@ -423,17 +423,31 @@ b. the Board of Directors (Vorstand)
 
 (14) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
 
-### § 17 Virtual and hybrid General Assembly, meeting in an extended procedure
+### § 17 Forms of the General Assembly, Electronic Participation and Voting
 
-(1) The General Assembly may be held as a presence-only meeting or remotely (exclusively using technical means of communication) or in hybrid form as an online presence meeting (presence meeting in which Members not physically present can participate electronically). The discussion phase and the subsequent voting phase of the meeting can be split (meeting in an extended procedure). The Board of Directors or the convening member shall decide on this at its own discretion and inform the Members of this in the invitation. At the request of one or more Members, digital participation in a presence meeting taking place must be made possible within the meaning of paragraph 3\.
+(1) The General Assembly may be held in accordance with § 43b GenG in one of the following forms:
 
-(2) The General Assembly can be held remotely without a physical meeting place on a specific day (remote General Assembly). In this case, a two-way communication of the Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted participation in the virtual General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+a) as a presence meeting at a location where members are physically present together,
+b) as a virtual meeting without joint physical presence of members at a location,
+c) as a hybrid meeting where members can participate both physically at a location and virtually,
+d) as a meeting in extended procedure with temporally separated discussion and voting phases.
 
-(3) Members can be enabled to participate digitally in a General Assembly, including the exercise of their rights, without being physically present at the meeting location (hybrid General Assembly). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted digital participation in the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+(2) The Board of Directors decides jointly with the Member Representative for Meeting Formats, taking into account the interests of the members, on the form of the General Assembly. A meeting in extended procedure is preferred. In case of disagreement or if no decision is reached, a presence meeting shall be held.
 
-(4) Participation in the General Assembly can also take place in such a way that the meeting is split into a discussion phase, which is held as a virtual meeting or as a hybrid meeting, and a subsequent voting phase (meeting in an extended procedure). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) shall be ensured during the discussion phase. The Members shall be provided with all information required for unrestricted digital participation in the discussion phase of the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak and to make motions can be exercised. It must also be ensured that during the voting phase of the General Assembly all Members can exercise their voting rights via electronic communication and secret voting is possible. This includes, in particular, information on access data as well as information on how the right to vote can be exercised. It must also be communicated how and by when the vote must be cast in writing or via electronic communication.
+(3) The General Assembly elects from among its members a Member Representative for Meeting Formats for a term of two years who participates jointly with the Board of Directors in decisions regarding the format of General Assembly meetings pursuant to § 43b(6) GenG. If no representative is currently elected, the Board of Directors shall convene a presence meeting.
 
-(5) § 16 of this Constitution shall apply to all forms of General Assembly of Members.
+(4) In extended procedure meetings, the voting period shall be at least 7 days after the conclusion of the discussion phase.
+
+(5) The invitation must state which form of meeting will be held.
+
+(6) The cooperative provides an electronic system through which members can:
+
+a) participate in virtual or hybrid meetings,
+b) exercise their voting rights,
+c) grant proxies,
+d) submit motions and requests to speak.
+
+(7) § 16 of this Constitution shall apply to all forms of General Assembly of Members.
 
 ### § 18 Powers of the General Assembly to pass resolutions
 
@@ -447,22 +461,23 @@ e. the adoption of the annual financial statements and the use of the net profit
 f. the appointment and dismissal of members of the Board of Directors;
 g. the discharge of the Board of Directors;
 h. the election of the Authorized Representative(s) (Bevollmächtigter) pursuant to § 21;
-i. the conduct of legal proceedings against members of the Board of Directors who are in office or have left office;
-j. the withdrawal from and entry into Cooperative associations;
-k. the merger, demerger or change of legal form of the Cooperative as well as its liquidation;
-l. the taking up, transfer and abandonment of a significant business area;
-m. the acquisition and sale of companies and shareholdings, the opening or closing of branches;
-n. the requirements for non-member transactions;
-o. the authorization of the Board of Directors to issue legally relevant declarations and contracts in specified areas of operations;
-p. the issuing of legally relevant declarations and contracts, in case the Board of Directors is not authorized to do so;
-q. basic principles for the content of employment contracts;
-r. admission and exclusion of Members;
-s. approval of the termination of employment contracts;
-t. the measures to be taken as a result of the report on the statutory audits;
-u. the scope of the announcement of the audit report of the Examination Association (Prüfungsverband); 
-v. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 20 paragraph 2;
-w. adoption and amendments to the Code of Conduct and the Grievance Policy pursuant to § 3 paragraph 4; and
-x. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
+i. the election of the Member Representative for Meeting Formats pursuant to § 17 paragraph 3;
+j. the conduct of legal proceedings against members of the Board of Directors who are in office or have left office;
+k. the withdrawal from and entry into Cooperatives;
+l. the merger, demerger or change of legal form of the Cooperative as well as its liquidation;
+m. the taking up, transfer and abandonment of a significant business area;
+n. the acquisition and sale of companies and shareholdings, the opening or closing of branches;
+o. the requirements for non-member transactions;
+p. the authorization of the Board of Directors to issue legally relevant declarations and contracts in specified areas of operations;
+q. the issuing of legally relevant declarations and contracts, in case the Board of Directors is not authorized to do so;
+r. basic principles for the content of employment contracts;
+s. admission and exclusion of Members;
+t. approval of the termination of employment contracts;
+u. the measures to be taken as a result of the report on the statutory audits;
+v. the scope of the announcement of the audit report of the Examination Association (Prüfungsverband); 
+w. the monthly spending limit for Board members' autonomous one-time purchases pursuant to § 21 paragraph 2;
+x. adoption and amendments to the Code of Conduct and the Grievance Policy pursuant to § 3 paragraph 4; and
+y. on other matters which are provided by law or by the Constitution for resolution by the General Assembly.
 
 ### § 19 Committees
 
@@ -526,7 +541,7 @@ d. The Board shall promptly notify the tenant artist of any deductions made from
 
 (1) As long as the Cooperative does not have more than 20 members, it shall refrain from forming a Supervisory Board. In this case, the General Assembly shall exercise the rights and duties of the Supervisory Board, unless otherwise provided by law.
 
-(2) The General Assembly shall elect an Authorized Representative (Bevollmächtigter) from among its members for a period of one year. The office ends with the election/re-election of a new Authorized Representative . The Authorized Representative shall be notified to the Examination Association (Prüfungsverband).
+(2) The General Assembly shall elect an Authorized Representative (Bevollmächtigter) from among its members who are not members of the Board of Directors, for a period of one year. The office ends with the election of a successor. The Authorized Representative shall be notified to the Examination Association (Prüfungsverband).
 
 (3) The Authorized Representative (Bevollmächtigter) shall represent the Cooperative towards the members of the Board of Directors (§ 39 paragraph 1 sentence 2 GenG) and shall perform the tasks according to § 51 paragraph 3 sentence 2 (representation of the Cooperative in case of contestation of resolutions of the General Assembly), § 57 paragraph 6 (audit procedure) and § 58 paragraph 3 sentence 1 (audit report) of the Cooperative Societies Act (Genossenschaftsgesetz). The Authorized Representative (Bevollmächtigter) is bound by the instructions of the General Assembly.
 
