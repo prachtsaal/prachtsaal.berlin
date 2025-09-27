@@ -1,7 +1,6 @@
 ---
 date: "12.07.2025"
 lang: de-DE
-csquotes: true
 ---
 # Prachtsaal eG Satzung
 

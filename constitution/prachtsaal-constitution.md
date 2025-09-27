@@ -1,8 +1,8 @@
 ---
 date: "12.07.2025"
 lang: en
-csquotes: true
 ---
+
 # Prachtsaal eG Constitution
 
 ## Preamble
