@@ -116,25 +116,26 @@ i. Other contracts with media and service providers necessary for fulfilling sta
 (8) In order to provide fair division of the rental burden carried by tenant artists the Prachtsaal atelier space shall be partitioned into rentable atelier units of value established in points, which relate to:
 
 a. the unit area in square meters,
-b. the amount of daylight,
-c. the amount of airflow,
-d. additional height of the unit,
-e. privacy,
-f. expected disturbance from publicly accessible spaces of Prachtsaal,
-g. reduced heating,
-h. location in the basement,
-i. other important factors established after deliberation.
+b. other important factors established after deliberation, like for example:
 
-(9) The sum of incomes from all rented atelier units equals to the sum of all costs listed in paragraph 4, when divided by 12 months. The monthly rental cost specified in each individual rental contract between the Cooperative and a tenant artist must be calculated according to the formula:
+  - the amount of daylight,
+  - the amount of airflow,
+  - additional height of the unit,
+  - privacy,
+  - expected disturbance from publicly accessible spaces of Prachtsaal,
+  - reduced heating,
+  - location in the basement.
+
+(9) The sum of incomes from all rented atelier units equals to the sum of all costs listed in paragraph 5, when divided by 12 months. The monthly rental cost specified in each individual rental contract between the Cooperative and a tenant artist must be calculated according to the formula:
 
 $$r = \frac{a}{s} \times \frac{c}{12}$$
 
 Where:
 
 - $r$ = monthly rental cost of the atelier unit
-- $a$ = value points assigned to the atelier unit according to paragraph 7
+- $a$ = value points assigned to the atelier unit according to paragraph 8
 - $s$ = sum of all the value points of all atelier units
-- $c$ = sum of rental costs listed in paragraph 4
+- $c$ = sum of rental costs listed in paragraph 5
 
 The calculated $r$ value should be rounded up to the closest value of Euro cents.
 
@@ -146,10 +147,10 @@ Where:
 
 - $a = 20$ (value points of the atelier unit)
 - $s = 180$ (value points of all atelier units)
-- $c = €50400$ (the sum of yearly rental costs listed in paragraph 4)
+- $c = €50400$ (the sum of yearly rental costs listed in paragraph 5)
 - $r = €466.67$ (the monthly rental cost of the atelier unit)
 
-(10) All costs listed in paragraph 4, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
+(10) All costs listed in paragraph 5, as well as rules for assigning value points to atelier units, shall be revised annually for the upcoming fiscal year. This revision results in changes to the rental cost of each atelier unit. Therefore, a new calculation must occur before September 1st of each fiscal year. This allows sufficient time to communicate any resulting change in the monthly rental cost of each atelier unit to tenant artists in advance. Tenant artists will then have the opportunity to either sign a contract addendum with the updated rental price or terminate the rental contract with the agreed notice period. Due to the nature of the Cooperative's yearly budget planning, each rental contract between the Cooperative and a tenant artist shall contain a clause allowing for adjustment of the rental price for each fiscal year.
 
 (11) Additional income of the Cooperative can be acquired through:
 
@@ -180,7 +181,7 @@ l. plans, materials, work and all the other means required to conduct renovation
 m. specialized equipment needed for events;
 n. art supplies and building materials required by educational workshops and collaborations between the Members of the Cooperative.
 
-(13) Projects and associated fundraising campaigns mentioned in paragraph 10a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative's statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
+(13) Projects and associated fundraising campaigns mentioned in paragraph 11a can be managed by the Members of the Cooperative, as well as by external curators and fundraisers in coordination with the Cooperative. The scope of these projects shall cover a variety of themes related to Cooperative's statutory purpose. The following list covers some themes for the sake of example without prioritization nor limitation:
 
 a. Curatorial program of the event and exhibition space focused on organization of various cultural events:
    - visual art shows (e.g. oil paintings exhibition);
