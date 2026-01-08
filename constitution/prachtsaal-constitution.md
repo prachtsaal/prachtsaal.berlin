@@ -396,17 +396,17 @@ b. the Board of Directors (Vorstand)
 
 (3) The General Assembly shall be convened by notifying all Members in text form, stating the items on the agenda. As a rule, the convocation shall be issued by the Board of Directors or the Authorized Representative (Bevollmächtigter) (§ 21). There must be a period of at least 2 weeks between the date of the General Assembly and the date of receipt of the notice. Items for resolution in the General Assembly must be announced at least one week before the General Assembly.
 
-(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 2 applies accordingly.
+(4) Apart from the Board of Directors, every member is entitled to convene a General Assembly and to announce items for resolution in the General Assembly. Paragraph 3 applies accordingly.
 
 (5) Resolutions of the General Assembly may be passed without complying with the form and deadlines for convening the meeting as stipulated in paragraph 3 if all Members participate in the General Assembly in person or by representation and no Member objects to the holding of the General Assembly (§ 46 paragraph 2 sentence 2 GenG).
 
-(6) The General Assembly shall constitute a quorum when at least ¾ of the Members participate in the General Assembly in person or by representation.
+(6) The General Assembly shall constitute a quorum when at least 75% of the Members participate in the General Assembly in person or by representation.
 
 (7) A Member may grant power of attorney to another Member in the form prescribed by law (§ 43 paragraph 5 GenG). A Member may not represent more than two Members.
 
 (8) Each Member has one vote. The rights of legal entities are exercised by persons authorized to represent them.
 
-(9) The General Assembly shall pass resolutions by a ¾ majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
+(9) The General Assembly shall pass resolutions by a 75% majority of the votes cast, unless a bigger majority or further requirements are stipulated by law or by this Constitution.
 
 (10) Any Member may request that a vote be conducted by secret ballot. Such request shall be granted if supported by a simple majority (more than half) of the Members present and entitled to vote. Secret ballot voting shall be conducted in writing using ballot papers or, in the case of virtual or hybrid meetings, through secure electronic means that ensure the anonymity of individual votes while maintaining the integrity of the voting process.
 
@@ -418,17 +418,35 @@ b. the Board of Directors (Vorstand)
 
 (14) Resolutions must be recorded in accordance with § 47 GenG (minutes) and always available for inspection of any Member of the Cooperative.
 
-### § 17 Virtual and hybrid General Assembly, meeting in an extended procedure
 
-(1) The General Assembly may be held as a presence-only meeting or remotely (exclusively using technical means of communication) or in hybrid form as an online presence meeting (presence meeting in which Members not physically present can participate electronically). The discussion phase and the subsequent voting phase of the meeting can be split (meeting in an extended procedure). The Board of Directors or the convening member shall decide on this at its own discretion and inform the Members of this in the invitation. At the request of one or more Members, digital participation in a presence meeting taking place must be made possible within the meaning of paragraph 3\.
+### § 17 Formats of the General Assembly
 
-(2) The General Assembly can be held remotely without a physical meeting place on a specific day (remote General Assembly). In this case, a two-way communication of the Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted participation in the virtual General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+(1) The General Assembly must be held in one of the following formats:
 
-(3) Members can be enabled to participate digitally in a General Assembly, including the exercise of their rights, without being physically present at the meeting location (hybrid General Assembly). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) as well as the possibility of secret voting shall be ensured. The Members shall be provided with all information required for unrestricted digital participation in the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak, to make motions, to provide information and to vote can be exercised.
+1. as a physical meeting where the members are present in person at the same location,
 
-(4) Participation in the General Assembly can also take place in such a way that the meeting is split into a discussion phase, which is held as a virtual meeting or as a hybrid meeting, and a subsequent voting phase (meeting in an extended procedure). In this case, a two-way communication of all physically and digitally participating Members with the organs (Board of Directors, General Assembly) shall be ensured during the discussion phase. The Members shall be provided with all information required for unrestricted digital participation in the discussion phase of the General Assembly. This includes, in particular, information on access data as well as information on how the right to speak and to make motions can be exercised. It must also be ensured that during the voting phase of the General Assembly all Members can exercise their voting rights via electronic communication and secret voting is possible. This includes, in particular, information on access data as well as information on how the right to vote can be exercised. It must also be communicated how and by when the vote must be cast in writing or via electronic communication.
+2. as a hybrid meeting in which the members can choose to participate either physically, or remotely without being physically present,
 
-(5) § 16 of this Constitution shall apply to all forms of General Assembly of Members.
+3. as a virtual meeting without physical presence of the members in one place,
+
+4. as a meeting in an extended procedure, divided into (a) a discussion phase held either as a hybrid or a virtual meeting, and (b) a subsequent voting phase.
+
+(2) For hybrid meetings, it must be ensured that
+
+1. the entire meeting is transmitted to all participating members by means of electronic communication,
+2. members who participate remotely can exercise their rights to speak, submit motions, request information, and vote by means of electronic communication
+
+(3) For virtual meetings, it must be ensured that
+
+1. the entire meeting is communicated to all members in writing or by means of electronic communication, and
+2. all participating members can exercise their rights to speak, submit motions, request information, and vote in writing or by means of electronic communication.
+
+(4) For meetings held in the extended procedure, it must be ensured that all members can exercise their voting rights in writing or by means of electronic communication during the voting phase.
+
+(5) The Board of Directors and the Authorized Representative shall jointly decide, taking into account the interests of the members, the format of the meeting as per §17 (1), and in the case of a meeting in the extended procedure, the format of the discussion phase from the options in §17 (4). If they cannot agree on a format, a physical meeting shall be held.
+
+(6) For virtual and hybrid meetings and meetings in the extended procedure, members who participate in writing or by means of electronic communication are considered to have attended the General Assembly.
+
 
 ### § 18 Powers of the General Assembly to pass resolutions
 
