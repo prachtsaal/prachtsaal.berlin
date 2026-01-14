@@ -7,19 +7,25 @@ Jekyll allows you to edit markdown files, which are then compiled and integrated
 
 tailwindcss is a css framework which allows you to define css using user friendly classes in your html.
 
-## Decap Demo with Members profiles
+## Decap CMS
 
-to run locally, run
-```
-npx decap-server
-bundle exec jekyll serve
-```
-then navigate to the route `/admin`. It will show the decap dashboard without the need to login.
+[Decap](https://decapcms.org/) is an open source CMS. Currently some sections,
+for example Members, can be edited with this CMS. It runs locally on your
+computer and it makes changes to the files and folders of your local repository.
 
+To run it locally, run `npx decap-server` in one terminal window, and 
+`bundle exec jekyll serve` in another window.
+
+Then navigate to `http://localhost:4000/admin/` in one browser window (the CMS), and to
+`http://localhost:4000/` (the Prachtsaal website). 
+
+Then you can use the CMS to make changes to the pages. Click Publish to save the
+changes, and observe in your other browser window how the resulting page looks
+like.
 
 ## Content Revision
 
-You'd like to maintain the content of the website? Thank you!
+You'd like to maintain the content of our website? Thank you!
 
 ### events page
 
