@@ -1,4 +1,4 @@
-<nav class="flex nav-x nav-y justify-between items-start">
+<nav>
   <div>
     <a href={{ "/" | relative_url }}>
       <img src={{ "/assets/img/prachtsaal-logo.png" | relative_url }} width="150">
@@ -6,12 +6,12 @@
   </div>
   
   <div>
-    <div class="flex justify-end cursor-pointer sm:hidden mb-2" id="burger">
+    <div  id="burger">
       <svg class="w-6 h-6" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
     </div>  
     <!-- <div class="hidden block sm:flex sm:flex-row sm:space-x-12" id="menu"> -->
-    <div class="hidden sm:flex links-without-underline" id="menu">
-      <ul class="sm:flex sm:flex-row sm:space-x-12 list-none">
+    <div  id="menu">
+      <ul>
         <li><a href={{ "/events.html" | relative_url }}>events</a></li>
         <li><a href={{ "/people.html" | relative_url }}>people</a></li>
         <li><a href={{ "/about.html" | relative_url }}>about</a></li>

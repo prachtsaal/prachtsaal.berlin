@@ -1,9 +1,8 @@
 ---
 layout: page
-title: about us.
+title: About us
 description: about Prachtsaal Studio Cooperative
 ---
-## Who are we?
 
 Welcome to **Prachtsaal**, a living, breathing engine of collective creativity built on two interconnected pillars. One empowers our resident artists, whose work sparks, mutates, and cross-pollinates within the space. The other opens the doors to the public, transforming the studio into a playground of expression, experimentation, and shared knowledge. Our mission is to cultivate the balance between play and purpose, movement and reflection, sound and silence. We welcome everyone driven by curiosity, openness, and the hunger to explore. As a non-profit cooperative, we're here to challenge conventions and co-create a space where art doesn't just exist: it unfolds, provokes, and connects.
 
@@ -35,13 +34,13 @@ To bring this vision to life, we:
 
 ## Prachtsaal: A Cooperative in the Making
 
-We’re in the process of becoming a registered non-profit cooperative (*gemeinnützige Genossenschaft*). This is a pivotal move that will deepen our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
+We’re in the process of becoming a registered non-profit Verein. This is a pivotal move that will deepen our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
 
 **Let’s reimagine the architecture of art and community together!**
 
 <br><br><br><br>
-# history of the building.
-<br><br><br><br>
+# History of the building.
+<br><br>
 
 ## A Living History: The Soul of Prachtsaal
 

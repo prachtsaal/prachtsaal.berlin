@@ -3,13 +3,13 @@ layout: default
 ---
 <div class="flex flex-row nav-x justify-center">
     <div>
-        <a href={{ "/people.html" | relative_url }}><span class="font-bold">&lt;</span> back to all artists</a>
+        <h3><a href={{ "/people.html" | relative_url }}>&lt; Back to all artists</a></h3>
         <header class="my-16 text-left">
             <h1 class="text-left">{{ page.full_name }}</h1>
         </header>
-        <div class="grid md:grid-cols-2 gap-16 xl:max-w-[1520px]">
+        <div>
             {% if page.portrait %}
-            <div class="max-w-1/2">
+            <div>
                 <img src="{{ page.portrait | relative_url }}">    
             </div>
             {% endif %}
@@ -26,21 +26,21 @@ layout: default
                       {% endfor %}
                       </ul>
                     {% else %}
-                      <br><span class="font-bold">website:</span> 
+                      <br><span>website:</span> 
                       <a href="{{ page.website | relative_url }}">{{ page.website }}</a>
                     {% endif %}
                     {% endif %}
 
                     {% if page.socials %}
                     {% if page.socials.first %}
-                    <br><span class="font-bold">socials:</span><br>
+                    <br><span>socials:</span><br>
                     <ul>
                         {% for link in page.socials %}
                         <li><a href="{{ link | relative_url }}">{{ link }}</a></li>
                         {% endfor %}    
                     </ul>
                     {% else %}
-                      <br><span class="font-bold">social:</span> 
+                      <br><span>social:</span> 
                       <a href="{{ page.socials | relative_url }}">{{ page.socials }}</a>
                     {% endif %}
                     {% endif %}
@@ -48,9 +48,9 @@ layout: default
 
                 {% if page.portfolio_image_locations %}
                 <br>
-                <div class="grid grid-flow-row lg:grid-col-3 gap-2">
+                <div >
                     {% for image in page.portfolio_image_locations %}
-                    <img src="{{ image | relative_url }}" class="w-64 object-cover caesar-lightbox cursor-pointer">
+                    <img src="{{ image | relative_url }}">
                     {% endfor %}
                 </div>
                 {% endif %}

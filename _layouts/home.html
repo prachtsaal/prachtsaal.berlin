@@ -3,37 +3,37 @@ layout: default
 add-js: newsletter.js
 ---
 {% assign bg_image = "assets/img/home/prachtsaal_banner_01.webp" | relative_url %}
-<header class="h-96 bg-center bg-cover" style="background-image: url({{ bg_image }});">
-  <div class="py-24 px-4 text-white sm:px-24" style="text-shadow: 2px 2px 6px rgba(0,0,0,0.5);">
-    <h1 class="text-left">{{ page.title }}</h1>
-    <h2 class="text-left mt-2">{{ page.subtitle }}</h2>  
+<header>
+  <div>
+<!--
+    <h2>{{ page.subtitle }}</h2>  
+-->
   </div>
 </header>
 
-<div class="flex flex-col items-center">
+<div>
 
-  <div class="m-8 md:w-[760px] text-lg">
+  <div>
     {{ content | markdownify }}
   </div>
 
-  <div class="m-8 flex flex-col lg:flex-row items-center justify-around gap-4 w-full">
+  <div>
 
-    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/MpDpfBIY1_M" title="George Adje &amp; Dan Gorelick @ Prachtsaal Studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
   
-    <iframe class="w-3/4 lg:w-1/2 aspect-video" src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
     
   </div>
 
 </div>
 
-<h1>news</h1>
-<div class="flex flex-col items-center links-without-underline">
+<div>
   {% assign items = site.documents | where: "tags", "news"  %}
   {% for news_item in items reversed %}
 <a href="{{ news_item.url | relative_url }}">
-  <div class="m-8 md:w-[760px] text-lg border-r-8 border-white hover:border-lime-500 transition-colors duration-300">
+  <div>
     <h2>{{ news_item.title }}</h2>
-    <p class="text-sm text-slate-400">{{ news_item.date | date: "%b %d, %Y" }}</p>
+    <p>{{ news_item.date | date: "%b %d, %Y" }}</p>
     <p>{{ news_item.description }}</p>
     <p class="underline">Read more...</p>
   </div>
@@ -41,24 +41,6 @@ add-js: newsletter.js
   {% endfor %}
 </div>
 
-
-<div class="bg-black text-white p-16">
-  <h1 class="mb-4"><a name="contact"></a>contact us</h1>
-  <div class="flex flex-row justify-center">
-    <div class="flex flex-row justify-end mx-8 md:w-[650px]">
-        <div>
-          Prachtsaal Studio <br>
-          Jonasstraße 22 <br>
-          12053 Berlin<br>
-          <br>  
-          <a href="https://instagram.com/prachtsaal" target="_blank">
-            <img src={{ "/assets/img/Instagram_Glyph_white_logo.svg.webp" | relative_url }} alt="Instagram logo" class="size-6 inline"> Instagram
-          </a>
-          <br>
-          <a href="https://buttondown.com/prachtsaal.berlin" target="_blank">
-            <img src={{ "/assets/img/buttondown-logo.webp" | relative_url }} alt="Buttondown logo" class="size-6 inline"> Newsletter
-          </a>
-    </div>
   
     </div> <!-- fixed width -->
   </div> <!-- flex justify-center -->
