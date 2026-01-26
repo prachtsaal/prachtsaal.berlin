@@ -15,7 +15,7 @@ _ FOOTER -> Rules for the footer
 
 html {
     font-size: clamp(1rem, 1vw, 1.2rem);
-    background : white; 
+    background : white;
 }
 
 body{
@@ -129,6 +129,13 @@ nav > div {
 
 /* CONTENTS */
 
+#index-img{
+    translate: -2px 10%; 
+    border-radius: 10px; 
+    width:calc(100% + 4px); 
+    box-shadow: 1px 1px 3px var(--shadows-color);
+}
+
 .people {
     display: flex;
     flex-flow: wrap;
@@ -157,7 +164,8 @@ nav > div {
 }
 #member > div{
     width:calc(50% - 10px);
-    display : flex;
+    display : block;
+   flex-direction: row;
     margin : 5px;
 }
 
