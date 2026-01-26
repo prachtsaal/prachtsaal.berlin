@@ -9,7 +9,7 @@ end_date: 2024-06-30
 images: 
   - file: /assets/img/events/2024-06-28-the-neon-gods-they-made/neon-gods-full.jpg
   - file: /assets/img/events/2024-06-28-the-neon-gods-they-made/2024-48hoursNK-group-shot.webp
-tags: exhibition portfolio
+tags: event
 ---
 
 The Neon Gods They Made, is a fragment of

@@ -5,10 +5,8 @@ orgs-title: the communities.
 alumni-title: alumni.
 description: members and associated organizations
 ---
-<header>
-</header>
 
-	<div class="people">
+<div class="people">
 
         {% for member in site.members %}
         {% if member.current != false %}
@@ -81,10 +79,10 @@ description: members and associated organizations
         <div >
             <a href="{{ org.website | relative_url }}" target="_blank">
                 {% if org.thumb %}
-                <img class="size-32 object-contain" src="{{ org.thumb | relative_url }}">
+                <img  src="{{ org.thumb | relative_url }}">
                 {%else %}
-                <div class="size-32 flex items-center text-center">
-                    <div class="font-prachtsaal">{{ org.name }}</div>
+                <div>
+                    <div>{{ org.name }}</div>
                 </div>
                 {% endif %}
             </a>

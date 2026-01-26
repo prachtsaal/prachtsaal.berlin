@@ -14,7 +14,7 @@ main_image: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_se
 images:
   - file: /assets/img/events/2025-02-16-tape-art-sessions-for-kids/tape_art_sessions_for_kids_2.jpg
     caption: Close up of various coloured tapes
-tags: 
+tags: announcement
 ---
 Let's create with tape! In this 3-hour workshop designed for kids aged 
 6–13 (accompanied by a guardian), kids will explore the exciting 

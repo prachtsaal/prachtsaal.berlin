@@ -5,7 +5,7 @@ subtitle: A solo exhibition by Seudo
 main_image: /assets/img/events/2023-10-13-bestiario/bestiario.webp
 description: The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements.
 date: 2023-10-13
-tags: exhibition portfolio 
+tags: event
 ---
 The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements.
 

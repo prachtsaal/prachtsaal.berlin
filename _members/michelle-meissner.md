@@ -3,11 +3,10 @@ layout: member
 current: true
 full_name: Michelle Meissner 
 description: painter
-thumb: /assets/img/members/no_image.svg
-portrait: /assets/img/members/no_image.svg
+thumb: 
+portrait:  /assets/img/members/martyna-lebryk/miichiii.webp
 portfolio_image_locations:
-  - /assets/img/members/no_image.svg
-  - /assets/img/members/no_image.svg
-website: 
+website: https://www.instagram.com/miichiime/
 socials: 
 ---
+Miichii is a producer, creative, painter 
