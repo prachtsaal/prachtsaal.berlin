@@ -5,15 +5,14 @@ orgs-title: the communities.
 alumni-title: alumni.
 description: members and associated organizations
 ---
-<header class="mx-8 my-28">
-    <h1>{{ page.title }}</h1>
+<header>
 </header>
 
-<div class="flex justify-center mb-28">
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
+	<div class="people">
+
         {% for member in site.members %}
         {% if member.current != false %}
-        <div class="w-full max-w-64 lg:w-64 member">
+        <div>
             {% assign content = member.content | strip_newlines %}
 
             {% if content != "" %}
@@ -21,12 +20,12 @@ description: members and associated organizations
             {% endif %}
 
                 {% if member.thumb %}
-                <img class="w-64 object-cover" src="{{ member.thumb | relative_url }}">
+                <img src="{{ member.thumb | relative_url }}">
                 {% endif %}
 
-                <span class="member-text">
-                  <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
-                  <span class="font-prachtsaal">{{ member.description }}</span>
+                <span>
+                  <span>{{ member.full_name }}</span><br />
+                  <span>{{ member.description }}</span>
                 </span>
 
             {% if content != "" %}
@@ -36,17 +35,16 @@ description: members and associated organizations
         {% endif %}
         {% endfor %}
     </div>
-</div>
 
-<h1 class="min-[460px]:mx-8 mb-28">
+
+<h1 >
     {{ page.alumni-title }}
 </h1>
 
-<div class="flex justify-center mb-28">
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-1 mx-8 links-without-underline">
+	<div class="people">
         {% for member in site.members %}
         {% if member.current == false %}
-        <div class="w-full max-w-64 lg:w-64 member">
+        <div>
             {% assign content = member.content | strip_newlines %}
 
             {% if content != "" %}
@@ -55,12 +53,12 @@ description: members and associated organizations
 
                 {% if member.thumb contains "no_image.svg" %}
                 {% else%}
-                <img class="w-64 object-cover" src="{{ member.thumb | relative_url }}">
+                <img src="{{ member.thumb | relative_url }}">
                 {% endif %}
 
-                <span class="member-text">
-                  <span class="font-prachtsaal font-bold text-lg">{{ member.full_name }}</span><br />
-                  <span class="font-prachtsaal">{{ member.description }}</span>
+                <span>
+                  <span>{{ member.full_name }}</span><br />
+                  <span>{{ member.description }}</span>
                 </span>
 
             {% if content != "" %}
@@ -70,17 +68,17 @@ description: members and associated organizations
         {% endif %}
         {% endfor %}
     </div>
-</div>
 
-<h1 class="min-[460px]:mx-8 mb-28">
+
+<h1 >
     {{ page.orgs-title }}
 </h1>
 
-<div class="flex justify-center mb-28">
-    <div class="grid sm:grid-cols-3 lg:grid-cols-4 gap-8 mx-8 links-without-underline">
+
+<div class="people">
     {% for org in site.data.communities %}
         {% if org.visible %}
-        <div class="w-full max-w-32 lg:w-32">
+        <div >
             <a href="{{ org.website | relative_url }}" target="_blank">
                 {% if org.thumb %}
                 <img class="size-32 object-contain" src="{{ org.thumb | relative_url }}">
@@ -93,6 +91,8 @@ description: members and associated organizations
         </div>
         {% endif %}
     {% endfor %}
-    </div>
+</div>
+
+
 </div>
         
