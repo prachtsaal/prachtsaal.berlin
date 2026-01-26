@@ -1,0 +1,175 @@
+/* Hey, welcome to Prachtsaal's CSS file.
+This file have 3 big chapetrs :
+_ GLOBAL -> Rules the whole website
+_ HEADER -> Rules the Title and menu
+_ CONTENT -> Rules refering to specific pages
+_ FOOTER -> Rules for the footer
+*/
+
+/* GLOBAL CSS */
+
+:root {
+  --links-hover-color: #39ff14; /* global scope */
+}
+
+html {
+    font-size: clamp(1rem, 1vw, 1.2rem);
+    background : white; 
+}
+
+body{
+    top : 5px;
+    padding: 0px;
+    margin:0px;
+    position: absolute;
+    left: 25%;
+    width: 50% ;
+    font-family: arial;
+    max-width: 1000px;
+}
+
+@media (max-width: 1000px) {
+    body{
+        width:70%;
+        left: 15%;  
+    }
+}
+
+@media (max-width: 768px) {
+    body{
+        left: 3px;
+        width:calc(100% - 6px);   
+    }
+}
+
+a {
+   text-decoration : none;
+}
+
+a:visited {
+}
+
+a:hover {
+      color: var(--links-hover-color);
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+p {
+}
+
+ul {
+}
+
+li {
+    list-style-type: none;
+    list-style-position:inside;
+    margin:0;
+    padding:0;
+}
+
+/* NAVIGATION */
+
+header {
+}
+
+nav {
+    filter: drop-shadow(2px 2px 4px grey);
+}
+
+#menu {
+    border-bottom: dashed;
+}
+
+#menu li{
+    padding: 0px;
+    margin : 0px;
+    display: inline-block;
+    width: calc(25% - 4px);
+    font-size : 16pt;
+}
+
+#menu a {
+    text-decoration: none;
+    color : black;
+}
+
+#menu a:visited {
+    color: black;
+}
+
+#menu a:hover {
+    color: var(--links-hover-color);
+}
+
+#burger {
+    display : none;
+}
+
+/* CONTENTS */
+
+.people {
+    display: flex;
+    flex-flow: wrap;
+
+}
+.people > div{
+    width:25%;
+    display : flex;
+    width : calc(25% - 20px);
+    padding : 10px;
+}
+
+
+.people img {
+    width : 100%;
+    filter: grayscale();
+    box-shadow: 2px 2px 7px grey;
+}
+.people img:hover {
+    filter: none;
+}
+
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    color: white;
+    background-color: black;
+    padding : 10px;
+    margin: -2px;
+}
+
+footer a{
+    color: white;
+}
+
+footer a:visited{
+    color: white;
+}
+footer a:hover{
+    color: var(--links-hover-color);
+}
+
+footer img {
+    width: 10%;
+    display : inline;
+    translate: 0% 20%;
+}
+
+footer div {
+    width : 25%;
+}
