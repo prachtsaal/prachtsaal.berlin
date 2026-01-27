@@ -55,3 +55,7 @@ VETRO EDITIONS, publishing, graphic design & sculpture
 
 Kazik Pogoda / 
 XEMANTIC, generative art
+
+<div>
+<iframe src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>   
+</div>

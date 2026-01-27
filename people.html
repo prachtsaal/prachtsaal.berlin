@@ -1,18 +1,21 @@
 ---
 layout: default
-title: the people.
-orgs-title: the communities.
-alumni-title: alumni.
+title: People
+orgs-title: Communities
+alumni-title: Alumni
 description: members and associated organizations
 ---
 
 <div class="people">
 
-        {% for member in site.members %}
+
+        {% assign n = site.members | size %}
+		{% assign members = site.members | sample: n %}
+		{% for member in members %}
+		
         {% if member.current != false %}
         <div>
             {% assign content = member.content | strip_newlines %}
-
             {% if content != "" %}
             <a href="{{ member.url | relative_url }}">
             {% endif %}
@@ -40,7 +43,10 @@ description: members and associated organizations
 </h1>
 
 	<div class="people">
-        {% for member in site.members %}
+        {% assign n = site.members | size %}
+		{% assign members = site.members | sample: n %}
+		{% for member in members %}
+		
         {% if member.current == false %}
         <div>
             {% assign content = member.content | strip_newlines %}
@@ -49,8 +55,7 @@ description: members and associated organizations
             <a href="{{ member.url | relative_url }}">
             {% endif %}
 
-                {% if member.thumb contains "no_image.svg" %}
-                {% else%}
+                {% if member.thumb %}
                 <img src="{{ member.thumb | relative_url }}">
                 {% endif %}
 

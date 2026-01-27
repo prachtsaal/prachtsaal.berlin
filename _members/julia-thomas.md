@@ -3,8 +3,8 @@ layout: member
 current: true
 full_name: Julia Thomas
 description: artist, philosopher, engineer and clinician
-thumb: 
-portrait: 
+thumb: /assets/img/members/no_image.svg
+portrait: /assets/img/members/no_image.svg
 portfolio_image_locations:
 website: 
 socials: 
