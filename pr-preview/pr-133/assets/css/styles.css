@@ -121,37 +121,44 @@ nav > div {
     position: relative;
     width : 100%;
     height : 200px;
-        filter: drop-shadow(2px 2px 4px var(--shadows-color));
+    filter: drop-shadow(2px 2px 4px var(--shadows-color));
+
 }
 
 #fun span {
   position: absolute;
   left: 40%;
   top : 25%;
-  animation: floaty-fly var(--duration, 120s) var(--delay, 0s) infinite ease-in-out;
+  animation: magical var(--duration, 120s) var(--delay, 0s) infinite ease-in-out;
 
 }
 
-@keyframes floaty-fly {
-  0%, 100% { transform: translate(0px, 0px); }
-  25% { transform: translate(calc(var(--x1, 100) * 3%), calc(var(--y1, 100) * 3%)); }
-  50% { transform: translate(calc(var(--x2, 0) * 3%), calc(var(--y2, 0) * 3%)); }
-  75% { transform: translate(calc(var(--x3, 200) * 3%), calc(var(--y3, 50) * 3%)); }
+/* Lovely <3 */
+@keyframes magical {
+  0%, 100% { transform: translate(calc(var(--x2, 100) * 3%), calc(var(--y1, 100) * 3%)) scale(calc(var(--x1, 1) * var(--x1, 1) * 0.0001)); }
+  25% { transform: translate(calc(var(--x1, 100) * 3%), calc(var(--y2, 100) * 3%)) scale(calc(var(--x2, 1) * var(--x2, 1) * 0.0001)); }
+  50% { transform: translate(calc(var(--x2, 0) * 3%), calc(var(--y3, 0) * 3%)) scale(calc(var(--x3, 1) * var(--x3, 1) * 0.0001)); }
+  75% { transform: translate(calc(var(--x3, 200) * 3%), calc(var(--y2, 50) * 3%)) scale(calc(var(--y1, 1) * var(--y1, 1) * 0.0001)); }
 }
 
-/* Assign random values to each span */
-#fun span:nth-child(1) { --duration: 16s; --delay: 0.5s; --x1: 120; --y1: 80; --x2: -50; --y2: -40; --x3: 90; --y3: 30; }
-#fun span:nth-child(2) { --duration: 27s; --delay: 1s; --x1: -100; --y1: 60; --x2: 130; --y2: -20; --x3: -70; --y3: 50; }
-#fun span:nth-child(3) { --duration: 18s; --delay: 0.3s; --x1: 80; --y1: -90; --x2: -120; --y2: 40; --x3: 60; --y3: -30; }
-#fun span:nth-child(4) { --duration: 25s; --delay: 1.2s; --x1: -70; --y1: 100; --x2: 110; --y2: -60; --x3: -40; --y3: 20; }
-#fun span:nth-child(5) { --duration: 19s; --delay: 0.8s; --x1: 150; --y1: -70; --x2: -90; --y2: 30; --x3: 100; --y3: -50; }
-#fun span:nth-child(6) { --duration: 26.5s; --delay: 0.2s; --x1: -130; --y1: 40; --x2: 80; --y2: -80; --x3: -60; --y3: 60; }
-#fun span:nth-child(7) { --duration: 17.5s; --delay: 1.5s; --x1: 90; --y1: 110; --x2: -100; --y2: -10; --x3: 70; --y3: -40; }
-#fun span:nth-child(8) { --duration: 25.5s; --delay: 0.7s; --x1: -80; --y1: -50; --x2: 140; --y2: 20; --x3: -30; --y3: 70; }
-#fun span:nth-child(9) { --duration: 18.5s; --delay: 0.4s; --x1: 110; --y1: 30; --x2: -150; --y2: 60; --x3: 50; --y3: -20; }
-#fun span:nth-child(10) { --duration: 26.8s; --delay: 1.1s; --x1: -60; --y1: 80; --x2: 100; --y2: -70; --x3: -90; --y3: 40; }
-#fun span:nth-child(11) { --duration: 17.2s; --delay: 0.9s; --x1: 130; --y1: -40; --x2: -70; --y2: 50; --x3: 80; --y3: -60; }
-#fun span:nth-child(12) { --duration: 29.5s; --delay: 0.6s; --x1: -110; --y1: 20; --x2: 120; --y2: -30; --x3: -50; --y3: 90; }
+#fun span:nth-child(1) { --duration: 16s; --x1: 120; --y1: 80; --x2: -50; --y2: -40; --x3: 90; --y3: 30; }
+#fun span:nth-child(2) { --duration: 27s; --x1: -100; --y1: 60; --x2: 130; --y2: -20; --x3: -70; --y3: 50; }
+#fun span:nth-child(3) { --duration: 18s; --x1: 80; --y1: -90; --x2: -120; --y2: 40; --x3: 60; --y3: -30; }
+#fun span:nth-child(4) { --duration: 25s; --x1: -70; --y1: 100; --x2: 110; --y2: -60; --x3: -40; --y3: 20; }
+#fun span:nth-child(5) { --duration: 19s; --x1: 150; --y1: -70; --x2: -90; --y2: 30; --x3: 100; --y3: -50; }
+#fun span:nth-child(6) { --duration: 26.5s; --x1: -130; --y1: 40; --x2: 80; --y2: -80; --x3: -60; --y3: 60; }
+#fun span:nth-child(7) { --duration: 17.5s; --x1: 90; --y1: 110; --x2: -100; --y2: -10; --x3: 70; --y3: -40; }
+#fun span:nth-child(8) { --duration: 25.5s; --x1: -80; --y1: -50; --x2: 140; --y2: 20; --x3: -30; --y3: 70; }
+#fun span:nth-child(9) { --duration: 18.5s; --x1: 110; --y1: 30; --x2: -150; --y2: 60; --x3: 50; --y3: -20; }
+#fun span:nth-child(10) { --duration: 26.8s; --x1: -60; --y1: 80; --x2: 100; --y2: -70; --x3: -90; --y3: 40; }
+#fun span:nth-child(11) { --duration: 32.2s; --x1: 120; --y1: -40; --x2: -70; --y2: 50; --x3: 80; --y3: -60; }
+#fun span:nth-child(12) { --duration: 44.5s; --x1: -170; --y1: 20; --x2: 120; --y2: -30; --x3: -50; --y3: 30; }
+#fun span:nth-child(13) { --duration: 31.5s; --x1: 40; --y1: 110; --x2: -110; --y2: -20; --x3: 70; --y3: -140; }
+#fun span:nth-child(14) { --duration: 14.5s; --x1: -40; --y1: -50; --x2: 130; --y2: 70; --x3: -20; --y3: 70; }
+#fun span:nth-child(15) { --duration: 19.4s; --x1: 130; --y1: 60; --x2: -110; --y2: 30; --x3: 50; --y3: -70; }
+#fun span:nth-child(16) { --duration: 28.8s; --x1: -80; --y1: 80; --x2: 90; --y2: -10; --x3: -40; --y3: 40; }
+#fun span:nth-child(17) { --duration: 49.2s; --x1: 160; --y1: -40; --x2: -90; --y2: 30; --x3: 80; --y3: -10; }
+#fun span:nth-child(18) { --duration: 38.6s; --x1: -120; --y1: 20; --x2: 0; --y2: -50; --x3: -50; --y3: 20; }
 
 .rainbow-link { 
     background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); background-size: 400% 100%; 
@@ -291,6 +298,10 @@ footer > div {
         left: 2px;
         width:calc(100% - 4px);
         font-size: 10pt;
+    }
+    
+    #fun {
+        overflow : hidden;
     }
     
    .people > div{
