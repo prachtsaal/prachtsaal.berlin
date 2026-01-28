@@ -1,20 +1,38 @@
 # prachtsaal.berlin
 
 The website of Prachtsaal Studios.
-It is developed using Jekyll and tailwindcss. 
 
-Jekyll allows you to edit markdown files, which are then compiled and integrated into a static html, javascript, and css site; Jekyll is what is called a static site generator. 
+The content of this website is written in Markdown format, using a plain text editor.
 
-tailwindcss is a css framework which allows you to define css using user friendly classes in your html.
+A tool called [Jekyll](https://jekyllrb.com/) (which is integrated in GitHub) 
+converts markdown files into HTML, suitable for web browsers. Jekyll is a "static site generator".
+
+[Markdown](https://daringfireball.net/projects/markdown/) is easier to write by humans than HTML.
+
+The structure of the website is still written in HTML. 
+Normally one defines the visuals aspect of a website using [CSS](https://en.wikipedia.org/wiki/CSS).
+Instead of writing CSS from scratch, we use [TailwindCSS](https://tailwindcss.com/),
+which is a collection of predefined and tested CSS blocks to make things
+simpler, and to allow to define the looks directly in the HTML file (instead of
+using separate CSS files).
 
 ## Decap CMS
+
+To make it easier to edit the content we use Decap.
 
 [Decap](https://decapcms.org/) is an open source CMS. Currently some sections,
 for example Members, can be edited with this CMS. It runs locally on your
 computer and it makes changes to the files and folders of your local repository.
 
-To run it locally, run `npx decap-server` in one terminal window, and 
-`bundle exec jekyll serve` in another window.
+To run it locally, run 
+
+    npx decap-server
+
+in one terminal window, and 
+
+    bundle exec jekyll serve
+
+in another.
 
 Then navigate to `http://localhost:4000/admin/` in one browser window (the CMS), and to
 `http://localhost:4000/` (the Prachtsaal website). 
