@@ -10,6 +10,7 @@ portfolio_image_locations:
   - assets/img/members/gabriel-jeanjean/2024_Gabriel_Jeanjean_Neodam_Vent_Des_Forets_Damvilliers.webp
   - assets/img/members/gabriel-jeanjean/Gabriel_Jeanjean_Automat-space_Saarbrucken_allemangne_no_smoke_without_fire.webp
   - assets/img/members/gabriel-jeanjean/Gabriel_Jeanjean_Kiez_Kaelle_Berlin_Compass_Of_Mischief.webp
+  - /assets/img/members/gabriel-jeanjean/pxl_20250525_150148496.jpg
 website: https://www.gabrieljeanjean.com/
 socials:
   - https://www.instagram.com/gabriel.jeanjean/

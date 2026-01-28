@@ -1,0 +1,26 @@
+---
+layout: default
+title: upcoming events.
+description: a list of our events
+portfolio_title: events portfolio.
+add-js: future_events.js
+---
+
+<div class="archive">
+  {% assign items = site.documents | where: "tags", "event" | reverse %}
+  {% for item in items %}
+        <div>
+			{%if item.main_image %}
+			<img src="{{ item.main_image | relative_url }}">
+			{% endif %}
+        </div>
+		<div><a href="{{ item.url | relative_url }}">
+				<h2>{{ item.date | date: "%b %d, %Y" }} <br> {{ item.title }}</h2>
+				<h3>{{ item.subtitle }}</h3>
+
+			</a>
+		</div>
+        
+    {% endfor %}
+</div>
+

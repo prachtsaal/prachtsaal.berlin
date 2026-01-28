@@ -1,10 +1,9 @@
-const burger = document.querySelector('#burger');
-const menu = document.querySelector('#menu');
+//~ const burger = document.querySelector('#burger');
+//~ const menu = document.querySelector('#menu');
 
-burger.addEventListener('click', (e) => {
-  if (menu.classList.contains('hidden')) {
-    menu.classList.remove('hidden');
-  } else {
-    menu.classList.add('hidden');
-  }
-});
+//~ // Set initial state (if not already set in HTML)
+//~ menu.style.visibility = 'hidden';
+
+//~ burger.addEventListener('click', (e) => {
+  //~ menu.style.visibility = menu.style.visibility === 'hidden' ? 'visible' : 'hidden';
+//~ });

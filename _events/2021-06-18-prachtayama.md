@@ -9,7 +9,7 @@ end_date: 2021-06-20
 images: 
   - file: /assets/img/events/2021-06-18-prachtayama/PRACHTSAAL STUDIO_LOATION.webp
     caption: Prachtsaal Studio
-tags: exhibition portfolio
+tags: event
 ---
 A group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.
 
@@ -55,3 +55,7 @@ VETRO EDITIONS, publishing, graphic design & sculpture
 
 Kazik Pogoda / 
 XEMANTIC, generative art
+
+<div>
+<iframe src="https://www.youtube.com/embed/mwsOSaVNXks" title="Luminiferous Aether, an installation for 48h Neukölln 2021 festival in Berlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>   
+</div>

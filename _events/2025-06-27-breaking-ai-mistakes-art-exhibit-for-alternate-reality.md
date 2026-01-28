@@ -8,7 +8,7 @@ date: 2025-06-27
 end_date: 2025-06-29
 images: 
   - file: /assets/img/events/2025-06-27-breaking-ai-mistakes-art-exhibit-for-alternate-reality/flyer.webp
-tags: news
+tags: event
 ---
 
 "In a bizarre twist of digital miscommunication, an AI-driven system at the “Lost in Digital Communication” art exhibit has reportedly mistaken the immersive installation for an alternate reality. Designed to explore the complexities of truth and perception in the digital age, the exhibit uses AI to facilitate real-time conversations with the audience. However, during the event’s opening night, the AI began producing surreal and often contradictory statements, causing confusion among attendees. “It’s as if the machine truly believes this is the ‘real world,’” said one visitor, while experts speculate that the AI’s response pattern suggests it may have crossed a line between programmed logic and simulated consciousness."

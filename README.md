@@ -16,6 +16,29 @@ which is a collection of predefined and tested CSS blocks to make things
 simpler, and to allow to define the looks directly in the HTML file (instead of
 using separate CSS files).
 
+### Installation
+
+You'll want to install ruby, node.js, and tailwindcss if you haven't already. If you need to install any of these, here are some helpful references:
+
+- https://github.com/rubygems/rubygems?tab=readme-ov-file: you can install ruby with [rbenv](https://github.com/rbenv/rbenv)
+- https://jekyllrb.com/docs/installation/ubuntu/
+- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
+- https://tailwindcss.com/docs/installation
+- https://tailwindcss.com/docs/editor-setup
+
+#### Setting up Jekyll
+Once ruby is installed, install jekyll and bundler gems with
+
+```bash
+gem install jekyll bundler
+```
+
+If you are setting up your environment, you can set up the ruby environment with
+
+```bash
+bundle install
+```
+
 ## Decap CMS
 
 To make it easier to edit the content we use Decap.
@@ -44,6 +67,27 @@ like.
 ## Content Revision
 
 You'd like to maintain the content of our website? Thank you!
+
+This document lists common tasks.
+
+# Add a new member
+
+- Create a new folder under `assets/img/members/` with the name of the
+  person. If the name is taken you can add the last name or use a nickname
+  instead.
+- Take a look at `assets/img/members/abe/` as an example for how to name the
+  images. We use WEBP because the file size is smaller and the quality better
+  than JPG. Use:
+    - NAME-thumb.webp (400x400 portrait)
+    - NAME-portrait.webp (larger portrait, longer side 1000 ~ 2000 pixels)
+    - NAME-ARTWORK1.webp (artworks, longer side 1000 ~ 2000 pixels)
+    - NAME-ARTWORK2.webp
+- Duplicate one of the files under `_members/` and rename it matching the folder name you used above.
+- Make sure `current` is `true` for current members, make it `false` for past
+  members.
+- Make sure `thumb`, `portrait` and `portfolio_image_locations` point at the right images.
+- Make sure `website` and `socials` start with `https://`. Use `-` if none.
+- Paste the full description on the line following `---` at the bottom.
 
 ### events page
 
@@ -238,25 +282,4 @@ It will look like `https://prachtsaal.github.io/prachtsaal.berlin/pr-preview/pr-
 where NN is the pull request number.
 
 
-### Installation
 
-You'll want to install ruby, node.js, and tailwindcss if you haven't already. If you need to install any of these, here are some helpful references:
-
-- https://github.com/rubygems/rubygems?tab=readme-ov-file: you can install ruby with [rbenv](https://github.com/rbenv/rbenv)
-- https://jekyllrb.com/docs/installation/ubuntu/
-- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
-- https://tailwindcss.com/docs/installation
-- https://tailwindcss.com/docs/editor-setup
-
-#### Setting up Jekyll
-Once ruby is installed, install jekyll and bundler gems with
-
-```bash
-gem install jekyll bundler
-```
-
-If you are setting up your environment, you can set up the ruby environment with
-
-```bash
-bundle install
-```

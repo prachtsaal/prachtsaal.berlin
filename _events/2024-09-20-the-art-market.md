@@ -10,6 +10,7 @@ images:
   - file: /assets/img/events/2024-09-20-the-art-market/20231202_173014_Original-scaled.webp
   - file: /assets/img/events/2024-09-20-the-art-market/20231202_175128_Original-768x1024.webp
   - file: /assets/img/events/2024-09-20-the-art-market/20231202_175141_Original-768x1024.webp
+tags: event
 ---
 
 

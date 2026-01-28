@@ -1,0 +1,60 @@
+---
+layout: default
+title: Prachtsaal Studio
+subtitle: Neukölln's non-profit art cooperative
+description: a non-profit art cooperative from Neukölln/Berlin
+---
+
+<h2>{{ page.subtitle }}</h2>
+
+<p>
+Welcome to Prachtsaal, a living junction where artists and audiences meet to experiment, reflect, and reimagine. Rooted in Neukölln, we’re a non-profit cooperative championing bold visual art, performance, and sound. Our space offers affordable ateliers, inclusive programming, and a spirit of radical hospitality. We believe in curiosity as method, play as strategy, and collaboration as catalyst. Step into a community where creativity stretches its limbs and the boundaries of practice are always in flux.
+</p>
+
+<h2>What happens at Prachtsaal ?</h2>
+
+<div id="fun">
+<span>Workshops</span>
+<span>Exhibitions</span>
+<span>Meeting</span>
+<span>Printing</span>
+<span>Writing</span>
+<span>Coding</span>
+<span>Coworking</span>
+<span>Music</span>
+<span>Painting</span>
+<span>Cinema</span>
+<span>Craft</span>
+<span>Podcasts</span>
+<span>Cooking</span>
+<span>Drawing</span>
+<span>Photography</span>
+<span>Game</span>
+<span>Research</span>
+<span>Tatoo</span>
+</div>
+
+<p>
+Contact us here for more <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;">&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;</a>
+<br>or on our <a class="rainbow-link" href="https://www.instagram.com/prachtsaal">social media</a> !
+</p>
+
+
+
+<div>
+  {% assign items = site.documents | where: "tags", "event"  % | reverse %}
+  {% for news_item in items %}
+  {% if items.end_date | date: "%d, %Y" > site.time | date: "%d, %Y" %}
+  	<a href="{{ news_item.url | relative_url }}">
+		<div>
+			<h2>{{ news_item.title }}</h2>
+			<p>{{ news_item.date | date: "%b %d, %Y" }}</p>
+			<p>{{ news_item.description }}</p>
+			<p class="underline">Read more...</p>
+		</div>
+	</a>
+  {% endif %}
+{% endfor %}
+</div>
+
+<img src="assets/img/home/prachtsaal_banner_01.webp" id="index-img">
