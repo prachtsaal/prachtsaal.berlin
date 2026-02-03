@@ -1,6 +1,6 @@
 ---
 layout: member
-current: true
+current: false
 full_name: Karlo Walz
 description: artist
 thumb: /assets/img/members/karlo-walz/karlo-walz-thumb.webp
