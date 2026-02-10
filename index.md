@@ -16,7 +16,7 @@ Welcome to **Prachtsaal**—a living junction where artists and audiences meet t
     animation: rainbow 10s linear infinite;
     animation-direction: alternate;
     text-decoration: none;
-    text-shadow: 0 0 30px white, 0 0 60px pink, 0 0 70px #e60073;
+    filter: drop-shadow(0 0 70px #e60073);
 } 
 </style>
 <a class="rainbow-link" href="https://prachtsaal.berlin/#contact" style="position: absolute; height: 120px; right: 3%; top: 400px; rotate: 6deg; font-size: 44pt; font-weight: bold;">studios available!</a>
