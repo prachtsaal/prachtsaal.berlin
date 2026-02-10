@@ -9,14 +9,15 @@ Welcome to **Prachtsaal**—a living junction where artists and audiences meet t
 <style>
 @keyframes rainbow { to { background-position: 100%; } }
 .rainbow-link { 
-    background: linear-gradient(90deg, #FFA500, #ffff00, #008000, #0000FF, #4B0082, #FFA500); 
+    background: linear-gradient(90deg, #FFA500, #ffff00, #008000, #0000FF, #4B0082); 
     background-size: 400% 100%; 
     background-clip: text; 
     color: transparent; 
     animation: rainbow 10s linear infinite;
+    animation-direction: alternate;
     text-decoration: none;
-    text-shadow: 0 0 30px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    text-shadow: 0 0 30px white, 0 0 60px pink, 0 0 70px #e60073;
 } 
 </style>
-<a class="rainbow-link" href="https://prachtsaal.berlin/#contact" style="position: absolute; height: 80px; right: 3%; top: 400px; rotate: 6deg; font-size: 44pt; font-weight: bold;">studios available!</a>
+<a class="rainbow-link" href="https://prachtsaal.berlin/#contact" style="position: absolute; height: 120px; right: 3%; top: 400px; rotate: 6deg; font-size: 44pt; font-weight: bold;">studios available!</a>
 
