@@ -9,7 +9,7 @@ Welcome to **Prachtsaal**—a living junction where artists and audiences meet t
 <style>
 @keyframes rainbow { to { background-position: 100%; } }
 .rainbow-link { 
-    background: linear-gradient(90deg, #FFA500, #ffff00, #008000, #0000FF, #4B0082); 
+    background: linear-gradient(90deg, #FFA500, #ffff00, #008000, #0000FF, #4B0082, #FFA500); 
     background-size: 400% 100%; 
     background-clip: text; 
     color: transparent; 
