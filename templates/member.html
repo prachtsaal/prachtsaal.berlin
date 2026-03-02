@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ config.title }}{% endblock %}
+
+{% block content %}
+
+<h1 class="title">
+  {{ page.extra.fullName }}
+</h1>
+  
+<div id="">{{ page.extra.description }}</div>
+
+<a href="{{ page.extra.website | default(value="") }}">
+{{- page.extra.website | default(value="") -}}
+</a><br/>
+
+{% for asset in page.assets -%}
+  {% if 'portrait' in asset %}
+    {% set image = resize_image(path=asset, width=500, height=500, op="fit_width", format="webp", quality=90) %}
+    <p><img src="{{ image.url }}"></p>
+  {% endif %}
+{%- endfor %}
+
+{{ page.content | safe }}
+
+{% for asset in page.assets -%}
+  {% if 'thumb' not in asset and 'portrait' not in asset %}
+    {% set image = resize_image(path=asset, width=500, height=500, op="fit_width", format="webp", quality=90) %}
+  <p><img src="{{ image.url }}"></p>
+  {% endif %}
+{%- endfor %}
+
+{% for social in page.extra.socials %}
+<a href="{{ social}}">{{ social }}</a><br/>
+{% endfor %}
+
+
+
+<p><a href="../">member list</a></p>
+
+{% endblock content %}
+

@@ -1,0 +1,21 @@
+<style>
+@keyframes rainbow { to { background-position: 100%; } }
+a.rainbow-link { 
+    background: linear-gradient(90deg, #FFA500, #ffff00, #008000, #0000FF, #4B0082); 
+    background-size: 400% 100%; 
+    background-clip: text; 
+    color: transparent; 
+    animation: rainbow 10s linear infinite;
+    animation-direction: alternate;
+    text-decoration: none;
+    filter: drop-shadow(0 0 70px #e60073);
+    position: absolute; 
+    height: 100px; 
+    right: 3%; 
+    top: 400px; 
+    rotate: 6deg; 
+    font-size: 40pt; 
+    font-weight: bold;
+} 
+</style>
+<a class="rainbow-link" href="#contact">studios available!</a>

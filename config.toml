@@ -1,0 +1,18 @@
+title = "Prachtsaal Studio"
+
+# The URL the site will be built for
+base_url = "https://prachtsaal.berlin"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[slugify]
+paths_keep_dates = true
+
+# You can put any kind of data here. 
+[extra]
+# answer = "42"
+# Will be available as {{ config.extra.answer }} in templates

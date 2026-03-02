@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock %}
+
+{% block content %}
+<h1 class="title">{{ section.title }}</h1>
+
+<h2>Current</h2>
+
+<ul>
+  {% for member in section.pages | filter(attribute="extra.current", value=true) %}
+
+  <li>
+    <a href="{{ member.permalink | safe }}">
+	    {{ member.extra.fullName }}<br/>
+
+      {% set_global found = false %}
+      {% for asset in member.assets %}
+      	{% if asset is matching(".*thumb.*") %}
+	  {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
+  	  <img src="{{ image.url }}">
+	  {% set_global found = true %}
+	  {% break %}
+	{% endif %}
+      {% endfor %}
+
+      {% if found == false %}
+        <img width="500" height="500" src="/anonymous.svg">
+      {% endif %}
+    </a>
+  </li>
+
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+
+<ul>
+  {% for member in section.pages | filter(attribute="extra.current", value=false) %}
+
+  <li>
+    <a href="{{ member.permalink | safe }}">
+	    {{ member.extra.fullName }}<br/>
+
+      {% set_global found = false %}
+      {% for asset in member.assets %}
+      	{% if asset is matching(".*thumb.*") %}
+	  {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
+  	  <img src="{{ image.url }}">
+	  {% set_global found = true %}
+	  {% break %}
+	{% endif %}
+      {% endfor %}
+
+      {% if found == false %}
+        <img width="500" height="500" src="/anonymous.svg">
+      {% endif %}
+    </a>
+  </li>
+
+  {% endfor %}
+</ul>
+
+
+<h2>Communities</h2>
+<ul>
+  {% for community in section.extra.communities %}
+  <li>
+    {% if community.thumb %}
+      <a href="{{ community.website }}">
+      <img src="/img/communities/{{ community.thumb }}" alt="{{ community.name }}">
+      </a>
+    {% else %}
+      {{ community.name }}
+    {% endif %}
+
+  {% endfor %}
+</ul>
+
+
+
+{% endblock content %}
