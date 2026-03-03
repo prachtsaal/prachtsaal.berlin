@@ -16,7 +16,7 @@
 
 {% for asset in page.assets -%}
   {% if 'portrait' in asset %}
-    {% set image = resize_image(path=asset, width=500, height=500, op="fit_width", format="webp", quality=90) %}
+    {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
     <p><img src="{{ image.url }}"></p>
   {% endif %}
 {%- endfor %}
@@ -25,7 +25,7 @@
 
 {% for asset in page.assets -%}
   {% if 'thumb' not in asset and 'portrait' not in asset %}
-    {% set image = resize_image(path=asset, width=500, height=500, op="fit_width", format="webp", quality=90) %}
+    {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
   <p><img src="{{ image.url }}"></p>
   {% endif %}
 {%- endfor %}

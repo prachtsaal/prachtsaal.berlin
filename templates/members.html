@@ -3,16 +3,12 @@
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock %}
 
 {% block content %}
-<h1 class="title">{{ section.title }}</h1>
 
-<h2>Current</h2>
-
-<ul>
+<div class="people">
   {% for member in section.pages | filter(attribute="extra.current", value=true) %}
 
-  <li>
+  <div>
     <a href="{{ member.permalink | safe }}">
-	    {{ member.extra.fullName }}<br/>
 
       {% set_global found = false %}
       {% for asset in member.assets %}
@@ -25,22 +21,32 @@
       {% endfor %}
 
       {% if found == false %}
-        <img width="500" height="500" src="/anonymous.svg">
+        <img src="/anonymous.svg">
       {% endif %}
+	    
+      {{ member.extra.fullName }}<br/>
+      {{ member.extra.description }}
     </a>
-  </li>
+  </div>
 
   {% endfor %}
-</ul>
+</div>
 
-<h2>Alumni</h2>
+<script>
+  // Randomize the order of the list of members
+  const container = document.getElementsByClassName("people")[0];
+  const children = [...container.children];
+  children.sort(() => Math.random() - 0.5);
+  container.append(...children);  
+</script>
 
-<ul>
+<h1>Alumni</h1>
+
+<div class="people">
   {% for member in section.pages | filter(attribute="extra.current", value=false) %}
 
-  <li>
+  <div>
     <a href="{{ member.permalink | safe }}">
-	    {{ member.extra.fullName }}<br/>
 
       {% set_global found = false %}
       {% for asset in member.assets %}
@@ -53,19 +59,22 @@
       {% endfor %}
 
       {% if found == false %}
-        <img width="500" height="500" src="/anonymous.svg">
+        <img src="/anonymous.svg">
       {% endif %}
+	    
+      {{ member.extra.fullName }}<br/>
+      {{ member.extra.description }}
     </a>
-  </li>
+  </div>
 
   {% endfor %}
-</ul>
+</div>
 
 
-<h2>Communities</h2>
-<ul>
+<h1>Communities</h1>
+<div class="people">
   {% for community in section.extra.communities %}
-  <li>
+  <div>
     {% if community.thumb %}
       <a href="{{ community.website }}">
       <img src="/img/communities/{{ community.thumb }}" alt="{{ community.name }}">
@@ -73,9 +82,9 @@
     {% else %}
       {{ community.name }}
     {% endif %}
-
+  </div>
   {% endfor %}
-</ul>
+</div>
 
 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Roberta Maddalena (Bireau)'
 [extra]
-current = false
+current = true
 description = 'painter / filmmaker'
 fullName = 'Roberta Maddalena (Bireau)'
 layout = 'member'
