@@ -4,12 +4,24 @@
 
 {% block content %}
 
-<h1 class="title">
-  {{ page.title }}
-</h1>
+  <h1 class="title">  {{ page.title }}</h1>
+  <h2>{{ page.extra.subtitle }}<br/>{{ page.date }}</h2>
 
-<p class="subtitle"><strong>{{ page.date }}</strong></p>
-{{ page.content | safe }}
+  {% for asset in page.assets -%}
+    {% if 'thumb' in asset %}
+      {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+      <p><img src="{{ image.url }}"></p>
+    {% endif %}
+  {%- endfor %}
+
+  {{ page.content | safe }}
+
+  {% for asset in page.assets -%}
+    {% if 'thumb' not in asset and 'mp4' not in asset %}
+      {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+      <p><img src="{{ image.url }}"></p>
+    {% endif %}
+  {%- endfor %}
 
 {% endblock content %}
 

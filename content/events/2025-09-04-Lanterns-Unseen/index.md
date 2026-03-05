@@ -11,8 +11,6 @@ tags = ["news", "portfolio", "exhibition", "events"]
 +++
 Prachtsaal will be part of the Berlin New Media Week with a new collective exhibition.
 
-![](berlin_new_media_week_2025_thumb.webp)
-
 <a href="https://berlinnewmediaweek.com/en/program">Please find the program on the website of the Berlin New Media Week</a>
 
 “Lanterns: Unseen” is a collective exhibition designed explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations.
@@ -50,4 +48,3 @@ Jonasstraße 22, 12053 Berlin
 Michelle Meissner, Gabriel Jeanjean, Martyna Lebryk  
 for Prachtsaal Studio
 
-![](lantern.webp)
