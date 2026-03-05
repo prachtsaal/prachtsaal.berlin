@@ -10,22 +10,24 @@
   <!-- If you are using pagination, section.pages will be empty.
        You need to use the paginator object -->  
   {% for page in section.pages %}
-  <div>
-	{% for asset in page.assets %}
-        {% if asset is matching(".*thumb.*") %}
-          {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
-          <img src="{{ image.url }}">
-          {% break %}
-        {% endif %}
-	{% endfor %}  
-  </div>
-  <div>
-	  <a href="{{ page.permalink | safe }}">
-		  <h2>{{ page.date }}<br/>{{ page.title }}</h2>
-		  <h3>{{ page.extra.subtitle }}</h3>
-	  </a>
-  </div>
-  {% endfor %}
+    {% if page.extra.archive %}
+    <div>
+    	{% for asset in page.assets %}
+          {% if asset is matching(".*thumb.*") %}
+            {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
+            <img src="{{ image.url }}">
+            {% break %}
+          {% endif %}
+  	  {% endfor %}  
+    </div>
+    <div>
+  	  <a href="{{ page.permalink | safe }}">
+  		  <h2>{{ page.date }}<br/>{{ page.title }}</h2>
+  		  <h3>{{ page.extra.subtitle }}</h3>
+  	  </a>
+    </div>
+    {% endif %}
+    {% endfor %}
 
 </div>
 

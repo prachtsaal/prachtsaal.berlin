@@ -14,7 +14,7 @@
       {% for asset in member.assets %}
       	{% if asset is matching(".*thumb.*") %}
 	  {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
-  	  <img src="{{ image.url }}">
+      <img src="{{ image.url }}">
 	  {% set_global found = true %}
 	  {% break %}
 	{% endif %}
@@ -74,15 +74,16 @@
 <h1>Communities</h1>
 <div class="people">
   {% for community in section.extra.communities %}
-  <div>
     {% if community.thumb %}
-      <a href="{{ community.website }}">
-      <img src="/img/communities/{{ community.thumb }}" alt="{{ community.name }}">
-      </a>
+    <div>
+      <a href="{{ community.website }}"><img 
+        src="/img/communities/{{ community.thumb }}" alt="{{ community.name }}"></a>
+    </div>
     {% else %}
+    <div class="centered" style="background-color:#EEE; border-bottom: 7px solid white;">
       {{ community.name }}
+    </div>
     {% endif %}
-  </div>
   {% endfor %}
 </div>
 

@@ -2,8 +2,22 @@
 
 {% block content %}
 
-{{ section.content | safe }}
+  {{ section.content | safe }}
 
-{% include "studiosAvailable.html" %}
+  <h2>Featured events</h2>
+  <div>
+  {% set featuredEvents = get_section(path="events/_index.md") %}
+  {% for item in featuredEvents.pages %}
+    {% if item.extra.frontpage %}
+      <div>
+        <h3>{{ item.title }}</h3>
+        {{ item.extra.subtitle }}<br/>
+        {{ item.extra.date }}<br/>
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  {% include "studiosAvailable.html" %}
 
 {% endblock content %}

@@ -3,6 +3,7 @@ title = "Breaking!!! AI Mistakes Art Exhibit for Alternate Reality"
 
 [extra]
 subtitle = "48 Hours Neukölln"
+archive = true
 description = "This group exhibition explores dimensions of AI-human interaction, expressing both fascination and concern over the evolving role of artificial intelligence in shaping our understanding of reality."
 date = 2025-06-27
 endDate = 2025-06-29
