@@ -4,20 +4,36 @@
 
 {% block content %}
 
-<h1 class="title">
-  {{ page.extra.fullName }}
-</h1>
+<h1 class="title">{{ page.extra.fullName }}</h1>
   
 <div id="">{{ page.extra.description }}</div>
 
-<a href="{{ page.extra.website | default(value="") }}">
-{{- page.extra.website | default(value="") -}}
-</a><br/>
+<div>
+{% if page.extra.website %}
+  {% if page.extra.website is string %}
+    <a href="{{ page.extra.website }}">{{ page.extra.website }}</a><br/>
+  {% else %}
+    {% for web in page.extra.website %}
+      <a href="{{ web }}">{{ web }}</a><br/>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% if page.extra.socials %}
+  {% if page.extra.socials is string %}
+    <a href="{{ page.extra.socials }}">{{ page.extra.socials }}</a><br/>
+  {% else %}
+    {% for social in page.extra.socials %}
+      <a href="{{ social }}">{{ social }}</a><br/>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+</div>
 
 {% for asset in page.assets -%}
   {% if 'portrait' in asset %}
     {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
-    <p><img src="{{ image.url }}"></p>
+    <p><img src="{{ image.url }}" class="wide"></p>
   {% endif %}
 {%- endfor %}
 
@@ -26,14 +42,10 @@
 {% for asset in page.assets -%}
   {% if 'thumb' not in asset and 'portrait' not in asset %}
     {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
-  <p><img src="{{ image.url }}"></p>
+    {% set thumb = resize_image(path=asset, width=200, height=200, op="fit_height", format="webp", quality=90) %}
+  <img src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
   {% endif %}
 {%- endfor %}
-
-{% for social in page.extra.socials %}
-<a href="{{ social}}">{{ social }}</a><br/>
-{% endfor %}
-
 
 {% include "photoSlideshow.html" %}
 

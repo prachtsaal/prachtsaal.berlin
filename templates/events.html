@@ -15,7 +15,7 @@
     	{% for asset in page.assets %}
           {% if asset is matching(".*thumb.*") %}
             {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
-            <img src="{{ image.url }}">
+                <a href="{{ page.permalink | safe }}"><img src="{{ image.url }}"></a>
             {% break %}
           {% endif %}
   	  {% endfor %}  
