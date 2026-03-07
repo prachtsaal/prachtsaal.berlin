@@ -159,6 +159,9 @@ nav {
 .people {
     display: flex;
     flex-flow: wrap;
+    a {
+        hyphens: auto;
+    }
     img {
         width: 100%;
         object-fit: cover;
@@ -172,7 +175,7 @@ nav {
         filter: saturate(120%) hue-rotate(-5deg);
     }
 
-    & > div{
+    & > div {
         display : flex;
         width : calc(25% - 20px);
         margin : 10px;
