@@ -1,6 +1,6 @@
 ---
 layout: member
-current: false
+current: true
 full_name: Roberta Maddalena (Bireau) 
 description: painter / filmmaker
 thumb: /assets/img/members/roberta-maddalena-bireau/Roberta-thumb.webp
