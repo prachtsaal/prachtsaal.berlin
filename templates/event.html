@@ -19,9 +19,11 @@
   {% for asset in page.assets -%}
     {% if 'thumb' not in asset and 'mp4' not in asset %}
       {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
-      <p><img src="{{ image.url }}"></p>
+      <img src="{{ image.url }}" data-lightbox="{{ image.url }}">
     {% endif %}
   {%- endfor %}
+
+  {% include "photoSlideshow.html" %}
 
 {% endblock content %}
 

@@ -3,12 +3,11 @@ title = "Processing Community Catalog Reading"
 date = 2023-09-23
 
 [extra]
-subtitle = "Hosted by Creative Code Berlin &mdash; with special guest Casey Reas"
+archive = true
+subtitle = "Hosted by Creative Code Berlin - with special guest Casey Reas"
 description = "A warm evening with Casey Reas and the Processing community in Berlin."
 tags = ["portfolio"]
 +++
-
-![](an-introduction-by-casey-reas.webp)
 
 It was an exciting in-person event at Prachtsaal Studio. We were thrilled
 to have [Casey Reas](https://reas.com/) as our special guest for a special reading of the

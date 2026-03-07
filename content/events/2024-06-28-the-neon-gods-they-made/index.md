@@ -3,13 +3,12 @@ title = "The Neon Gods They Made"
 date = 2024-06-28
 
 [extra]
+archive = true
 subtitle = "48 Hours Neukölln"
 description = "" 
 endDate = 2024-06-30
 tags = ["exhibition", "portfolio"]
 +++
-
-![](neon-gods-thumb.jpg)
 
 The Neon Gods They Made, is a fragment of
 lyrics from the song “The Sound of Silence” sung
@@ -29,12 +28,10 @@ living conditions. In contrast, breaking the
 silence is a common theme of contemporary
 liberty movements that ask us to not stay indifferent
 to the silencing of marginalized voices.
-  
-![](neon-gods-full.jpg)
 
 During 48h Neukölln 2024 we would like to
 present an exhibition “The Neon Gods They
-Made”, created in curated effort of all our
+Made”, created in a curated effort of all our
 resident artists. We want to meditate on all the
 aspects of silence in modernity, including
 discomforting ones. At the same time we fully
@@ -44,8 +41,6 @@ the most significant phenomena of our lives
 cannot be expressed in words, therefore we will
 try to express something important in imagery
 and movement, but in silence.
-
-![](2024-48hoursNK-group-shot.webp)
 
 Our foyer is acting as an art gallery presenting
 paintings, our garden will host installations, our

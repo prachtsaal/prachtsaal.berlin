@@ -3,17 +3,17 @@ title = "The Art Market IV"
 date = 2024-09-20
 
 [extra]
+archive = true
 subtitle = "by Artist Stop Being Poor"
 description = ""
 endDate = 2024-09-22
 +++
 
-![](The-Art-Market-3-posters-04-crop.webp)
-
 Organized by [Artist Stop Being Poor](https://artiststopbeingpoor.club/the-art-market/) and taking place at Prachtsaal over the 20, 21 and 22 of September. With more than 30 artists showcasing their art and merchandising, this is an excellent opportunity to fall in love and acquire some excellent art.
 
-## Opening hours:
-Vernisaage, Friday, 20.09, 18.00-22.00  
+## Opening hours
+
+Vernissage, Friday, 20.09, 18.00-22.00  
 Saturday, 21.09, 14.00-20.00  
 Sunday, 22.09, 14.00-20.00  
 
@@ -22,8 +22,4 @@ Sunday, 22.09, 14.00-20.00
   <source src="the-art-market-3-reel-1-low.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-  
-![](20231202_173014_Original-scaled.webp)
-![](20231202_175128_Original-768x1024.webp)
-![](20231202_175141_Original-768x1024.webp)
 

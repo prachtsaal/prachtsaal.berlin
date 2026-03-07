@@ -2,6 +2,7 @@
 title = "Lucid Intervals"
 
 [extra]
+archive = true
 subtitle = "Audiovisual performances and art installation"
 description = "On Saturday, June 7th, we are opening our venue to invite you to a synthesis of sound and light. We will present an audiovisual performance, a musical improv set with live visuals, and an interactive art installation."
 date = 2025-06-07
@@ -56,8 +57,3 @@ Saturday, 07.06., 20.00
 [Barbara Morgenstern](https://www.barbaramorgenstern.de/)  
 [Gabriel Jeanjean](https://www.gabrieljeanjean.com/)
   
-![](LucidIntervals_event_img1.jpg)
-
-![](LucidIntervals_event_img2.jpg)
-
-![](LucidIntervals_event_img3.jpg)

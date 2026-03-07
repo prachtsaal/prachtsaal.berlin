@@ -3,6 +3,7 @@ title = 'Prachtayama'
 date = 2021-06-18
 
 [extra]
+archive = true
 subtitle = '48 Hours Neukölln'
 description = 'A group exhibition inspired by Pranayama'
 endDate = 2021-06-20
@@ -10,14 +11,10 @@ tags = ['exhibition', 'portfolio']
 +++
 A group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.
 
-![](PRACHTAYAMA.webp)
-
 The centerpiece of the exhibition will be a collaborative, interdisciplinary installation.
 The combination of multiple techniques and guided breathing exercises creates an interactive experience in which visitors get empowered and connected with themselves.
 
 With a variety of media such as painting, tape art, interactive installations, sculpture, digitally and olfactory elements, visitors will encounter the theme of "AIR" and thus be stimulated in a very diverse way, to multidimensional reflections.
-
-![](LOCATION.webp)
 
 ## Artists
 
