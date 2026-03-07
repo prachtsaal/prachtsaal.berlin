@@ -9,7 +9,7 @@ Welcome to Prachtsaal, a living junction where artists and audiences meet to exp
 
 # What happens at Prachtsaal ?
 
-Contact us here for more info@prachtsaal.berlin
+Contact us here for more [info@prachtsaal.berlin](mailto:info@prachtsaal.berlin)  
 or on our [social media](https://www.instagram.com/prachtsaal)!
 
-![](/img/prachtsaal_banner_01.webp)
+<img src="/img/prachtsaal_banner_01.webp" class="wide">
