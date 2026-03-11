@@ -268,9 +268,10 @@ footer {
 
 
 #debug {
-  margin: 50px;
-  padding: 50px;
-  border: 1px solid pink;
-  overflow: scroll;
-  font-size: small;
+    display: none;
+    margin: 50px;
+    padding: 50px;
+    border: 1px solid pink;
+    overflow: scroll;
+    font-size: small;
 }
