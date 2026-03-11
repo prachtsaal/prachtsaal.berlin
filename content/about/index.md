@@ -1,5 +1,5 @@
 +++
-template = "about.html"
+template = "simple.html"
 title = "about us"
 +++
 

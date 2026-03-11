@@ -1,12 +1,13 @@
 +++
 title = "Impressum"
+template = "simple.html"
 +++
 ## Angaben gem. § 5 des TMG:
 
 ### Adresse:
 
-Prachtsaal Studio\
-Jonasstraße 22\
+Prachtsaal Studio  
+Jonasstraße 22  
 12053 Berlin  
 
 <!--
