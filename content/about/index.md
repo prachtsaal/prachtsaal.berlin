@@ -39,7 +39,6 @@ We’re in the process of becoming a registered non-profit cooperative (*gemeinn
 
 **Let’s reimagine the architecture of art and community together!**
 
-# history of the building.
 
 ## A Living History: The Soul of Prachtsaal
 
