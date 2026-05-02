@@ -2,3 +2,4 @@ public/
 static/processed_images/
 .idea/
 .vscode/
+.DS_Store
