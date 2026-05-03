@@ -76,115 +76,20 @@ DE6666666
 </footer>
 
 
-  <pre id="debug">{
-  "config": {
-    "base_url": "https://prachtsaal.berlin/zola",
-    "mode": "build",
-    "title": "Prachtsaal Studio",
-    "description": null,
-    "languages": {},
-    "default_language": "en",
-    "generate_feed": false,
-    "generate_feeds": false,
-    "feed_filenames": [
-      "atom.xml"
-    ],
-    "taxonomies": [],
-    "author": null,
-    "build_search_index": true,
-    "extra": {},
-    "markdown": {
-      "highlighting": null,
-      "render_emoji": false,
-      "external_links_class": null,
-      "external_links_target_blank": false,
-      "external_links_no_follow": false,
-      "external_links_no_referrer": false,
-      "external_links_external": true,
-      "smart_punctuation": false,
-      "definition_list": false,
-      "bottom_footnotes": false,
-      "lazy_async_image": false,
-      "insert_anchor_links": "none",
-      "github_alerts": false
-    },
-    "search": {
-      "index_format": "elasticlunr_javascript"
-    },
-    "generate_sitemap": true,
-    "generate_robots_txt": true,
-    "exclude_paginated_pages_in_sitemap": "none"
-  },
-  "current_path": "/impressum/",
-  "current_url": "https://prachtsaal.berlin/zola/impressum/",
-  "lang": "en",
-  "page": {
-    "relative_path": "impressum/index.md",
-    "colocated_path": "impressum/",
-    "content": "<h2 id=\"angaben-gem-ss-5-des-tmg\">Angaben gem. § 5 des TMG:</h2>\n<h3 id=\"adresse\">Adresse:</h3>\n<p>Prachtsaal Studio<br />\nJonasstraße 22<br />\n12053 Berlin</p>\n<!--\n\n### Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:\n  \nDE6666666\n-->\n<h3 id=\"elektronische-kontaktaufnahme\">Elektronische Kontaktaufnahme:</h3>\n<p>E-Mail: <a href=\"mailto:&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;\">info@prachtsaal.berlin</a></p>\n<p>Tel: <a href=\"tel:&#32;&#43;&#52;&#57;&#49;&#53;&#57;&#48;&#51;&#49;&#54;&#55;&#53;&#50;&#49;\"> +49 159 0 31 67 521</a></p>\n<h3 id=\"verantwortlich-fur-den-inhalt-nach-ss-18-mstv\">Verantwortlich für den Inhalt nach § 18 MStV:</h3>\n<p>Kazimierz Pogoda</p>\n",
-    "permalink": "https://prachtsaal.berlin/zola/impressum/",
-    "slug": "impressum",
-    "ancestors": [
-      "_index.md"
-    ],
-    "title": "Impressum",
-    "description": null,
-    "updated": null,
-    "date": null,
-    "year": null,
-    "month": null,
-    "day": null,
-    "taxonomies": {},
-    "authors": [],
-    "extra": {},
-    "path": "/impressum/",
-    "components": [
-      "impressum"
-    ],
-    "summary": null,
-    "toc": [
-      {
-        "level": 2,
-        "id": "angaben-gem-ss-5-des-tmg",
-        "permalink": "https://prachtsaal.berlin/zola/impressum/#angaben-gem-ss-5-des-tmg",
-        "title": "Angaben gem. § 5 des TMG:",
-        "children": [
-          {
-            "level": 3,
-            "id": "adresse",
-            "permalink": "https://prachtsaal.berlin/zola/impressum/#adresse",
-            "title": "Adresse:",
-            "children": []
-          },
-          {
-            "level": 3,
-            "id": "elektronische-kontaktaufnahme",
-            "permalink": "https://prachtsaal.berlin/zola/impressum/#elektronische-kontaktaufnahme",
-            "title": "Elektronische Kontaktaufnahme:",
-            "children": []
-          },
-          {
-            "level": 3,
-            "id": "verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
-            "permalink": "https://prachtsaal.berlin/zola/impressum/#verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
-            "title": "Verantwortlich für den Inhalt nach § 18 MStV:",
-            "children": []
-          }
-        ]
+  <pre id="debug">
+  
+  </pre>
+  <script>
+  document.addEventListener('keypress', function(event) {
+    if (event.key === 'd' || event.key === 'D') {
+      const debugElement = document.getElementById('debug');
+      if (debugElement) {
+        const currentDisplay = window.getComputedStyle(debugElement).display;
+        debugElement.style.display = currentDisplay === 'none' ? 'block' : 'none';
       }
-    ],
-    "word_count": 120,
-    "reading_time": 1,
-    "assets": [],
-    "draft": false,
-    "lang": "en",
-    "lower": null,
-    "higher": null,
-    "translations": [],
-    "backlinks": []
-  },
-  "zola_version": "0.21.0"
-}</pre>
+    }
+  });
+  </script>
 </body>
 
 </html>

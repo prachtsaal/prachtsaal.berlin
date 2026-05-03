@@ -111,101 +111,20 @@
 </footer>
 
 
-  <pre id="debug">{
-  "config": {
-    "base_url": "https://prachtsaal.berlin/zola",
-    "mode": "build",
-    "title": "Prachtsaal Studio",
-    "description": null,
-    "languages": {},
-    "default_language": "en",
-    "generate_feed": false,
-    "generate_feeds": false,
-    "feed_filenames": [
-      "atom.xml"
-    ],
-    "taxonomies": [],
-    "author": null,
-    "build_search_index": true,
-    "extra": {},
-    "markdown": {
-      "highlighting": null,
-      "render_emoji": false,
-      "external_links_class": null,
-      "external_links_target_blank": false,
-      "external_links_no_follow": false,
-      "external_links_no_referrer": false,
-      "external_links_external": true,
-      "smart_punctuation": false,
-      "definition_list": false,
-      "bottom_footnotes": false,
-      "lazy_async_image": false,
-      "insert_anchor_links": "none",
-      "github_alerts": false
-    },
-    "search": {
-      "index_format": "elasticlunr_javascript"
-    },
-    "generate_sitemap": true,
-    "generate_robots_txt": true,
-    "exclude_paginated_pages_in_sitemap": "none"
-  },
-  "current_path": "/members/luna-nane/",
-  "current_url": "https://prachtsaal.berlin/zola/members/luna-nane/",
-  "lang": "en",
-  "page": {
-    "relative_path": "members/luna-nane/index.md",
-    "colocated_path": "members/luna-nane/",
-    "content": "<p>Hi, my name is Luna Nane. I am a creative technologist and interactive developer based in Berlin. I have a strong focus on creative applications that combine excelence in real-time motion graphics, AI, data-visualization and immersive experiences.</p>\n",
-    "permalink": "https://prachtsaal.berlin/zola/members/luna-nane/",
-    "slug": "luna-nane",
-    "ancestors": [
-      "_index.md",
-      "members/_index.md"
-    ],
-    "title": "Luna Nane",
-    "description": null,
-    "updated": null,
-    "date": null,
-    "year": null,
-    "month": null,
-    "day": null,
-    "taxonomies": {},
-    "authors": [],
-    "extra": {
-      "current": true,
-      "description": "creative technologist and interactive developer",
-      "fullName": "Luna Nane",
-      "socials": [
-        "https://www.instagram.com/luna_nane_art/"
-      ],
-      "website": "https://lunanane.com/"
-    },
-    "path": "/members/luna-nane/",
-    "components": [
-      "members",
-      "luna-nane"
-    ],
-    "summary": null,
-    "toc": [],
-    "word_count": 39,
-    "reading_time": 1,
-    "assets": [
-      "/members/luna-nane/1.webp",
-      "/members/luna-nane/2.webp",
-      "/members/luna-nane/3.webp",
-      "/members/luna-nane/4.webp",
-      "/members/luna-nane/thumb-portrait.webp"
-    ],
-    "draft": false,
-    "lang": "en",
-    "lower": null,
-    "higher": null,
-    "translations": [],
-    "backlinks": []
-  },
-  "zola_version": "0.21.0"
-}</pre>
+  <pre id="debug">
+  
+  </pre>
+  <script>
+  document.addEventListener('keypress', function(event) {
+    if (event.key === 'd' || event.key === 'D') {
+      const debugElement = document.getElementById('debug');
+      if (debugElement) {
+        const currentDisplay = window.getComputedStyle(debugElement).display;
+        debugElement.style.display = currentDisplay === 'none' ? 'block' : 'none';
+      }
+    }
+  });
+  </script>
 </body>
 
 </html>
