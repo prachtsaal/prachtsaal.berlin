@@ -19,7 +19,22 @@
 
   {% include "footer.html" %}
 
-  <pre id="debug">{{ __tera_context }}</pre>
+  <pre id="debug">
+  {% if config.mode == "serve" %}
+    {{ __tera_context }}
+  {% endif %}
+  </pre>
+  <script>
+  document.addEventListener('keypress', function(event) {
+    if (event.key === 'd' || event.key === 'D') {
+      const debugElement = document.getElementById('debug');
+      if (debugElement) {
+        const currentDisplay = window.getComputedStyle(debugElement).display;
+        debugElement.style.display = currentDisplay === 'none' ? 'block' : 'none';
+      }
+    }
+  });
+  </script>
 </body>
 
 </html>
