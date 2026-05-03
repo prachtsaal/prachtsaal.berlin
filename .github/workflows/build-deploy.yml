@@ -28,12 +28,12 @@ jobs:
       - name: Build static site # creates website in folder _site
         run: bundle exec jekyll build
 
-      - name: Deploy website
+      - name: Deploy website # pr-preview: used for previewing PRs. zola: preview of new website; spare it
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
           branch: gh-pages
           clean-exclude: |
-            pr-preview  # used for preview of PRs
-            zola        # preview of new website; spare it
+            pr-preview
+            zola
           force: false
