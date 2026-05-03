@@ -2,26 +2,35 @@ $links-hover-color: #39ff14;
 $shadows-color: grey;
 
 html {
-    font-size: clamp(1rem, 1vw, 1.2rem);
-    background : white;
+    background: white;
 }
 
 body{
-    top :4px;
+    top: 4px;
     padding: 0px;
-    margin:0px;
+    margin: 0px;
     position: absolute;
     left: 25%;
     width: 50%;
     font-family: "Arial", "Liberation Sans";
+    font-size: calc(15px + 0.390625vw);
+    line-height: 1.5;
 }
 
+h1 {
+    font-size: 1.8rem;
+}
 h2 {
-	filter: drop-shadow(1px 1px 2px $shadows-color); 
+    filter: drop-shadow(1px 1px 2px $shadows-color);
+    line-height: 1.1;
+    font-size: 1.4rem;
+}
+h3 {
+    font-size: 1.2rem;
 }
 
 a {
-   text-decoration : none;
+   text-decoration: none;
 
    &:visited { 
    }
@@ -43,7 +52,7 @@ a {
 }
 
 iframe{
-    width : calc(50% - 4px);
+    width: calc(50% - 4px);
 }
 
 div.centered {
@@ -56,7 +65,7 @@ div.centered {
 }
 
 nav {
-    width : 100%;
+    width: 100%;
     background-color: rgba(255,255,255,0.2);
     backdrop-filter: blur(10px);
     margin-bottom: 1em;
@@ -66,18 +75,18 @@ nav {
     }
 
     .menu {
-      display : block;
+      display: block;
       border-bottom: dashed;
 
       a {
         text-decoration: none;
-        color : black;
+        color: black;
         padding: 10px;
-        margin : 0px;
+        margin: 0px;
         display: inline-block;
         width: calc(25% - 25px);
-        font-size : 16pt;
-        text-align : center;
+        font-size: 1.3rem;
+        text-align: center;
 
         &:visited {
           color: black;
@@ -92,7 +101,7 @@ nav {
 #index-img {
     translate: -2px 10%; 
     border-radius: 10px; 
-    width:calc(100% + 4px); 
+    width: calc(100% + 4px); 
     box-shadow: 1px 1px 3px $shadows-color;
 }
 
@@ -116,9 +125,9 @@ nav {
     }
 
     & > div {
-        display : flex;
-        width : calc(25% - 20px);
-        margin : 10px;
+        display: flex;
+        width: calc(25% - 20px);
+        margin: 10px;
     }
 }
 
@@ -127,10 +136,10 @@ nav {
     flex-flow: wrap;
 
     & > div {
-        width:calc(50% - 10px);
-        display : block;
+        width: calc(50% - 10px);
+        display: block;
         flex-direction: row;
-        margin : 5px;
+        margin: 5px;
     }
 }
 
@@ -138,15 +147,15 @@ nav {
     display: flex;
     flex-flow: wrap;
     div {
-        width : calc(50% - 20px );
-        aspect-ratio : 1;
-        margin : 10px;
-        display : flex;
+        width: calc(50% - 20px );
+        aspect-ratio: 1;
+        margin: 10px;
+        display: flex;
     }
     img {
         min-width: 100%;
         min-height: 100%;
-        width : auto;
+        width: auto;
         height: 100%;
         object-fit: cover;
         filter: drop-shadow(2px 2px 4px $shadows-color);
@@ -162,12 +171,13 @@ footer {
     margin-top: 6px;
     border-radius: 15px 15px 0px 0px;
     filter: drop-shadow(2px 2px 4px $shadows-color);
-    line-height: 18pt;
+    line-height: 1.5rem;
+    font-size: 0.9rem;
 
     a, a:visited {
       color: white;
     }
-    a:hover{
+    a:hover {
       color: $links-hover-color;
     }
     img {
@@ -182,28 +192,27 @@ footer {
 }
 
 @media (max-width: 1400px) {
-    body{
+    body {
         left: 15%;
-        width:70%;  
+        width: 70%;  
     }
 }
 
 
 @media (max-width: 1000px) {
-    body{
+    body {
         left: 4px;
-        width:calc(100% - 8px);
-        font-size: 10pt;
+        width: calc(100% - 8px);
     }
     
     #fun {
-        overflow : hidden;
+        overflow: hidden;
     }
     
    .people > div{
-        display : flex;
-        width : calc(33% - 10px);
-        margin : 5px;
+        display: flex;
+        width: calc(33% - 10px);
+        margin: 5px;
     }
 }
 
