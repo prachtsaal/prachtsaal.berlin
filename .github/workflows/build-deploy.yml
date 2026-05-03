@@ -33,5 +33,7 @@ jobs:
         with:
           folder: _site
           branch: gh-pages
-          clean-exclude: pr-preview  # used for preview of PRs
+          clean-exclude: |
+            pr-preview  # used for preview of PRs
+            zola        # preview of new website; spare it
           force: false
