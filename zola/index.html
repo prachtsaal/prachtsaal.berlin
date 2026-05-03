@@ -98,7 +98,7 @@ function init() {
 
     element.appendChild(renderer.domElement);
 
-const texture = new THREE.TextureLoader().load("/img/prachtsaal_banner_01.webp");
+const texture = new THREE.TextureLoader().load("https://prachtsaal.berlin/zola/img/prachtsaal_banner_01.webp");
 
     // fix panorama color space
     texture.colorSpace = THREE.SRGBColorSpace;
@@ -3061,7 +3061,7 @@ function animate() {
   "section": {
     "relative_path": "_index.md",
     "colocated_path": null,
-    "content": "<h2 id=\"info-prachtsaal-berlin\"><a href=\"mailto:info@prachtsaal.berlin\">info@prachtsaal.berlin</a></h2>\n<h2 id=\"\"><a href=\"https:&#x2F;&#x2F;www.instagram.com&#x2F;prachtsaal\" class=\"rainbow-link\">social media</a>\n\n<style>\n    @keyframes rainbow { to { background-position: 100%; } }\n\n    a.rainbow-link,\n    a.rainbow-link:visited,\n    a.rainbow-link:hover {\n        background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);\n        background-size: 400% 100%;\n       -webkit-background-clip: text;\n        background-clip: text;\n        color: transparent;\n        animation: rainbow 10s linear infinite;\n    }\n</style></h2>\n\n<div id=\"viewer\" ></div>\n\n<style>\n#viewer {\n\tposition : relative; \n\twidth: 100%; \n\taspect-ratio: 16 / 9; \n\theight : auto;\n\n}\n</style>\n\n<script type=\"importmap\">\n{\n  \"imports\": {\n    \"three\": \"https://threejs.org/build/three.module.js\",\n    \"three/addons/\": \"https://threejs.org/examples/jsm/\"\n  }\n}\n</script>\n\n<script type=\"module\">\n\nimport * as THREE from \"three\";\nimport { OrbitControls } from \"three/addons/controls/OrbitControls.js\";\n\nconst element = document.getElementById(\"viewer\");\n\nconst width = element.clientWidth;\nconst height = element.clientHeight;\n\nlet camera, scene, renderer, controls;\n\ninit();\n\nfunction init() {\n\n    scene = new THREE.Scene();\n\n    camera = new THREE.PerspectiveCamera(70, width / height, 1, 1000);\n    camera.position.set(0, 0, 0.1);\n\n    renderer = new THREE.WebGLRenderer({ antialias: true });\n    renderer.setSize(width, height);\n\n    // modern color management (fix washed-out textures)\n    renderer.outputColorSpace = THREE.SRGBColorSpace;\n\n    element.appendChild(renderer.domElement);\n\nconst texture = new THREE.TextureLoader().load(\"/img/prachtsaal_banner_01.webp\");\n\n    // fix panorama color space\n    texture.colorSpace = THREE.SRGBColorSpace;\n\n    const geometry = new THREE.SphereGeometry(500, 60, 40);\n    geometry.scale(-1, 1, 1);\n\n    const material = new THREE.MeshBasicMaterial({\n        map: texture\n    });\n\n    const mesh = new THREE.Mesh(geometry, material);\n    scene.add(mesh);\n\n    controls = new OrbitControls(camera, renderer.domElement);\n\n    // allow page scrolling\n    controls.enableZoom = false;\n\n    // disable panning\n    controls.enablePan = false;\n\n    // smooth slow auto rotate\n    controls.autoRotate = true;\n    controls.autoRotateSpeed = 0.25;\n\n    // drag feel\n    controls.rotateSpeed = -0.3;\n\n    window.addEventListener(\"resize\", onResize);\n\n    animate();\n}\n\nfunction onResize() {\n\nconst width = element.clientWidth;\nconst height = element.clientHeight;\n\ncamera.aspect = width / height;\ncamera.updateProjectionMatrix();\nrenderer.setSize(width, height);\n\n}\n\nfunction animate() {\n\n    requestAnimationFrame(animate);\n\n    controls.update();\n\n    renderer.render(scene, camera);\n\n}\n\n</script>\n<h2 id=\"neukolln-s-non-profit-art-cooperative\">Neukölln's non-profit art cooperative</h2>\n<p>Welcome to Prachtsaal, a living junction where artists and audiences meet to experiment, reflect, and reimagine. Rooted in Neukölln, we’re a non-profit cooperative championing bold visual art, performance, and sound. Our space offers affordable ateliers, inclusive programming, and a spirit of radical hospitality. We believe in curiosity as method, play as strategy, and collaboration as catalyst. Step into a community where creativity stretches its limbs and the boundaries of practice are always in flux.</p>\n<div id=\"fun\">\n  <span>Workshops</span>\n  <span>Exhibitions</span>\n  <span>Meeting</span>\n  <span>Printing</span>\n  <span>Writing</span>\n  <span>Coding</span>\n  <span>Coworking</span>\n  <span>Music</span>\n  <span>Painting</span>\n  <span>Cinema</span>\n  <span>Craft</span>\n  <span>Podcasts</span>\n  <span>Cooking</span>\n  <span>Drawing</span>\n  <span>Photography</span>\n  <span>Game</span>\n  <span>Research</span>\n  <span>Tatoo</span>\n</div>\n\n<style>\n#fun{\n    position: relative;\n    width : 100%;\n    height : 200px;\n    filter: drop-shadow(2px 2px 4px var(--shadows-color));\n}\n\n#fun span {\n  position: absolute;\n  left: 40%;\n  top : 25%;\n  animation: magical var(--duration, 120s) var(--delay, 0s) infinite ease-in-out;\n\n}\n\n/* Lovely <3 */\n@keyframes magical {\n  0%, 100% { transform: translate(calc(var(--x2, 100) * 3%), calc(var(--y1, 100) * 3%)) scale(calc(var(--x1, 1) *\n var(--x1, 1) * 0.0001)); }\n  25% { transform: translate(calc(var(--x1, 100) * 3%), calc(var(--y2, 100) * 3%)) scale(calc(var(--x2, 1) * var(\n--x2, 1) * 0.0001)); }\n  50% { transform: translate(calc(var(--x2, 0) * 3%), calc(var(--y3, 0) * 3%)) scale(calc(var(--x3, 1) * var(--x3\n, 1) * 0.0001)); }\n  75% { transform: translate(calc(var(--x3, 200) * 3%), calc(var(--y2, 50) * 3%)) scale(calc(var(--y1, 1) * var(-\n-y1, 1) * 0.0001)); }\n}\n\n#fun span:nth-child(1) { --duration: 16s; --x1: 120; --y1: 80; --x2: -50; --y2: -40; --x3: 90; --y3: 30; }\n#fun span:nth-child(2) { --duration: 27s; --x1: -100; --y1: 60; --x2: 130; --y2: -20; --x3: -70; --y3: 50; }\n#fun span:nth-child(3) { --duration: 18s; --x1: 80; --y1: -90; --x2: -120; --y2: 40; --x3: 60; --y3: -30; }\n#fun span:nth-child(4) { --duration: 25s; --x1: -70; --y1: 100; --x2: 110; --y2: -60; --x3: -40; --y3: 20; }\n#fun span:nth-child(5) { --duration: 19s; --x1: 150; --y1: -70; --x2: -90; --y2: 30; --x3: 100; --y3: -50; }\n#fun span:nth-child(6) { --duration: 26.5s; --x1: -130; --y1: 40; --x2: 80; --y2: -80; --x3: -60; --y3: 60; }\n#fun span:nth-child(7) { --duration: 17.5s; --x1: 90; --y1: 110; --x2: -100; --y2: -10; --x3: 70; --y3: -40; }\n#fun span:nth-child(8) { --duration: 25.5s; --x1: -80; --y1: -50; --x2: 140; --y2: 20; --x3: -30; --y3: 70; }\n#fun span:nth-child(9) { --duration: 18.5s; --x1: 110; --y1: 30; --x2: -150; --y2: 60; --x3: 50; --y3: -20; }\n#fun span:nth-child(10) { --duration: 26.8s; --x1: -60; --y1: 80; --x2: 100; --y2: -70; --x3: -90; --y3: 40; }\n#fun span:nth-child(11) { --duration: 32.2s; --x1: 120; --y1: -40; --x2: -70; --y2: 50; --x3: 80; --y3: -60; }\n#fun span:nth-child(12) { --duration: 44.5s; --x1: -170; --y1: 20; --x2: 120; --y2: -30; --x3: -50; --y3: 30; }\n#fun span:nth-child(13) { --duration: 31.5s; --x1: 40; --y1: 110; --x2: -110; --y2: -20; --x3: 70; --y3: -140; }\n#fun span:nth-child(14) { --duration: 14.5s; --x1: -40; --y1: -50; --x2: 130; --y2: 70; --x3: -20; --y3: 70; }\n#fun span:nth-child(15) { --duration: 19.4s; --x1: 130; --y1: 60; --x2: -110; --y2: 30; --x3: 50; --y3: -70; }\n#fun span:nth-child(16) { --duration: 28.8s; --x1: -80; --y1: 80; --x2: 90; --y2: -10; --x3: -40; --y3: 40; }\n#fun span:nth-child(17) { --duration: 49.2s; --x1: 160; --y1: -40; --x2: -90; --y2: 30; --x3: 80; --y3: -10; }\n#fun span:nth-child(18) { --duration: 38.6s; --x1: -120; --y1: 20; --x2: 0; --y2: -50; --x3: -50; --y3: 20; }\n\n</style>\n",
+    "content": "<h2 id=\"info-prachtsaal-berlin\"><a href=\"mailto:info@prachtsaal.berlin\">info@prachtsaal.berlin</a></h2>\n<h2 id=\"\"><a href=\"https:&#x2F;&#x2F;www.instagram.com&#x2F;prachtsaal\" class=\"rainbow-link\">social media</a>\n\n<style>\n    @keyframes rainbow { to { background-position: 100%; } }\n\n    a.rainbow-link,\n    a.rainbow-link:visited,\n    a.rainbow-link:hover {\n        background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);\n        background-size: 400% 100%;\n       -webkit-background-clip: text;\n        background-clip: text;\n        color: transparent;\n        animation: rainbow 10s linear infinite;\n    }\n</style></h2>\n\n<div id=\"viewer\" ></div>\n\n<style>\n#viewer {\n\tposition : relative; \n\twidth: 100%; \n\taspect-ratio: 16 / 9; \n\theight : auto;\n\n}\n</style>\n\n<script type=\"importmap\">\n{\n  \"imports\": {\n    \"three\": \"https://threejs.org/build/three.module.js\",\n    \"three/addons/\": \"https://threejs.org/examples/jsm/\"\n  }\n}\n</script>\n\n<script type=\"module\">\n\nimport * as THREE from \"three\";\nimport { OrbitControls } from \"three/addons/controls/OrbitControls.js\";\n\nconst element = document.getElementById(\"viewer\");\n\nconst width = element.clientWidth;\nconst height = element.clientHeight;\n\nlet camera, scene, renderer, controls;\n\ninit();\n\nfunction init() {\n\n    scene = new THREE.Scene();\n\n    camera = new THREE.PerspectiveCamera(70, width / height, 1, 1000);\n    camera.position.set(0, 0, 0.1);\n\n    renderer = new THREE.WebGLRenderer({ antialias: true });\n    renderer.setSize(width, height);\n\n    // modern color management (fix washed-out textures)\n    renderer.outputColorSpace = THREE.SRGBColorSpace;\n\n    element.appendChild(renderer.domElement);\n\nconst texture = new THREE.TextureLoader().load(\"https://prachtsaal.berlin/zola/img/prachtsaal_banner_01.webp\");\n\n    // fix panorama color space\n    texture.colorSpace = THREE.SRGBColorSpace;\n\n    const geometry = new THREE.SphereGeometry(500, 60, 40);\n    geometry.scale(-1, 1, 1);\n\n    const material = new THREE.MeshBasicMaterial({\n        map: texture\n    });\n\n    const mesh = new THREE.Mesh(geometry, material);\n    scene.add(mesh);\n\n    controls = new OrbitControls(camera, renderer.domElement);\n\n    // allow page scrolling\n    controls.enableZoom = false;\n\n    // disable panning\n    controls.enablePan = false;\n\n    // smooth slow auto rotate\n    controls.autoRotate = true;\n    controls.autoRotateSpeed = 0.25;\n\n    // drag feel\n    controls.rotateSpeed = -0.3;\n\n    window.addEventListener(\"resize\", onResize);\n\n    animate();\n}\n\nfunction onResize() {\n\nconst width = element.clientWidth;\nconst height = element.clientHeight;\n\ncamera.aspect = width / height;\ncamera.updateProjectionMatrix();\nrenderer.setSize(width, height);\n\n}\n\nfunction animate() {\n\n    requestAnimationFrame(animate);\n\n    controls.update();\n\n    renderer.render(scene, camera);\n\n}\n\n</script>\n<h2 id=\"neukolln-s-non-profit-art-cooperative\">Neukölln's non-profit art cooperative</h2>\n<p>Welcome to Prachtsaal, a living junction where artists and audiences meet to experiment, reflect, and reimagine. Rooted in Neukölln, we’re a non-profit cooperative championing bold visual art, performance, and sound. Our space offers affordable ateliers, inclusive programming, and a spirit of radical hospitality. We believe in curiosity as method, play as strategy, and collaboration as catalyst. Step into a community where creativity stretches its limbs and the boundaries of practice are always in flux.</p>\n<div id=\"fun\">\n  <span>Workshops</span>\n  <span>Exhibitions</span>\n  <span>Meeting</span>\n  <span>Printing</span>\n  <span>Writing</span>\n  <span>Coding</span>\n  <span>Coworking</span>\n  <span>Music</span>\n  <span>Painting</span>\n  <span>Cinema</span>\n  <span>Craft</span>\n  <span>Podcasts</span>\n  <span>Cooking</span>\n  <span>Drawing</span>\n  <span>Photography</span>\n  <span>Game</span>\n  <span>Research</span>\n  <span>Tatoo</span>\n</div>\n\n<style>\n#fun{\n    position: relative;\n    width : 100%;\n    height : 200px;\n    filter: drop-shadow(2px 2px 4px var(--shadows-color));\n}\n\n#fun span {\n  position: absolute;\n  left: 40%;\n  top : 25%;\n  animation: magical var(--duration, 120s) var(--delay, 0s) infinite ease-in-out;\n\n}\n\n/* Lovely <3 */\n@keyframes magical {\n  0%, 100% { transform: translate(calc(var(--x2, 100) * 3%), calc(var(--y1, 100) * 3%)) scale(calc(var(--x1, 1) *\n var(--x1, 1) * 0.0001)); }\n  25% { transform: translate(calc(var(--x1, 100) * 3%), calc(var(--y2, 100) * 3%)) scale(calc(var(--x2, 1) * var(\n--x2, 1) * 0.0001)); }\n  50% { transform: translate(calc(var(--x2, 0) * 3%), calc(var(--y3, 0) * 3%)) scale(calc(var(--x3, 1) * var(--x3\n, 1) * 0.0001)); }\n  75% { transform: translate(calc(var(--x3, 200) * 3%), calc(var(--y2, 50) * 3%)) scale(calc(var(--y1, 1) * var(-\n-y1, 1) * 0.0001)); }\n}\n\n#fun span:nth-child(1) { --duration: 16s; --x1: 120; --y1: 80; --x2: -50; --y2: -40; --x3: 90; --y3: 30; }\n#fun span:nth-child(2) { --duration: 27s; --x1: -100; --y1: 60; --x2: 130; --y2: -20; --x3: -70; --y3: 50; }\n#fun span:nth-child(3) { --duration: 18s; --x1: 80; --y1: -90; --x2: -120; --y2: 40; --x3: 60; --y3: -30; }\n#fun span:nth-child(4) { --duration: 25s; --x1: -70; --y1: 100; --x2: 110; --y2: -60; --x3: -40; --y3: 20; }\n#fun span:nth-child(5) { --duration: 19s; --x1: 150; --y1: -70; --x2: -90; --y2: 30; --x3: 100; --y3: -50; }\n#fun span:nth-child(6) { --duration: 26.5s; --x1: -130; --y1: 40; --x2: 80; --y2: -80; --x3: -60; --y3: 60; }\n#fun span:nth-child(7) { --duration: 17.5s; --x1: 90; --y1: 110; --x2: -100; --y2: -10; --x3: 70; --y3: -40; }\n#fun span:nth-child(8) { --duration: 25.5s; --x1: -80; --y1: -50; --x2: 140; --y2: 20; --x3: -30; --y3: 70; }\n#fun span:nth-child(9) { --duration: 18.5s; --x1: 110; --y1: 30; --x2: -150; --y2: 60; --x3: 50; --y3: -20; }\n#fun span:nth-child(10) { --duration: 26.8s; --x1: -60; --y1: 80; --x2: 100; --y2: -70; --x3: -90; --y3: 40; }\n#fun span:nth-child(11) { --duration: 32.2s; --x1: 120; --y1: -40; --x2: -70; --y2: 50; --x3: 80; --y3: -60; }\n#fun span:nth-child(12) { --duration: 44.5s; --x1: -170; --y1: 20; --x2: 120; --y2: -30; --x3: -50; --y3: 30; }\n#fun span:nth-child(13) { --duration: 31.5s; --x1: 40; --y1: 110; --x2: -110; --y2: -20; --x3: 70; --y3: -140; }\n#fun span:nth-child(14) { --duration: 14.5s; --x1: -40; --y1: -50; --x2: 130; --y2: 70; --x3: -20; --y3: 70; }\n#fun span:nth-child(15) { --duration: 19.4s; --x1: 130; --y1: 60; --x2: -110; --y2: 30; --x3: 50; --y3: -70; }\n#fun span:nth-child(16) { --duration: 28.8s; --x1: -80; --y1: 80; --x2: 90; --y2: -10; --x3: -40; --y3: 40; }\n#fun span:nth-child(17) { --duration: 49.2s; --x1: 160; --y1: -40; --x2: -90; --y2: 30; --x3: 80; --y3: -10; }\n#fun span:nth-child(18) { --duration: 38.6s; --x1: -120; --y1: 20; --x2: 0; --y2: -50; --x3: -50; --y3: 20; }\n\n</style>\n",
     "permalink": "https://prachtsaal.berlin/zola/",
     "draft": false,
     "ancestors": [],
@@ -3098,6 +3098,71 @@ function animate() {
     "lang": "en",
     "assets": [],
     "pages": [
+      {
+        "relative_path": "impressum/index.md",
+        "colocated_path": "impressum/",
+        "content": "<h2 id=\"angaben-gem-ss-5-des-tmg\">Angaben gem. § 5 des TMG:</h2>\n<h3 id=\"adresse\">Adresse:</h3>\n<p>Prachtsaal Studio<br />\nJonasstraße 22<br />\n12053 Berlin</p>\n<!--\n\n### Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:\n  \nDE6666666\n-->\n<h3 id=\"elektronische-kontaktaufnahme\">Elektronische Kontaktaufnahme:</h3>\n<p>E-Mail: <a href=\"mailto:&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;\">info@prachtsaal.berlin</a></p>\n<p>Tel: <a href=\"tel:&#32;&#43;&#52;&#57;&#49;&#53;&#57;&#48;&#51;&#49;&#54;&#55;&#53;&#50;&#49;\"> +49 159 0 31 67 521</a></p>\n<h3 id=\"verantwortlich-fur-den-inhalt-nach-ss-18-mstv\">Verantwortlich für den Inhalt nach § 18 MStV:</h3>\n<p>Kazimierz Pogoda</p>\n",
+        "permalink": "https://prachtsaal.berlin/zola/impressum/",
+        "slug": "impressum",
+        "ancestors": [
+          "_index.md"
+        ],
+        "title": "Impressum",
+        "description": null,
+        "updated": null,
+        "date": null,
+        "year": null,
+        "month": null,
+        "day": null,
+        "taxonomies": {},
+        "authors": [],
+        "extra": {},
+        "path": "/impressum/",
+        "components": [
+          "impressum"
+        ],
+        "summary": null,
+        "toc": [
+          {
+            "level": 2,
+            "id": "angaben-gem-ss-5-des-tmg",
+            "permalink": "https://prachtsaal.berlin/zola/impressum/#angaben-gem-ss-5-des-tmg",
+            "title": "Angaben gem. § 5 des TMG:",
+            "children": [
+              {
+                "level": 3,
+                "id": "adresse",
+                "permalink": "https://prachtsaal.berlin/zola/impressum/#adresse",
+                "title": "Adresse:",
+                "children": []
+              },
+              {
+                "level": 3,
+                "id": "elektronische-kontaktaufnahme",
+                "permalink": "https://prachtsaal.berlin/zola/impressum/#elektronische-kontaktaufnahme",
+                "title": "Elektronische Kontaktaufnahme:",
+                "children": []
+              },
+              {
+                "level": 3,
+                "id": "verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
+                "permalink": "https://prachtsaal.berlin/zola/impressum/#verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
+                "title": "Verantwortlich für den Inhalt nach § 18 MStV:",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "word_count": 120,
+        "reading_time": 1,
+        "assets": [],
+        "draft": false,
+        "lang": "en",
+        "lower": null,
+        "higher": null,
+        "translations": [],
+        "backlinks": []
+      },
       {
         "relative_path": "about/index.md",
         "colocated_path": "about/",
@@ -3172,76 +3237,11 @@ function animate() {
         "higher": null,
         "translations": [],
         "backlinks": []
-      },
-      {
-        "relative_path": "impressum/index.md",
-        "colocated_path": "impressum/",
-        "content": "<h2 id=\"angaben-gem-ss-5-des-tmg\">Angaben gem. § 5 des TMG:</h2>\n<h3 id=\"adresse\">Adresse:</h3>\n<p>Prachtsaal Studio<br />\nJonasstraße 22<br />\n12053 Berlin</p>\n<!--\n\n### Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:\n  \nDE6666666\n-->\n<h3 id=\"elektronische-kontaktaufnahme\">Elektronische Kontaktaufnahme:</h3>\n<p>E-Mail: <a href=\"mailto:&#105;&#110;&#102;&#111;&#64;&#112;&#114;&#97;&#99;&#104;&#116;&#115;&#97;&#97;&#108;&#46;&#98;&#101;&#114;&#108;&#105;&#110;\">info@prachtsaal.berlin</a></p>\n<p>Tel: <a href=\"tel:&#32;&#43;&#52;&#57;&#49;&#53;&#57;&#48;&#51;&#49;&#54;&#55;&#53;&#50;&#49;\"> +49 159 0 31 67 521</a></p>\n<h3 id=\"verantwortlich-fur-den-inhalt-nach-ss-18-mstv\">Verantwortlich für den Inhalt nach § 18 MStV:</h3>\n<p>Kazimierz Pogoda</p>\n",
-        "permalink": "https://prachtsaal.berlin/zola/impressum/",
-        "slug": "impressum",
-        "ancestors": [
-          "_index.md"
-        ],
-        "title": "Impressum",
-        "description": null,
-        "updated": null,
-        "date": null,
-        "year": null,
-        "month": null,
-        "day": null,
-        "taxonomies": {},
-        "authors": [],
-        "extra": {},
-        "path": "/impressum/",
-        "components": [
-          "impressum"
-        ],
-        "summary": null,
-        "toc": [
-          {
-            "level": 2,
-            "id": "angaben-gem-ss-5-des-tmg",
-            "permalink": "https://prachtsaal.berlin/zola/impressum/#angaben-gem-ss-5-des-tmg",
-            "title": "Angaben gem. § 5 des TMG:",
-            "children": [
-              {
-                "level": 3,
-                "id": "adresse",
-                "permalink": "https://prachtsaal.berlin/zola/impressum/#adresse",
-                "title": "Adresse:",
-                "children": []
-              },
-              {
-                "level": 3,
-                "id": "elektronische-kontaktaufnahme",
-                "permalink": "https://prachtsaal.berlin/zola/impressum/#elektronische-kontaktaufnahme",
-                "title": "Elektronische Kontaktaufnahme:",
-                "children": []
-              },
-              {
-                "level": 3,
-                "id": "verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
-                "permalink": "https://prachtsaal.berlin/zola/impressum/#verantwortlich-fur-den-inhalt-nach-ss-18-mstv",
-                "title": "Verantwortlich für den Inhalt nach § 18 MStV:",
-                "children": []
-              }
-            ]
-          }
-        ],
-        "word_count": 120,
-        "reading_time": 1,
-        "assets": [],
-        "draft": false,
-        "lang": "en",
-        "lower": null,
-        "higher": null,
-        "translations": [],
-        "backlinks": []
       }
     ],
     "subsections": [
-      "events/_index.md",
-      "members/_index.md"
+      "members/_index.md",
+      "events/_index.md"
     ],
     "translations": [],
     "backlinks": [],
