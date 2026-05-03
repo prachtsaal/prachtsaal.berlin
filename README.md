@@ -8,8 +8,12 @@ The website of Prachtsaal Studios.
 +-------------------------------------+
 
 - In config.toml, change base_url so it no long goes into subfolder
-- 
-
+- Update deploy-main workflow:
+  > Trigger on merge into main, like before
+  > Do not write into subfolder
+  > Clean up /zola too
+- Recreate deploy-pr.yml for PR previews
+- Remove this notice :)
 ```
 
 The content of this website is written in Markdown format, 
