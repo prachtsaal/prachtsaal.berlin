@@ -81,7 +81,7 @@ If a member needs to be completely removed, just delete its folder.
 - Duplicate one of the existing events,  for instance `content/events/2025-09-04-Lanterns-Unseen`.
 - Update the `front matter` in the `index.md` file (the text between `+++` and `+++`)
 - Update the content following the `front matter`.
-- Add images. The image containing `thumb` in the file name will be shown in the member list in square format and at the top of the event page. Any other images will be shown at the bottom of the event page.
+- Add images. The image containing `thumb` in the file name will be shown in the event list in square format and at the top of the event page. Any other images will be shown at the bottom of the event page.
 
 ### Remove an event
 
