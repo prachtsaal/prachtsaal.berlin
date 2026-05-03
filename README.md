@@ -2,6 +2,16 @@
 
 The website of Prachtsaal Studios.
 
+```
++-------------------------------------+  
+| Reminder ~ before merging into main |  
++-------------------------------------+
+
+- In config.toml, change base_url so it no long goes into subfolder
+- 
+
+```
+
 The content of this website is written in Markdown format, 
 using a plain text editor.
 

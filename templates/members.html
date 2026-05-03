@@ -21,7 +21,7 @@
       {% endfor %}
 
       {% if found == false %}
-        <img src="/anonymous.svg">
+        <img src="{{ get_url(path='anonymous.svg') }}">
       {% endif %}
 	    
       {{ member.extra.fullName }}<br/>
@@ -59,7 +59,7 @@
       {% endfor %}
 
       {% if found == false %}
-        <img src="/anonymous.svg">
+        <img src="{{ get_url(path='anonymous.svg') }}">
       {% endif %}
 	    
       {{ member.extra.fullName }}<br/>
@@ -77,7 +77,7 @@
     {% if community.thumb %}
     <div>
       <a href="{{ community.website }}"><img 
-        src="/img/communities/{{ community.thumb }}" alt="{{ community.name }}"></a>
+        src="{{ get_url(path='img/communities/' ~ community.thumb) }}" alt="{{ community.name }}"></a>
     </div>
     {% else %}
     <div class="centered" style="background-color:#EEE; border-bottom: 7px solid white;">

@@ -49,7 +49,7 @@ function init() {
 
     element.appendChild(renderer.domElement);
 
-const texture = new THREE.TextureLoader().load("/img/prachtsaal_banner_01.webp");
+const texture = new THREE.TextureLoader().load("{{ get_url(path='img/prachtsaal_banner_01.webp') }}");
 
     // fix panorama color space
     texture.colorSpace = THREE.SRGBColorSpace;

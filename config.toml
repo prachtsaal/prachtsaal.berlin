@@ -1,7 +1,7 @@
 title = "Prachtsaal Studio"
 
 # The URL the site will be built for
-base_url = "https://prachtsaal.berlin"
+base_url = "https://prachtsaal.berlin/zola"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

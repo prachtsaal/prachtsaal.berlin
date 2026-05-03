@@ -1,0 +1,34 @@
+name: Build and Deploy Main (Zola)
+on:
+  push:
+    branches:                                 # Change to main when merged
+      - zola
+      #- main     
+  workflow_dispatch:  # allows manual trigger
+
+permissions:
+  contents: write
+
+concurrency: ci-${{ github.ref }}
+
+jobs:
+  deploy:
+    name: Build and deploy website
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.22.1
+      - name: Build
+        run: zola build
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          target-folder: zola                # Remove when merging to main
+          folder: public
+          branch: gh-pages
+          clean-exclude: pr-preview
+          force: false

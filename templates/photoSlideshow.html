@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="/css/lite-light.min.css">
-<script type="module" src="/js/lite-light.min.js"></script>
+<link rel="stylesheet" href="{{ get_url(path='css/lite-light.min.css') }}">
+<script type="module" src="{{ get_url(path='js/lite-light.min.js') }}"></script>
 <script type="module">
-	import { init } from '/js/lite-light.min.js';
-    init();
+  import { init } from "{{ get_url(path='js/lite-light.min.js') }}";
+  init();
 </script>
