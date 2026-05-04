@@ -51,17 +51,24 @@ a {
     box-shadow: 1px 1px 3px var(--shadows-color);
 }
 
-iframe{
-    width: calc(50% - 4px);
+iframe {
+    width: 100%;
+    aspect-ratio: 640 / 360;
+}
+
+figcaption {
+    text-align: center;
+    font-size: initial;
+    font-style: italic;
 }
 
 div.centered {
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  box-sizing: border-box;  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;  
 }
 
 nav {
