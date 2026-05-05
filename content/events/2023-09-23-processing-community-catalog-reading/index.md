@@ -46,11 +46,3 @@ It was an unforgettable night of inspiration, connection, and celebration of the
 <em><a href="https://twitter.com/sableRaph">Raphaël de Courville</a>, generative artist, the co-founder of 
 Creative Code Berlin and Community Lead of the Processing Foundation</em>
  
-{{ figure(src="casey-reas-and-olivia-jack.webp", title="Casey Reas and Olivia Jack") }}
- 
-{{ figure(src="so-kanno-and-omii-chen.webp", title="So Kanno and Omii Chen") }}
- 
-{{ figure(src="rachel-uwa.webp", title="Rachel Uwa") }}
- 
-{{ figure(src="processing-community-catalog.jpeg", title="Processing Community Catalog") }}
-
