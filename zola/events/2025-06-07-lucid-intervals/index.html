@@ -75,19 +75,21 @@ Gabriel Jeanjean</p>
 <a rel="external" href="https://www.gabrieljeanjean.com/">Gabriel Jeanjean</a></p>
 
 
+  <div class="img-grid">
   
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img1.c2d53c363136e4e5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img1.04dd8a61ff6153af.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img1.c2d53c363136e4e5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img1.04dd8a61ff6153af.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img2.9d3a0e891fc3b97a.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img2.bf94e9f6a2f1005e.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img2.9d3a0e891fc3b97a.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img2.bf94e9f6a2f1005e.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img3.edff77367d00ead1.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img3.d9abdcbae511d7c0.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img3.edff77367d00ead1.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;LucidIntervals_event_img3.d9abdcbae511d7c0.webp">
     
+  </div>
 
   <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -95,6 +97,19 @@ Gabriel Jeanjean</p>
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+    <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

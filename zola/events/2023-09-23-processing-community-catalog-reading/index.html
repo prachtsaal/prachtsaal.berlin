@@ -69,45 +69,31 @@ an initiative promoting collaboration between artists and coders via two monthly
 <p>It was an unforgettable night of inspiration, connection, and celebration of the Creative Coding community in Berlin.</p>
 <p><em><a href="https://twitter.com/sableRaph">Raphaël de Courville</a>, generative artist, the co-founder of
 Creative Code Berlin and Community Lead of the Processing Foundation</em></p>
-<figure>
-  <img class="wide" src="casey-reas-and-olivia-jack.webp" alt="Casey Reas and Olivia Jack" title="Casey Reas and Olivia Jack">
-  <figcaption>Casey Reas and Olivia Jack</figcaption>
-</figure>
-<figure>
-  <img class="wide" src="so-kanno-and-omii-chen.webp" alt="So Kanno and Omii Chen" title="So Kanno and Omii Chen">
-  <figcaption>So Kanno and Omii Chen</figcaption>
-</figure>
-<figure>
-  <img class="wide" src="rachel-uwa.webp" alt="Rachel Uwa" title="Rachel Uwa">
-  <figcaption>Rachel Uwa</figcaption>
-</figure>
-<figure>
-  <img class="wide" src="processing-community-catalog.jpeg" alt="Processing Community Catalog" title="Processing Community Catalog">
-  <figcaption>Processing Community Catalog</figcaption>
-</figure>
 
 
+  <div class="img-grid">
   
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;casey-reas-and-olivia-jack.1ff4e925c3facbb6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;casey-reas-and-olivia-jack.6abd5d223403acb9.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;casey-reas-and-olivia-jack.1ff4e925c3facbb6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;casey-reas-and-olivia-jack.6abd5d223403acb9.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;eventbrite-casey-reas.a1927d8175913aa0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;eventbrite-casey-reas.59dd4bab2298cecc.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;eventbrite-casey-reas.c56350dd6ca3cdca.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;eventbrite-casey-reas.7b7f5b48b376cbc8.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;processing-community-catalog.a3fe753888f2ff53.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;processing-community-catalog.adf29bfa2bc0be08.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;processing-community-catalog.65fea89c71aaa72e.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;processing-community-catalog.d8c2c0c55a6b13c8.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;rachel-uwa.9a9df12b603262e5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;rachel-uwa.c93cf6597430cc61.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;rachel-uwa.9a9df12b603262e5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;rachel-uwa.c93cf6597430cc61.webp">
     
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;so-kanno-and-omii-chen.9dfe3919909405c8.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;so-kanno-and-omii-chen.04ab0bce9ba575e2.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;so-kanno-and-omii-chen.9dfe3919909405c8.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;so-kanno-and-omii-chen.04ab0bce9ba575e2.webp">
     
+  </div>
 
   <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -115,6 +101,19 @@ Creative Code Berlin and Community Lead of the Processing Foundation</em></p>
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+    <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

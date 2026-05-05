@@ -69,27 +69,29 @@ find my sense of belonging in a constantly evolving space where change feels lik
 expanded work practice which involves painting, filmmaking, photography, and music.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_01.4a9bb301cd1114d5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_01.a90fae50a6ba90b1.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_01.4120973a12c0e178.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_01.a90fae50a6ba90b1.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_02.13590da5223b7a24.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_02.ff03ffad437eb2b5.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_02.683e716299c9c08b.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_02.ff03ffad437eb2b5.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_03.502668e3ea9c3adc.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_03.8965f486fe4be2ba.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_03.3433ddf3b29679f0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_03.8965f486fe4be2ba.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_04.fee179495e0de4c5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_04.4b2504589ecb4461.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_04.7a186cc36696475c.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_04.4b2504589ecb4461.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_05.d2d8202ceb961cfe.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_05.0e4adf1f0f5687a5.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_05.3893a4928d132114.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Roberta_05.0e4adf1f0f5687a5.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -97,6 +99,19 @@ expanded work practice which involves painting, filmmaking, photography, and mus
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

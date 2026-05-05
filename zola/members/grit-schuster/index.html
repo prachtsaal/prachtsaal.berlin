@@ -64,27 +64,29 @@
 art, and interactive media. She is a founding member of Trial and Theresa, a feminist collective of audio-visual artists experimenting in the field of live performance with a special emphasis on the integration and visibility of women and queer people in the electronic arts scene.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_01.b95341e4e1628cfa.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_01.fbf997a3a2ea25f9.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_01.024b775d5d27e27d.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_01.fbf997a3a2ea25f9.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_02.d09f964dd25808f6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_02.76d586e63bc4f9dd.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_02.ca08c3ee1df347ac.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_02.76d586e63bc4f9dd.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_03.b60c6290fb99ab76.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_03.952ae096ca6a98e0.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_03.25df1c74f99853c6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_03.952ae096ca6a98e0.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_04.2d23793256ea96e2.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_04.6618e04e22ffcfd8.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_04.b8f8db09cb94f038.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_04.6618e04e22ffcfd8.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_05.58ef7248813402f6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_05.6cdf48c76d642467.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_05.ae3371b7c0589a69.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;gritkit_portfolio_05.6cdf48c76d642467.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -92,6 +94,19 @@ art, and interactive media. She is a founding member of Trial and Theresa, a fem
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

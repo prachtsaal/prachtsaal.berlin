@@ -46,11 +46,13 @@
 <p>It's ok to join only for the introduction or the presentations.</p>
 
 
+  <div class="img-grid">
   
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;openrndr-meetup-2.23690f86ac006787.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;openrndr-meetup-2.5c9525d35a56aa3a.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;openrndr-meetup-2.23690f86ac006787.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;openrndr-meetup-2.5c9525d35a56aa3a.webp">
     
+  </div>
 
   <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -58,6 +60,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+    <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

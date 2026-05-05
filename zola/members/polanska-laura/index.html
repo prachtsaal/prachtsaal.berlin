@@ -59,19 +59,21 @@
 <p>Polanska Laura is a multidisciplinary artist born in the south of Poland in 1994. In her artistic practice she focuses on photography, video and installation, often merging photographic and sculptural disciplines. Her work touches upon subjects related to tensions and deep connections on the line between nature and human, transcendence, and body as a transgressive power. She is fascinated by notions of trace, trauma, and the subconscious. She obtained MFA at Magdalena Abakanowicz University of Fine Arts in Poznan in the field of Intermedia Photography. Her works have been shown in Poland, Germany, France, Norway and South Korea. She lives and works in Berlin.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-1.fa8af658ea4c91d8.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-1.806ed1b73a0a208f.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-1.ca4e424799cff5bc.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-1.806ed1b73a0a208f.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-2.404dd8f9d72539f4.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-2.d2657858ead03595.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-2.5820b205f056d891.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-2.d2657858ead03595.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-3.812f218b4e4aabaa.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-3.90a88e58ba69248b.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-3.15b8ce1b2632d3d5.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-laura-3.90a88e58ba69248b.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -79,6 +81,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

@@ -59,27 +59,29 @@
 <p>Claudine enjoys playing at the intersection of art, science, hardware and software. Long-time engaged in community building, her favorite themes are equity, empathy, and human connection in the presence of systems. She is also driven to express the tensions and trade-offs experienced in real-life. She works in video, interactive media, and sculpture.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-hornetsnest.133401b1b4571c3b.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-hornetsnest.cc978dc29fdfe481.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-hornetsnest.9b2230b9e807b73c.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-hornetsnest.cc978dc29fdfe481.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros.326c6c0ba914fedc.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros.ed77d310d571d199.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros.ff2ec35f0779c1b0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros.ed77d310d571d199.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros2.a4cc98004e3d701a.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros2.c856a66ddb190137.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros2.4f52084bb20d0706.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-kaleidoscope_nisyros2.c856a66ddb190137.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-package-weaving.2fec7b97b22499ba.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-package-weaving.3517ce37ed69ab12.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-package-weaving.b0a04d6b779598ce.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-package-weaving.3517ce37ed69ab12.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-timeinplace.cbe7c7654e503dfa.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-timeinplace.a350dcf909beed60.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-timeinplace.194bb2de6fdfe77e.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-timeinplace.a350dcf909beed60.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -87,6 +89,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

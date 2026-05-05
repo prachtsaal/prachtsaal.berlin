@@ -59,23 +59,25 @@
 <p>Abe Pazos Solatie (1975, Finland) is an artist who writes computer code to generate still, animated and interactive audiovisual works. He explores the connections between nature and algorithms by creating slow, organic, growing and decaying visuals. He has a computer science and interactive design background, is a passionate contributor to free, open-source software for the arts and performs live visuals.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ALifeCycle.f012c7e241c34598.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ALifeCycle.f0f3e359c6acdd88.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ALifeCycle.75b79b9bc194e988.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ALifeCycle.f0f3e359c6acdd88.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-dave-screenshot-1.dd3cc87c7c8c03eb.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-dave-screenshot-1.a1e1942b45e8b380.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-dave-screenshot-1.a41fbf0aed815c00.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-dave-screenshot-1.a1e1942b45e8b380.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ratkaisu-multiplica-render3.910935182c4ed985.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ratkaisu-multiplica-render3.ebb7d337b50012d6.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ratkaisu-multiplica-render3.5f23f2632d1051e8.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-ratkaisu-multiplica-render3.ebb7d337b50012d6.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-tracing-the-line-closeup.4090c9aa366537f6.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-tracing-the-line-closeup.802ae923f9f3b668.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-tracing-the-line-closeup.cea065cb444ea61a.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-aBe-tracing-the-line-closeup.802ae923f9f3b668.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -83,6 +85,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

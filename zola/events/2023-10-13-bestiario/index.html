@@ -45,7 +45,9 @@
 <p>Here we can appreciate some characters, as demons, expressing their anger towards humanity, as if these species were answering to the actions of society towards the planet Earth. Either through the exploitation of natural resources, or in the representation of the social relations between people in a civilization totally absorbed by consumption, greed vanity and the ode to money. In one way or another, these characters invite us to reflect on where and how we stand before the world.</p>
 
 
+  <div class="img-grid">
   
+  </div>
 
   <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -53,6 +55,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+    <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

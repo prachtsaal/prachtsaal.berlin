@@ -73,11 +73,45 @@ Sunday, 29.06, <strong>12.00-19.00</strong></p>
 Sunday, 29.06, <strong>14.00</strong>, Lara Duymus // Oriental Sexpress</p>
 
 
+  <div class="img-grid">
   
       
       
-      <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;flyer.6dc3de9857f39cf3.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;flyer.f4592384acac3f41.webp">
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;flyer.6dc3de9857f39cf3.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;flyer.f4592384acac3f41.webp">
     
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1334.f64d2067c1d0d1cb.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1334.455b0b142c002051.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1374.677486c84f3f3765.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1374.bd995a3557fb349d.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1375.b0d6c4bb95f9a09d.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;IMG_1375.d089c4f73a412306.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;Prachtsaal 48hNK 2025.37bca249da778945.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;Prachtsaal 48hNK 2025.d4db4c62632cef9c.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_161351482.RAW-01.COVER.05830bd9604922a0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_161351482.RAW-01.COVER.6c5aa8217a938085.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_175211216.RAW-01.COVER.536a2e7fd598773c.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_175211216.RAW-01.COVER.14cefe1a9bdf93de.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_175230806.RAW-01.COVER.c70a523fa25e7775.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_175230806.RAW-01.COVER.b64ee9417edca311.webp">
+    
+      
+      
+      <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_184244997.RAW-01.COVER.617e5f05bc4004db.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;PXL_20250627_184244997.RAW-01.COVER.736eadb70d968e2e.webp">
+    
+  </div>
 
   <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -85,6 +119,19 @@ Sunday, 29.06, <strong>14.00</strong>, Lara Duymus // Oriental Sexpress</p>
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+    <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

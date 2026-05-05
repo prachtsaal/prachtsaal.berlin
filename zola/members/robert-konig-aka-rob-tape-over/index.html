@@ -69,23 +69,25 @@
 <p>Robert König is an entrepreneur, visionary and tape artist who was born in Dresden in 1977 and has lived in Berlin for around two decades. After studying entrepreneurship and marketing at Heilbronn University, he worked in the Berlin start-up scene. Under his artist name ROB, he pursues his creative inclination in the field of tape art. A new creation is always based on passion, creativity and experimentation - that is his understanding of art. Rob's art reflects what inspires him the most - organic shapes, abstract forms, complex designs and visual statements. In 2011, together with Lamia Michna, he founded TAPE OVER - an international tape art crew with roots in the subcultural Berlin electro scene. As a kind of ambassador for tape art, they present their art worldwide and have been shaping this new art movement for years. Rob is also the founder of our Prachtsaal Studio, which opened in 2018.</p>
 
 
+<div class="img-grid">
 
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-art_elizabeth_back.7aa8ee3ef7a97658.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-art_elizabeth_back.0706d54bbd10024f.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-art_elizabeth_back.deb4328ef39f1af8.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-art_elizabeth_back.0706d54bbd10024f.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-meinestadt_blueprint_detail_ankle.dd46daa58b26c130.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-meinestadt_blueprint_detail_ankle.4ecc4b69ecdee84c.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-meinestadt_blueprint_detail_ankle.c8eaed26a774ccc4.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-meinestadt_blueprint_detail_ankle.4ecc4b69ecdee84c.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Neuland_Mehr Theater_head_hand_total.6bdd45e5b9beaed0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Neuland_Mehr Theater_head_hand_total.c820f9fab8af49d2.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Neuland_Mehr Theater_head_hand_total.05c9ee7aa9268fb0.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-Neuland_Mehr Theater_head_hand_total.c820f9fab8af49d2.webp">
   
     
     
-  <img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-wave_Trouville_bw.5f631beea44cbb3b.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-wave_Trouville_bw.0754c0d9a5d6ea37.webp">
+  <img class="grid-item" src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-wave_Trouville_bw.a46eaa1091a930f9.webp" data-lightbox="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;zola&#x2F;processed_images&#x2F;portfolio-wave_Trouville_bw.0754c0d9a5d6ea37.webp">
   
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -93,6 +95,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>

@@ -57,7 +57,9 @@
 <p>At Prachtsaal, she develops research-led projects that blur the line between curating and storytelling, often working across text, performance and visual composition. She treats publishing as an art form in itself, a medium where rhythm, layout and conceptual density shape how knowledge is encountered. Her work inhabits the porous boundary between fiction and documentation, theory and sensation. One of her key intentions is to create accessible yet disorienting devices for thought, spaces that destabilize the familiar and open new cognitive terrain without imposing conclusions.</p>
 
 
+<div class="img-grid">
 
+</div>
 
 <link rel="stylesheet" href="https://prachtsaal.berlin/zola/css/lite-light.min.css">
 <script type="module" src="https://prachtsaal.berlin/zola/js/lite-light.min.js"></script>
@@ -65,6 +67,19 @@
   import { init } from "https://prachtsaal.berlin/zola/js/lite-light.min.js";
   init();
 </script>
+  <script src="https://prachtsaal.berlin/zola/js/masonry.pkgd.min.js"></script>
+  <script src="https://prachtsaal.berlin/zola/js/imagesloaded.pkgd.min.js"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 200, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>
+
 
 
     </div>
