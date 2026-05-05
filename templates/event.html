@@ -16,15 +16,18 @@
 
   {{ page.content | safe }}
 
+  <div class="img-grid">
   {% for asset in page.assets -%}
     {% if 'thumb' not in asset and 'mp4' not in asset %}
       {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
       {% set thumb = resize_image(path=asset, width=200, height=200, op="fit_width", format="webp", quality=90) %}
-      <img src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
+      <img class="grid-item" src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
     {% endif %}
   {%- endfor %}
+  </div>
 
   {% include "photoSlideshow.html" %}
+  {% include "photoGrid.html" %}
 
 {% endblock content %}
 
