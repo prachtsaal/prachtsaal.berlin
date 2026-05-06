@@ -43,7 +43,7 @@
 {% for asset in page.assets -%}
   {% if 'thumb' not in asset and 'portrait' not in asset %}
     {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
-    {% set thumb = resize_image(path=asset, width=200, height=200, op="fit_width", format="webp", quality=90) %}
+    {% set thumb = resize_image(path=asset, width=192, height=192, op="fit_width", format="webp", quality=90) %}
   <img class="grid-item" src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
   {% endif %}
 {%- endfor %}
