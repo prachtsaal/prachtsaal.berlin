@@ -4,7 +4,7 @@ date = 2023-09-23
 
 [extra]
 archive = true
-subtitle = "Hosted by Creative Code Berlin - with special guest Casey Reas"
+subtitle = "With special guest Casey Reas"
 description = "A warm evening with Casey Reas and the Processing community in Berlin."
 tags = ["portfolio"]
 +++

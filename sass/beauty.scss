@@ -163,6 +163,12 @@ img.grid-item {
         aspect-ratio: 1;
         margin: 10px;
         display: flex;
+        overflow: hidden;
+        a {
+          h2 {
+            margin-top: 5px;
+          }
+        }
     }
     img {
         min-width: 100%;
