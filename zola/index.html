@@ -64,8 +64,8 @@
 <script type="importmap">
 {
   "imports": {
-    "three": "https://threejs.org/build/three.module.js",
-    "three/addons/": "https://threejs.org/examples/jsm/"
+    "three": "https://prachtsaal.berlin/zola/js/three.module.min.js",
+    "addons/": "https://prachtsaal.berlin/zola/js/"
   }
 }
 </script>
@@ -73,7 +73,7 @@
 <script type="module">
 
 import * as THREE from "three";
-import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+import { OrbitControls } from "addons/three.OrbitControls.js";
 
 const element = document.getElementById("viewer");
 
@@ -247,6 +247,8 @@ function animate() {
           <h3>Berlin Media Art Week</h3>
         </a>
       </div>
+    
+  
     
   
     
