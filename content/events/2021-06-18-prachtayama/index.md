@@ -1,11 +1,11 @@
 +++
 title = 'Prachtayama'
-date = 2021-06-18
 
 [extra]
 archive = true
 subtitle = '48 Hours Neukölln'
 description = 'A group exhibition inspired by Pranayama'
+date = 2021-06-18
 endDate = 2021-06-20
 tags = ['exhibition']
 +++

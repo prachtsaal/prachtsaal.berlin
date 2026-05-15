@@ -53,6 +53,26 @@ generative art we want to create an immersive
 space that thematises the apprehension of
 silence. 
 
+## Participating artists
+
+Abe Pazos Solatie,
+Anna Inhorina,
+Chloé Bellangé,
+Claudine Chen,
+Grit Schuster,
+Julia Thomas,
+Julie Amouzegar Kim,
+Kazik Pogoda,
+Laura Polanska,
+Marta Muschietti,
+Martyna Lebryk,
+Michelle Meissner,
+Robert König,
+Stephan Van Kuyk,
+Valerio Sangiacomo,
+Zack Helwa.
+
+
 ## Opening hours:
 
 Friday, 28.06, 19.00-22.00  
