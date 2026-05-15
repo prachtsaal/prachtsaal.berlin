@@ -4,8 +4,7 @@ title = "Prachtsaal Studio"
 +++
 
 
-## [info@prachtsaal.berlin](mailto:info@prachtsaal.berlin)  
-## {{ rainbowLink(text="social media", url="https://www.instagram.com/prachtsaal") }}
+## {{ rainbowLink(text="social media", url="https://www.instagram.com/prachtsaal") }} {{ rainbowLink(text="e-mail", url="mailto:info@prachtsaal.berlin") }}
 
 {{ indexImage(src="/img/prachtsaal_banner_01.webp", title="panorama_preview_prachtsaal") }}
 
