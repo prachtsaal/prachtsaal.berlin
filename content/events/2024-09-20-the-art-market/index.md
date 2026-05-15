@@ -7,6 +7,7 @@ archive = true
 subtitle = "by Artist Stop Being Poor"
 description = ""
 endDate = 2024-09-22
+tags = ["art market"]
 +++
 
 Organized by [Artist Stop Being Poor](https://artiststopbeingpoor.club/the-art-market/) and taking place at Prachtsaal over the 20, 21 and 22 of September. With more than 30 artists showcasing their art and merchandising, this is an excellent opportunity to fall in love and acquire some excellent art.

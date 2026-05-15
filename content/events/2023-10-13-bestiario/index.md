@@ -6,7 +6,7 @@ date = 2023-10-13
 archive = true
 subtitle = "A solo exhibition by Seudo"
 description = "The first solo exhibition of Suedo in Berlin. An exploration of his unique creatures and pictorial elements."
-tags = ["exhibition", "portfolio"]
+tags = ["exhibition"]
 +++
 
 The first solo exhibition of Seudo in Berlin. An exploration of his unique creatures and pictorial elements.

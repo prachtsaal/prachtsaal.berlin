@@ -7,7 +7,7 @@ archive = true
 subtitle = "48 Hours Neukölln"
 description = "" 
 endDate = 2024-06-30
-tags = ["exhibition", "portfolio"]
+tags = ["exhibition"]
 +++
 
 The Neon Gods They Made, is a fragment of

@@ -7,7 +7,7 @@ subtitle = "Audiovisual performances and art installation"
 description = "On Saturday, June 7th, we are opening our venue to invite you to a synthesis of sound and light. We will present an audiovisual performance, a musical improv set with live visuals, and an interactive art installation."
 date = 2025-06-07
 endDate = 2025-06-07
-tags = ["portfolio", "news"]
+tags = ["performance", "art installation"]
 +++
 
 ![](LucidIntervalsBanner.jpg)

@@ -7,7 +7,7 @@ archive = true
 subtitle = '48 Hours Neukölln'
 description = 'A group exhibition inspired by Pranayama'
 endDate = 2021-06-20
-tags = ['exhibition', 'portfolio']
+tags = ['exhibition']
 +++
 A group exhibition inspired by Pranayama - The fusion of body and mind through breathing exercises in Yogic teachings. Our goal is to stimulate the sympathetic and parasympathetic nervous system.
 
@@ -18,35 +18,35 @@ With a variety of media such as painting, tape art, interactive installations, s
 
 ## Artists
 
-Adam Paquette & Orsola Carraro / 
+Adam Paquette & Orsola Carraro /  
 COLLECTIVE SHAPING, painting, illustration, movement research, pranayama
 
-Michael Weingart / 
+Michael Weingart /  
 TAPE OVER, tape art & installation
 
-LaMia Michna / 
+LaMia Michna /  
 TAPE OVER, tape art & installation
 
-Claas Selck & Julia Fröstler / 
+Claas Selck & Julia Fröstler /  
 Asihochzwei, TAPE OVER, tape art & installation
 
-Alina Abke / 
+Alina Abke /  
 beading art
 
-Ruth Best / 
+Ruth Best /  
 painting  & costume design
 
-Rachel Bachem / 
+Rachel Bachem /  
 illustration & tattoo art
 
-Aaron Koolik / 
+Aaron Koolik /  
 video art & experimental photography
 
-Valére Mougeot / 
+Valére Mougeot /  
 painting & sculpture
 
-Luca Bendandi / 
+Luca Bendandi /  
 VETRO EDITIONS, publishing, graphic design & sculpture
 
-Kazik Pogoda / 
+Kazik Pogoda /  
 XEMANTIC, generative art

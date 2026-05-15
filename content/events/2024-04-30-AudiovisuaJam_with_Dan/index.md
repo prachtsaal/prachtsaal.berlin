@@ -7,7 +7,7 @@ archive = true
 frontpage = false
 subtitle = "Music, visuals, live painting"
 description = ""
-tags = ["exhibition", "portfolio"]
+tags = ["performance"]
 +++
 
 A nice relaxed evening with Dan Gorelick and friends playing musical instruments, using voice and effects, generative visuals by Claudine, Kazik and aBe, and live painting.

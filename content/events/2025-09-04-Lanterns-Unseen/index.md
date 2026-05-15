@@ -7,7 +7,7 @@ subtitle = "Berlin Media Art Week"
 description = "This collective exhibition is designed to explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations."
 date = "2025-09-07"
 endDate = "2025-09-07"
-tags = ["news", "portfolio", "exhibition", "events"]
+tags = ["exhibition", "events"]
 +++
 Prachtsaal will be part of the Berlin New Media Week with a new collective exhibition.
 

@@ -7,6 +7,7 @@ archive = true
 subtitle = "by Artist Stop Being Poor"
 description = "Visit us between Friday and Sunday during for a unique opportunity to meet artists and buy unique presents for friends and family."
 endDate = 2024-12-08
+tags = ["art market"]
 +++
 
 Organized by [Artist Stop Being Poor](https://artiststopbeingpoor.club/the-art-market/) and taking place at Prachtsaal over the 6th, 7th and 8th of December. With more than 20 artists showcasing their art and merchandising, this is an excellent opportunity to fall in love and acquire some excellent art.

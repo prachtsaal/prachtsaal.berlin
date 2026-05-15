@@ -7,6 +7,7 @@ archive = true
 subtitle = "Art exhibition"
 description = ""
 endDate = 2023-05-04
+tags = ["exhibition"]
 +++
 
 ## 57 Artists Exhibiting Together

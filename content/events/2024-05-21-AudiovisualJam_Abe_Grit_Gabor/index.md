@@ -6,7 +6,7 @@ date = 2024-05-21
 archive = true
 subtitle = ''
 description = ''
-tags = ['jam']
+tags = ["jam", "performance"]
 +++
 
 By [Alessandro](https://genart.social/@mimetik),
