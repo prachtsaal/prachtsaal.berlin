@@ -1,15 +1,14 @@
 +++
 title = "OPENRNDR meetup #1"
-date = 2022-10-23
 
 [extra]
+archive = true
 subtitle = ''
 description = 'OPENRNDR Creative Coding meetup'
+date = 2022-10-23
 endDate = 2022-10-23
 tags = ['meetup']
 +++
-
-![](openrndr-meetup-1.webp)
 
 This is our first OPENRNDR meetup in Berlin. We are a small group of enthusiasts and contributors to this creative coding framework.
 

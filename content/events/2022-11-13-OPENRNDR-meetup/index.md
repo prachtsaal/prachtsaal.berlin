@@ -3,13 +3,12 @@ title = "OPENRNDR meetup #2"
 date = 2022-11-13
 
 [extra]
+archive = true
 subtitle = ''
 description = 'OPENRNDR Creative Coding meetup'
 endDate = 2022-11-13
 tags = ['meetup']
 +++
-
-![](openrndr-meetup-2.webp)
 
 This is our second OPENRNDR meetup in Berlin. We are a small group of enthusiasts and contributors to this creative coding framework. We program in Kotlin to have fun creating plotter artworks, interactive graphics with depth-cameras for theater, generative visuals with shaders and more.
 
