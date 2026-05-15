@@ -1,15 +1,14 @@
 +++
 title = "Tape Art Sessions"
-date = 2025-07-13
 
 [extra]
+archive = true
 subtitle = "Artist-run workshops"
 description = "Discover tape art in this 4-hour, hands-on workshop! One of our seasoned tape  artists will share with you the secrets of this bold and fascinating  medium."
+date = 2025-07-13
 endDate = 2025-07-13
 tags = ["workshop"] 
 +++
-
-![](tape_art_sessions_1.jpg)
 
 Discover tape art in this 4-hour, hands-on workshop! One of our seasoned tape 
 artists will share with you the secrets of this bold and fascinating 
@@ -63,5 +62,3 @@ Sunday July 13th at 14:00
 
 👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-session-create-your-own-artwork-monthly-workshop-tickets-1296006222499) 👈
   
-{{ figure(src="tape_art_sessions_2.jpg", title="Close up of various coloured tapes") }}  
-{{ figure(src="tape_art_sessions_3.jpg", title="Proud participants displaying their tape art creations") }}

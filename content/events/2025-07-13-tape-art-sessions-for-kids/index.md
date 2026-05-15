@@ -1,15 +1,14 @@
 +++
 title = "Tape Art Sessions for Kids"
-date = 2025-07-13
 
 [extra]
+archive = true
 subtitle = "Artist-run workshops"
 description = "Let's create with tape! In this 3-hour workshop designed for kids aged  6–13 (accompanied by a guardian), kids will explore the exciting  possibilities of tape art—a fun and accessible way to create bold,  unique designs using vibrant adhesive tapes. In this workshop, one of  our seasoned tape artists will guide young creators through the basics  of tape art."
+date = 2025-07-13
 endDate = 2025-07-13
 tags = ["workshop"]
 +++
-
-![](tape_art_sessions_for_kids_1.jpg)
 
 Let's create with tape! In this 3-hour workshop designed for kids aged 
 6–13 (accompanied by a guardian), kids will explore the exciting 
@@ -47,6 +46,5 @@ Sunday July 13th at 10:00
 
 👉 [Details and registration here](https://www.eventbrite.de/e/tape-art-sessions-for-kids-create-your-own-artwork-monthly-workshop-tickets-1295977737299) 👈
   
-{{ figure(src="tape_art_sessions_for_kids_2.jpg", title="Close up of various coloured tapes") }}
 
 
