@@ -20,11 +20,14 @@
           {% endif %}
         {% endfor %}
     </div>
-    <div>
+    <div class="eventInfo">
   	  <a href="{{ page.permalink | safe }}">
   		  <h2>{{ page.date }}<br/>{{ page.title }}</h2>
   		  <h3>{{ page.extra.subtitle }}</h3>
   	  </a>
+	  {% if page.extra.tags %}
+	  <small>{{ page.extra.tags | join(sep=", ") }}</small>
+	  {% endif %}
     </div>
     {% endif %}
     {% endfor %}
