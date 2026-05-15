@@ -11,20 +11,20 @@
 <div>
 {% if page.extra.website %}
   {% if page.extra.website is string %}
-    <a href="{{ page.extra.website }}">{{ page.extra.website }}</a><br/>
+    <a href="{{ page.extra.website }}" target="_blank">{{ page.extra.website }}</a><br/>
   {% else %}
     {% for web in page.extra.website %}
-      <a href="{{ web }}">{{ web }}</a><br/>
+      <a href="{{ web }}" target="_blank">{{ web }}</a><br/>
     {% endfor %}
   {% endif %}
 {% endif %}
 
 {% if page.extra.socials %}
   {% if page.extra.socials is string %}
-    <a href="{{ page.extra.socials }}">{{ page.extra.socials }}</a><br/>
+    <a href="{{ page.extra.socials }}" target="_blank">{{ page.extra.socials }}</a><br/>
   {% else %}
     {% for social in page.extra.socials %}
-      <a href="{{ social }}">{{ social }}</a><br/>
+      <a href="{{ social }}" target="_blank">{{ social }}</a><br/>
     {% endfor %}
   {% endif %}
 {% endif %}
