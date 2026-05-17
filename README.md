@@ -94,14 +94,12 @@ If a member needs to be completely removed, just delete its folder.
 
 - Duplicate one of the existing events,  for instance `content/events/2025-09-04-Lanterns-Unseen`.
 - Update the `front matter` in the `index.md` file (the text between `+++` and `+++`)
-- Update the content following the `front matter`.
+- Update the content following the `front matter`. Set `archive = true` to show an event in the archive. Set `frontpage = true` to show it in the home page.
 - Add images. The image containing `thumb` in the file name will be shown in the event list in square format and at the top of the event page. Any other images will be shown at the bottom of the event page.
 
 ### Remove an event
 
-The front matter in an event page like `content/events/2025-09-04-Lanterns-Unseen/index.md` contains two flags: `frontpage = true` and `archive = true`. The first one defines
-whether the event is shown in the home page. The second one whether the event is shown
-in the archive. Set them to true or false as needed.
+Edit event's `index.md` file and set `frontpage`, `archive` or both to `false` to hide the event from the home page or the archive.
 
 ### Edit other pages
 
