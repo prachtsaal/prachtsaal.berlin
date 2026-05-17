@@ -122,15 +122,6 @@ figcaption {
     font-style: italic;
 }
 
-div.centered {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    box-sizing: border-box;  
-}
-
 nav {
     width: 100%;
     background-color: rgba(255,255,255,0.2);
@@ -187,7 +178,7 @@ nav {
         filter: saturate(95%) hue-rotate(5deg);
         box-shadow: 2px 2px 7px $shadows-color;
         margin-bottom: 6px;
-        background-color: pink;
+        background-color: #92a4dd;
     }
     
     img:hover {
@@ -205,6 +196,29 @@ nav {
     h2 {
       margin-top: 0px;
       margin-bottom: 0px;
+    }
+
+    div.nameOnly {
+      display: flow-root;
+      text-align: center;
+      color: white;
+      font-size: 2rem;
+      line-height: 150%;
+      div {
+        a, a:visited {
+          color: white;
+        }
+        a:hover {
+          color: $links-hover-color;
+        }
+        box-shadow: 2px 2px 7px $shadows-color;
+        background-color: #92a4dd; 
+        aspect-ratio: 1;
+        padding: 2rem;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+      }
     }
 }
 
@@ -333,7 +347,7 @@ footer {
     display: none;
     margin: 50px;
     padding: 50px;
-    border: 1px solid pink;
+    border: 1px solid #92a4dd;
     overflow: scroll;
     font-size: small;
 }

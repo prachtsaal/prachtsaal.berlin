@@ -19,7 +19,7 @@ communities = [
 }, {
   name = "Artist Stop Being Poor",
   thumb = "",
-  website = "https://artiststopbeingpoor.club/",
+  website = "",
   visible = true
 }, {
   name = "Creative Code Berlin",
@@ -42,9 +42,9 @@ communities = [
   website = "https://toplap.berlin/",
   visible = true
 }, {
-  name = "LIVECODERA",
+  name = "LivecoderA",
   thumb = "",
-  website = "https://livecodera.glitch.me/",
+  website = "",
   visible = true
 }, {
   name = "School of Machines, Making, and Make Believe",

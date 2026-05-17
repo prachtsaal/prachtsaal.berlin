@@ -80,8 +80,14 @@
         src="{{ get_url(path='img/communities/' ~ community.thumb) }}" alt="{{ community.name }}"></a>
     </div>
     {% else %}
-    <div class="centered" style="background-color:#EEE; border-bottom: 7px solid white;">
-      {{ community.name }}
+    <div class="nameOnly">
+	<div>
+		{% if community.website %}
+		<a href="{{ community.website }}">{{ community.name }}</a>
+		{% else %}
+		  {{ community.name }}
+		{% endif %}
+	</div>
     </div>
     {% endif %}
   {% endfor %}
