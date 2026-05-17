@@ -1,32 +1,80 @@
 $links-hover-color: #39ff14;
 $shadows-color: grey;
 
+/* latin-ext */
+@font-face {
+  font-family: 'Ubuntu Sans';
+  font-style: italic;
+  font-weight: 100 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(/fonts/co3AmWd6mSRtB7_9UaLWwLPLs3HD7HTJ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu Sans';
+  font-style: italic;
+  font-weight: 100 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(/fonts/co3AmWd6mSRtB7_9UaLWwLPLs3_D7A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Ubuntu Sans';
+  font-style: normal;
+  font-weight: 100 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(/fonts/co3CmWd6mSRtB7_9UaLWwLPAg33b6A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu Sans';
+  font-style: normal;
+  font-weight: 100 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(/fonts/co3CmWd6mSRtB7_9UaLWwLPOg30.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
 html {
     background: white;
 }
 
-body{
+body {
     top: 4px;
     padding: 0px;
     margin: 0px;
     position: absolute;
     left: 25%;
     width: 50%;
-    font-family: "Arial", "Liberation Sans";
+    font-family: "Ubuntu Sans", "Arial";
     font-size: calc(15px + 0.390625vw);
+    font-weight: 300;
+    font-stretch: 95%;
     line-height: 1.5;
 }
 
 h1 {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
+    font-weight: 400;
 }
 h2 {
-    filter: drop-shadow(1px 1px 2px $shadows-color);
+    /*filter: drop-shadow(1px 1px 2px $shadows-color);*/
     line-height: 1.1;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
+    font-weight: 400;
 }
 h3 {
     font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
 }
 
 a {
@@ -43,8 +91,13 @@ a {
 /* Add a ↗️ icon after links that open in new tabs */  
 a[target="_blank"]::after {  
   content: " ↗";  
-  font-size: 0.8em;  
-  margin-left: 0.2em;  
+  font-size: 90%;  
+  margin-left: 0.2rem;  
+}
+
+p {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
 }
 
 .wide {
@@ -82,7 +135,7 @@ nav {
     width: 100%;
     background-color: rgba(255,255,255,0.2);
     backdrop-filter: blur(10px);
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 
     & > div {
       filter: drop-shadow(2px 2px 4px $shadows-color); 
@@ -91,6 +144,7 @@ nav {
     .menu {
       display: block;
       border-bottom: dashed;
+      font-weight: 400;
 
       a {
         text-decoration: none;
@@ -122,6 +176,8 @@ nav {
 .people {
     display: flex;
     flex-flow: wrap;
+    font-size: 90%;
+    line-height: 130%;
     a {
         hyphens: auto;
     }
@@ -142,6 +198,12 @@ nav {
         display: flex;
         width: calc(25% - 20px);
         margin: 10px;
+        padding-bottom: 1.2rem;
+    }
+    
+    h2 {
+      margin-top: 0px;
+      margin-bottom: 0px;
     }
 }
 
@@ -174,6 +236,12 @@ img.grid-item {
         a {
           h2 {
             margin-top: 5px;
+            margin-bottom: 0px;
+          }
+          h3 {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            font-weight: 400;
           }
         }
     }
@@ -191,6 +259,16 @@ img.grid-item {
         object-fit: cover;
         filter: drop-shadow(2px 2px 4px $shadows-color);
     }
+}
+
+div.event {
+  h1 {
+    margin-bottom: 0px;
+  }
+  h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
 }
 
 footer {
@@ -240,10 +318,13 @@ footer {
         overflow: hidden;
     }
     
-   .people > div{
+   .people > div {
         display: flex;
         width: calc(33% - 10px);
         margin: 5px;
+        h2 {
+          font-size: 1.4rem;
+        }
     }
 }
 

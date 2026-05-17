@@ -3,9 +3,6 @@
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock %}
 
 {% block content %}
-<h1 class="title">
-  {{ section.title }}
-</h1>
 <div class="archive">
   <!-- If you are using pagination, section.pages will be empty.
        You need to use the paginator object -->  
@@ -21,8 +18,9 @@
         {% endfor %}
     </div>
     <div class="eventInfo">
+	  {{ page.date }}
   	  <a href="{{ page.permalink | safe }}">
-  		  <h2>{{ page.date }}<br/>{{ page.title }}</h2>
+  		  <h2>{{ page.title }}</h2>
   		  <h3>{{ page.extra.subtitle }}</h3>
   	  </a>
 	  {% if page.extra.tags %}
