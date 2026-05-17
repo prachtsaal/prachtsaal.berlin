@@ -8,9 +8,9 @@
   <div>
     <div class="menu">
       <a href="{{ get_url(path='/') }}">Home</a>
-      <a href="{{ get_url(path='members') }}">People</a>
-      <a href="{{ get_url(path='events') }}">Archive</a>
-      <a href="{{ get_url(path='about') }}">About</a>
+      <a href="{{ get_url(path='members', trailing_slash=true) }}">People</a>
+      <a href="{{ get_url(path='events', trailing_slash=true) }}">Archive</a>
+      <a href="{{ get_url(path='about', trailing_slash=true) }}">About</a>
     </div>
   </div>
 </nav>
