@@ -1,4 +1,4 @@
-name: Build and Deploy Main (Zola)
+name: Build and deploy main
 on:
   push:
     branches:
