@@ -1,0 +1,35 @@
+name: Build and deploy PR preview
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  deploy-preview:
+    name: Build and deploy PR preview
+    concurrency: preview-${{ github.ref }}
+    runs-on: ubuntu-latest
+    env:
+      BASEURL: /pr-preview/pr-${{ github.event.number }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.22.1
+      - name: Build
+        run: zola build
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: public
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
