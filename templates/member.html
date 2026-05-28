@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ config.title }}{% endblock %}
+
+{% block content %}
+
+<h1 class="title">{{ page.extra.fullName }}</h1>
+  
+<div id="">{{ page.extra.description }}</div>
+
+<div>
+{% if page.extra.website %}
+  {% if page.extra.website is string %}
+    <a href="{{ page.extra.website }}" target="_blank">{{ page.extra.website }}</a><br/>
+  {% else %}
+    {% for web in page.extra.website %}
+      <a href="{{ web }}" target="_blank">{{ web }}</a><br/>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% if page.extra.socials %}
+  {% if page.extra.socials is string %}
+    <a href="{{ page.extra.socials }}" target="_blank">{{ page.extra.socials }}</a><br/>
+  {% else %}
+    {% for social in page.extra.socials %}
+      <a href="{{ social }}" target="_blank">{{ social }}</a><br/>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+</div>
+
+{% for asset in page.assets -%}
+  {% if 'portrait' in asset %}
+    {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+    <p><img src="{{ image.url }}" class="wide"></p>
+  {% endif %}
+{%- endfor %}
+
+{{ page.content | safe }}
+
+<div class="img-grid">
+{% for asset in page.assets -%}
+  {% if 'thumb' not in asset and 'portrait' not in asset %}
+    {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+    {% set thumb = resize_image(path=asset, width=192, height=192, op="fit_width", format="webp", quality=90) %}
+  <img class="grid-item" src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
+  {% endif %}
+{%- endfor %}
+</div>
+
+{% include "photoSlideshow.html" %}
+{% include "photoGrid.html" %}
+
+{% endblock content %}
+

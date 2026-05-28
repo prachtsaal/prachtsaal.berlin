@@ -11,3 +11,9 @@ node_modules/
 .vscode/
 .DS_Store
 Thumbs.db
+
+public/
+static/processed_images/
+.idea/
+.vscode/
+.DS_Store

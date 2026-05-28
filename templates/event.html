@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ config.title }}{% endblock %}
+
+{% block content %}
+
+  <div class="event">
+  <h1 class="title">  {{ page.title }}</h1>
+  <h2>{{ page.extra.subtitle }}</h2>
+  {{ page.date }}
+
+  {% for asset in page.assets -%}
+    {% if 'thumb' in asset %}
+      {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+      <p><img src="{{ image.url }}" class="wide"></p>
+    {% endif %}
+  {%- endfor %}
+
+  {{ page.content | safe }}
+
+  <div class="img-grid">
+  {% for asset in page.assets -%}
+    {% if 'thumb' not in asset and 'mp4' not in asset %}
+      {% set image = resize_image(path=asset, width=2000, height=2000, op="fit_width", format="webp", quality=90) %}
+      {% set thumb = resize_image(path=asset, width=192, height=192, op="fit_width", format="webp", quality=90) %}
+      <img class="grid-item" src="{{ thumb.url }}" data-lightbox="{{ image.url }}">
+    {% endif %}
+  {%- endfor %}
+  </div>
+
+  {% include "photoSlideshow.html" %}
+  {% include "photoGrid.html" %}
+  </div>
+
+{% endblock content %}
+

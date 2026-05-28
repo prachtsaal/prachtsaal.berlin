@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {{ section.content | safe }}
+
+  <h2>Featured events</h2>
+
+  <div class="archive">
+  {% set featuredEvents = get_section(path="events/_index.md") %}
+  {% for item in featuredEvents.pages %}
+    {% if item.extra.frontpage %}
+      <div>
+        {% for asset in item.assets %}
+          {% if asset is matching(".*thumb.*") %}
+            {% set image = resize_image(path=asset, width=300, height=300, op="fill", format="webp", quality=90) %}
+            <a href="{{ item.permalink | safe }}"><img src="{{ image.url }}"></a>
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div>
+        <a href="{{ item.permalink | safe }}">
+          <h2>{{ item.extra.date }}<br/>{{ item.title }}</h2>
+          <h3>{{ item.extra.subtitle }}</h3>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+{% endblock content %}

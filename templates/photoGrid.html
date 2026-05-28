@@ -1,0 +1,12 @@
+  <script src="{{ get_url(path="js/masonry.pkgd.min.js") }}"></script>
+  <script src="{{ get_url(path="js/imagesloaded.pkgd.min.js") }}"></script>
+  <script>
+    let elem = document.querySelector('.img-grid');
+    let loader = imagesLoaded(elem);
+    let msnry = new Masonry( elem, {
+      itemSelector: '.grid-item', 
+      columnWidth: 192, 
+      gutter: 10
+    });
+    loader.on('progress', function() { msnry.layout(); });
+  </script>

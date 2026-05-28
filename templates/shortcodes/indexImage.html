@@ -1,0 +1,108 @@
+
+<div id="viewer" ></div>
+
+<style>
+#viewer {
+	position : relative; 
+	width: 100%; 
+	aspect-ratio: 16 / 9; 
+	height : auto;
+
+}
+</style>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "{{ get_url(path='js/three.module.min.js') }}",
+    "addons/": "{{ get_url(path='js') }}/"
+  }
+}
+</script>
+
+<script type="module">
+
+import * as THREE from "three";
+import { OrbitControls } from "addons/three.OrbitControls.js";
+
+const element = document.getElementById("viewer");
+
+const width = element.clientWidth;
+const height = element.clientHeight;
+
+let camera, scene, renderer, controls;
+
+init();
+
+function init() {
+
+    scene = new THREE.Scene();
+
+    camera = new THREE.PerspectiveCamera(70, width / height, 1, 1000);
+    camera.position.set(0, 0, 0.1);
+
+    renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(width, height);
+
+    // modern color management (fix washed-out textures)
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+    element.appendChild(renderer.domElement);
+
+const texture = new THREE.TextureLoader().load("{{ get_url(path='img/prachtsaal_banner_01.webp') }}");
+
+    // fix panorama color space
+    texture.colorSpace = THREE.SRGBColorSpace;
+
+    const geometry = new THREE.SphereGeometry(500, 60, 40);
+    geometry.scale(-1, 1, 1);
+
+    const material = new THREE.MeshBasicMaterial({
+        map: texture
+    });
+
+    const mesh = new THREE.Mesh(geometry, material);
+    scene.add(mesh);
+
+    controls = new OrbitControls(camera, renderer.domElement);
+
+    // allow page scrolling
+    controls.enableZoom = false;
+
+    // disable panning
+    controls.enablePan = false;
+
+    // smooth slow auto rotate
+    controls.autoRotate = true;
+    controls.autoRotateSpeed = 0.25;
+
+    // drag feel
+    controls.rotateSpeed = -0.3;
+
+    window.addEventListener("resize", onResize);
+
+    animate();
+}
+
+function onResize() {
+
+const width = element.clientWidth;
+const height = element.clientHeight;
+
+camera.aspect = width / height;
+camera.updateProjectionMatrix();
+renderer.setSize(width, height);
+
+}
+
+function animate() {
+
+    requestAnimationFrame(animate);
+
+    controls.update();
+
+    renderer.render(scene, camera);
+
+}
+
+</script>

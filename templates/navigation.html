@@ -1,0 +1,16 @@
+<nav>
+  <div>
+    <a href="{{ get_url(path='/') }}">
+      <img src="{{ get_url(path='prachtsaal-logo.png') }}" class="wide">
+    </a>
+  </div>
+
+  <div>
+    <div class="menu">
+      <a href="{{ get_url(path='/') }}">Home</a>
+      <a href="{{ get_url(path='members', trailing_slash=true) }}">People</a>
+      <a href="{{ get_url(path='events', trailing_slash=true) }}">Archive</a>
+      <a href="{{ get_url(path='about', trailing_slash=true) }}">About</a>
+    </div>
+  </div>
+</nav>

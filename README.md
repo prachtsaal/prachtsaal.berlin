@@ -1,262 +1,141 @@
-# prachtsaal.berlin
+# prachtsaal.berlin, Zola edition
 
 The website of Prachtsaal Studios.
 
-The content of this website is written in Markdown format, using a plain text editor.
-
-A tool called [Jekyll](https://jekyllrb.com/) (which is integrated in GitHub) 
-converts markdown files into HTML, suitable for web browsers. Jekyll is a "static site generator".
-
-[Markdown](https://daringfireball.net/projects/markdown/) is easier to write by humans than HTML.
-
-The structure of the website is still written in HTML. 
-Normally one defines the visuals aspect of a website using [CSS](https://en.wikipedia.org/wiki/CSS).
-Instead of writing CSS from scratch, we use [TailwindCSS](https://tailwindcss.com/),
-which is a collection of predefined and tested CSS blocks to make things
-simpler, and to allow to define the looks directly in the HTML file (instead of
-using separate CSS files).
-
-## Decap CMS
-
-To make it easier to edit the content we use Decap.
-
-[Decap](https://decapcms.org/) is an open source CMS. Currently some sections,
-for example Members, can be edited with this CMS. It runs locally on your
-computer and it makes changes to the files and folders of your local repository.
-
-To run it locally, run 
-
-    npx decap-server
-
-in one terminal window, and 
-
-    bundle exec jekyll serve
-
-in another.
-
-Then navigate to `http://localhost:4000/admin/` in one browser window (the CMS), and to
-`http://localhost:4000/` (the Prachtsaal website). 
-
-Then you can use the CMS to make changes to the pages. Click Publish to save the
-changes, and observe in your other browser window how the resulting page looks
-like.
-
-## Content Revision
-
-You'd like to maintain the content of our website? Thank you!
-
-### events page
-
-The events page, found in file `events.html`, is coded up and built from other content, like the contents of the `_events` and `_announcements` folders. If you want to change the content shown, you'll want to change the content in these two folders.
-
-The events shown as upcoming can be found in the `_events` folder. We use Jekyll's support of `collections` for events and announcements. To ensure the file name is unique, the filename should be in the form `yyyy-mm-dd-title.md`. The rest of the information that can be customized to provide titles, images, and ticket links is in the "front matter," or the section at the top between the lines with three dashes `---`; these three dashes are required, and tell Jekyll to compile and process the page.
-
-An preconfigured template of a markdown file can be found in `_templates/entry-template.md`. 
-
 ```
----                           (1)
-layout: entry                 (2)
-title:                        (3)
-subtitle:                     (4)
-main_image:                   (5)
-description:                  (6)
-date:                         (14)
-end_date:                     (15)
-images:                       (7)
-  - file:                     (8)
-    caption:                  (9)
-  - file: 
-    caption: 
-link:                         (10)
-link_text:                    (11)
-tags: portfolio               (12)
----                           (1)
-Add your content here.        (13)
-```
-- (1) delineates the front matter, is required
-- (2) required configuration for the framework (Jekyll)
-- (3) shown in list view, and as title of event page
-- (4) shown in list view, and as subtitle of event page
-- (5) location of the main image, shown in list view, and on event page
-- (6) description of event shown in list view, text the describes the page for search engines
-- (7) all images you wish to show at the bottom of the page should be listed here
-- (8) the location of the image file. It's important that there are two spaces at the beginning of the line
-- (9) the text of the image caption
-- (10) a link for ticket sales, or registration, which will show as a button
-- (11) the text of the button, that clicks to the link
-- (12) tags are used for labeling if an event will be shown in the portfolio, with text `portfolio`. if it should not be shown in the portfolio, don't put a tag
-- (13) text content for the vent
-- (14) the (start) date of the event, in the format YYYY-MM-DD.
-- (15) the end date date of the event, in the format YYYY-MM-DD. If the event is only one day, can omit, or use the same date for both date and end date.
++-------------------------------------+  
+| Reminder ~ before merging into main |  
++-------------------------------------+
 
-### home page
-
-Much of the home page is coded up, and built from other content. However, if you'd like to change the text introducing Prachtsaal on the homepage, you can edit it in index.md. 
-
-```
----                           (1)
-layout: home                  (2)
-title: Prachtsaal Studio      (3)
-subtitle: ...                 (4)
-description: ...              (5)
----                           (1)
-Prachtsaal (magnificent hall) stands as a nexus of arts,    (6)
-```
-- (1) delineates the front matter, is required
-- (2) required configuration for the framework (Jekyll)
-- (3) main title text for home page
-- (4) subtitle text for home page
-- (5) text the describes the page for search engines
-- (6) text content on home page, in markdown
-
-If you want to change anything related to spacing and design, you'll need to change the html and/or the css.
-
-### people page
-The people page, which is found at `people.html`, is automatically built from text files in the `_members` directory and `_data/communities.yml` file.
-
-If a member hasn't submitted member page text or images, you can force that a link not be created to a member page from the people page. This is done by making sure there is nothing past the front matter, meaning, if the last line in the member markdown file is the second `---`.
-
-#### member pages
-
-Each member has their own markdown (`*.md`) file. The stuff at the top ("front matter") is data that can be accessed by the script that builds the people page, and each member's page. It defines text, and where relevant files are.
-
-```
----                           (1)
-layout: member                (2)
-full_name: ...                (3)
-description: ...              (4)
-thumb: ...                    (5)
-portrait: ...                 (6)
-portfolio_image_locations:
-  - /assets/img/members/...   (7)
-  - /assets/img/members/...   (7)
-website: https://...          (8)
-socials:                      
-  - https://...               (9)
-  - https://...               (9)
----                           (1)
-
-This is the text of your personal page. (10)
+- In config.toml, change base_url so it no long goes into subfolder
+- Update deploy-main workflow:
+  > Trigger on merge into main, like before
+  > Do not write into subfolder
+  > Clean up /zola too
+- Recreate deploy-pr.yml for PR previews
+- Remove this notice :)
 ```
 
-- (1) delineates the front matter, is required
-- (2) required configuration for the framework (Jekyll)
-- (3) shown in list view, and personal page
-- (4) shown in list view, text the describes the page for search engines
-- (5) location of image in list view
-- (6) location of portrait in personal page
-- (7) file location of portfolio image shown in personal page
-- (8) website url. If more than one, use a list like in socials.
-- (9) list the links to your socials.
-- (10) the text you want shown on your personal page
+The content of this website is written in Markdown format, 
+using a plain text editor.
 
+A tool called [Zola](https://www.getzola.org/documentation/getting-started/overview/) 
+converts markdown files into HTML, suitable for web browsers. 
+Zola is a "static site generator" (SSG).
 
+[Markdown](https://daringfireball.net/projects/markdown/) 
+is easier to write by humans than HTML. One can use any text editor.
+The content of the website is located under the `content` folder, 
+as markdown files and images in webp format. Each page consists on
+a folder with a markdown file and maybe some images.
+Here a [guide](https://www.markdownguide.org/basic-syntax/) with the basics.
 
-#### communities section
+If a page includes video content, we have an account in 
+[Makertube](https://makertube.net/a/prachtsaal/video-channels)
+to host them (Berlin based).
 
-The information for the communities section is stored as a data file in `_data/communities.yml`. It is in YAML format. Please see the desired format below.
+The structure of the website is written in HTML and located in the `templates` folder.
 
-```
-- name: Tape Over                               (1)
-  thumb: /assets/img/communities/tapeover.jpeg  (2)
-  website: https://tapeover.berlin/             (3)
-  visible: true                                 (4)
+The looks of the website are found in `sass/beauty.scss`. We use sass because
+it allows for nested CSS rules, which are not yet supported in older devices.
 
-- name: Xemantic
-  thumb: /assets/img/communities/xemantic.png
-  website: https://xemantic.com/
-  visible: true
+Zola is [configured](https://www.getzola.org/documentation/getting-started/configuration/) in the `config.toml` file.
 
-...
-```
-- (1) The name of the organization. The dash indicates a new organization. 
-- (2) The logo, if available
-- (3) The website to link to.
-- (4) If the organization should be shown in the communities section
+The `static` folder contains other needed assets that will be served to
+visitors, for instance the favicon images, third party JavaScript and CSS
+(we use lite-light for zoomable images) and images used in multiple pages.
+The `static/processed_images` is automatically generated, and it contains
+resized images for faster browsing.
 
-If you want to change anything related to spacing and design, you'll need to change the html and/or the css.
+## Running the site locally
 
+To run the server in your own computer you need to 
+[install Zola](https://www.getzola.org/documentation/getting-started/installation/).
 
-## [WIP] Development
+Once installed, in a terminal window, you can go into the Prachtsaal website
+and run `zola serve` (maybe `zola.exe serve` in Windows?). After that, open
+[http://localhost:1111](http://localhost:1111) to view the site.
+Any changes you make to the markdown files should be instantly reflected
+in the web browser. If some change is not reflected, in the terminal window
+where zola is running press ctrl+c and run it again.
 
-You'd like to develop the design elements and code for the website? Thank you! 
+## Why switching from Jekyll to Zola
 
-This website is built using Jekyll and tailwindcss. [Jekyll](https://jekyllrb.com/) uses [Liquid](https://shopify.github.io/liquid/) to process templates. Both html files and markdown files can include what's called front matter, which is a section at the top of the page with key value pairs - we use the yaml formatting.
+In the past we used Jekyll, another static site generator which is integrated
+by default in GitHub. Running Jekyll locally is not always as simple as 
+running Zola. Jekyll requires a programming language called Ruby and multiple
+dependencies. Zola is just one executable, and it runs faster.
 
-To develop for this website, you'll need to install ruby (language Jekyll is written in), Jekyll, and node.js(used to install tailwind), and tailwind. There is an installation guide below.
+Zola enabled a simpler and easier to understand folder structure. 
+We greatly reduced the number of folders and were able to place 
+images together with markdown files, making them easier to find. 
+We used Zola to automatically scale and reduce image 
+file sizes, avoiding heavy images getting published. 
+We made Zola automatically scan for images to be shown in each page. 
+These changes make it easier to maintain by a wider audience, 
+removing the need for a content management system.
 
-### To install the required `npm` dependencies
+## How to
 
-```bash
-npm install
-```
+### Add a member
 
-### To serve the website locally
+- Duplicate the `content/members/kazik-pogoda` folder, giving it a new name (this member is suggested as not every member contains so many details.
+- Update the `front matter` in the `index.md` file (the text between `+++` and `+++`)
+- Update the content following the `front matter`.
+- Add images. The image containing `thumb` in the file name will be shown in the member list in square format. The image containing `portrait` in the name will be shown at the top of the member page. Any other images will be shown at the bottom of the member page as a portfolio.
 
-#### Short story
-While you are developing, in one terminal instance, run
+### Remove a member
 
-```bash
-npm run build-css
-```
+If someone is no longer part of the studio, edit `content/members/MEMBERNAME/index.md` and replace `current = true` with `current = false`. This will move the member to the Alumni section.
 
-which watches for any changes, and rebuilds `styles.css`.
+If a member needs to be completely removed, just delete its folder.
 
-In another terminal, run
+### Add an event
 
-```bash
-bundle exec jekyll serve
-```
-which serves the website at http://localhost:4000/
-Any changes will be automatically deployed, though you will need to reload your website to see the changes.
+- Duplicate one of the existing events,  for instance `content/events/2025-09-04-Lanterns-Unseen`.
+- Update the `front matter` in the `index.md` file (the text between `+++` and `+++`)
+- Update the content following the `front matter`. Set `archive = true` to show an event in the archive. Set `frontpage = true` to show it in the home page.
+- Add images. The image containing `thumb` in the file name will be shown in the event list in square format and at the top of the event page. Any other images will be shown at the bottom of the event page.
 
-#### Long story
-The way tailwind works is that it only builds and includes the css that you are using in your website. Therefore, as you build a website, you'll need to rebuild the css with tailwind, to ensure that the css classes defined in tailwind are included. Tailwind will take what's in `/assets/css/source.css` and rebuild it to `/assets/css/styles.css`. This `styles.css` is what is included into the html. If you want to customize your own css and classes, add them to `source.css` to ensure it's included in `styles.css`. The command to build to `styles.css` is documented in `package.json` as an `npm` script `buid-css`. This command will watch for changes and update `styles.css` on the fly.
+### Remove an event
 
-### Design considerations
+Edit event's `index.md` file and set `frontpage`, `archive` or both to `false` to hide the event from the home page or the archive.
 
-The way the website has been developed is it has anticipated that the files that non-technical contributors will want to work with are in markdown, for relative ease of editing. These pages are individual event pages, individual announcements pages, individual member pages, the about page, and the home page. 
+### Edit other pages
 
-Specifically:
-- events are in the `_events` folder. `events` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_events` folder can be accessed via `site.events`. Each event has its own markdown file, which uses the `_layouts/entry.html` layout.
-- announcements items are in the `_announcements` folder. `announcements` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_announcements` folder can be accessed via `site.announcements`. Each announcement has its own markdown file, which uses the `_layouts/entry.html` layout.
-- member pages are in the `_members` folder. `members` is a collection in Jekyll, defined in the `_config.yml` file. This means that all the data in the `_members` folder can be accessed via `site.members`. Each member has their own markdown file, which uses the `_layouts/member.html` layout.
-- the about page is an example of a generic text only page, which uses the `_layouts/page.html` layout.
-- the home page is a custom page, but because there is a little bit of text in it, it is a layout, that can be called by the `index.md` file. That way, the text for the home page, and the titles, can be changed relatively easily.
+The content of the home page is found in `content/_index.md`.
+The impressum can be edited at `content/impressum/index.md`.
+The about page at `content/about/index.md`.
 
-What's not in markdown are the events and people pages, which compile information in other files, and layouts, which are html templates that markdown files will use, named in the front matter with the key `layout`. These html files are mostly Liquid templating language, html, and tailwind css classes. 
+### Creating new pages
 
-The events page has two sections, an upcoming events section, and an events portfolio. by date at build time (only future dates are considered), and then at load time, javascript (`/assets/js/future_events.js`) will further remove events that are in the past. The events portfolio section filters all posts (including the `announcements` category) on the tag `portfolio`. If a future event has been labeled with the tag `portfolio`, it will be shown in the events porfolio section.
+To add a new page like the `about` or `impressum` pages, duplicate
+`content/about` giving it a new name, then edit the title in the new
+folder's `index.md` file, edit the markdown below the front matter in the same
+file, maybe add some images.
 
-All the pages use the layout `default.html` - this layout includes the navigation bar and footer, and required js and css. The html for the navigation bar is at `_includes/navigation.html`, and the html for the footer is at `_includes/footer.html`.
+Finally, add the new page to `templates/navigation.html` to make it appear 
+in the menu at the top of every page.
 
-When you create a pull request, a GitHub action called [PR Preview Action](https://github.com/rossjrw/pr-preview-action) 
-will run automatically, creating a preview website to verify
-everything looks good before the team decides to accept the pull request. The URL of that temporary
-website will be visible in a auto-generated comment under the pull request.
-It will look like `https://prachtsaal.github.io/prachtsaal.berlin/pr-preview/pr-NN/`,
-where NN is the pull request number.
+## Suggestions
 
+Read the Markdown guide linked above. That's the only thing you need to
+learn to do some basic formatting, like headlines and sub headlines,
+links, bold text and including images.
 
-### Installation
+Tip: you can paste HTML in the middle of a markdown file. This can be useful
+to embed a video or audio player from sites like SoundCloud or Peertube.
 
-You'll want to install ruby, node.js, and tailwindcss if you haven't already. If you need to install any of these, here are some helpful references:
+## For advanced users
 
-- https://github.com/rubygems/rubygems?tab=readme-ov-file: you can install ruby with [rbenv](https://github.com/rbenv/rbenv)
-- https://jekyllrb.com/docs/installation/ubuntu/
-- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm: to install node and npm, use nvm: https://github.com/nvm-sh/nvm
-- https://tailwindcss.com/docs/installation
-- https://tailwindcss.com/docs/editor-setup
+- Study Zola's [documentation](https://www.getzola.org/documentation/getting-started/overview/).
+- Study Tera's [documentation](https://keats.github.io/tera/) (the Rust templating engine used in Zola).
 
-#### Setting up Jekyll
-Once ruby is installed, install jekyll and bundler gems with
+### Debugging
 
-```bash
-gem install jekyll bundler
-```
+It is common to not know what variables are available in a given context when
+Zola is processing pages. You can list all the Tera variables available under
+`templates/*.html` by pressing the `d` key on the keyboard (only while serving
+content locally). The debug info should appear at the bottom of the page and
+can be hidden by pressing the key again.
 
-If you are setting up your environment, you can set up the ruby environment with
-
-```bash
-bundle install
-```

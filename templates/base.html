@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <link href="{{ get_url(path='beauty.css') }}" rel="stylesheet">
+</head>
+
+<body>
+
+  {% include "navigation.html" %}
+
+  <section class="section">
+    <div class="container">
+      {% block content %} {% endblock content %}
+    </div>
+  </section>
+
+  {% include "footer.html" %}
+
+  {% if config.mode == "serve" %}
+  <pre id="debug">
+    { { __tera_context }}
+  </pre>
+  <script>
+    document.addEventListener('keypress', function(event) {
+      if (event.key === 'd' || event.key === 'D') {
+        const debugElement = document.getElementById('debug');
+        if (debugElement) {
+          const currentDisplay = window.getComputedStyle(debugElement).display;
+          debugElement.style.display = currentDisplay === 'none' ? 'block' : 'none';
+        }
+      }
+    });
+  </script>
+  {% endif %}
+</body>
+
+</html>

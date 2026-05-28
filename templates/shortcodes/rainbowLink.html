@@ -1,0 +1,16 @@
+<a href="{{ url }}" class="rainbow-link" target="_blank">{{ text }}</a>
+
+<style>
+    @keyframes rainbow { to { background-position: 100%; } }
+
+    a.rainbow-link,
+    a.rainbow-link:visited,
+    a.rainbow-link:hover {
+        background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);
+        background-size: 400% 100%;
+       -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: rainbow 10s linear infinite;
+    }
+</style>
