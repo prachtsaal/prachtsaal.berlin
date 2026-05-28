@@ -1,9 +1,8 @@
 name: Build and Deploy Main (Zola)
 on:
   push:
-    branches:                                 # Change to main when merged
-      - zola
-      #- main     
+    branches:
+      - main
   workflow_dispatch:  # allows manual trigger
 
 permissions:
@@ -27,7 +26,6 @@ jobs:
       - name: Deploy to Github Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target-folder: zola                # Remove when merging to main
           folder: public
           branch: gh-pages
           clean-exclude: pr-preview
