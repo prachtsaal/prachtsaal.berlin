@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://prachtsaal.berlin/pr-preview/pr-139/sitemap.xml
