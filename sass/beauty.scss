@@ -171,6 +171,7 @@ nav {
     line-height: 130%;
     a {
         hyphens: auto;
+        width: 100%;
     }
     img {
         width: 100%;
@@ -202,7 +203,7 @@ nav {
       display: flow-root;
       text-align: center;
       color: white;
-      font-size: 2rem;
+      font-size: 1.5cqw;
       line-height: 150%;
       div {
         a, a:visited {
@@ -214,7 +215,7 @@ nav {
         box-shadow: 2px 2px 7px $shadows-color;
         background-color: #92a4dd; 
         aspect-ratio: 1;
-        padding: 2rem;
+        padding: 2cqw;
         align-items: center;
         display: flex;
         justify-content: center;
@@ -243,7 +244,7 @@ img.grid-item {
     display: flex;
     flex-flow: wrap;
     div {
-        width: calc(50% - 20px );
+        width: calc(50% - 20px);
         aspect-ratio: 1;
         margin: 10px;
         display: flex;
@@ -295,8 +296,8 @@ footer {
     margin-top: 6px;
     border-radius: 15px 15px 0px 0px;
     filter: drop-shadow(2px 2px 4px $shadows-color);
-    line-height: 1.5rem;
-    font-size: 0.9rem;
+    line-height: 1.5vw;
+    font-size: 1vw;
 
     a, a:visited {
       color: white;
@@ -320,6 +321,15 @@ footer {
         left: 15%;
         width: 70%;  
     }
+    
+    .people div.nameOnly {
+        font-size: 2cqw;
+    }
+    
+    footer {
+      line-height: 2vw;
+      font-size: 1.5vw;
+    }
 }
 
 
@@ -332,14 +342,22 @@ footer {
     #fun {
         overflow: hidden;
     }
-    
-   .people > div {
+
+    .people > div {
         display: flex;
         width: calc(33% - 10px);
         margin: 5px;
         h2 {
           font-size: 1.4rem;
         }
+    }
+    .people div.nameOnly {
+        font-size: 5cqw;
+    }
+    
+    footer {
+      line-height: 4.5vw;
+      font-size: 3.5vw;
     }
 }
 
