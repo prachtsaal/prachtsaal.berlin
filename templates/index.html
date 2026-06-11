@@ -3,12 +3,14 @@
 {% block content %}
 
   {{ section.content | safe }}
+  
+  {% set events = get_section(path="events/_index.md") %}
+  {% set featuredEvents = events.pages | filter(attribute="extra.frontpage", value=true) %}
 
-  <h2>Featured events</h2>
+  {% if featuredEvents %}<h2>Featured events</h2>{% endif %}
 
   <div class="archive">
-  {% set featuredEvents = get_section(path="events/_index.md") %}
-  {% for item in featuredEvents.pages %}
+  {% for item in featuredEvents %}
     {% if item.extra.frontpage %}
       <div>
         {% for asset in item.assets %}
