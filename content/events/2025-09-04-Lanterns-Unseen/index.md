@@ -1,7 +1,7 @@
 +++
 title = "Lanterns Unseen"
 [extra]
-frontpage = true
+frontpage = false
 archive = true
 subtitle = "Berlin Media Art Week"
 description = "This collective exhibition is designed to explore the complexities of presence and perception in the digital age, showcasing time-based artistic positions and real-time conversations."
