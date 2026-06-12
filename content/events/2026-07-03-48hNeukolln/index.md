@@ -71,7 +71,7 @@ Duration: 40min
 
 **Luna Nane** (Ger) - modular hybrid live set
 
-![](48hNK-2026-004.webp)
+![](48hNK-2026-006.webp)
 
 Luna Nane is a creative technologist and media artist, focusing on interfaces
 and immersive spaces. Her modular hybrid live set is a showcase of recent
@@ -86,7 +86,7 @@ Duration: 30-40min
 
 **Juan Duarte** (Mex) - audio live set
 
-![](48hNK-2026-006.webp)
+![](48hNK-2026-004.webp)
 
 Smoking Mirror (Tezcatlipoca) is a media performance that explores the
 relationship between weather data and divinatory rituals, drawing inspiration
@@ -121,13 +121,18 @@ situates itself in a poetic and reflective terrain.
 ### Sunday July 5th
 
 #### 15:00
+
 **Oriental Sexpress, drag performance**
 
 Duration 20 min
 
 [@oriental.sexpress](https://www.instagram.com/oriental.sexpress/)
 
-**Vivi Bikini, drag performance**
+**Bikini Blåhaj, drag performance**
+
+![](48hNK-2026-Bikini.jpg)
+
+Bikini (he/him/himbo) is a Clubkid and a Musical Gay. He brings you a fun time with a twist, a party with drama sprinkled in and rhinestones dripping with testosterone.
 
 Duration 20 min
 
