@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prachtsaal Studio</title>
+  <link href="https://prachtsaal.berlin/pr-preview/pr-145/beauty.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav>
+  <div>
+    <a href="https://prachtsaal.berlin/pr-preview/pr-145">
+      <img src="https://prachtsaal.berlin/pr-preview/pr-145/prachtsaal-logo.png" class="wide">
+    </a>
+  </div>
+
+  <div>
+    <div class="menu">
+      <a href="https://prachtsaal.berlin/pr-preview/pr-145">Home</a>
+      <a href="https://prachtsaal.berlin/pr-preview/pr-145/members/">People</a>
+      <a href="https://prachtsaal.berlin/pr-preview/pr-145/events/">Archive</a>
+      <a href="https://prachtsaal.berlin/pr-preview/pr-145/about/">About</a>
+    </div>
+  </div>
+</nav>
+
+
+  <section class="section">
+    <div class="container">
+      
+
+  <h2 id=""><a href="https:&#x2F;&#x2F;www.instagram.com&#x2F;prachtsaal" class="rainbow-link" target="_blank">social media</a>
+
+<style>
+    @keyframes rainbow { to { background-position: 100%; } }
+
+    a.rainbow-link,
+    a.rainbow-link:visited,
+    a.rainbow-link:hover {
+        background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);
+        background-size: 400% 100%;
+       -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: rainbow 10s linear infinite;
+    }
+</style>
+ <a href="mailto:info@prachtsaal.berlin" class="rainbow-link" target="_blank">e-mail</a>
+
+<style>
+    @keyframes rainbow { to { background-position: 100%; } }
+
+    a.rainbow-link,
+    a.rainbow-link:visited,
+    a.rainbow-link:hover {
+        background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);
+        background-size: 400% 100%;
+       -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: rainbow 10s linear infinite;
+    }
+</style>
+</h2>
+
+<div id="viewer" ></div>
+
+<style>
+#viewer {
+	position : relative; 
+	width: 100%; 
+	aspect-ratio: 16 / 9; 
+	height : auto;
+
+}
+</style>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://prachtsaal.berlin/pr-preview/pr-145/js/three.module.min.js",
+    "addons/": "https://prachtsaal.berlin/pr-preview/pr-145/js/"
+  }
+}
+</script>
+
+<script type="module">
+
+import * as THREE from "three";
+import { OrbitControls } from "addons/three.OrbitControls.js";
+
+const element = document.getElementById("viewer");
+
+const width = element.clientWidth;
+const height = element.clientHeight;
+
+let camera, scene, renderer, controls;
+
+init();
+
+function init() {
+
+    scene = new THREE.Scene();
+
+    camera = new THREE.PerspectiveCamera(70, width / height, 1, 1000);
+    camera.position.set(0, 0, 0.1);
+
+    renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(width, height);
+
+    // modern color management (fix washed-out textures)
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+    element.appendChild(renderer.domElement);
+
+const texture = new THREE.TextureLoader().load("https://prachtsaal.berlin/pr-preview/pr-145/img/prachtsaal_banner_01.webp");
+
+    // fix panorama color space
+    texture.colorSpace = THREE.SRGBColorSpace;
+
+    const geometry = new THREE.SphereGeometry(500, 60, 40);
+    geometry.scale(-1, 1, 1);
+
+    const material = new THREE.MeshBasicMaterial({
+        map: texture
+    });
+
+    const mesh = new THREE.Mesh(geometry, material);
+    scene.add(mesh);
+
+    controls = new OrbitControls(camera, renderer.domElement);
+
+    // allow page scrolling
+    controls.enableZoom = false;
+
+    // disable panning
+    controls.enablePan = false;
+
+    // smooth slow auto rotate
+    controls.autoRotate = true;
+    controls.autoRotateSpeed = 0.25;
+
+    // drag feel
+    controls.rotateSpeed = -0.3;
+
+    window.addEventListener("resize", onResize);
+
+    animate();
+}
+
+function onResize() {
+
+const width = element.clientWidth;
+const height = element.clientHeight;
+
+camera.aspect = width / height;
+camera.updateProjectionMatrix();
+renderer.setSize(width, height);
+
+}
+
+function animate() {
+
+    requestAnimationFrame(animate);
+
+    controls.update();
+
+    renderer.render(scene, camera);
+
+}
+
+</script>
+<h2 id="neukolln-s-non-profit-art-cooperative">Neukölln's non-profit art cooperative</h2>
+<p>Welcome to Prachtsaal, a living junction where artists and audiences meet to experiment, reflect, and reimagine. Rooted in Neukölln, we’re a non-profit cooperative championing bold visual art, performance, and sound. Our space offers affordable ateliers, inclusive programming, and a spirit of radical hospitality. We believe in curiosity as method, play as strategy, and collaboration as catalyst. Step into a community where creativity stretches its limbs and the boundaries of practice are always in flux.</p>
+<div id="fun">
+  <span>Workshops</span>
+  <span>Exhibitions</span>
+  <span>Meeting</span>
+  <span>Printing</span>
+  <span>Writing</span>
+  <span>Coding</span>
+  <span>Coworking</span>
+  <span>Music</span>
+  <span>Painting</span>
+  <span>Cinema</span>
+  <span>Craft</span>
+  <span>Podcasts</span>
+  <span>Cooking</span>
+  <span>Drawing</span>
+  <span>Photography</span>
+  <span>Game</span>
+  <span>Research</span>
+  <span>Tattoo</span>
+</div>
+
+<style>
+#fun {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    filter: drop-shadow(2px 2px 4px var(--shadows-color));
+}
+
+#fun span {
+  position: absolute;
+  left: 40%;
+  top: 25%;
+  animation: magical var(--duration, 120s) var(--delay, 0s) infinite ease-in-out;
+}
+
+/* Lovely <3 */
+@keyframes magical {
+  0%, 100% { transform: translate(calc(var(--x2, 100) * 3%), calc(var(--y1, 100) * 3%)) scale(calc(var(--x1, 1) *
+ var(--x1, 1) * 0.0001)); }
+  25% { transform: translate(calc(var(--x1, 100) * 3%), calc(var(--y2, 100) * 3%)) scale(calc(var(--x2, 1) * var(
+--x2, 1) * 0.0001)); }
+  50% { transform: translate(calc(var(--x2, 0) * 3%), calc(var(--y3, 0) * 3%)) scale(calc(var(--x3, 1) * var(--x3
+, 1) * 0.0001)); }
+  75% { transform: translate(calc(var(--x3, 200) * 3%), calc(var(--y2, 50) * 3%)) scale(calc(var(--y1, 1) * var(-
+-y1, 1) * 0.0001)); }
+}
+
+#fun span:nth-child(1) { --duration: 16s; --x1: 120; --y1: 80; --x2: -50; --y2: -40; --x3: 90; --y3: 30; }
+#fun span:nth-child(2) { --duration: 27s; --x1: -100; --y1: 60; --x2: 130; --y2: -20; --x3: -70; --y3: 50; }
+#fun span:nth-child(3) { --duration: 18s; --x1: 80; --y1: -90; --x2: -120; --y2: 40; --x3: 60; --y3: -30; }
+#fun span:nth-child(4) { --duration: 25s; --x1: -70; --y1: 100; --x2: 110; --y2: -60; --x3: -40; --y3: 20; }
+#fun span:nth-child(5) { --duration: 19s; --x1: 150; --y1: -70; --x2: -90; --y2: 30; --x3: 100; --y3: -50; }
+#fun span:nth-child(6) { --duration: 26.5s; --x1: -130; --y1: 40; --x2: 80; --y2: -80; --x3: -60; --y3: 60; }
+#fun span:nth-child(7) { --duration: 17.5s; --x1: 90; --y1: 110; --x2: -100; --y2: -10; --x3: 70; --y3: -40; }
+#fun span:nth-child(8) { --duration: 25.5s; --x1: -80; --y1: -50; --x2: 140; --y2: 20; --x3: -30; --y3: 70; }
+#fun span:nth-child(9) { --duration: 18.5s; --x1: 110; --y1: 30; --x2: -150; --y2: 60; --x3: 50; --y3: -20; }
+#fun span:nth-child(10) { --duration: 26.8s; --x1: -60; --y1: 80; --x2: 100; --y2: -70; --x3: -90; --y3: 40; }
+#fun span:nth-child(11) { --duration: 32.2s; --x1: 120; --y1: -40; --x2: -70; --y2: 50; --x3: 80; --y3: -60; }
+#fun span:nth-child(12) { --duration: 44.5s; --x1: -170; --y1: 20; --x2: 120; --y2: -30; --x3: -50; --y3: 30; }
+#fun span:nth-child(13) { --duration: 31.5s; --x1: 40; --y1: 110; --x2: -110; --y2: -20; --x3: 70; --y3: -140; }
+#fun span:nth-child(14) { --duration: 14.5s; --x1: -40; --y1: -50; --x2: 130; --y2: 70; --x3: -20; --y3: 70; }
+#fun span:nth-child(15) { --duration: 19.4s; --x1: 130; --y1: 60; --x2: -110; --y2: 30; --x3: 50; --y3: -70; }
+#fun span:nth-child(16) { --duration: 28.8s; --x1: -80; --y1: 80; --x2: 90; --y2: -10; --x3: -40; --y3: 40; }
+#fun span:nth-child(17) { --duration: 49.2s; --x1: 160; --y1: -40; --x2: -90; --y2: 30; --x3: 80; --y3: -10; }
+#fun span:nth-child(18) { --duration: 38.6s; --x1: -120; --y1: 20; --x2: 0; --y2: -50; --x3: -50; --y3: 20; }
+
+</style>
+
+  
+  
+  
+
+  <h2>Featured events</h2>
+
+  <div class="archive">
+  
+    
+      <div>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            
+            <a href="https://prachtsaal.berlin/pr-preview/pr-145/events/2026-07-03-48hneukolln/"><img src="https:&#x2F;&#x2F;prachtsaal.berlin&#x2F;pr-preview&#x2F;pr-145&#x2F;processed_images&#x2F;48hNK-logo-thumb.e5e133e533ac3dcc.webp"></a>
+            
+      </div>
+      <div>
+        <a href="https://prachtsaal.berlin/pr-preview/pr-145/events/2026-07-03-48hneukolln/">
+          <h2>2026-07-03<br/>48h Neukölln 2026</h2>
+          <h3>Un-setting &#x2F; Re-setting</h3>
+        </a>
+      </div>
+    
+  
+  </div>
+
+
+    </div>
+  </section>
+
+  <footer>
+    <div>
+          Prachtsaal Studio <br>
+          Jonasstraße 22 <br>
+          12053 Berlin<br>
+     </div>
+     <div>
+          <a href="https://instagram.com/prachtsaal" target="_blank">
+            <img src="https://prachtsaal.berlin/pr-preview/pr-145/img/Instagram_Glyph_white_logo.svg.webp" alt="Instagram logo"> Instagram
+          </a>
+          <br>
+          <a href="https://buttondown.com/prachtsaal.berlin" target="_blank">
+            <img src="https://prachtsaal.berlin/pr-preview/pr-145/img/buttondown-logo.webp" alt="Buttondown logo"> Newsletter
+          </a>
+          <br>
+    </div>
+    <div >
+        Copyright &copy; <span id="Y">2025</span><script>document.getElementById('Y').textContent=new Date().getFullYear()</script> 
+        <br>Prachtsaal Studio
+		<br><a href="https://prachtsaal.berlin/pr-preview/pr-145/impressum">Impressum</a>
+    </div>
+</footer>
+
+
+  
+</body>
+
+</html>
