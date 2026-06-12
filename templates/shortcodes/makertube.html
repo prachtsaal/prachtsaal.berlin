@@ -1,7 +1,19 @@
-<iframe 
-	title="{% if title %}{{title}}{% endif %}" 
+<iframe id="iframe_{{id}}" 
+	{% if title %}title="{{title}}"{% endif %} 
 	src="https://makertube.net/videos/embed/{{id}}" 
+  {% if width %}width="{{width}}"{% endif %}
+  {% if height %}height="{{height}}"{% endif %}
 	style="border: 0px;" 
 	allow="fullscreen" 
 	sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
 </iframe>
+
+{% if width %}
+  {% if height %}
+    <style>
+      #iframe_{{id}} {
+        aspect-ratio: {{width}}/{{height}}
+      }
+    </style>
+  {% endif %}
+{% endif %}

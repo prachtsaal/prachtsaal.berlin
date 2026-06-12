@@ -113,6 +113,7 @@ p {
 
 iframe {
     width: 100%;
+    height: auto;
     aspect-ratio: 640 / 360;
 }
 
@@ -284,6 +285,9 @@ div.event {
   h2 {
     margin-top: 0px;
     margin-bottom: 0px;
+  }
+  img {
+    max-width: 100%;
   }
 }
 

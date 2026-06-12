@@ -1,5 +1,6 @@
 public/
 static/processed_images/
+_site/
 
 .idea/
 .vscode/
