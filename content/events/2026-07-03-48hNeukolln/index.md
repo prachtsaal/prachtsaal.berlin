@@ -69,7 +69,8 @@ Duration: 40min
 
 #### 19:00 - live, audio-visual performances
 
-**Luna Nane** (Ger) - modular hybrid live set
+**Luna Nane** (Ger) - modular hybrid live set + **Grit Kit Visuals** (Ger) -
+live visuals
 
 ![](48hNK-2026-006.webp)
 
@@ -80,9 +81,14 @@ generative composition tools to the playing surface of this intricate
 programmable instrument, and translates it to audio synthesis in an analog
 system.
 
+![](48hNK-2026-Grit.webp)
+
+Grit Kit is a Berlin based visual artist playing in the fields of video art and interactive media. She is a member of Trial and Theresa, a feminist VJ collective experimenting in the field of live audiovisual performance with a special emphasis on the integration and visibility of women and queer people in the electronic arts scene. Though Grit’s original professions are Interaction Design and Computational Visualistics, she has since shifted my focus to visual art, animation, and multidisciplinary performance.
+
 Duration: 30-40min
 
 [@luna_nane_art](https://www.instagram.com/luna_nane_art/)
+[@gritkitvisuals](https://www.instagram.com/gritkitvisuals/)
 
 **Juan Duarte** (Mex) - audio live set
 
