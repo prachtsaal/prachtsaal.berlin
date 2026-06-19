@@ -69,7 +69,7 @@ Duration: 40min
 
 #### 19:00 - live, audio-visual performances
 
-**Luna Nane** (Ger) - modular hybrid live set + **Grit Kit Visuals** (Ger) -
+**Luna Nane** (Ger) - modular hybrid live set + **Grit Kit** (Ger) -
 live visuals
 
 ![](48hNK-2026-006.webp)
@@ -83,7 +83,7 @@ system.
 
 ![](48hNK-2026-Grit.webp)
 
-Grit Kit is a Berlin based visual artist playing in the fields of video art and interactive media. She is a member of Trial and Theresa, a feminist VJ collective experimenting in the field of live audiovisual performance with a special emphasis on the integration and visibility of women and queer people in the electronic arts scene. Though Grit’s original professions are Interaction Design and Computational Visualistics, she has since shifted my focus to visual art, animation, and multidisciplinary performance.
+In her video art, Grit Kit combines abstract loops based on formulas and algorithms with filmed footage and hand-drawn animations. In terms of design, she takes up universal forms, patterns and movements that can represent organic systems, mineral structures, mathematical concepts and physical processes alike. In her live visuals, clearly regulated elements meet lively improvisation. Components repeat themselves, pulsate, are fragmented, dissolve or regroup. Her video projections often incorporate space, three-dimensional surfaces and physical materialities.
 
 Duration: 30-40min
 
