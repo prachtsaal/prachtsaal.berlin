@@ -65,7 +65,7 @@ It explores the idea of what it means to stay calm during the time of extreme un
 
 Duration: 20-30min
 
-[nenadpopov.com](https://www.nenadpopov.com/)
+[nenadpopov.com](https://nenadpopov.com/)
 [@nesagram](https://www.instagram.com/nesagram/)
 
 #### 17:00 - RED - ROT performance by Ilana Palmgren (Fin)
