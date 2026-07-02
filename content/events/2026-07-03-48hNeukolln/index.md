@@ -53,6 +53,21 @@ Duration: 5min
 
 ### Saturday July 4th, open 14-22Uhr
 
+#### 15:00 - live music
+
+**Nesa Popov** - This is Fine
+
+![](48hNK-2026-Nesa.webp)
+
+A short live meditative sound performance inspired by "This is fine" meme where a dog is sitting comfortably in the chair and drinking coffee while the room is being engulfed by flames.
+
+It explores the idea of what it means to stay calm during the time of extreme uncertainty. Are we frozen due to panic or are we trying to act rationally in extremely unrational situation?
+
+Duration: 20-30min
+
+[nenadpopov.com](https://www.nenadpopov.com/)
+[@nesagram](https://www.instagram.com/nesagram/)
+
 #### 17:00 - RED - ROT performance by Ilana Palmgren (Fin)
 
 ![](48hNK-2026-002.webp)
