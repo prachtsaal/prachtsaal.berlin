@@ -39,6 +39,16 @@ boundaries that connect and separate us.
 
 ### Friday July 3rd, open 18-22Uhr
 
+#### 19:00 - "Explorations of subtleties" 
+
+**bee paang aka Floating Spectrum** (Tw) - music + **aBe** (Fin/Spa) - algorithmic visuals
+
+![](48hNK-2026-abe.webp)
+
+A collage of improvisational moments where raw, unpolished textures meet nature: looping, evolving drones and frequency beatings inspired by insects and the subtle wrinkles on water's surface.
+
+Projected on the ceiling, one million agents reacting to the traces of their peers and to the unexpected forces of artificial nature.  
+
 #### 20:00 - "swallow it!" performance by Romina Geppert
 
 ![](48hNK-2026-000.webp)
@@ -81,6 +91,13 @@ itself becomes synaesthetic.
 Duration: 40min
 
 [@ilanaleksandra](https://www.instagram.com/ilanaleksandra/)
+
+#### 18:00 - "Explorations of subtleties" 
+
+**bee paang aka Floating Spectrum** (Tw) - music + **aBe** (Fin/Spa) - algorithmic visuals
+
+(see details above, on Friday)
+
 
 #### 19:00 - live, audio-visual performances
 
@@ -140,6 +157,12 @@ situates itself in a poetic and reflective terrain.
 [@elfedete](https://www.instagram.com/elfedete/)
 
 ### Sunday July 5th
+
+#### 13:00 - "Explorations of subtleties" 
+
+**bee paang aka Floating Spectrum** (Tw) - music + **aBe** (Fin/Spa) - algorithmic visuals
+
+(see details above, on Friday)
 
 #### 15:00
 
