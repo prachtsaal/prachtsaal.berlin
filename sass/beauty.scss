@@ -72,7 +72,7 @@ h2 {
     font-weight: 400;
 }
 h3 {
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     font-weight: 500;
     margin-bottom: 0.2rem;
 }
@@ -327,6 +327,9 @@ footer {
 }
 
 @media (max-width: 1400px) {
+    h3 {
+        font-size: 1.6rem;
+    }
     body {
         left: 15%;
         width: 70%;  
@@ -344,6 +347,9 @@ footer {
 
 
 @media (max-width: 1000px) {
+    h3 {
+        font-size: 1.4rem;
+    }
     body {
         left: 4px;
         width: calc(100% - 8px);
