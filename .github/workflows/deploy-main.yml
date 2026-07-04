@@ -28,5 +28,5 @@ jobs:
         with:
           folder: public
           branch: gh-pages
-          clean-exclude: pr-preview
+          # clean-exclude: pr-preview
           force: false
