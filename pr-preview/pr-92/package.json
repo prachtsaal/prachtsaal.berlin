@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "build-css": "tailwindcss build -i assets/css/source.css -o assets/css/styles.css --watch"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.4.3"
-  }
-}
