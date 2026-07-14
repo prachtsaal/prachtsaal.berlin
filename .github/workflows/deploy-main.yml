@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
@@ -28,5 +28,5 @@ jobs:
         with:
           folder: public
           branch: gh-pages
-          # clean-exclude: pr-preview
+          clean-exclude: pr-preview
           force: false
