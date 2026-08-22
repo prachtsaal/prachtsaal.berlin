@@ -13,7 +13,7 @@ tags = ['exhibition']
 
 
 For this year's 48h Neukölln festival, Prachtsaal Studio presents a studio residents exhibition
-alongside a programme of live, audio-visual, and performance-based works by resident and invited
+alongside a program of live, audio-visual, and performance-based works by resident and invited
 artists. By bringing external performers into dialogue with our studio community, we aim to expand
 the conversation beyond the boundaries of the exhibition space.
 

@@ -24,7 +24,7 @@ jobs:
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.22.1
+          tool: zola@0.23.4
       - name: Build
         run: zola build -u "https://prachtsaal.berlin$BASEURL"
       - name: Deploy preview

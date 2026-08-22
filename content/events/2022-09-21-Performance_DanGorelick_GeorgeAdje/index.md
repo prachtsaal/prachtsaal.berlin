@@ -25,6 +25,6 @@ explores how music, as a time-based medium, serves as a vehicle to appreciate ti
 and climate. His practice draws inspiration from deep listening approaches, exploring the
 meditative, healing, and connective nature of sound.
 
-{{ youtube(id="MpDpfBIY1_M", autoplay=false, class="") }}
+{{ <youtube id="MpDpfBIY1_M" autoplay={false} /> }}
 
 [Rehearsal video](https://www.instagram.com/p/CiuzyQTDPGE/).
