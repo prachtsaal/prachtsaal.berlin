@@ -5,14 +5,14 @@
 {% block content %}
 
 <div class="people">
-  {% for member in section.pages | filter(attribute="extra.current", value=true) %}
+  {% for member in  [page for page in section.pages if page.extra.current == true] %}
 
   <div>
     <a href="{{ member.permalink | safe }}">
 
       {% set_global found = false %}
       {% for asset in member.assets %}
-      	{% if asset is matching(".*thumb.*") %}
+      	{% if asset is matching(pat=".*thumb.*") %}
 	  {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
       <img src="{{ image.url }}">
 	  {% set_global found = true %}
@@ -43,14 +43,14 @@
 <h1>Alumni</h1>
 
 <div class="people">
-  {% for member in section.pages | filter(attribute="extra.current", value=false) %}
+  {% for member in  [page for page in section.pages if page.extra.current == false] %}
 
   <div>
     <a href="{{ member.permalink | safe }}">
 
       {% set_global found = false %}
       {% for asset in member.assets %}
-      	{% if asset is matching(".*thumb.*") %}
+      	{% if asset is matching(pat=".*thumb.*") %}
 	  {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
   	  <img src="{{ image.url }}">
 	  {% set_global found = true %}

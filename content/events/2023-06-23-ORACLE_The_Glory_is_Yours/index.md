@@ -26,7 +26,7 @@ Interactive movement sculpture
 The Immersive Dance Experience  
 and more  
 
-{{ youtube(id="7pw-Xa5AK_0") }}
+{{ <youtube id="7pw-Xa5AK_0" /> }}
 
 The Immersive Dance Experience works at the border between a dance class, Ecstatic
 Dance and party. Get ready to loosen up, explore your body and the music and have fun

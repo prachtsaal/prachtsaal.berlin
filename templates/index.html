@@ -5,7 +5,7 @@
   {{ section.content | safe }}
   
   {% set events = get_section(path="events/_index.md") %}
-  {% set featuredEvents = events.pages | filter(attribute="extra.frontpage", value=true) %}
+  {% set featuredEvents =  [page for page in events.pages if page.extra.frontpage == true] %}
 
   {% if featuredEvents %}<h2>Featured events</h2>{% endif %}
 
@@ -14,7 +14,7 @@
     {% if item.extra.frontpage %}
       <div>
         {% for asset in item.assets %}
-          {% if asset is matching(".*thumb.*") %}
+          {% if asset is matching(pat=".*thumb.*") %}
             {% set image = resize_image(path=asset, width=300, height=300, op="fill", format="webp", quality=90) %}
             <a href="{{ item.permalink | safe }}"><img src="{{ image.url }}"></a>
             {% break %}

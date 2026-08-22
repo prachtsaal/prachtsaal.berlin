@@ -10,7 +10,7 @@
     {% if page.extra.archive %}
     <div>
     	{% for asset in page.assets %}
-          {% if asset is matching(".*thumb.*") %}
+          {% if asset is matching(pat=".*thumb.*") %}
             {% set image = resize_image(path=asset, width=500, height=500, op="fill", format="webp", quality=90) %}
                 <a href="{{ page.permalink | safe }}"><img src="{{ image.url }}"></a>
             {% break %}

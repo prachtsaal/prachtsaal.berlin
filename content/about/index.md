@@ -41,7 +41,7 @@ We’re in the process of becoming a registered non-profit cooperative (*gemeinn
 
 ## A Living History: The Soul of Prachtsaal
 
-{{ figure(src="./prachtsaal-streetview.webp", title="Prachtsaal from Jonas Straße") }}
+{{ <figure src="./prachtsaal-streetview.webp" title="Prachtsaal from Jonas Straße" /> }}
 
 Prachtsaal started as a Tanzschule founded by Emil August and Olga Meisel just after World War I, back when inflation was so out of control that a single lesson cost 4.2 billion Marks. Around 1920, the school moved to its current address. Later, the couple’s sons stepped in and expanded the family business.
 
@@ -51,14 +51,14 @@ Towards the end of the war, it was Inge Meisel-Karras, the founders’ granddaug
 
 Through the decades, the space passed through many hands: in 1965, the Tanzsportabteilung Weiss-Gold-Casino got its start and called the Prachtsaal home for nearly three decades, right inside the Tanzschule Meisel-Karras. Then, in 1980, the Meisel-Karras couple retired and handed the reins over to one of their former students, Rita Beck. Come the 1990s, the school changed hands again, this time to Tanzschule Dieter Keller, with Monika Keller taking the lead.
 
-{{ figure(src="./tanzschule.webp", title="Tanzschule doors, photo credit Reinhold Steinle") }}
+{{ <figure src="./tanzschule.webp" title="Tanzschule doors, photo credit Reinhold Steinle" /> }}
 
 
 Another chapter unfolded when Dan Lahav, a Holocaust survivor’s son and theatre-maker, chose Prachtsaal as the home for Berlin’s first post-war Jewish theatre. Lahav, born in poverty in Haifa, raised by a grandmother who sang him German arias, had fought in the Yom Kippur war before studying theatre with Marcel Marceau and moving to Berlin. For him, Prachtsaal represented a deliberate site of cultural haunting and reclamation. His productions mingled Orthodox and liberal Jewish voices, Klezmer music, and the ghosts of his murdered family.
 
 When Lahav died in 2016, his tombstone in Weissensee read: “*He did not die of boredom.*” It’s hard to imagine a better epitaph for a man, or a building, that has been so intimately intertwined with Berlin’s rhythm—sometimes elegant, sometimes hard, never dull.
 
-{{ figure(src="./prachtsaal-dancehall.webp", title="Prachtsaal in a former age") }}
+{{ <figure src="./prachtsaal-dancehall.webp" title="Prachtsaal in a former age" /> }}
 
 Today, Prachtsaal holds all those stories without getting stuck in the past. It’s a space shaped by people who keep showing up, evolving it, and making sure it stays alive and relevant.
 
