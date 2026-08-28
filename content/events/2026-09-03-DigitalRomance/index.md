@@ -1,0 +1,162 @@
++++
+title = 'Exhibition "Digital Romance"'
+
+[extra]
+archive = true
+frontpage = true
+subtitle = 'Berlin New Media Week'
+description = 'Prachtsaal presents the exhibition "Digital Romance" for Berlin New Media Week 2026: immersive media, performances, creative coding and playful installations.'
+date = 2026-09-03
+endDate = 2026-09-06
+tags = ['exhibition', 'events']
++++
+
+Prachtsaal is once again an official venue of the [Berlin New Media Week](https://berlinnewmediaweek.com/en), a citywide festival of digital art, audiovisual performance and electronic music.
+
+For the 2026 edition we present **"Digital Romance"**: immersive media, performances, creative coding and playful installations, bringing together a studio residents exhibition with a program of live, audio-visual and performance-based works by resident and invited artists.
+
+**Thursday 3 – Sunday 6 September 2026, daily 16.00–22.00, at Prachtsaal Studio, Jonasstraße 22, 12053 Berlin.**
+
+## Program
+
+**Thursday 03.09** — Vernissage  
+**Friday 04.09** — Creative Code Stammtisch  
+**Saturday 05.09** — TouchDesigner FLINTA* Hangout (14.00–17.00) + Performances  
+**Sunday 06.09** — Performances
+
+Open daily, **16.00–22.00**.
+
+## Performers
+
+### Sanki — *Signal*
+
+![](sanki-live.webp)
+
+Sanki is a London-based sound and interdisciplinary artist whose practice spans installation, digital media, generative composition, and performance. She weaves sound, visual, and spatial experience to create immersive atmospheres that invite audiences to explore the intersections of sensation and existence.
+
+*Signal* is a live audiovisual performance centred around water, resonance, and unstable signal transformation. A small illuminated water tank functions as both instrument and interface: ripples, bubbles, colour, light, and surface disturbances are captured in real time and translated into sound processes through camera-based analysis and Max/MSP.
+
+[@sankiiya02](https://www.instagram.com/sankiiya02/)
+
+### Gold Kim (TSE) — live coding performance
+
+![](gold-kim.webp)
+
+Gold Davin Kim is an artist whose practice centres on listening and writing as ways of exploring invisible connections between human existence and the world. Through the collection and translation of sound into language — and back into sound, image, and performance — they investigate intersections of sensation, memory, and emotion.
+
+This performance transforms the act of live coding itself into a performative experience. Rather than presenting finished compositions, the audience witnesses music being created in real time — mistakes, debugging and improvisation become visible, creative material.
+
+[@thereddot](https://www.instagram.com/thereddot.jpg/)
+
+### Odd Sonorous — *Ode to Sorikkot* (소리꽃을 위한 서정시)
+
+![](odd-sonorous-1.webp)
+
+Odd Sonorous is an artist collective founded in Berlin in 2021 by Anna Phaenarete Lioka and Hyewon Suk. Their practice explores the ecological and material dimensions of sound, rethinking the relationships between subject and object, nature and culture, and human and non-human worlds.
+
+*Ode to Sorikkot* is a live audiovisual performance that unfolds as a poetic ritual of collective listening, imagining a time when plants and humans existed in mutual attunement. The performers are seated within a circular installation of soil, plants and embedded loudspeakers, drawing environmental data gathered in real time from the surrounding urban landscape of Berlin into an evolving sonic ecosystem.
+
+[@oddsonorous](https://www.instagram.com/oddsonorous/)
+
+### AVHS & Ones. — audiovisual performance
+
+![](avhs-ones-still.webp)
+
+AVHS is a Berlin-based generative visual artist and VJ who transforms music into vibrant, interactive visuals, embracing playful tools — from Xbox controllers to drawing pads — with a sense of joy and experimentation. In July 2024 she founded the TouchDesigner Hang-Outs, a community she now co-hosts with her friend Francesco.
+
+Ones. is a Berlin-based DJ, live act, and co-founder of TMN TRAX, weaving Detroit house with UK garage through a consistent, minimalist lens.
+
+Together, AVHS and Ones. explore how the dynamic ranges of video and sound affect the recipients' emotions and body feelings — fun, weird, and a little bit trippy.
+
+[@avhs.lindaannanic](https://www.instagram.com/avhs.lindaannanic/) · [@ones.rec](https://www.instagram.com/ones.rec/)
+
+### soon~ — *FLÂNEUR*
+
+![](soon-flaneur.webp)
+
+*FLÂNEUR* is a performance of aimless wandering: a psychogeographic poem, chaotically typed over layers of GLSL shaders and a shimmering background of a city in Google Street View. Live coding and partially improvised poetry combine with a crowdsourced soundscape and algorithmic visuals — with the geo-located soundscape drawn in real time from the Freesound.org database.
+
+[fiala.space](https://www.fiala.space/)
+
+### Decurus — *Reality_v2*
+
+![](decurus-performance.webp)
+
+*Reality_v2* is an audio-visual performance built around four SN76477 sound-generator chips — one of the most advanced synthesisers of its time, combining digital circuitry for sound synthesis with analog circuitry for control. These early hybrid chips form the centrepiece of an analog-digital performance whose visuals are programmed in TouchDesigner, taking the audience on a journey that ends in the purest, most undefined form of everything: noise.
+
+[@decurus_](https://www.instagram.com/decurus_/)
+
+### Sebastian Carrizosa & Federico Torres — *[ˈmɛmᵊri]*
+
+![](sebastian-federico.webp)
+
+*[ˈmɛmᵊri]* is an audiovisual project by Latin American artists currently based in Berlin, seeking to preserve and reactivate the cultural memory of Mexico and Colombia through a sensory experience that integrates sound and image. Stemming from the migrant experience of its creators, the project builds a bridge between the territories of origin and the European space from which it is produced.
+
+[@elfedete](https://www.instagram.com/elfedete/) · [@_carrimusic](https://www.instagram.com/_carrimusic/)
+
+### Lucas Kuzma
+
+![](lucas-kuzma.webp)
+
+Lucas Kuzma is a Berlin-based musician, software developer, and researcher. He has performed and released electronic music as Claus Muzak since the 1990s, much of it on his own Philtre Com label, and builds the instruments he plays. Through The Strange Agency he built a family of touch-based granular synthesizers for iOS — Curtis, MegaCurtis, Soup, Open Granular — presented at venues including Stanford's CCRMA.
+
+His recent work turns neural networks into musical agents: *Small Network* evolved a 256-neuron spiking network into a compositional engine, released as the album *Sonic Mandala*, while *Folded Bodies* (ICCC 2026) is an audiovisual instrument whose performer sculpts a spiking network by folding the geometry it lives on.
+
+[@the.strange.agency](https://www.instagram.com/the.strange.agency/)
+
+### Elisa Visca — *205B*
+
+![](elisa-visca-flute.webp)
+
+Elisa Visca is an Italian-born, Berlin-based artist working in multimedia art, video production, and AV performance. At the intersection of music and visual art, she combines live visuals, DIY instruments, modular synthesizer systems, and flute into multilayered audiovisual compositions exploring emergence, transformation, and the interplay between human and technological systems.
+
+[@elis.avisca](https://www.instagram.com/elis.avisca/)
+
+## Exhibition
+
+Alongside the performance program, the studio exhibition features work by:
+
+Anika Krbetschek  
+Sin Seeni  
+Gabriela Monica Tirziu  
+MechBullRodeo  
+Hoin Ji  
+zillion  
+Ala Leresteux  
+Gabriel Jeanjean  
+Abe Pazos Solatie  
+Ce  
+Gabor Ugray  
+Luna Nane  
+Marta Muschietti  
+Michelle Meissner
+
+## Reels
+
+A few glimpses of what's coming — check out the artists above and follow along with the full [Berlin New Media Week](https://berlinnewmediaweek.com/en) program via [@berlinnewmediaweek](https://www.instagram.com/berlinnewmediaweek/), or come find us at the venue via [@prachtsaal](https://instagram.com/prachtsaal).
+
+<div style="display:flex;flex-wrap:wrap;gap:1.5rem;justify-content:center;">
+
+<div style="max-width:340px;flex:1 1 260px;">
+<iframe src="https://www.instagram.com/reel/DcZOtIwNc96/embed" style="width:100%;aspect-ratio:5/6;" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<p style="text-align:center;">The official program flyer.</p>
+</div>
+
+<div style="max-width:340px;flex:1 1 260px;">
+<iframe src="https://www.instagram.com/reel/DcROMNAt7R0/embed" style="width:100%;aspect-ratio:5/6;" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<p style="text-align:center;">Berlin New Media Week, 2 – 6 September.</p>
+</div>
+
+<div style="max-width:340px;flex:1 1 260px;">
+<iframe src="https://www.instagram.com/reel/DcBg3cuhf27/embed" style="width:100%;aspect-ratio:5/6;" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<p style="text-align:center;">The TouchDesigner FLINTA* Hangout, Saturday 05.09, 14.00–17.00 — a happening for FLINTA* identifying people during Berlin New Media Week.</p>
+</div>
+
+</div>
+
+## Opening hours
+
+Thursday 3 to Sunday 6 September, **16.00–22.00**  
+Jonasstraße 22, 12053 Berlin
+
+Full festival program at [berlinnewmediaweek.com](https://berlinnewmediaweek.com/en).
