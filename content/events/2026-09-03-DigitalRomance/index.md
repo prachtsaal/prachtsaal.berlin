@@ -17,16 +17,39 @@ For the 2026 edition we present **"Digital Romance"**: immersive media, performa
 
 **Thursday 3 – Sunday 6 September 2026, daily 16.00–22.00, at Prachtsaal Studio, Jonasstraße 22, 12053 Berlin.**
 
+Open to the public — no ticket needed, no entry fee. Feel free to invite whoever you'd like!
+
 ## Program
 
-**Thursday 03.09** — Vernissage  
-**Friday 04.09** — Creative Code Stammtisch  
-**Saturday 05.09** — TouchDesigner FLINTA* Hangout (14.00–17.00) + Performances  
-**Sunday 06.09** — Performances
+**Thursday 03.09 — Vernissage / Opening Evening**  
+19.00 — performance by Elisa Visca
 
-Open daily, **16.00–22.00**.
+**Friday 04.09**  
+19.30 — Creative Code Meetup
+
+**Saturday 05.09**  
+14.00–16.00 — FLINTA* TouchDesigner Meetup  
+18.00 — Sanki — *Signal*  
+19.00 — Gold Kim — *Live Coding and Music*  
+20.00 — Odd Sonorous — *Ode to Sorikkot* (소리꽃을 위한 서정시)
+
+**Sunday 06.09**  
+17.00 — Decurus — *Reality_v2*  
+18.00 — soon~ — *FLÂNEUR*  
+19.00 — AVHS & Ones. — *Walk with me, talk to me*  
+20.00 — Sebastian Carrizosa & Federico Torres — *Scenes of a Memory*
 
 ## Performers
+
+### Elisa Visca — *205B*
+
+![](elisa-visca-flute.webp)
+
+Elisa Visca is an Italian-born, Berlin-based artist working in multimedia art, video production, and AV performance. At the intersection of music and visual art, she combines live visuals, DIY instruments, modular synthesizer systems, and flute into multilayered audiovisual compositions exploring emergence, transformation, and the interplay between human and technological systems.
+
+**Thursday 03.09, 19.00**
+
+[@elis.avisca](https://www.instagram.com/elis.avisca/)
 
 ### Sanki — *Signal*
 
@@ -36,15 +59,19 @@ Sanki is a London-based sound and interdisciplinary artist whose practice spans 
 
 *Signal* is a live audiovisual performance centred around water, resonance, and unstable signal transformation. A small illuminated water tank functions as both instrument and interface: ripples, bubbles, colour, light, and surface disturbances are captured in real time and translated into sound processes through camera-based analysis and Max/MSP.
 
+**Saturday 05.09, 18.00**
+
 [@sankiiya02](https://www.instagram.com/sankiiya02/)
 
-### Gold Kim (TSE) — live coding performance
+### Gold Kim (TSE) — *Live Coding and Music*
 
 ![](gold-kim.webp)
 
 Gold Davin Kim is an artist whose practice centres on listening and writing as ways of exploring invisible connections between human existence and the world. Through the collection and translation of sound into language — and back into sound, image, and performance — they investigate intersections of sensation, memory, and emotion.
 
 This performance transforms the act of live coding itself into a performative experience. Rather than presenting finished compositions, the audience witnesses music being created in real time — mistakes, debugging and improvisation become visible, creative material.
+
+**Saturday 05.09, 19.00**
 
 [@thereddot](https://www.instagram.com/thereddot.jpg/)
 
@@ -56,9 +83,31 @@ Odd Sonorous is an artist collective founded in Berlin in 2021 by Anna Phaenaret
 
 *Ode to Sorikkot* is a live audiovisual performance that unfolds as a poetic ritual of collective listening, imagining a time when plants and humans existed in mutual attunement. The performers are seated within a circular installation of soil, plants and embedded loudspeakers, drawing environmental data gathered in real time from the surrounding urban landscape of Berlin into an evolving sonic ecosystem.
 
+**Saturday 05.09, 20.00**
+
 [@oddsonorous](https://www.instagram.com/oddsonorous/)
 
-### AVHS & Ones. — audiovisual performance
+### Decurus — *Reality_v2*
+
+![](decurus-performance.webp)
+
+*Reality_v2* is an audio-visual performance built around four SN76477 sound-generator chips — one of the most advanced synthesisers of its time, combining digital circuitry for sound synthesis with analog circuitry for control. These early hybrid chips form the centrepiece of an analog-digital performance whose visuals are programmed in TouchDesigner, taking the audience on a journey that ends in the purest, most undefined form of everything: noise.
+
+**Sunday 06.09, 17.00**
+
+[@decurus_](https://www.instagram.com/decurus_/)
+
+### soon~ — *FLÂNEUR*
+
+![](soon-flaneur.webp)
+
+*FLÂNEUR* is a performance of aimless wandering: a psychogeographic poem, chaotically typed over layers of GLSL shaders and a shimmering background of a city in Google Street View. Live coding and partially improvised poetry combine with a crowdsourced soundscape and algorithmic visuals — with the geo-located soundscape drawn in real time from the Freesound.org database.
+
+**Sunday 06.09, 18.00**
+
+[fiala.space](https://www.fiala.space/)
+
+### AVHS & Ones. — *Walk with me, talk to me*
 
 ![](avhs-ones-still.webp)
 
@@ -68,29 +117,17 @@ Ones. is a Berlin-based DJ, live act, and co-founder of TMN TRAX, weaving Detroi
 
 Together, AVHS and Ones. explore how the dynamic ranges of video and sound affect the recipients' emotions and body feelings — fun, weird, and a little bit trippy.
 
+**Sunday 06.09, 19.00**
+
 [@avhs.lindaannanic](https://www.instagram.com/avhs.lindaannanic/) · [@ones.rec](https://www.instagram.com/ones.rec/)
 
-### soon~ — *FLÂNEUR*
-
-![](soon-flaneur.webp)
-
-*FLÂNEUR* is a performance of aimless wandering: a psychogeographic poem, chaotically typed over layers of GLSL shaders and a shimmering background of a city in Google Street View. Live coding and partially improvised poetry combine with a crowdsourced soundscape and algorithmic visuals — with the geo-located soundscape drawn in real time from the Freesound.org database.
-
-[fiala.space](https://www.fiala.space/)
-
-### Decurus — *Reality_v2*
-
-![](decurus-performance.webp)
-
-*Reality_v2* is an audio-visual performance built around four SN76477 sound-generator chips — one of the most advanced synthesisers of its time, combining digital circuitry for sound synthesis with analog circuitry for control. These early hybrid chips form the centrepiece of an analog-digital performance whose visuals are programmed in TouchDesigner, taking the audience on a journey that ends in the purest, most undefined form of everything: noise.
-
-[@decurus_](https://www.instagram.com/decurus_/)
-
-### Sebastian Carrizosa & Federico Torres — *[ˈmɛmᵊri]*
+### Sebastian Carrizosa & Federico Torres — *Scenes of a Memory* ([ˈmɛmᵊri])
 
 ![](sebastian-federico.webp)
 
 *[ˈmɛmᵊri]* is an audiovisual project by Latin American artists currently based in Berlin, seeking to preserve and reactivate the cultural memory of Mexico and Colombia through a sensory experience that integrates sound and image. Stemming from the migrant experience of its creators, the project builds a bridge between the territories of origin and the European space from which it is produced.
+
+**Sunday 06.09, 20.00**
 
 [@elfedete](https://www.instagram.com/elfedete/) · [@_carrimusic](https://www.instagram.com/_carrimusic/)
 
@@ -103,14 +140,6 @@ Lucas Kuzma is a Berlin-based musician, software developer, and researcher. He h
 His recent work turns neural networks into musical agents: *Small Network* evolved a 256-neuron spiking network into a compositional engine, released as the album *Sonic Mandala*, while *Folded Bodies* (ICCC 2026) is an audiovisual instrument whose performer sculpts a spiking network by folding the geometry it lives on.
 
 [@the.strange.agency](https://www.instagram.com/the.strange.agency/)
-
-### Elisa Visca — *205B*
-
-![](elisa-visca-flute.webp)
-
-Elisa Visca is an Italian-born, Berlin-based artist working in multimedia art, video production, and AV performance. At the intersection of music and visual art, she combines live visuals, DIY instruments, modular synthesizer systems, and flute into multilayered audiovisual compositions exploring emergence, transformation, and the interplay between human and technological systems.
-
-[@elis.avisca](https://www.instagram.com/elis.avisca/)
 
 ## Exhibition
 
@@ -149,7 +178,7 @@ A few glimpses of what's coming — check out the artists above and follow along
 
 <div style="max-width:340px;flex:1 1 260px;">
 <iframe src="https://www.instagram.com/reel/DcBg3cuhf27/embed" style="width:100%;aspect-ratio:5/6;" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-<p style="text-align:center;">The TouchDesigner FLINTA* Hangout, Saturday 05.09, 14.00–17.00 — a happening for FLINTA* identifying people during Berlin New Media Week.</p>
+<p style="text-align:center;">The FLINTA* TouchDesigner Meetup, Saturday 05.09, 14.00–16.00 — a happening for FLINTA* identifying people during Berlin New Media Week.</p>
 </div>
 
 </div>
