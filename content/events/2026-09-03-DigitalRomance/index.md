@@ -145,20 +145,67 @@ His recent work turns neural networks into musical agents: *Small Network* evolv
 
 Alongside the performance program, the studio exhibition features work by:
 
-Anika Krbetschek  
-Sin Seeni  
-Gabriela Monica Tirziu  
-MechBullRodeo  
-Hoin Ji  
-zillion  
-Ala Leresteux  
-Gabriel Jeanjean  
-Abe Pazos Solatie  
-Ce  
-Gabor Ugray  
-Luna Nane  
-Marta Muschietti  
-Michelle Meissner
+### Anika Krbetschek
+
+![](anika-krbetschek.webp)
+
+Anika Krbetschek (b. 1997, Berlin) is an interdisciplinary artist, curator, writer, and cultural practitioner with work moving across sound, text, film, performance and curatorial formats, grounded in a listening–distilling practice: a way of working that stays close to lived experience while researching along memory, trauma, resilience and the political conditions inscribed.
+
+[@anikakrb.art](https://www.instagram.com/anikakrb.art/)
+
+### Sin Seeni
+
+![](sin-seeni.webp)
+
+Sin Seeni is an Iranian multidisciplinary artist living and working in Berlin. His works are often multilayered and incorporate various combinations of media, aiming to convey conceptual ideas through linguistic concepts. His works sit somewhere between text and voice, meaning and misreading, structure and collapse, translation and distortion; he puts language under pressure until it reveals its mechanics.
+
+[@sinseeni](https://www.instagram.com/sinseeni/)
+
+### Gabriela Monica Tirziu
+
+![](gabriela-monica-tirziu.webp)
+
+Gabriela Monica Tirziu (b. 1998, Alba Iulia, Romania) is a Berlin-based visual artist whose practice explores the unstable relationships between perception, language, and context. Her work investigates how meaning is constructed and shifted through the ways in which image and text shape, activate, and unsettle one another.
+
+Portrait by Diana Paun, [@didielenaa](https://www.instagram.com/didielenaa/).
+
+[@gabrielamonicatirziu](https://www.instagram.com/gabrielamonicatirziu/)
+
+### MechBullRodeo
+
+![](mechbullrodeo.webp)
+
+MechBullRodeo is a digital artist working at the intersection of virtual and physical exploration. Their practice moves between screen-based works and installations, where digital systems are often extended into tangible space, creating perceptual instability — situations in which what is seen, understood, or expected begins to shift. Color plays a central role in this process: it can attract and engage, yet also become disorienting, eerie, or emotionally charged.
+
+[@mechbull_rodeo](https://www.instagram.com/mechbull_rodeo/)
+
+### Hoin Ji
+
+![](hoin-ji.webp)
+
+Hoin Ji is an interdisciplinary artist based in Berlin and Seoul, working across sound, media installation, moving image, and sculptural objects. His practice examines how authority becomes embedded in familiar forms, institutional procedures, and clichés — approaching cliché as a language that conforms to power, absorbs its logic, and makes that logic appear natural.
+
+[@hoinji](https://www.instagram.com/hoinji/)
+
+### zillion
+
+![](zillion.webp)
+
+zillion is a mixed media artist living and working in Berlin. Through hi-, low- and non-technology — CGI software, game engines, film, sound design and painting — they research the interconnectedness of society, spirituality, technology and all things alien through a queer-feminist perspective, constructing immersive worlds that imagine alternative futures.
+
+### Ala Leresteux
+
+![](ala-leresteux.webp)
+
+Ala Leresteux is an interdisciplinary artist and curator whose work explores the intersection of contemporary art, science, and immersive technologies. Through participatory installations and virtual reality, she creates experiences that invite audiences to reflect on perception, consciousness, and the human condition.
+
+[@alaleresteux](https://instagram.com/alaleresteux/)
+
+### Gabriel Jeanjean
+
+Gabriel Jeanjean is a multidisciplinary artist whose work bridges contemporary art, storytelling and technology, integrating design, digital media, animation, and curatorial projects, with non-linear storytelling and performative objects. Exhibiting internationally at venues such as Ostermin (Berlin), Le K.A.B (Paris), and MATCA Artspace (Cluj-Napoca), Gabriel has also collaborated on experimental video projects and curated collective exhibitions at spaces like KALT (Strasbourg).
+
+Also featuring work by Abe Pazos Solatie, Ce, Gabor Ugray, Luna Nane, Marta Muschietti and Michelle Meissner.
 
 ## Further Links
 
