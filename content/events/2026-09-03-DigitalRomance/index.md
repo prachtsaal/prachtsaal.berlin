@@ -131,7 +131,7 @@ Luna Nane
 Marta Muschietti  
 Michelle Meissner
 
-## Reels
+## Further Links
 
 A few glimpses of what's coming — check out the artists above and follow along with the full [Berlin New Media Week](https://berlinnewmediaweek.com/en) program via [@berlinnewmediaweek](https://www.instagram.com/berlinnewmediaweek/), or come find us at the venue via [@prachtsaal](https://instagram.com/prachtsaal).
 
