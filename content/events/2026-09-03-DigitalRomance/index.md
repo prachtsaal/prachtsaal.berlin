@@ -205,14 +205,19 @@ Ala Leresteux is an interdisciplinary artist and curator whose work explores the
 
 Gabriel Jeanjean is a multidisciplinary artist whose work bridges contemporary art, storytelling and technology, integrating design, digital media, animation, and curatorial projects, with non-linear storytelling and performative objects. Exhibiting internationally at venues such as Ostermin (Berlin), Le K.A.B (Paris), and MATCA Artspace (Cluj-Napoca), Gabriel has also collaborated on experimental video projects and curated collective exhibitions at spaces like KALT (Strasbourg).
 
-With exhibits by
+### With exhibits by
 
-**[Abe Pazos Solatie](@/members/abe-pazos-solatie/index.md)**  
-**Ce**  
-**[Gabor Ugray](@/members/gabor-ugray/index.md)**  
-**[Luna Nane](@/members/luna-nane/index.md)**  
-**[Marta Muschietti](@/members/marta-muschietti/index.md)**  
-**[Michelle Meissner](@/members/michelle-meissner/index.md)**
+#### [Abe Pazos Solatie](@/members/abe-pazos-solatie/index.md)
+
+#### [Ce](https://iivi.co/)
+
+#### [Gabor Ugray](@/members/gabor-ugray/index.md)
+
+#### [Luna Nane](@/members/luna-nane/index.md)
+
+#### [Marta Muschietti](@/members/marta-muschietti/index.md)
+
+#### [Michelle Meissner](@/members/michelle-meissner/index.md)
 
 ## Further Links
 
