@@ -205,9 +205,18 @@ Ala Leresteux is an interdisciplinary artist and curator whose work explores the
 
 Gabriel Jeanjean is a multidisciplinary artist whose work bridges contemporary art, storytelling and technology, integrating design, digital media, animation, and curatorial projects, with non-linear storytelling and performative objects. Exhibiting internationally at venues such as Ostermin (Berlin), Le K.A.B (Paris), and MATCA Artspace (Cluj-Napoca), Gabriel has also collaborated on experimental video projects and curated collective exhibitions at spaces like KALT (Strasbourg).
 
+### Abe Pazos Solatie
+
+![](abe-pazos-pen-plotting.webp)
+
+Abe Pazos Solatie (b. 1975, Helsinki) is an artist who writes computer code to generate still, animated and interactive audiovisual works. He explores the connections between nature and algorithms by creating slow, organic, growing and decaying visuals. He has a computer science and interactive design background, is a passionate contributor to free, open-source software for the arts and performs live visuals.
+
+During "Digital Romance" Abe will perform live-coding sessions transforming visitor's own photos and short texts into unique pen-plotted postcards.                                                           
+
+[hamoid.com](https://hamoid.com)
+
 ### With exhibits by
 
-#### [Abe Pazos Solatie](@/members/abe-pazos-solatie/index.md)
 
 #### [Ce](https://iivi.co/)
 
