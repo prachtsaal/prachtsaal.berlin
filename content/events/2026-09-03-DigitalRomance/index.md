@@ -11,9 +11,9 @@ endDate = 2026-09-06
 tags = ['exhibition', 'events']
 +++
 
-Prachtsaal is once again an official venue of the [Berlin New Media Week](https://berlinnewmediaweek.com/en), a citywide festival of digital art, audiovisual performance and electronic music.
+Prachtsaal Studio is thrilled to invite you to **Digital Romance**, an exhibition uniting several artistic positions and opening as part of [Berlin New Media Week](https://berlinnewmediaweek.com/en).
 
-For the 2026 edition we present **"Digital Romance"**: immersive media, performances, creative coding and playful installations, bringing together a studio residents exhibition with a program of live, audio-visual and performance-based works by resident and invited artists.
+A screen glows in a dark room: is it a window, a frame, an image? Somewhere, someone is swiping through faces, profiles, fragments, symbols and signs in a sisyphean search for meaning. Image and text intertwine into a single shapeshifting entity, rendered, rather than engraved. The screen displays an instant communion of pixels generated at a moment's notice, re-encoding itself perpetually.
 
 **Thursday 3 – Sunday 6 September 2026, daily 16.00–22.00, at Prachtsaal Studio, Jonasstraße 22, 12053 Berlin.**
 
@@ -37,7 +37,7 @@ Open to the public — no ticket needed, no entry fee. Feel free to invite whoev
 17.00 — Decurus — *Reality_v2*  
 18.00 — soon~ — *FLÂNEUR*  
 19.00 — AVHS & Ones. — *Walk with me, talk to me*  
-20.00 — Sebastian Carrizosa & Federico Torres — *Scenes of a Memory*
+20.00 — Sebastian Carrizosa & Fernando Torres — *Scenes of a Memory*
 
 ## Performers
 
@@ -121,7 +121,7 @@ Together, AVHS and Ones. explore how the dynamic ranges of video and sound affec
 
 [@avhs.lindaannanic](https://www.instagram.com/avhs.lindaannanic/) · [@ones.rec](https://www.instagram.com/ones.rec/)
 
-### Sebastian Carrizosa & Federico Torres — *Scenes of a Memory* ([ˈmɛmᵊri])
+### Sebastian Carrizosa & Fernando Torres — *Scenes of a Memory* ([ˈmɛmᵊri])
 
 ![](sebastian-federico.webp)
 
@@ -248,3 +248,8 @@ Thursday 3 to Sunday 6 September, **16.00–22.00**
 Jonasstraße 22, 12053 Berlin
 
 Full festival program at [berlinnewmediaweek.com](https://berlinnewmediaweek.com/en).
+
+## Curation
+
+[Michelle Meissner](@/members/michelle-meissner/index.md), [Gabriel Jeanjean](@/members/gabriel-jeanjean/index.md), Gabriela Tirziu, [Roberta Maddalena Bireau](@/members/roberta-maddalena-bireau/index.md)  
+for Prachtsaal Studio
