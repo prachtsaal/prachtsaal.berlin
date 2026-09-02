@@ -211,16 +211,24 @@ Gabriel Jeanjean is a multidisciplinary artist whose work bridges contemporary a
 
 Abe Pazos Solatie (b. 1975, Helsinki) is an artist who writes computer code to generate still, animated and interactive audiovisual works. He explores the connections between nature and algorithms by creating slow, organic, growing and decaying visuals. He has a computer science and interactive design background, is a passionate contributor to free, open-source software for the arts and performs live visuals.
 
-During "Digital Romance" Abe will perform live-coding sessions transforming visitor's own photos and short texts into unique pen-plotted postcards.                                                           
+During "Digital Romance" Abe will perform live-coding sessions transforming visitor's own photos and short texts into unique pen-plotted postcards.           
 
-[hamoid.com](https://hamoid.com)
+
+### Gábor Ugray
+
+![](gabor-ugray-beckoning-cats.webp)
+
+Gábor Ugray is a Berlin-based artist and computer toucher. His work straddles multiple formats such as generative pen plotter art, live-coded visuals, interactive installations and speculative electronics. He uses code as a creative medium to discover patterns, express emotions and reveal hidden power dynamics.
+
+_All Cats Are Beckoning_ is a swarm of seven maneki-nekos mediated by a data bus.
+
+[@gbrgnrt](https://instagram.com/gbrgnrt/)  
+[aka-gabor.xyz](https://aka-gabor.xyz)
 
 ### With exhibits by
 
 
 #### [Ce](https://iivi.co/)
-
-#### [Gabor Ugray](@/members/gabor-ugray/index.md)
 
 #### [Luna Nane](@/members/luna-nane/index.md)
 
