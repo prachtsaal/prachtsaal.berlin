@@ -32,9 +32,9 @@ To bring this vision to life, we:
 * Develop strategies for long-term financial sustainability.
 * Remain proudly and permanently non-profit.
 
-## Prachtsaal: A Cooperative in the Making
+## Prachtsaal: A non-profit Cooperative
 
-We’re in the process of becoming a registered non-profit cooperative (*gemeinnützige Genossenschaft*). This is a pivotal move that will deepen our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
+We’ve been registered as a non-profit association (*gemeinnütziger Verein*) since 2026. This pivotal move deepens our commitment to collective action and artistic experimentation. What began with ateliers and daily practice is evolving into a full-spectrum platform: concerts, performances, exhibitions, workshops, and a rotating gallery. This transformation isn’t about growth for its own sake. It’s about making room for activity, ideas, use, and joy.
 
 **Let’s reimagine the architecture of art and community together!**
 
